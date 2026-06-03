@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 1d27bf9b81350234a91da6f4f3834339
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6707112095588520901
+    second: 20251115necromancer3f_0
+  - first:
+      213: -4442910678466817051
+    second: 20251115necromancer3f_1
+  - first:
+      213: -5740163144916089382
+    second: 20251115necromancer3f_2
+  - first:
+      213: -7923709965631115063
+    second: 20251115necromancer3f_3
+  - first:
+      213: -2512026516694175985
+    second: 20251115necromancer3f_4
+  - first:
+      213: -2338000611770794752
+    second: 20251115necromancer3f_5
+  - first:
+      213: 7235730839124068933
+    second: 20251115necromancer3f_6
+  - first:
+      213: 5382412225135698181
+    second: 20251115necromancer3f_7
+  - first:
+      213: 3609023670421414014
+    second: 20251115necromancer3f_8
+  - first:
+      213: 6128154965356120835
+    second: 20251115necromancer3f_9
+  - first:
+      213: -692493372188568180
+    second: 20251115necromancer3f_10
+  - first:
+      213: 4434821638184479210
+    second: 20251115necromancer3f_11
+  - first:
+      213: -5032876246251940892
+    second: 20251115necromancer3f_12
+  - first:
+      213: -5812107607458822662
+    second: 20251115necromancer3f_13
+  - first:
+      213: -1973778571616105604
+    second: 20251115necromancer3f_14
+  - first:
+      213: -9083128777482524133
+    second: 20251115necromancer3f_15
+  - first:
+      213: 1074913026343241445
+    second: 20251115necromancer3f_16
+  - first:
+      213: -2886825247247605837
+    second: 20251115necromancer3f_17
+  - first:
+      213: -6874766784106398829
+    second: 20251115necromancer3f_18
+  - first:
+      213: 6560436184962865771
+    second: 20251115necromancer3f_19
+  - first:
+      213: 1697704607442696070
+    second: 20251115necromancer3f_20
+  - first:
+      213: -3567971143502607573
+    second: 20251115necromancer3f_21
+  - first:
+      213: -738718602964910616
+    second: 20251115necromancer3f_22
+  - first:
+      213: -1096940394076698323
+    second: 20251115necromancer3f_23
+  - first:
+      213: 6749778812106253233
+    second: 20251115necromancer3f_24
+  - first:
+      213: -2197985922025165704
+    second: 20251115necromancer3f_25
+  - first:
+      213: 2768377491022742684
+    second: 20251115necromancer3f_26
+  - first:
+      213: -6207137702683226847
+    second: 20251115necromancer3f_27
+  - first:
+      213: -714632736600363563
+    second: 20251115necromancer3f_28
+  - first:
+      213: -5796846428517933697
+    second: 20251115necromancer3f_29
+  - first:
+      213: -97274466219830159
+    second: 20251115necromancer3f_30
+  - first:
+      213: 5206993866679682144
+    second: 20251115necromancer3f_31
+  - first:
+      213: 7168623470614466485
+    second: 20251115necromancer3f_32
+  - first:
+      213: 6621379407163019666
+    second: 20251115necromancer3f_33
+  - first:
+      213: -1770531409462697957
+    second: 20251115necromancer3f_34
+  - first:
+      213: 1452514492625881474
+    second: 20251115necromancer3f_35
+  - first:
+      213: 6937414837496116232
+    second: 20251115necromancer3f_36
+  - first:
+      213: -6350623246141492738
+    second: 20251115necromancer3f_37
+  - first:
+      213: 2678707592138480037
+    second: 20251115necromancer3f_38
+  - first:
+      213: -5196126604481343990
+    second: 20251115necromancer3f_39
+  - first:
+      213: -7225990685763358365
+    second: 20251115necromancer3f_40
+  - first:
+      213: 5307960541661471470
+    second: 20251115necromancer3f_41
+  - first:
+      213: -5983437532053992179
+    second: 20251115necromancer3f_42
+  - first:
+      213: 205593275892032443
+    second: 20251115necromancer3f_43
+  - first:
+      213: -618156160649990054
+    second: 20251115necromancer3f_44
+  - first:
+      213: 5561979095002106222
+    second: 20251115necromancer3f_45
+  - first:
+      213: 8624825193368665949
+    second: 20251115necromancer3f_46
+  - first:
+      213: -6766330176939825183
+    second: 20251115necromancer3f_47
+  - first:
+      213: 8196470588364780622
+    second: 20251115necromancer3f_48
+  - first:
+      213: 7323021443302494317
+    second: 20251115necromancer3f_49
+  - first:
+      213: 943121571144888349
+    second: 20251115necromancer3f_50
+  - first:
+      213: -2380732185019213075
+    second: 20251115necromancer3f_51
+  - first:
+      213: 2755202575914538042
+    second: 20251115necromancer3f_52
+  - first:
+      213: -9004875868369516881
+    second: 20251115necromancer3f_53
+  - first:
+      213: 5859360455707406939
+    second: 20251115necromancer3f_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115necromancer3f_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 370
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c68b9b51d8be2a0800000000000000
+      internalID: -6707112095588520901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 370
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e31239074c9752c0800000000000000
+      internalID: -4442910678466817051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 370
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5cc7a4808d650b0800000000000000
+      internalID: -5740163144916089382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 370
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0b55394c3590290800000000000000
+      internalID: -7923709965631115063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 370
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fe41e313d732dd0800000000000000
+      internalID: -2512026516694175985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 370
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d71c2b4d0cd8fd0800000000000000
+      internalID: -2338000611770794752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 370
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a44549cda7a6460800000000000000
+      internalID: 7235730839124068933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 370
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501eee9c66b22ba40800000000000000
+      internalID: 5382412225135698181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 370
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70e17528e3d51230800000000000000
+      internalID: 3609023670421414014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 298
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b099ef8749b0550800000000000000
+      internalID: 6128154965356120835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 298
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85536d62f4c366f0800000000000000
+      internalID: -692493372188568180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 298
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9a33288c6ab8d30800000000000000
+      internalID: 4434821638184479210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_12
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 298
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d6a728b1a72ab0800000000000000
+      internalID: -5032876246251940892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 298
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af54215ccee375fa0800000000000000
+      internalID: -5812107607458822662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_14
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 298
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b4b8db8dabb94e0800000000000000
+      internalID: -1973778571616105604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 298
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa609508e32f180800000000000000
+      internalID: -9083128777482524133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 298
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e601abc3bbdaee00800000000000000
+      internalID: 1074913026343241445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 298
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf5d219bbfefe7d0800000000000000
+      internalID: -2886825247247605837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 226
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bfeafa80ce790a0800000000000000
+      internalID: -6874766784106398829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 226
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a945893f95b0b50800000000000000
+      internalID: 6560436184962865771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 226
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6877a2c78557f8710800000000000000
+      internalID: 1697704607442696070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 226
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bceae16250c7ec0800000000000000
+      internalID: -3567971143502607573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 226
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edbd41385b8fb5f0800000000000000
+      internalID: -738718602964910616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 226
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29084ff582e6c0f0800000000000000
+      internalID: -1096940394076698323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_24
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 224
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b32d0851180cad50800000000000000
+      internalID: 6749778812106253233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 224
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6168037f2f71e0800000000000000
+      internalID: -2197985922025165704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 224
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94099c19a04b6620800000000000000
+      internalID: 2768377491022742684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dc1af6521dbd9a0800000000000000
+      internalID: -6207137702683226847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde116ff4d1516f0800000000000000
+      internalID: -714632736600363563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 154
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d52b2e2e67d8fa0800000000000000
+      internalID: -5796846428517933697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 154
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174504b636966aef0800000000000000
+      internalID: -97274466219830159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 154
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064841b7555f24840800000000000000
+      internalID: 5206993866679682144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 154
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfc086c0111c7360800000000000000
+      internalID: 7168623470614466485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_33
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 152
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291d90f3d7dd3eb50800000000000000
+      internalID: 6621379407163019666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 152
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ed43501fcd67e0800000000000000
+      internalID: -1770531409462697957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 152
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289821c3c3e582410800000000000000
+      internalID: 1452514492625881474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 82
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804fa78e906a64060800000000000000
+      internalID: 6937414837496116232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 115
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1f56ffdcd0ed7a0800000000000000
+      internalID: -6350623246141492738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95e86dc5eac2520800000000000000
+      internalID: 2678707592138480037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eceeb2266a3e7b0800000000000000
+      internalID: -5196126604481343990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 82
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613bc891cf18bb90800000000000000
+      internalID: -7225990685763358365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 82
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a5876df9a9a940800000000000000
+      internalID: 5307960541661471470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_42
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 82
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d8e26244f86fca0800000000000000
+      internalID: -5983437532053992179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 80
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3e0c1cef96ad200800000000000000
+      internalID: 205593275892032443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 80
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50fcbc3f3edb67f0800000000000000
+      internalID: -618156160649990054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_45
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 80
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69cfbda48e103d40800000000000000
+      internalID: 5561979095002106222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f349c21d881b770800000000000000
+      internalID: 8624825193368665949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 10
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7ee7abd8a2912a0800000000000000
+      internalID: -6766330176939825183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 10
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e447b67c296bfb170800000000000000
+      internalID: 8196470588364780622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601d92243990a560800000000000000
+      internalID: 7323021443302494317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_50
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 10
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1079147214a61d00800000000000000
+      internalID: 943121571144888349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_51
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea179ef0b0f5fed0800000000000000
+      internalID: -2380732185019213075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3490a525227c3620800000000000000
+      internalID: 2755202575914538042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_53
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 8
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6095b8b11480380800000000000000
+      internalID: -9004875868369516881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115necromancer3f_54
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 8
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52396d4a41a05150800000000000000
+      internalID: 5859360455707406939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115necromancer3f_0: -6707112095588520901
+      20251115necromancer3f_1: -4442910678466817051
+      20251115necromancer3f_10: -692493372188568180
+      20251115necromancer3f_11: 4434821638184479210
+      20251115necromancer3f_12: -5032876246251940892
+      20251115necromancer3f_13: -5812107607458822662
+      20251115necromancer3f_14: -1973778571616105604
+      20251115necromancer3f_15: -9083128777482524133
+      20251115necromancer3f_16: 1074913026343241445
+      20251115necromancer3f_17: -2886825247247605837
+      20251115necromancer3f_18: -6874766784106398829
+      20251115necromancer3f_19: 6560436184962865771
+      20251115necromancer3f_2: -5740163144916089382
+      20251115necromancer3f_20: 1697704607442696070
+      20251115necromancer3f_21: -3567971143502607573
+      20251115necromancer3f_22: -738718602964910616
+      20251115necromancer3f_23: -1096940394076698323
+      20251115necromancer3f_24: 6749778812106253233
+      20251115necromancer3f_25: -2197985922025165704
+      20251115necromancer3f_26: 2768377491022742684
+      20251115necromancer3f_27: -6207137702683226847
+      20251115necromancer3f_28: -714632736600363563
+      20251115necromancer3f_29: -5796846428517933697
+      20251115necromancer3f_3: -7923709965631115063
+      20251115necromancer3f_30: -97274466219830159
+      20251115necromancer3f_31: 5206993866679682144
+      20251115necromancer3f_32: 7168623470614466485
+      20251115necromancer3f_33: 6621379407163019666
+      20251115necromancer3f_34: -1770531409462697957
+      20251115necromancer3f_35: 1452514492625881474
+      20251115necromancer3f_36: 6937414837496116232
+      20251115necromancer3f_37: -6350623246141492738
+      20251115necromancer3f_38: 2678707592138480037
+      20251115necromancer3f_39: -5196126604481343990
+      20251115necromancer3f_4: -2512026516694175985
+      20251115necromancer3f_40: -7225990685763358365
+      20251115necromancer3f_41: 5307960541661471470
+      20251115necromancer3f_42: -5983437532053992179
+      20251115necromancer3f_43: 205593275892032443
+      20251115necromancer3f_44: -618156160649990054
+      20251115necromancer3f_45: 5561979095002106222
+      20251115necromancer3f_46: 8624825193368665949
+      20251115necromancer3f_47: -6766330176939825183
+      20251115necromancer3f_48: 8196470588364780622
+      20251115necromancer3f_49: 7323021443302494317
+      20251115necromancer3f_5: -2338000611770794752
+      20251115necromancer3f_50: 943121571144888349
+      20251115necromancer3f_51: -2380732185019213075
+      20251115necromancer3f_52: 2755202575914538042
+      20251115necromancer3f_53: -9004875868369516881
+      20251115necromancer3f_54: 5859360455707406939
+      20251115necromancer3f_6: 7235730839124068933
+      20251115necromancer3f_7: 5382412225135698181
+      20251115necromancer3f_8: 3609023670421414014
+      20251115necromancer3f_9: 6128154965356120835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

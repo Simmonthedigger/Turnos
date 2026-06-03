@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: a7b4ac124d5780844a32b796db806650
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4364224054020723698
+    second: 20221110bundleThunderFX-Sheet_0
+  - first:
+      213: 5541223557831344823
+    second: 20221110bundleThunderFX-Sheet_1
+  - first:
+      213: -3336037653746262696
+    second: 20221110bundleThunderFX-Sheet_2
+  - first:
+      213: 4672622992801035082
+    second: 20221110bundleThunderFX-Sheet_3
+  - first:
+      213: -5909652239972820130
+    second: 20221110bundleThunderFX-Sheet_4
+  - first:
+      213: 2793871681465081531
+    second: 20221110bundleThunderFX-Sheet_5
+  - first:
+      213: 4544773490027473863
+    second: 20221110bundleThunderFX-Sheet_6
+  - first:
+      213: -7478647661509717161
+    second: 20221110bundleThunderFX-Sheet_7
+  - first:
+      213: -4144924723183067707
+    second: 20221110bundleThunderFX-Sheet_8
+  - first:
+      213: 1047334898306497715
+    second: 20221110bundleThunderFX-Sheet_9
+  - first:
+      213: 8078371736200907094
+    second: 20221110bundleThunderFX-Sheet_10
+  - first:
+      213: -7014144525570532079
+    second: 20221110bundleThunderFX-Sheet_11
+  - first:
+      213: -981840695645561482
+    second: 20221110bundleThunderFX-Sheet_12
+  - first:
+      213: -2525092229357432366
+    second: 20221110bundleThunderFX-Sheet_13
+  - first:
+      213: -4279793842534479598
+    second: 20221110bundleThunderFX-Sheet_14
+  - first:
+      213: 1693464903986285077
+    second: 20221110bundleThunderFX-Sheet_15
+  - first:
+      213: -2273053055938535329
+    second: 20221110bundleThunderFX-Sheet_16
+  - first:
+      213: -2985274177621563955
+    second: 20221110bundleThunderFX-Sheet_17
+  - first:
+      213: -4968706621581550757
+    second: 20221110bundleThunderFX-Sheet_18
+  - first:
+      213: -8710998163116582674
+    second: 20221110bundleThunderFX-Sheet_19
+  - first:
+      213: -6374385955392606600
+    second: 20221110bundleThunderFX-Sheet_20
+  - first:
+      213: -1875522540335444991
+    second: 20221110bundleThunderFX-Sheet_21
+  - first:
+      213: -1554500830352586223
+    second: 20221110bundleThunderFX-Sheet_22
+  - first:
+      213: -657336206242821879
+    second: 20221110bundleThunderFX-Sheet_23
+  - first:
+      213: 1257801501439747875
+    second: 20221110bundleThunderFX-Sheet_24
+  - first:
+      213: -6177203549994055285
+    second: 20221110bundleThunderFX-Sheet_25
+  - first:
+      213: -1265085590930309609
+    second: 20221110bundleThunderFX-Sheet_26
+  - first:
+      213: -3276672920264913691
+    second: 20221110bundleThunderFX-Sheet_27
+  - first:
+      213: -220905669978394059
+    second: 20221110bundleThunderFX-Sheet_28
+  - first:
+      213: -964207877640469274
+    second: 20221110bundleThunderFX-Sheet_29
+  - first:
+      213: -3801473875612374944
+    second: 20221110bundleThunderFX-Sheet_30
+  - first:
+      213: -912896930412316523
+    second: 20221110bundleThunderFX-Sheet_31
+  - first:
+      213: -7078062373531366228
+    second: 20221110bundleThunderFX-Sheet_32
+  - first:
+      213: -6447034887822277504
+    second: 20221110bundleThunderFX-Sheet_33
+  - first:
+      213: 5495071370921527654
+    second: 20221110bundleThunderFX-Sheet_34
+  - first:
+      213: -3528901486233648175
+    second: 20221110bundleThunderFX-Sheet_35
+  - first:
+      213: -1763657584805452593
+    second: 20221110bundleThunderFX-Sheet_36
+  - first:
+      213: 7110758079705402803
+    second: 20221110bundleThunderFX-Sheet_37
+  - first:
+      213: -8719697738510053172
+    second: 20221110bundleThunderFX-Sheet_38
+  - first:
+      213: -3651795910297694395
+    second: 20221110bundleThunderFX-Sheet_39
+  - first:
+      213: -5036772711474226701
+    second: 20221110bundleThunderFX-Sheet_40
+  - first:
+      213: 1084944533718734105
+    second: 20221110bundleThunderFX-Sheet_41
+  - first:
+      213: 5151733072634038461
+    second: 20221110bundleThunderFX-Sheet_42
+  - first:
+      213: 5678549294710926830
+    second: 20221110bundleThunderFX-Sheet_43
+  - first:
+      213: 5060119526393717121
+    second: 20221110bundleThunderFX-Sheet_44
+  - first:
+      213: -6966442007758497233
+    second: 20221110bundleThunderFX-Sheet_45
+  - first:
+      213: 5260602061039585473
+    second: 20221110bundleThunderFX-Sheet_46
+  - first:
+      213: 7148109458567453588
+    second: 20221110bundleThunderFX-Sheet_47
+  - first:
+      213: 2547192325679931707
+    second: 20221110bundleThunderFX-Sheet_48
+  - first:
+      213: -6839854005004970081
+    second: 20221110bundleThunderFX-Sheet_49
+  - first:
+      213: -2111797896796062136
+    second: 20221110bundleThunderFX-Sheet_50
+  - first:
+      213: -2690044813023205714
+    second: 20221110bundleThunderFX-Sheet_51
+  - first:
+      213: -2930052401514342445
+    second: 20221110bundleThunderFX-Sheet_52
+  - first:
+      213: -4208380934870153823
+    second: 20221110bundleThunderFX-Sheet_53
+  - first:
+      213: 5662810281895827075
+    second: 20221110bundleThunderFX-Sheet_54
+  - first:
+      213: 4744585435693877120
+    second: 20221110bundleThunderFX-Sheet_55
+  - first:
+      213: -2317290833975537832
+    second: 20221110bundleThunderFX-Sheet_56
+  - first:
+      213: -7884842707728194634
+    second: 20221110bundleThunderFX-Sheet_57
+  - first:
+      213: -3479049241443919575
+    second: 20221110bundleThunderFX-Sheet_58
+  - first:
+      213: 4816172807126397138
+    second: 20221110bundleThunderFX-Sheet_59
+  - first:
+      213: -1687739702114258164
+    second: 20221110bundleThunderFX-Sheet_60
+  - first:
+      213: -6182004363893786543
+    second: 20221110bundleThunderFX-Sheet_61
+  - first:
+      213: 8786786006269198078
+    second: 20221110bundleThunderFX-Sheet_62
+  - first:
+      213: -5031117367916136109
+    second: 20221110bundleThunderFX-Sheet_63
+  - first:
+      213: -4865176084302957920
+    second: 20221110bundleThunderFX-Sheet_64
+  - first:
+      213: -4290648234013932776
+    second: 20221110bundleThunderFX-Sheet_65
+  - first:
+      213: -167349051001280990
+    second: 20221110bundleThunderFX-Sheet_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 507
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c21e378592f63c0800000000000000
+      internalID: -4364224054020723698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 483
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b24099977166ec40800000000000000
+      internalID: 5541223557831344823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 525
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d5023dd6304b1d0800000000000000
+      internalID: -3336037653746262696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 413
+        width: 68
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a437a37fadd78d040800000000000000
+      internalID: 4672622992801035082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 469
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b14523992bcfda0800000000000000
+      internalID: -5909652239972820130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 449
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbedfb1ed73d5c620800000000000000
+      internalID: 2793871681465081531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 463
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb23b1f867421f30800000000000000
+      internalID: 4544773490027473863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 455
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753586f4391863890800000000000000
+      internalID: -7478647661509717161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 441
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd50fdcce44a76c0800000000000000
+      internalID: -4144924723183067707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 431
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbd6e7a81e88e00800000000000000
+      internalID: 1047334898306497715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 429
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598fc30b442c1070800000000000000
+      internalID: 8078371736200907094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 415
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d1e1e67b0c8ae90800000000000000
+      internalID: -7014144525570532079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 421
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d160ed61dcf52f0800000000000000
+      internalID: -981840695645561482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 325
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11d04fef115fcd0800000000000000
+      internalID: -2525092229357432366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 327
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21904dfec2e1b94c0800000000000000
+      internalID: -4279793842534479598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 329
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a81b99b55608710800000000000000
+      internalID: 1693464903986285077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 333
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50ea2de94e7470e0800000000000000
+      internalID: -2273053055938535329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc568bdb3fc2296d0800000000000000
+      internalID: -2985274177621563955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 219
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b108b27ab9b0bb0800000000000000
+      internalID: -4968706621581550757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 235
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee81b50d2515c1780800000000000000
+      internalID: -8710998163116582674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ea59b1fb1a987a0800000000000000
+      internalID: -6374385955392606600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 299
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c411fbf2ec8f5e0800000000000000
+      internalID: -1875522540335444991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 291
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ac8cb1bbd4d6ae0800000000000000
+      internalID: -1554500830352586223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 275
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909c4e0043ca0e6f0800000000000000
+      internalID: -657336206242821879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327e44b2dcb947110800000000000000
+      internalID: 1257801501439747875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 279
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898259791a264aa0800000000000000
+      internalID: -6177203549994055285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e32269b53817ee0800000000000000
+      internalID: -1265085590930309609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 223
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecc77ee65be682d0800000000000000
+      internalID: -3276672920264913691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532711ca67f2fecf0800000000000000
+      internalID: -220905669978394059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 283
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e44b9b3b027e92f0800000000000000
+      internalID: -964207877640469274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0686235b6a37e3bc0800000000000000
+      internalID: -3801473875612374944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 255
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598ba3a141db453f0800000000000000
+      internalID: -912896930412316523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 249
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacca9fb5cba5cd90800000000000000
+      internalID: -7078062373531366228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 267
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0848dc86de78786a0800000000000000
+      internalID: -6447034887822277504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 257
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66942373c4a624c40800000000000000
+      internalID: 5495071370921527654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 263
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d302b19bc2d60fc0800000000000000
+      internalID: -3528901486233648175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 259
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc46f3855ca3687e0800000000000000
+      internalID: -1763657584805452593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 241
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd44909ccc7ea260800000000000000
+      internalID: 7110758079705402803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 241
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d4531b196df680800000000000000
+      internalID: -8719697738510053172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 227
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4b76b7f6325dc0800000000000000
+      internalID: -3651795910297694395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 257
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f99236a7e9c91ab0800000000000000
+      internalID: -5036772711474226701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 243
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159e4d1e4f7e0f00800000000000000
+      internalID: 1084944533718734105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 251
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8cbfb3fe1ae7740800000000000000
+      internalID: 5151733072634038461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 237
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2ace4f724ece40800000000000000
+      internalID: 5678549294710926830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 235
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18127bb46e7293640800000000000000
+      internalID: 5060119526393717121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 223
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a123b57e9325f90800000000000000
+      internalID: -6966442007758497233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 233
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8c3f0e3b9610940800000000000000
+      internalID: 5260602061039585473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 223
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bd5852eaf233360800000000000000
+      internalID: 7148109458567453588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 241
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e0c2bce1795320800000000000000
+      internalID: 2547192325679931707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9755248505f311a0800000000000000
+      internalID: -6839854005004970081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ebd0c600361b2e0800000000000000
+      internalID: -2111797896796062136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6aed9be7a0baad0800000000000000
+      internalID: -2690044813023205714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 221
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7157a6ddc5657d0800000000000000
+      internalID: -2930052401514342445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 221
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5c98136d3d895c0800000000000000
+      internalID: -4208380934870153823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 229
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38694d2d2f7569e40800000000000000
+      internalID: 5662810281895827075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 227
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087860dd05728d140800000000000000
+      internalID: 4744585435693877120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 229
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f8e97934457dfd0800000000000000
+      internalID: -2317290833975537832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b328004559639290800000000000000
+      internalID: -7884842707728194634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 59
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92994afc52fe7bfc0800000000000000
+      internalID: -3479049241443919575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 31
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03aa1a6ab76d240800000000000000
+      internalID: 4816172807126397138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 43
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f726dea1f398e0800000000000000
+      internalID: -1687739702114258164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 65
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583232e8cb153aa0800000000000000
+      internalID: -6182004363893786543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 47
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7c0d715fe0f970800000000000000
+      internalID: 8786786006269198078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 37
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3597f0ee861ed2ab0800000000000000
+      internalID: -5031117367916136109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2756dc02c6b7cb0800000000000000
+      internalID: -4865176084302957920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813417bf92e8474c0800000000000000
+      internalID: -4290648234013932776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleThunderFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e19dbce47dadf0800000000000000
+      internalID: -167349051001280990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundleThunderFX-Sheet_0: -4364224054020723698
+      20221110bundleThunderFX-Sheet_1: 5541223557831344823
+      20221110bundleThunderFX-Sheet_10: 8078371736200907094
+      20221110bundleThunderFX-Sheet_11: -7014144525570532079
+      20221110bundleThunderFX-Sheet_12: -981840695645561482
+      20221110bundleThunderFX-Sheet_13: -2525092229357432366
+      20221110bundleThunderFX-Sheet_14: -4279793842534479598
+      20221110bundleThunderFX-Sheet_15: 1693464903986285077
+      20221110bundleThunderFX-Sheet_16: -2273053055938535329
+      20221110bundleThunderFX-Sheet_17: -2985274177621563955
+      20221110bundleThunderFX-Sheet_18: -4968706621581550757
+      20221110bundleThunderFX-Sheet_19: -8710998163116582674
+      20221110bundleThunderFX-Sheet_2: -3336037653746262696
+      20221110bundleThunderFX-Sheet_20: -6374385955392606600
+      20221110bundleThunderFX-Sheet_21: -1875522540335444991
+      20221110bundleThunderFX-Sheet_22: -1554500830352586223
+      20221110bundleThunderFX-Sheet_23: -657336206242821879
+      20221110bundleThunderFX-Sheet_24: 1257801501439747875
+      20221110bundleThunderFX-Sheet_25: -6177203549994055285
+      20221110bundleThunderFX-Sheet_26: -1265085590930309609
+      20221110bundleThunderFX-Sheet_27: -3276672920264913691
+      20221110bundleThunderFX-Sheet_28: -220905669978394059
+      20221110bundleThunderFX-Sheet_29: -964207877640469274
+      20221110bundleThunderFX-Sheet_3: 4672622992801035082
+      20221110bundleThunderFX-Sheet_30: -3801473875612374944
+      20221110bundleThunderFX-Sheet_31: -912896930412316523
+      20221110bundleThunderFX-Sheet_32: -7078062373531366228
+      20221110bundleThunderFX-Sheet_33: -6447034887822277504
+      20221110bundleThunderFX-Sheet_34: 5495071370921527654
+      20221110bundleThunderFX-Sheet_35: -3528901486233648175
+      20221110bundleThunderFX-Sheet_36: -1763657584805452593
+      20221110bundleThunderFX-Sheet_37: 7110758079705402803
+      20221110bundleThunderFX-Sheet_38: -8719697738510053172
+      20221110bundleThunderFX-Sheet_39: -3651795910297694395
+      20221110bundleThunderFX-Sheet_4: -5909652239972820130
+      20221110bundleThunderFX-Sheet_40: -5036772711474226701
+      20221110bundleThunderFX-Sheet_41: 1084944533718734105
+      20221110bundleThunderFX-Sheet_42: 5151733072634038461
+      20221110bundleThunderFX-Sheet_43: 5678549294710926830
+      20221110bundleThunderFX-Sheet_44: 5060119526393717121
+      20221110bundleThunderFX-Sheet_45: -6966442007758497233
+      20221110bundleThunderFX-Sheet_46: 5260602061039585473
+      20221110bundleThunderFX-Sheet_47: 7148109458567453588
+      20221110bundleThunderFX-Sheet_48: 2547192325679931707
+      20221110bundleThunderFX-Sheet_49: -6839854005004970081
+      20221110bundleThunderFX-Sheet_5: 2793871681465081531
+      20221110bundleThunderFX-Sheet_50: -2111797896796062136
+      20221110bundleThunderFX-Sheet_51: -2690044813023205714
+      20221110bundleThunderFX-Sheet_52: -2930052401514342445
+      20221110bundleThunderFX-Sheet_53: -4208380934870153823
+      20221110bundleThunderFX-Sheet_54: 5662810281895827075
+      20221110bundleThunderFX-Sheet_55: 4744585435693877120
+      20221110bundleThunderFX-Sheet_56: -2317290833975537832
+      20221110bundleThunderFX-Sheet_57: -7884842707728194634
+      20221110bundleThunderFX-Sheet_58: -3479049241443919575
+      20221110bundleThunderFX-Sheet_59: 4816172807126397138
+      20221110bundleThunderFX-Sheet_6: 4544773490027473863
+      20221110bundleThunderFX-Sheet_60: -1687739702114258164
+      20221110bundleThunderFX-Sheet_61: -6182004363893786543
+      20221110bundleThunderFX-Sheet_62: 8786786006269198078
+      20221110bundleThunderFX-Sheet_63: -5031117367916136109
+      20221110bundleThunderFX-Sheet_64: -4865176084302957920
+      20221110bundleThunderFX-Sheet_65: -4290648234013932776
+      20221110bundleThunderFX-Sheet_66: -167349051001280990
+      20221110bundleThunderFX-Sheet_7: -7478647661509717161
+      20221110bundleThunderFX-Sheet_8: -4144924723183067707
+      20221110bundleThunderFX-Sheet_9: 1047334898306497715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

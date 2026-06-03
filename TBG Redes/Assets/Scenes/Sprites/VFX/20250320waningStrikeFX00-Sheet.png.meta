@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: fcd25035cee13be42ab20a8581407252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -20740051499164842
+    second: 20250320waningStrikeFX00-Sheet_0
+  - first:
+      213: -5055392911742906100
+    second: 20250320waningStrikeFX00-Sheet_1
+  - first:
+      213: 1447374467035177291
+    second: 20250320waningStrikeFX00-Sheet_2
+  - first:
+      213: -3381360514526283799
+    second: 20250320waningStrikeFX00-Sheet_3
+  - first:
+      213: -9199489666641849415
+    second: 20250320waningStrikeFX00-Sheet_4
+  - first:
+      213: 2355097818461813301
+    second: 20250320waningStrikeFX00-Sheet_5
+  - first:
+      213: 6076060817931073143
+    second: 20250320waningStrikeFX00-Sheet_6
+  - first:
+      213: -2161620566919224146
+    second: 20250320waningStrikeFX00-Sheet_7
+  - first:
+      213: -5448713080454544575
+    second: 20250320waningStrikeFX00-Sheet_8
+  - first:
+      213: -2653916180186113803
+    second: 20250320waningStrikeFX00-Sheet_9
+  - first:
+      213: 5964186073107947560
+    second: 20250320waningStrikeFX00-Sheet_10
+  - first:
+      213: 6408244114345151946
+    second: 20250320waningStrikeFX00-Sheet_11
+  - first:
+      213: -2138112871898956408
+    second: 20250320waningStrikeFX00-Sheet_12
+  - first:
+      213: -1433761861558794985
+    second: 20250320waningStrikeFX00-Sheet_13
+  - first:
+      213: 9057038239218549294
+    second: 20250320waningStrikeFX00-Sheet_14
+  - first:
+      213: 6445176946613820696
+    second: 20250320waningStrikeFX00-Sheet_15
+  - first:
+      213: -1869499508037478416
+    second: 20250320waningStrikeFX00-Sheet_16
+  - first:
+      213: -7794938747569635973
+    second: 20250320waningStrikeFX00-Sheet_17
+  - first:
+      213: -6335928198988166109
+    second: 20250320waningStrikeFX00-Sheet_18
+  - first:
+      213: -4739320351693384446
+    second: 20250320waningStrikeFX00-Sheet_19
+  - first:
+      213: -7426017011403608886
+    second: 20250320waningStrikeFX00-Sheet_20
+  - first:
+      213: 7394314364547901153
+    second: 20250320waningStrikeFX00-Sheet_21
+  - first:
+      213: -387129114043956839
+    second: 20250320waningStrikeFX00-Sheet_22
+  - first:
+      213: 5271380018538463605
+    second: 20250320waningStrikeFX00-Sheet_23
+  - first:
+      213: -6646572464060311347
+    second: 20250320waningStrikeFX00-Sheet_24
+  - first:
+      213: 5929825036434735889
+    second: 20250320waningStrikeFX00-Sheet_25
+  - first:
+      213: -4739927204530459010
+    second: 20250320waningStrikeFX00-Sheet_26
+  - first:
+      213: 5551411351232606736
+    second: 20250320waningStrikeFX00-Sheet_27
+  - first:
+      213: 270071637377307493
+    second: 20250320waningStrikeFX00-Sheet_28
+  - first:
+      213: -2881707967018595618
+    second: 20250320waningStrikeFX00-Sheet_29
+  - first:
+      213: -2186765310549881793
+    second: 20250320waningStrikeFX00-Sheet_30
+  - first:
+      213: -9123253176169108720
+    second: 20250320waningStrikeFX00-Sheet_31
+  - first:
+      213: 486230222259637192
+    second: 20250320waningStrikeFX00-Sheet_32
+  - first:
+      213: 8061167119874790346
+    second: 20250320waningStrikeFX00-Sheet_33
+  - first:
+      213: -1582788846072353887
+    second: 20250320waningStrikeFX00-Sheet_34
+  - first:
+      213: -5863319205008210462
+    second: 20250320waningStrikeFX00-Sheet_35
+  - first:
+      213: 8091701484951326762
+    second: 20250320waningStrikeFX00-Sheet_36
+  - first:
+      213: 956437908174474143
+    second: 20250320waningStrikeFX00-Sheet_37
+  - first:
+      213: 4634513128755542633
+    second: 20250320waningStrikeFX00-Sheet_38
+  - first:
+      213: -3136054820040149393
+    second: 20250320waningStrikeFX00-Sheet_39
+  - first:
+      213: 5525412191802086449
+    second: 20250320waningStrikeFX00-Sheet_40
+  - first:
+      213: -2568702373453282907
+    second: 20250320waningStrikeFX00-Sheet_41
+  - first:
+      213: 7185009093463457
+    second: 20250320waningStrikeFX00-Sheet_42
+  - first:
+      213: 5593017579131032876
+    second: 20250320waningStrikeFX00-Sheet_43
+  - first:
+      213: 6554590178024133615
+    second: 20250320waningStrikeFX00-Sheet_44
+  - first:
+      213: 2810043043497414291
+    second: 20250320waningStrikeFX00-Sheet_45
+  - first:
+      213: 3334426094743976412
+    second: 20250320waningStrikeFX00-Sheet_46
+  - first:
+      213: -1295027752184443259
+    second: 20250320waningStrikeFX00-Sheet_47
+  - first:
+      213: -8147128171735959254
+    second: 20250320waningStrikeFX00-Sheet_48
+  - first:
+      213: 2993514520205181892
+    second: 20250320waningStrikeFX00-Sheet_49
+  - first:
+      213: 2431893590282387270
+    second: 20250320waningStrikeFX00-Sheet_50
+  - first:
+      213: -8616633006429125443
+    second: 20250320waningStrikeFX00-Sheet_51
+  - first:
+      213: -7202947572702907617
+    second: 20250320waningStrikeFX00-Sheet_52
+  - first:
+      213: 1887708811356040343
+    second: 20250320waningStrikeFX00-Sheet_53
+  - first:
+      213: -9098896537756721802
+    second: 20250320waningStrikeFX00-Sheet_54
+  - first:
+      213: -6956493473609558956
+    second: 20250320waningStrikeFX00-Sheet_55
+  - first:
+      213: -5666870062683706262
+    second: 20250320waningStrikeFX00-Sheet_56
+  - first:
+      213: 7608156771305987785
+    second: 20250320waningStrikeFX00-Sheet_57
+  - first:
+      213: -2441243088246974572
+    second: 20250320waningStrikeFX00-Sheet_58
+  - first:
+      213: 2553924718200782690
+    second: 20250320waningStrikeFX00-Sheet_59
+  - first:
+      213: -251428468225654615
+    second: 20250320waningStrikeFX00-Sheet_60
+  - first:
+      213: 1475504636076864971
+    second: 20250320waningStrikeFX00-Sheet_61
+  - first:
+      213: -6442517431274001979
+    second: 20250320waningStrikeFX00-Sheet_62
+  - first:
+      213: -6591261597112352639
+    second: 20250320waningStrikeFX00-Sheet_63
+  - first:
+      213: 9136551992940045589
+    second: 20250320waningStrikeFX00-Sheet_64
+  - first:
+      213: -7569510042471579952
+    second: 20250320waningStrikeFX00-Sheet_65
+  - first:
+      213: 3442681096406636698
+    second: 20250320waningStrikeFX00-Sheet_66
+  - first:
+      213: -6224330305425559957
+    second: 20250320waningStrikeFX00-Sheet_67
+  - first:
+      213: -4305689198992879289
+    second: 20250320waningStrikeFX00-Sheet_68
+  - first:
+      213: -3262340973216055677
+    second: 20250320waningStrikeFX00-Sheet_69
+  - first:
+      213: 5559296592782653359
+    second: 20250320waningStrikeFX00-Sheet_70
+  - first:
+      213: -1632294254666535511
+    second: 20250320waningStrikeFX00-Sheet_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1084
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bd4c5780156bff0800000000000000
+      internalID: -20740051499164842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1082
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01598f6ee2a7d9b0800000000000000
+      internalID: -5055392911742906100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1078
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b412a94c86b161410800000000000000
+      internalID: 1447374467035177291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1068
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7f02af68ef211d0800000000000000
+      internalID: -3381360514526283799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 948
+        width: 89
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b39fe0a3e8d45080800000000000000
+      internalID: -9199489666641849415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 967
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab6b0fcfcfea020800000000000000
+      internalID: 2355097818461813301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 954
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776737e1f11825450800000000000000
+      internalID: 6076060817931073143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 968
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e9911c816002e0800000000000000
+      internalID: -2161620566919224146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 938
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1438b7462584264b0800000000000000
+      internalID: -5448713080454544575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 938
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f858509b456b2bd0800000000000000
+      internalID: -2653916180186113803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 938
+        width: 75
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8206ee542ab05c250800000000000000
+      internalID: 5964186073107947560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 840
+        width: 78
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc785d118aee850800000000000000
+      internalID: 6408244114345151946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 809
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88db5c4dba5e352e0800000000000000
+      internalID: -2138112871898956408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 814
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715094dee214a1ce0800000000000000
+      internalID: -1433761861558794985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 785
+        width: 110
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2240c5da4011bd70800000000000000
+      internalID: 9057038239218549294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 784
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d1471f84ed17950800000000000000
+      internalID: 6445176946613820696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 800
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f798ab3a143e06e0800000000000000
+      internalID: -1869499508037478416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 654
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dfe292280d2d390800000000000000
+      internalID: -7794938747569635973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 651
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0ee84fd24218a0800000000000000
+      internalID: -6335928198988166109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 725
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2055988004d8a3eb0800000000000000
+      internalID: -4739320351693384446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 736
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acca7437fdc71f890800000000000000
+      internalID: -7426017011403608886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 654
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e62270ecb1ed9660800000000000000
+      internalID: 7394314364547901153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 667
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991c2333f14a0aaf0800000000000000
+      internalID: -387129114043956839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 665
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571c319a234b72940800000000000000
+      internalID: 5271380018538463605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 656
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8dac91f81a2c3a0800000000000000
+      internalID: -6646572464060311347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 655
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11309ecf378fa4250800000000000000
+      internalID: 5929825036434735889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 521
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e60c81255683eb0800000000000000
+      internalID: -4739927204530459010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 522
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0127a4816339a0d40800000000000000
+      internalID: 5551411351232606736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 523
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56358c929bc7fb300800000000000000
+      internalID: 270071637377307493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 534
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda81773fdd1208d0800000000000000
+      internalID: -2881707967018595618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 528
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c0789398c07a1e0800000000000000
+      internalID: -2186765310549881793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 522
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b6c76c291b36180800000000000000
+      internalID: -9123253176169108720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb48dc9fcf6fb600800000000000000
+      internalID: 486230222259637192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 396
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3123f19c40fdf60800000000000000
+      internalID: 8061167119874790346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 396
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab28633eedc80ae0800000000000000
+      internalID: -1582788846072353887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 396
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e582cc8f3e41aea0800000000000000
+      internalID: -5863319205008210462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20560ff0af7b4070800000000000000
+      internalID: 8091701484951326762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 285
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b0576c533f54d00800000000000000
+      internalID: 956437908174474143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96abb5ac229115040800000000000000
+      internalID: 4634513128755542633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 280
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66fa57b1ce7a74d0800000000000000
+      internalID: -3136054820040149393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134d9f11d153eac40800000000000000
+      internalID: 5525412191802086449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 268
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a14d980dc22a5cd0800000000000000
+      internalID: -2568702373453282907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 275
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad49ba4ab6891000800000000000000
+      internalID: 7185009093463457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25de9aead36e9d40800000000000000
+      internalID: 5593017579131032876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe394690a0596fa50800000000000000
+      internalID: 6554590178024133615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e883382474ff620800000000000000
+      internalID: 2810043043497414291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 187
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9f10bddd2464e20800000000000000
+      internalID: 3334426094743976412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 229
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e06c8ee13270ee0800000000000000
+      internalID: -1295027752184443259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 146
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29b918d7169fee80800000000000000
+      internalID: -8147128171735959254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3cdc688991b8920800000000000000
+      internalID: 2993514520205181892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 142
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fb45ce552dfb120800000000000000
+      internalID: 2431893590282387270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 227
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4c2ebfee19b6880800000000000000
+      internalID: -8616633006429125443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 141
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f741785df90c90800000000000000
+      internalID: -7202947572702907617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 213
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c6044992d723a10800000000000000
+      internalID: 1887708811356040343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 132
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d9af29ec93ab180800000000000000
+      internalID: -9098896537756721802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 147
+        width: 11
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454dd27fa02957f90800000000000000
+      internalID: -6956493473609558956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 14
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c217dc3bb3b51b0800000000000000
+      internalID: -5666870062683706262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce1d25164a959960800000000000000
+      internalID: 7608156771305987785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49759a27856fe1ed0800000000000000
+      internalID: -2441243088246974572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 178
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f727bfffc517320800000000000000
+      internalID: 2553924718200782690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 184
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a04df8e32fb28cf0800000000000000
+      internalID: -251428468225654615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 232
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5bdc126ab0a7410800000000000000
+      internalID: 1475504636076864971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 235
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a6a9b7849796a0800000000000000
+      internalID: -6442517431274001979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 149
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c17adf722784a0800000000000000
+      internalID: -6591261597112352639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 228
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515241b41ad8bce70800000000000000
+      internalID: 9136551992940045589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 131
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0debabaa8b2b3f690800000000000000
+      internalID: -7569510042471579952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 220
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981542973cd6cf20800000000000000
+      internalID: 3442681096406636698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 154
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e296ca09cbe99a0800000000000000
+      internalID: -6224330305425559957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 155
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7411bcc6c7e1f34c0800000000000000
+      internalID: -4305689198992879289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 167
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e31436b26d9b2d0800000000000000
+      internalID: -3262340973216055677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 162
+        width: 111
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa779d5fbc6962d40800000000000000
+      internalID: 5559296592782653359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320waningStrikeFX00-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 162
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ada0bd060de859e0800000000000000
+      internalID: -1632294254666535511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250320waningStrikeFX00-Sheet_0: -20740051499164842
+      20250320waningStrikeFX00-Sheet_1: -5055392911742906100
+      20250320waningStrikeFX00-Sheet_10: 5964186073107947560
+      20250320waningStrikeFX00-Sheet_11: 6408244114345151946
+      20250320waningStrikeFX00-Sheet_12: -2138112871898956408
+      20250320waningStrikeFX00-Sheet_13: -1433761861558794985
+      20250320waningStrikeFX00-Sheet_14: 9057038239218549294
+      20250320waningStrikeFX00-Sheet_15: 6445176946613820696
+      20250320waningStrikeFX00-Sheet_16: -1869499508037478416
+      20250320waningStrikeFX00-Sheet_17: -7794938747569635973
+      20250320waningStrikeFX00-Sheet_18: -6335928198988166109
+      20250320waningStrikeFX00-Sheet_19: -4739320351693384446
+      20250320waningStrikeFX00-Sheet_2: 1447374467035177291
+      20250320waningStrikeFX00-Sheet_20: -7426017011403608886
+      20250320waningStrikeFX00-Sheet_21: 7394314364547901153
+      20250320waningStrikeFX00-Sheet_22: -387129114043956839
+      20250320waningStrikeFX00-Sheet_23: 5271380018538463605
+      20250320waningStrikeFX00-Sheet_24: -6646572464060311347
+      20250320waningStrikeFX00-Sheet_25: 5929825036434735889
+      20250320waningStrikeFX00-Sheet_26: -4739927204530459010
+      20250320waningStrikeFX00-Sheet_27: 5551411351232606736
+      20250320waningStrikeFX00-Sheet_28: 270071637377307493
+      20250320waningStrikeFX00-Sheet_29: -2881707967018595618
+      20250320waningStrikeFX00-Sheet_3: -3381360514526283799
+      20250320waningStrikeFX00-Sheet_30: -2186765310549881793
+      20250320waningStrikeFX00-Sheet_31: -9123253176169108720
+      20250320waningStrikeFX00-Sheet_32: 486230222259637192
+      20250320waningStrikeFX00-Sheet_33: 8061167119874790346
+      20250320waningStrikeFX00-Sheet_34: -1582788846072353887
+      20250320waningStrikeFX00-Sheet_35: -5863319205008210462
+      20250320waningStrikeFX00-Sheet_36: 8091701484951326762
+      20250320waningStrikeFX00-Sheet_37: 956437908174474143
+      20250320waningStrikeFX00-Sheet_38: 4634513128755542633
+      20250320waningStrikeFX00-Sheet_39: -3136054820040149393
+      20250320waningStrikeFX00-Sheet_4: -9199489666641849415
+      20250320waningStrikeFX00-Sheet_40: 5525412191802086449
+      20250320waningStrikeFX00-Sheet_41: -2568702373453282907
+      20250320waningStrikeFX00-Sheet_42: 7185009093463457
+      20250320waningStrikeFX00-Sheet_43: 5593017579131032876
+      20250320waningStrikeFX00-Sheet_44: 6554590178024133615
+      20250320waningStrikeFX00-Sheet_45: 2810043043497414291
+      20250320waningStrikeFX00-Sheet_46: 3334426094743976412
+      20250320waningStrikeFX00-Sheet_47: -1295027752184443259
+      20250320waningStrikeFX00-Sheet_48: -8147128171735959254
+      20250320waningStrikeFX00-Sheet_49: 2993514520205181892
+      20250320waningStrikeFX00-Sheet_5: 2355097818461813301
+      20250320waningStrikeFX00-Sheet_50: 2431893590282387270
+      20250320waningStrikeFX00-Sheet_51: -8616633006429125443
+      20250320waningStrikeFX00-Sheet_52: -7202947572702907617
+      20250320waningStrikeFX00-Sheet_53: 1887708811356040343
+      20250320waningStrikeFX00-Sheet_54: -9098896537756721802
+      20250320waningStrikeFX00-Sheet_55: -6956493473609558956
+      20250320waningStrikeFX00-Sheet_56: -5666870062683706262
+      20250320waningStrikeFX00-Sheet_57: 7608156771305987785
+      20250320waningStrikeFX00-Sheet_58: -2441243088246974572
+      20250320waningStrikeFX00-Sheet_59: 2553924718200782690
+      20250320waningStrikeFX00-Sheet_6: 6076060817931073143
+      20250320waningStrikeFX00-Sheet_60: -251428468225654615
+      20250320waningStrikeFX00-Sheet_61: 1475504636076864971
+      20250320waningStrikeFX00-Sheet_62: -6442517431274001979
+      20250320waningStrikeFX00-Sheet_63: -6591261597112352639
+      20250320waningStrikeFX00-Sheet_64: 9136551992940045589
+      20250320waningStrikeFX00-Sheet_65: -7569510042471579952
+      20250320waningStrikeFX00-Sheet_66: 3442681096406636698
+      20250320waningStrikeFX00-Sheet_67: -6224330305425559957
+      20250320waningStrikeFX00-Sheet_68: -4305689198992879289
+      20250320waningStrikeFX00-Sheet_69: -3262340973216055677
+      20250320waningStrikeFX00-Sheet_7: -2161620566919224146
+      20250320waningStrikeFX00-Sheet_70: 5559296592782653359
+      20250320waningStrikeFX00-Sheet_71: -1632294254666535511
+      20250320waningStrikeFX00-Sheet_8: -5448713080454544575
+      20250320waningStrikeFX00-Sheet_9: -2653916180186113803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

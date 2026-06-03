@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: bc144296633b75e40b51315793b77ffa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1066783049751971542
+    second: 20240926bundleHealer3f_0
+  - first:
+      213: 4336151193573163175
+    second: 20240926bundleHealer3f_1
+  - first:
+      213: 1045182913045922588
+    second: 20240926bundleHealer3f_2
+  - first:
+      213: 3967284599978534690
+    second: 20240926bundleHealer3f_3
+  - first:
+      213: 4064699999295614840
+    second: 20240926bundleHealer3f_4
+  - first:
+      213: 3414595270358272953
+    second: 20240926bundleHealer3f_5
+  - first:
+      213: 9045114969843602476
+    second: 20240926bundleHealer3f_6
+  - first:
+      213: 1091260792541338461
+    second: 20240926bundleHealer3f_7
+  - first:
+      213: -2191166812168491998
+    second: 20240926bundleHealer3f_8
+  - first:
+      213: 4784856255359181417
+    second: 20240926bundleHealer3f_9
+  - first:
+      213: -3784773286052865418
+    second: 20240926bundleHealer3f_10
+  - first:
+      213: -1725879832409390458
+    second: 20240926bundleHealer3f_11
+  - first:
+      213: 622770606786414876
+    second: 20240926bundleHealer3f_12
+  - first:
+      213: 5804184122468268277
+    second: 20240926bundleHealer3f_13
+  - first:
+      213: 9157405090840398689
+    second: 20240926bundleHealer3f_14
+  - first:
+      213: -1031835734941766776
+    second: 20240926bundleHealer3f_15
+  - first:
+      213: -114862861271081622
+    second: 20240926bundleHealer3f_16
+  - first:
+      213: 8205685045547067770
+    second: 20240926bundleHealer3f_17
+  - first:
+      213: -388445694266546498
+    second: 20240926bundleHealer3f_18
+  - first:
+      213: -3564921794105543955
+    second: 20240926bundleHealer3f_19
+  - first:
+      213: -643053859158540050
+    second: 20240926bundleHealer3f_20
+  - first:
+      213: -4196995970553794326
+    second: 20240926bundleHealer3f_21
+  - first:
+      213: -552072892907389835
+    second: 20240926bundleHealer3f_22
+  - first:
+      213: 1949032178256492862
+    second: 20240926bundleHealer3f_23
+  - first:
+      213: -8694310157485925527
+    second: 20240926bundleHealer3f_24
+  - first:
+      213: -2070825133277648939
+    second: 20240926bundleHealer3f_25
+  - first:
+      213: -4143541262185024736
+    second: 20240926bundleHealer3f_26
+  - first:
+      213: 8859946281623942203
+    second: 20240926bundleHealer3f_27
+  - first:
+      213: -6104318190181461721
+    second: 20240926bundleHealer3f_28
+  - first:
+      213: 4824459734811082382
+    second: 20240926bundleHealer3f_29
+  - first:
+      213: -7133519590605343334
+    second: 20240926bundleHealer3f_30
+  - first:
+      213: 925882018243595473
+    second: 20240926bundleHealer3f_31
+  - first:
+      213: -5514082305923132351
+    second: 20240926bundleHealer3f_32
+  - first:
+      213: 691659357744080718
+    second: 20240926bundleHealer3f_33
+  - first:
+      213: -4220527521891894701
+    second: 20240926bundleHealer3f_34
+  - first:
+      213: 4543381866054441525
+    second: 20240926bundleHealer3f_35
+  - first:
+      213: 7989717387004574824
+    second: 20240926bundleHealer3f_36
+  - first:
+      213: -5121440747158442886
+    second: 20240926bundleHealer3f_37
+  - first:
+      213: -8764953850753275369
+    second: 20240926bundleHealer3f_38
+  - first:
+      213: -8081210330068321660
+    second: 20240926bundleHealer3f_39
+  - first:
+      213: -5902490173469173235
+    second: 20240926bundleHealer3f_40
+  - first:
+      213: -5209358934762177128
+    second: 20240926bundleHealer3f_41
+  - first:
+      213: -6690488781756912510
+    second: 20240926bundleHealer3f_42
+  - first:
+      213: 4130639663287954621
+    second: 20240926bundleHealer3f_43
+  - first:
+      213: 5609167510013127896
+    second: 20240926bundleHealer3f_44
+  - first:
+      213: -317272713574390886
+    second: 20240926bundleHealer3f_45
+  - first:
+      213: 38901763869742240
+    second: 20240926bundleHealer3f_46
+  - first:
+      213: 8200285210482021657
+    second: 20240926bundleHealer3f_47
+  - first:
+      213: 1729344720404549419
+    second: 20240926bundleHealer3f_48
+  - first:
+      213: -1182650255543593317
+    second: 20240926bundleHealer3f_49
+  - first:
+      213: -3934637649680134986
+    second: 20240926bundleHealer3f_50
+  - first:
+      213: 1486959097538135050
+    second: 20240926bundleHealer3f_51
+  - first:
+      213: -7546328477897475143
+    second: 20240926bundleHealer3f_52
+  - first:
+      213: 2922293406591850462
+    second: 20240926bundleHealer3f_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 721
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a293023e7760231f0800000000000000
+      internalID: -1066783049751971542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 721
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a08051698a1d2c30800000000000000
+      internalID: 4336151193573163175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 721
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c130961625c318e00800000000000000
+      internalID: 1045182913045922588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 721
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2272998f250ae0730800000000000000
+      internalID: 3967284599978534690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 721
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fab881d17b86830800000000000000
+      internalID: 4064699999295614840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_5
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 721
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb0f6d9e44136f20800000000000000
+      internalID: 3414595270358272953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 721
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24981a5424b68d70800000000000000
+      internalID: 9045114969843602476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_7
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 721
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bdcb8b8efe42f00800000000000000
+      internalID: 1091260792541338461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_8
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 721
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c6215c4696791e0800000000000000
+      internalID: -2191166812168491998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 577
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9626df9b969376240800000000000000
+      internalID: 4784856255359181417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 577
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a5e69bfb8c97bc0800000000000000
+      internalID: -3784773286052865418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 577
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6824a30cf617c08e0800000000000000
+      internalID: -1725879832409390458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 577
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c190f0a319684a800800000000000000
+      internalID: 622770606786414876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 577
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8feae15ba9c8050800000000000000
+      internalID: 5804184122468268277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_14
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 577
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b45ef7963a51f70800000000000000
+      internalID: 9157405090840398689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_15
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 577
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bed30bdde2ea1f0800000000000000
+      internalID: -1031835734941766776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_16
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 585
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d5d0416dce76ef0800000000000000
+      internalID: -114862861271081622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_17
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 579
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a796196c21370e170800000000000000
+      internalID: 8205685045547067770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 433
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb666baf2b6fb9af0800000000000000
+      internalID: -388445694266546498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 433
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27a4a148ad68ec0800000000000000
+      internalID: -3564921794105543955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 433
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee049611ce96317f0800000000000000
+      internalID: -643053859158540050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 433
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae03563c66641c5c0800000000000000
+      internalID: -4196995970553794326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 433
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cf12001a4a658f0800000000000000
+      internalID: -552072892907389835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 433
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39b8c0907a5c0b10800000000000000
+      internalID: 1949032178256492862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_24
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 431
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b1bf7e9fa975780800000000000000
+      internalID: -8694310157485925527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_25
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 431
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7e8035383f243e0800000000000000
+      internalID: -2070825133277648939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_26
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b94bec2f2f76c0800000000000000
+      internalID: -4143541262185024736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34fc3d733ad4fa70800000000000000
+      internalID: 8859946281623942203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 289
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215746b2fa194ba0800000000000000
+      internalID: -6104318190181461721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 289
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef696519ce3f240800000000000000
+      internalID: 4824459734811082382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 289
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bda33ab5a00d90800000000000000
+      internalID: -7133519590605343334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 289
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc4514ac469dc00800000000000000
+      internalID: 925882018243595473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_32
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 289
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1445f2d8b5b0a73b0800000000000000
+      internalID: -5514082305923132351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_33
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 287
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4729e37584499900800000000000000
+      internalID: 691659357744080718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_34
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 287
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35abfd4849cad65c0800000000000000
+      internalID: -4220527521891894701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_35
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a502d3cb55d0f30800000000000000
+      internalID: 4543381866054441525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 145
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c7b24d1ad21ee60800000000000000
+      internalID: 7989717387004574824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 145
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ce86766ccfce8b0800000000000000
+      internalID: -5121440747158442886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_38
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 145
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71aa82559e0ac5680800000000000000
+      internalID: -8764953850753275369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_39
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 145
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a7f095506c9df80800000000000000
+      internalID: -8081210330068321660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_40
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 145
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ad220c574261ea0800000000000000
+      internalID: -5902490173469173235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 145
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d3ef136a3a4b7b0800000000000000
+      internalID: -5209358934762177128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_42
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 143
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ca4a596eb9623a0800000000000000
+      internalID: -6690488781756912510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_43
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 143
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcea6183eaf25930800000000000000
+      internalID: 4130639663287954621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_44
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcaef7b124c7dd40800000000000000
+      internalID: 5609167510013127896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936972e522d89bf0800000000000000
+      internalID: -317272713574390886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a49798b2f43a8000800000000000000
+      internalID: 38901763869742240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159ba3b3f34dc170800000000000000
+      internalID: 8200285210482021657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_48
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f09e95cdddff710800000000000000
+      internalID: 1729344720404549419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_49
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 9
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969cc8cbd1669fe0800000000000000
+      internalID: -1182650255543593317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_50
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc00fa77eb5569c0800000000000000
+      internalID: -3934637649680134986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_51
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04cb44cb6db2a410800000000000000
+      internalID: 1486959097538135050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_52
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb1844b3e064790800000000000000
+      internalID: -7546328477897475143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20240926bundleHealer3f_53
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79f5dce521e8820800000000000000
+      internalID: 2922293406591850462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20240926bundleHealer3f_0: -1066783049751971542
+      20240926bundleHealer3f_1: 4336151193573163175
+      20240926bundleHealer3f_10: -3784773286052865418
+      20240926bundleHealer3f_11: -1725879832409390458
+      20240926bundleHealer3f_12: 622770606786414876
+      20240926bundleHealer3f_13: 5804184122468268277
+      20240926bundleHealer3f_14: 9157405090840398689
+      20240926bundleHealer3f_15: -1031835734941766776
+      20240926bundleHealer3f_16: -114862861271081622
+      20240926bundleHealer3f_17: 8205685045547067770
+      20240926bundleHealer3f_18: -388445694266546498
+      20240926bundleHealer3f_19: -3564921794105543955
+      20240926bundleHealer3f_2: 1045182913045922588
+      20240926bundleHealer3f_20: -643053859158540050
+      20240926bundleHealer3f_21: -4196995970553794326
+      20240926bundleHealer3f_22: -552072892907389835
+      20240926bundleHealer3f_23: 1949032178256492862
+      20240926bundleHealer3f_24: -8694310157485925527
+      20240926bundleHealer3f_25: -2070825133277648939
+      20240926bundleHealer3f_26: -4143541262185024736
+      20240926bundleHealer3f_27: 8859946281623942203
+      20240926bundleHealer3f_28: -6104318190181461721
+      20240926bundleHealer3f_29: 4824459734811082382
+      20240926bundleHealer3f_3: 3967284599978534690
+      20240926bundleHealer3f_30: -7133519590605343334
+      20240926bundleHealer3f_31: 925882018243595473
+      20240926bundleHealer3f_32: -5514082305923132351
+      20240926bundleHealer3f_33: 691659357744080718
+      20240926bundleHealer3f_34: -4220527521891894701
+      20240926bundleHealer3f_35: 4543381866054441525
+      20240926bundleHealer3f_36: 7989717387004574824
+      20240926bundleHealer3f_37: -5121440747158442886
+      20240926bundleHealer3f_38: -8764953850753275369
+      20240926bundleHealer3f_39: -8081210330068321660
+      20240926bundleHealer3f_4: 4064699999295614840
+      20240926bundleHealer3f_40: -5902490173469173235
+      20240926bundleHealer3f_41: -5209358934762177128
+      20240926bundleHealer3f_42: -6690488781756912510
+      20240926bundleHealer3f_43: 4130639663287954621
+      20240926bundleHealer3f_44: 5609167510013127896
+      20240926bundleHealer3f_45: -317272713574390886
+      20240926bundleHealer3f_46: 38901763869742240
+      20240926bundleHealer3f_47: 8200285210482021657
+      20240926bundleHealer3f_48: 1729344720404549419
+      20240926bundleHealer3f_49: -1182650255543593317
+      20240926bundleHealer3f_5: 3414595270358272953
+      20240926bundleHealer3f_50: -3934637649680134986
+      20240926bundleHealer3f_51: 1486959097538135050
+      20240926bundleHealer3f_52: -7546328477897475143
+      20240926bundleHealer3f_53: 2922293406591850462
+      20240926bundleHealer3f_6: 9045114969843602476
+      20240926bundleHealer3f_7: 1091260792541338461
+      20240926bundleHealer3f_8: -2191166812168491998
+      20240926bundleHealer3f_9: 4784856255359181417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 69f383828dd423740845a60887d94b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7246769458745971728
+    second: 20251115werewolf3f_0
+  - first:
+      213: 9122747958544226296
+    second: 20251115werewolf3f_1
+  - first:
+      213: 4164049796447713588
+    second: 20251115werewolf3f_2
+  - first:
+      213: -9051074685128729235
+    second: 20251115werewolf3f_3
+  - first:
+      213: -3072318636438253930
+    second: 20251115werewolf3f_4
+  - first:
+      213: 7788661136710046937
+    second: 20251115werewolf3f_5
+  - first:
+      213: 5983984460701049822
+    second: 20251115werewolf3f_6
+  - first:
+      213: 6534761327042582878
+    second: 20251115werewolf3f_7
+  - first:
+      213: -2043481688508887143
+    second: 20251115werewolf3f_8
+  - first:
+      213: 8798994644023638776
+    second: 20251115werewolf3f_9
+  - first:
+      213: -6604547067149104044
+    second: 20251115werewolf3f_10
+  - first:
+      213: 6820574656612983792
+    second: 20251115werewolf3f_11
+  - first:
+      213: 7830957208367030734
+    second: 20251115werewolf3f_12
+  - first:
+      213: -2751677074930181518
+    second: 20251115werewolf3f_13
+  - first:
+      213: -3893308221672053778
+    second: 20251115werewolf3f_14
+  - first:
+      213: -2361396456653951508
+    second: 20251115werewolf3f_15
+  - first:
+      213: 7196847545380322784
+    second: 20251115werewolf3f_16
+  - first:
+      213: -4993542556296164453
+    second: 20251115werewolf3f_17
+  - first:
+      213: 9201285201794824720
+    second: 20251115werewolf3f_18
+  - first:
+      213: -3621297727271602543
+    second: 20251115werewolf3f_19
+  - first:
+      213: -794802473381646755
+    second: 20251115werewolf3f_20
+  - first:
+      213: 1135401390375482433
+    second: 20251115werewolf3f_21
+  - first:
+      213: 33159807989180685
+    second: 20251115werewolf3f_22
+  - first:
+      213: -8326682193322987322
+    second: 20251115werewolf3f_23
+  - first:
+      213: 42664318488153960
+    second: 20251115werewolf3f_24
+  - first:
+      213: -3359366362230193707
+    second: 20251115werewolf3f_25
+  - first:
+      213: 4383698246984367704
+    second: 20251115werewolf3f_26
+  - first:
+      213: -3916213118957146926
+    second: 20251115werewolf3f_27
+  - first:
+      213: 816584802320064647
+    second: 20251115werewolf3f_28
+  - first:
+      213: 4188007110763033984
+    second: 20251115werewolf3f_29
+  - first:
+      213: -4051270059851676302
+    second: 20251115werewolf3f_30
+  - first:
+      213: -4620695558473410517
+    second: 20251115werewolf3f_31
+  - first:
+      213: 4088552389387157070
+    second: 20251115werewolf3f_32
+  - first:
+      213: -874142736437056288
+    second: 20251115werewolf3f_33
+  - first:
+      213: -139012077565083033
+    second: 20251115werewolf3f_34
+  - first:
+      213: -2039979502505307634
+    second: 20251115werewolf3f_35
+  - first:
+      213: -3744232505895167993
+    second: 20251115werewolf3f_36
+  - first:
+      213: -5447185764627551878
+    second: 20251115werewolf3f_37
+  - first:
+      213: 5003391456601224660
+    second: 20251115werewolf3f_38
+  - first:
+      213: 8047804973148609929
+    second: 20251115werewolf3f_39
+  - first:
+      213: 3605040784788868370
+    second: 20251115werewolf3f_40
+  - first:
+      213: 1150323576667817584
+    second: 20251115werewolf3f_41
+  - first:
+      213: 8670407222911103599
+    second: 20251115werewolf3f_42
+  - first:
+      213: 1231431699171927184
+    second: 20251115werewolf3f_43
+  - first:
+      213: -1930367645331944730
+    second: 20251115werewolf3f_44
+  - first:
+      213: 1835947688708585665
+    second: 20251115werewolf3f_45
+  - first:
+      213: -1376991849861196244
+    second: 20251115werewolf3f_46
+  - first:
+      213: -3721283745306905340
+    second: 20251115werewolf3f_47
+  - first:
+      213: -2396193494573911855
+    second: 20251115werewolf3f_48
+  - first:
+      213: -4981908750329426831
+    second: 20251115werewolf3f_49
+  - first:
+      213: 4839351510606808861
+    second: 20251115werewolf3f_50
+  - first:
+      213: -7056695542433841764
+    second: 20251115werewolf3f_51
+  - first:
+      213: -8563090148129664827
+    second: 20251115werewolf3f_52
+  - first:
+      213: 5932812075006592371
+    second: 20251115werewolf3f_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115werewolf3f_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 721
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01414bd7d62b19460800000000000000
+      internalID: 7246769458745971728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 721
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d2741fe28a9e70800000000000000
+      internalID: 9122747958544226296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 721
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439bd405a3da9c930800000000000000
+      internalID: 4164049796447713588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 721
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1f5d478f146280800000000000000
+      internalID: -9051074685128729235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 721
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e094e5a7eec55d0800000000000000
+      internalID: -3072318636438253930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 721
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41e79a902e61c60800000000000000
+      internalID: 7788661136710046937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_6
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 721
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed32b8999226b0350800000000000000
+      internalID: 5983984460701049822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 721
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e595556edc220ba50800000000000000
+      internalID: 6534761327042582878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_8
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 721
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f896b2b3814a3e0800000000000000
+      internalID: -2043481688508887143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 577
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faf799720f4c1a70800000000000000
+      internalID: 8798994644023638776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 577
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cca305f6fe754a0800000000000000
+      internalID: -6604547067149104044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 577
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e273638c87ae50800000000000000
+      internalID: 6820574656612983792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 577
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1600047162dac60800000000000000
+      internalID: 7830957208367030734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_13
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 577
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a5334874410d9d0800000000000000
+      internalID: -2751677074930181518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 577
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3212eccc038f9c0800000000000000
+      internalID: -3893308221672053778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_15
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 577
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced66431f62aa3fd0800000000000000
+      internalID: -2361396456653951508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_16
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 577
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed390546b650e360800000000000000
+      internalID: 7196847545380322784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_17
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 577
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bcb21808f53bab0800000000000000
+      internalID: -4993542556296164453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 433
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af90af32881bf70800000000000000
+      internalID: 9201285201794824720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 433
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196fb0c47e09ebdc0800000000000000
+      internalID: -3621297727271602543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 433
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e2c7b8c5b48f4f0800000000000000
+      internalID: -794802473381646755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_21
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 433
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144b0d68c81c1cf00800000000000000
+      internalID: 1135401390375482433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 433
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e3007baec57000800000000000000
+      internalID: 33159807989180685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 433
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b96d69aea17c80800000000000000
+      internalID: -8326682193322987322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_24
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 431
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f021cb8f2979000800000000000000
+      internalID: 42664318488153960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_25
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 431
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18fdc97122161d0800000000000000
+      internalID: -3359366362230193707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_26
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 431
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e710e645606dc30800000000000000
+      internalID: 4383698246984367704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca5d3dae0d6a9c0800000000000000
+      internalID: -3916213118957146926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 289
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780254f1d87155b00800000000000000
+      internalID: 816584802320064647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 289
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08537d9374ace1a30800000000000000
+      internalID: 4188007110763033984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 289
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2758d59585ff6c7c0800000000000000
+      internalID: -4051270059851676302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 289
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2897fdfeddffdfb0800000000000000
+      internalID: -4620695558473410517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_32
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 289
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4efefe6cb47db830800000000000000
+      internalID: 4088552389387157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_33
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 287
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec6ea700db6ed3f0800000000000000
+      internalID: -874142736437056288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_34
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 287
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7628e318041221ef0800000000000000
+      internalID: -139012077565083033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_35
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 287
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02d714637980b3e0800000000000000
+      internalID: -2039979502505307634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 145
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d5a9af50d90cc0800000000000000
+      internalID: -3744232505895167993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 145
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a796fc15865b764b0800000000000000
+      internalID: -5447185764627551878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 145
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b0fa450e9f6540800000000000000
+      internalID: 5003391456601224660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_39
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 145
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1526ebfb8faf60800000000000000
+      internalID: 8047804973148609929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_40
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 145
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dc2225e7da70230800000000000000
+      internalID: 3605040784788868370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_41
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 145
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076ca04c235c6ff00800000000000000
+      internalID: 1150323576667817584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_42
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 143
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f8937e69735870800000000000000
+      internalID: 8670407222911103599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_43
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 143
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946c422b9ce61110800000000000000
+      internalID: 1231431699171927184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_44
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 143
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea0516aad4f535e0800000000000000
+      internalID: -1930367645331944730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8bca312b89a7910800000000000000
+      internalID: 1835947688708585665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c265a6a4531f3ece0800000000000000
+      internalID: -1376991849861196244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405fb8c56285b5cc0800000000000000
+      internalID: -3721283745306905340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_48
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f1d656b20fbed0800000000000000
+      internalID: -2396193494573911855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_49
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c44390364bcdab0800000000000000
+      internalID: -4981908750329426831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_50
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1708f41f84d82340800000000000000
+      internalID: 4839351510606808861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_51
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9df529cac4911e90800000000000000
+      internalID: -7056695542433841764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_52
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0951521eac92980800000000000000
+      internalID: -8563090148129664827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115werewolf3f_53
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 0
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3758ae91625955250800000000000000
+      internalID: 5932812075006592371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115werewolf3f_0: 7246769458745971728
+      20251115werewolf3f_1: 9122747958544226296
+      20251115werewolf3f_10: -6604547067149104044
+      20251115werewolf3f_11: 6820574656612983792
+      20251115werewolf3f_12: 7830957208367030734
+      20251115werewolf3f_13: -2751677074930181518
+      20251115werewolf3f_14: -3893308221672053778
+      20251115werewolf3f_15: -2361396456653951508
+      20251115werewolf3f_16: 7196847545380322784
+      20251115werewolf3f_17: -4993542556296164453
+      20251115werewolf3f_18: 9201285201794824720
+      20251115werewolf3f_19: -3621297727271602543
+      20251115werewolf3f_2: 4164049796447713588
+      20251115werewolf3f_20: -794802473381646755
+      20251115werewolf3f_21: 1135401390375482433
+      20251115werewolf3f_22: 33159807989180685
+      20251115werewolf3f_23: -8326682193322987322
+      20251115werewolf3f_24: 42664318488153960
+      20251115werewolf3f_25: -3359366362230193707
+      20251115werewolf3f_26: 4383698246984367704
+      20251115werewolf3f_27: -3916213118957146926
+      20251115werewolf3f_28: 816584802320064647
+      20251115werewolf3f_29: 4188007110763033984
+      20251115werewolf3f_3: -9051074685128729235
+      20251115werewolf3f_30: -4051270059851676302
+      20251115werewolf3f_31: -4620695558473410517
+      20251115werewolf3f_32: 4088552389387157070
+      20251115werewolf3f_33: -874142736437056288
+      20251115werewolf3f_34: -139012077565083033
+      20251115werewolf3f_35: -2039979502505307634
+      20251115werewolf3f_36: -3744232505895167993
+      20251115werewolf3f_37: -5447185764627551878
+      20251115werewolf3f_38: 5003391456601224660
+      20251115werewolf3f_39: 8047804973148609929
+      20251115werewolf3f_4: -3072318636438253930
+      20251115werewolf3f_40: 3605040784788868370
+      20251115werewolf3f_41: 1150323576667817584
+      20251115werewolf3f_42: 8670407222911103599
+      20251115werewolf3f_43: 1231431699171927184
+      20251115werewolf3f_44: -1930367645331944730
+      20251115werewolf3f_45: 1835947688708585665
+      20251115werewolf3f_46: -1376991849861196244
+      20251115werewolf3f_47: -3721283745306905340
+      20251115werewolf3f_48: -2396193494573911855
+      20251115werewolf3f_49: -4981908750329426831
+      20251115werewolf3f_5: 7788661136710046937
+      20251115werewolf3f_50: 4839351510606808861
+      20251115werewolf3f_51: -7056695542433841764
+      20251115werewolf3f_52: -8563090148129664827
+      20251115werewolf3f_53: 5932812075006592371
+      20251115werewolf3f_6: 5983984460701049822
+      20251115werewolf3f_7: 6534761327042582878
+      20251115werewolf3f_8: -2043481688508887143
+      20251115werewolf3f_9: 8798994644023638776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

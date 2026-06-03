@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 779a77e3c23945c41a416cf14bfe7c7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7927583565488886190
+    second: 20251115vampirePrincess3f_0
+  - first:
+      213: -7045108345190242090
+    second: 20251115vampirePrincess3f_1
+  - first:
+      213: 8681685536295450093
+    second: 20251115vampirePrincess3f_2
+  - first:
+      213: 3599846676816080572
+    second: 20251115vampirePrincess3f_3
+  - first:
+      213: 5268283379958797805
+    second: 20251115vampirePrincess3f_4
+  - first:
+      213: 1917572543410030691
+    second: 20251115vampirePrincess3f_5
+  - first:
+      213: 1804334002377792084
+    second: 20251115vampirePrincess3f_6
+  - first:
+      213: -307875027949866111
+    second: 20251115vampirePrincess3f_7
+  - first:
+      213: 7225944455855438159
+    second: 20251115vampirePrincess3f_8
+  - first:
+      213: 8907771266604759708
+    second: 20251115vampirePrincess3f_9
+  - first:
+      213: 7720157602683513274
+    second: 20251115vampirePrincess3f_10
+  - first:
+      213: -5588057380775421222
+    second: 20251115vampirePrincess3f_11
+  - first:
+      213: 6172929846205492293
+    second: 20251115vampirePrincess3f_12
+  - first:
+      213: 1887121944101321276
+    second: 20251115vampirePrincess3f_13
+  - first:
+      213: -8780942873198400839
+    second: 20251115vampirePrincess3f_14
+  - first:
+      213: -1711004693657419586
+    second: 20251115vampirePrincess3f_15
+  - first:
+      213: 5192383296110757369
+    second: 20251115vampirePrincess3f_16
+  - first:
+      213: -392409184724833322
+    second: 20251115vampirePrincess3f_17
+  - first:
+      213: 7549874961900375852
+    second: 20251115vampirePrincess3f_18
+  - first:
+      213: 4270444783739577142
+    second: 20251115vampirePrincess3f_19
+  - first:
+      213: -9037296408236827912
+    second: 20251115vampirePrincess3f_20
+  - first:
+      213: 268058469844752994
+    second: 20251115vampirePrincess3f_21
+  - first:
+      213: -418818669666397378
+    second: 20251115vampirePrincess3f_22
+  - first:
+      213: -4415529401458682866
+    second: 20251115vampirePrincess3f_23
+  - first:
+      213: 1266673011138828717
+    second: 20251115vampirePrincess3f_24
+  - first:
+      213: 5808017590906091010
+    second: 20251115vampirePrincess3f_25
+  - first:
+      213: 6631739479573812624
+    second: 20251115vampirePrincess3f_26
+  - first:
+      213: 5269917940871581109
+    second: 20251115vampirePrincess3f_27
+  - first:
+      213: 6771145081998138758
+    second: 20251115vampirePrincess3f_28
+  - first:
+      213: -9190453839237697314
+    second: 20251115vampirePrincess3f_29
+  - first:
+      213: -8493347999630550799
+    second: 20251115vampirePrincess3f_30
+  - first:
+      213: -7897137541698009310
+    second: 20251115vampirePrincess3f_31
+  - first:
+      213: -5965879393518707157
+    second: 20251115vampirePrincess3f_32
+  - first:
+      213: 6907421820015809319
+    second: 20251115vampirePrincess3f_33
+  - first:
+      213: -7291533071197870149
+    second: 20251115vampirePrincess3f_34
+  - first:
+      213: 870144595173933899
+    second: 20251115vampirePrincess3f_35
+  - first:
+      213: -3012526642666271145
+    second: 20251115vampirePrincess3f_36
+  - first:
+      213: -6690386206467756025
+    second: 20251115vampirePrincess3f_37
+  - first:
+      213: -8193383932475617619
+    second: 20251115vampirePrincess3f_38
+  - first:
+      213: -9194872746546283127
+    second: 20251115vampirePrincess3f_39
+  - first:
+      213: -3631393157198139335
+    second: 20251115vampirePrincess3f_40
+  - first:
+      213: -5572679990148275254
+    second: 20251115vampirePrincess3f_41
+  - first:
+      213: -2790093291698099252
+    second: 20251115vampirePrincess3f_42
+  - first:
+      213: -5131559997269504402
+    second: 20251115vampirePrincess3f_43
+  - first:
+      213: 3346649162346008661
+    second: 20251115vampirePrincess3f_44
+  - first:
+      213: 4134002243447873805
+    second: 20251115vampirePrincess3f_45
+  - first:
+      213: -4184628168450377743
+    second: 20251115vampirePrincess3f_46
+  - first:
+      213: -4205132311795644577
+    second: 20251115vampirePrincess3f_47
+  - first:
+      213: -1952361654501521617
+    second: 20251115vampirePrincess3f_48
+  - first:
+      213: -4831486905551145221
+    second: 20251115vampirePrincess3f_49
+  - first:
+      213: 8362587317321764075
+    second: 20251115vampirePrincess3f_50
+  - first:
+      213: 7585529174479685135
+    second: 20251115vampirePrincess3f_51
+  - first:
+      213: 1406916190183706278
+    second: 20251115vampirePrincess3f_52
+  - first:
+      213: -8985499543677725747
+    second: 20251115vampirePrincess3f_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e6fc3dfb09bf190800000000000000
+      internalID: -7927583565488886190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 360
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8abc0694fba3e90800000000000000
+      internalID: -7045108345190242090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 360
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5798a6ffa8b7870800000000000000
+      internalID: 8681685536295450093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 360
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe2e71da7935f130800000000000000
+      internalID: 3599846676816080572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 360
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d98e42d3bc1940800000000000000
+      internalID: 5268283379958797805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_5
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 360
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3684ff881169c9a10800000000000000
+      internalID: 1917572543410030691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 360
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a13e327384a0910800000000000000
+      internalID: 1804334002377792084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 360
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183b5d31b453abbf0800000000000000
+      internalID: -307875027949866111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 360
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4977f9a236b74460800000000000000
+      internalID: 7225944455855438159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 288
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a786685c2ce9b70800000000000000
+      internalID: 8907771266604759708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 288
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab96bfdbf62832b60800000000000000
+      internalID: 7720157602683513274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada91624b6b3372b0800000000000000
+      internalID: -5588057380775421222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 288
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c2c725df6aaa550800000000000000
+      internalID: 6172929846205492293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 288
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af006e867603a10800000000000000
+      internalID: 1887121944101321276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 288
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bae202faf2d32680800000000000000
+      internalID: -8780942873198400839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 288
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb00681eb4a4148e0800000000000000
+      internalID: -1711004693657419586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 291
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f58a5ee81d0f0840800000000000000
+      internalID: 5192383296110757369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 289
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db20e1fce1ed8af0800000000000000
+      internalID: -392409184724833322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 216
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f00b2e64b86c860800000000000000
+      internalID: 7549874961900375852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 216
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633a7bfa7eaa34b30800000000000000
+      internalID: 4270444783739577142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 216
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa51216cc2159280800000000000000
+      internalID: -9037296408236827912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 216
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a912212c558b300800000000000000
+      internalID: 268058469844752994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_22
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 216
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e339b3193ae003af0800000000000000
+      internalID: -418818669666397378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 216
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0413c26763e8b2c0800000000000000
+      internalID: -4415529401458682866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_24
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 215
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9118b7460249110800000000000000
+      internalID: 1266673011138828717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 215
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067d2b0a393a9050800000000000000
+      internalID: 5808017590906091010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_26
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 215
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0955ee29beba80c50800000000000000
+      internalID: 6631739479573812624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdcb1d2272822940800000000000000
+      internalID: 5269917940871581109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 144
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dd127b390f7fd50800000000000000
+      internalID: 6771145081998138758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 144
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0bc932de2f47080800000000000000
+      internalID: -9190453839237697314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 144
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81f387ef0912a80800000000000000
+      internalID: -8493347999630550799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 144
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22740b42f3bb76290800000000000000
+      internalID: -7897137541698009310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_32
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 144
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e9e78dc40f43da0800000000000000
+      internalID: -5965879393518707157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_33
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 143
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72313d75c871cdf50800000000000000
+      internalID: 6907421820015809319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 143
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7ec3fcd454fca90800000000000000
+      internalID: -7291533071197870149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_35
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 143
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43819a26ef531c00800000000000000
+      internalID: 870144595173933899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 72
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e0a73cafa5136d0800000000000000
+      internalID: -3012526642666271145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700f0514139f623a0800000000000000
+      internalID: -6690386206467756025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 72
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daec56c49b04b4e80800000000000000
+      internalID: -8193383932475617619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 72
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d303b14ff356080800000000000000
+      internalID: -9194872746546283127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 72
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930bb69d923ba9dc0800000000000000
+      internalID: -3631393157198139335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 72
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3e844031dd9a2b0800000000000000
+      internalID: -5572679990148275254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_42
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 71
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb622a0fe89749d0800000000000000
+      internalID: -2790093291698099252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 71
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e8523ee5909c8b0800000000000000
+      internalID: -5131559997269504402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_44
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 71
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5501e7d8eafa17e20800000000000000
+      internalID: 3346649162346008661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01e065332dee5930800000000000000
+      internalID: 4134002243447873805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7fb661ad63de5c0800000000000000
+      internalID: -4184628168450377743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5747e1317e54a5c0800000000000000
+      internalID: -4205132311795644577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_48
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27c7565b61d7e4e0800000000000000
+      internalID: -1952361654501521617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf63ca9f14c13fcb0800000000000000
+      internalID: -4831486905551145221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_50
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec8624bbd0ed0470800000000000000
+      internalID: 8362587317321764075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_51
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0649362896354960800000000000000
+      internalID: 7585529174479685135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_52
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae45a022de568310800000000000000
+      internalID: 1406916190183706278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115vampirePrincess3f_53
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc397a1b5c71d4380800000000000000
+      internalID: -8985499543677725747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115vampirePrincess3f_0: -7927583565488886190
+      20251115vampirePrincess3f_1: -7045108345190242090
+      20251115vampirePrincess3f_10: 7720157602683513274
+      20251115vampirePrincess3f_11: -5588057380775421222
+      20251115vampirePrincess3f_12: 6172929846205492293
+      20251115vampirePrincess3f_13: 1887121944101321276
+      20251115vampirePrincess3f_14: -8780942873198400839
+      20251115vampirePrincess3f_15: -1711004693657419586
+      20251115vampirePrincess3f_16: 5192383296110757369
+      20251115vampirePrincess3f_17: -392409184724833322
+      20251115vampirePrincess3f_18: 7549874961900375852
+      20251115vampirePrincess3f_19: 4270444783739577142
+      20251115vampirePrincess3f_2: 8681685536295450093
+      20251115vampirePrincess3f_20: -9037296408236827912
+      20251115vampirePrincess3f_21: 268058469844752994
+      20251115vampirePrincess3f_22: -418818669666397378
+      20251115vampirePrincess3f_23: -4415529401458682866
+      20251115vampirePrincess3f_24: 1266673011138828717
+      20251115vampirePrincess3f_25: 5808017590906091010
+      20251115vampirePrincess3f_26: 6631739479573812624
+      20251115vampirePrincess3f_27: 5269917940871581109
+      20251115vampirePrincess3f_28: 6771145081998138758
+      20251115vampirePrincess3f_29: -9190453839237697314
+      20251115vampirePrincess3f_3: 3599846676816080572
+      20251115vampirePrincess3f_30: -8493347999630550799
+      20251115vampirePrincess3f_31: -7897137541698009310
+      20251115vampirePrincess3f_32: -5965879393518707157
+      20251115vampirePrincess3f_33: 6907421820015809319
+      20251115vampirePrincess3f_34: -7291533071197870149
+      20251115vampirePrincess3f_35: 870144595173933899
+      20251115vampirePrincess3f_36: -3012526642666271145
+      20251115vampirePrincess3f_37: -6690386206467756025
+      20251115vampirePrincess3f_38: -8193383932475617619
+      20251115vampirePrincess3f_39: -9194872746546283127
+      20251115vampirePrincess3f_4: 5268283379958797805
+      20251115vampirePrincess3f_40: -3631393157198139335
+      20251115vampirePrincess3f_41: -5572679990148275254
+      20251115vampirePrincess3f_42: -2790093291698099252
+      20251115vampirePrincess3f_43: -5131559997269504402
+      20251115vampirePrincess3f_44: 3346649162346008661
+      20251115vampirePrincess3f_45: 4134002243447873805
+      20251115vampirePrincess3f_46: -4184628168450377743
+      20251115vampirePrincess3f_47: -4205132311795644577
+      20251115vampirePrincess3f_48: -1952361654501521617
+      20251115vampirePrincess3f_49: -4831486905551145221
+      20251115vampirePrincess3f_5: 1917572543410030691
+      20251115vampirePrincess3f_50: 8362587317321764075
+      20251115vampirePrincess3f_51: 7585529174479685135
+      20251115vampirePrincess3f_52: 1406916190183706278
+      20251115vampirePrincess3f_53: -8985499543677725747
+      20251115vampirePrincess3f_6: 1804334002377792084
+      20251115vampirePrincess3f_7: -307875027949866111
+      20251115vampirePrincess3f_8: 7225944455855438159
+      20251115vampirePrincess3f_9: 8907771266604759708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 52d741a4e6222034ca2700df9ca69411
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1199469418237143215
+    second: 20251115abomination3f_0
+  - first:
+      213: 5777551419665457464
+    second: 20251115abomination3f_1
+  - first:
+      213: 6330554664713546955
+    second: 20251115abomination3f_2
+  - first:
+      213: -5952675381196519603
+    second: 20251115abomination3f_3
+  - first:
+      213: 6636115319474630973
+    second: 20251115abomination3f_4
+  - first:
+      213: -960510330367251728
+    second: 20251115abomination3f_5
+  - first:
+      213: -3055448555395831628
+    second: 20251115abomination3f_6
+  - first:
+      213: 6086694026217232191
+    second: 20251115abomination3f_7
+  - first:
+      213: 1258453442438375071
+    second: 20251115abomination3f_8
+  - first:
+      213: -6498653931229951377
+    second: 20251115abomination3f_9
+  - first:
+      213: 6770344299101828257
+    second: 20251115abomination3f_10
+  - first:
+      213: 6161429885104628169
+    second: 20251115abomination3f_11
+  - first:
+      213: 7858042897077566064
+    second: 20251115abomination3f_12
+  - first:
+      213: 6608537892497710500
+    second: 20251115abomination3f_13
+  - first:
+      213: -6395645896711935086
+    second: 20251115abomination3f_14
+  - first:
+      213: 849201246777319065
+    second: 20251115abomination3f_15
+  - first:
+      213: -8436440034031636508
+    second: 20251115abomination3f_16
+  - first:
+      213: -4834115237194245175
+    second: 20251115abomination3f_17
+  - first:
+      213: -481721958831885697
+    second: 20251115abomination3f_18
+  - first:
+      213: 2487295139528716123
+    second: 20251115abomination3f_19
+  - first:
+      213: -292770275410756791
+    second: 20251115abomination3f_20
+  - first:
+      213: 8127035222496585628
+    second: 20251115abomination3f_21
+  - first:
+      213: -721216257373063461
+    second: 20251115abomination3f_22
+  - first:
+      213: 7598978419168344277
+    second: 20251115abomination3f_23
+  - first:
+      213: -9138472487674102356
+    second: 20251115abomination3f_24
+  - first:
+      213: -3593038612585228732
+    second: 20251115abomination3f_25
+  - first:
+      213: -7188697175047486349
+    second: 20251115abomination3f_26
+  - first:
+      213: 5116839253541816244
+    second: 20251115abomination3f_27
+  - first:
+      213: 481157166671777706
+    second: 20251115abomination3f_28
+  - first:
+      213: -8485148100317530662
+    second: 20251115abomination3f_29
+  - first:
+      213: -6643254280615908600
+    second: 20251115abomination3f_30
+  - first:
+      213: -7949524509017516231
+    second: 20251115abomination3f_31
+  - first:
+      213: -9138724471870438992
+    second: 20251115abomination3f_32
+  - first:
+      213: 5706419160829239804
+    second: 20251115abomination3f_33
+  - first:
+      213: -4519933866882141029
+    second: 20251115abomination3f_34
+  - first:
+      213: -3787351380578530982
+    second: 20251115abomination3f_35
+  - first:
+      213: 8808634606023132397
+    second: 20251115abomination3f_36
+  - first:
+      213: -3063715320928442727
+    second: 20251115abomination3f_37
+  - first:
+      213: -1862293817515035067
+    second: 20251115abomination3f_38
+  - first:
+      213: -4460312284313477939
+    second: 20251115abomination3f_39
+  - first:
+      213: -3323459198771056315
+    second: 20251115abomination3f_40
+  - first:
+      213: -104354007653361215
+    second: 20251115abomination3f_41
+  - first:
+      213: 2028226999614885586
+    second: 20251115abomination3f_42
+  - first:
+      213: 8084673783833583940
+    second: 20251115abomination3f_43
+  - first:
+      213: -920349728513574830
+    second: 20251115abomination3f_44
+  - first:
+      213: 3950601704755103601
+    second: 20251115abomination3f_45
+  - first:
+      213: -8699856519435238958
+    second: 20251115abomination3f_46
+  - first:
+      213: -1246137615765228046
+    second: 20251115abomination3f_47
+  - first:
+      213: -4432861354846880528
+    second: 20251115abomination3f_48
+  - first:
+      213: -5740135931687237666
+    second: 20251115abomination3f_49
+  - first:
+      213: 5690916388598788395
+    second: 20251115abomination3f_50
+  - first:
+      213: 222238605460276006
+    second: 20251115abomination3f_51
+  - first:
+      213: -5949334600534103838
+    second: 20251115abomination3f_52
+  - first:
+      213: 4356657039136514007
+    second: 20251115abomination3f_53
+  - first:
+      213: 7750352549321434932
+    second: 20251115abomination3f_54
+  - first:
+      213: -3811227158562420956
+    second: 20251115abomination3f_55
+  - first:
+      213: -2328042559087252289
+    second: 20251115abomination3f_56
+  - first:
+      213: 1530625219503577000
+    second: 20251115abomination3f_57
+  - first:
+      213: -809050721288195846
+    second: 20251115abomination3f_58
+  - first:
+      213: 1229593765305422079
+    second: 20251115abomination3f_59
+  - first:
+      213: -4995411265576202046
+    second: 20251115abomination3f_60
+  - first:
+      213: -1707204960479145577
+    second: 20251115abomination3f_61
+  - first:
+      213: 6977310401654467879
+    second: 20251115abomination3f_62
+  - first:
+      213: -532384715596964842
+    second: 20251115abomination3f_63
+  - first:
+      213: -8454022502698598659
+    second: 20251115abomination3f_64
+  - first:
+      213: -7580640181400384545
+    second: 20251115abomination3f_65
+  - first:
+      213: 8761906088524390588
+    second: 20251115abomination3f_66
+  - first:
+      213: 3832151978112396195
+    second: 20251115abomination3f_67
+  - first:
+      213: 7388092522381285867
+    second: 20251115abomination3f_68
+  - first:
+      213: -2904781642508965948
+    second: 20251115abomination3f_69
+  - first:
+      213: 5695694237543056272
+    second: 20251115abomination3f_70
+  - first:
+      213: 1191283104484722143
+    second: 20251115abomination3f_71
+  - first:
+      213: -959731265020856817
+    second: 20251115abomination3f_72
+  - first:
+      213: -5714389260688432203
+    second: 20251115abomination3f_73
+  - first:
+      213: 5675765322186559980
+    second: 20251115abomination3f_74
+  - first:
+      213: 6379038191811102885
+    second: 20251115abomination3f_75
+  - first:
+      213: -7837278984277345816
+    second: 20251115abomination3f_76
+  - first:
+      213: 3427010152428117544
+    second: 20251115abomination3f_77
+  - first:
+      213: 7721710535617367249
+    second: 20251115abomination3f_78
+  - first:
+      213: 5373394599349494161
+    second: 20251115abomination3f_79
+  - first:
+      213: -1005868055708601595
+    second: 20251115abomination3f_80
+  - first:
+      213: 2301434570613896390
+    second: 20251115abomination3f_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115abomination3f_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 731
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa828f0b41f55a010800000000000000
+      internalID: 1199469418237143215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 731
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831a6b8c76cfd2050800000000000000
+      internalID: 5777551419665457464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 731
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc61754de5aad750800000000000000
+      internalID: 6330554664713546955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 731
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4781988749d36da0800000000000000
+      internalID: -5952675381196519603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 729
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3130d139b7381c50800000000000000
+      internalID: 6636115319474630973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 753
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faed5b81f49ba2f0800000000000000
+      internalID: -960510330367251728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_6
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 731
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a6223abdd895d0800000000000000
+      internalID: -3055448555395831628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 759
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f379b29d7f7487450800000000000000
+      internalID: 6086694026217232191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_8
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 731
+        width: 124
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9628e20dbce67110800000000000000
+      internalID: 1258453442438375071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_9
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 731
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ac7de4ea420d5a0800000000000000
+      internalID: -6498653931229951377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_10
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 731
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a43e0be44815fd50800000000000000
+      internalID: 6770344299101828257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 737
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1232af5dbc18550800000000000000
+      internalID: 6161429885104628169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 727
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af61691606d0d60800000000000000
+      internalID: 7858042897077566064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_13
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 725
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4add80f133e36bb50800000000000000
+      internalID: 6608537892497710500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_14
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 727
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bec4941f91e37a0800000000000000
+      internalID: -6395645896711935086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 587
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e1bf0e808f8cb00800000000000000
+      internalID: 849201246777319065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 587
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efe8aabc7ebbea80800000000000000
+      internalID: -8436440034031636508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 587
+        width: 144
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbdbb3ddc5c9ecb0800000000000000
+      internalID: -4834115237194245175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 587
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72f1534e649059f0800000000000000
+      internalID: -481721958831885697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_19
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 585
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f2a2b40c5a48220800000000000000
+      internalID: 2487295139528716123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_20
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 609
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b39555cfedfebf0800000000000000
+      internalID: -292770275410756791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_21
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 587
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c972ff9d97709c070800000000000000
+      internalID: 8127035222496585628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_22
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 615
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6ba0592a9bdf5f0800000000000000
+      internalID: -721216257373063461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_23
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 587
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d873627c9ef47960800000000000000
+      internalID: 7598978419168344277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_24
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 587
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad318ea0bf9d2180800000000000000
+      internalID: -9138472487674102356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_25
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 587
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44658982b66f22ec0800000000000000
+      internalID: -3593038612585228732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_26
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 593
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c073b10e9c3c90800000000000000
+      internalID: -7188697175047486349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_27
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 583
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b78220e03aa20740800000000000000
+      internalID: 5116839253541816244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_28
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 581
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafca90d4e96da600800000000000000
+      internalID: 481157166671777706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_29
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 583
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad53efd42c2be3a80800000000000000
+      internalID: -8485148100317530662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 443
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bab43ed6b6ec3a0800000000000000
+      internalID: -6643254280615908600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 443
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937dfb2d39d9da190800000000000000
+      internalID: -7949524509017516231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 443
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14ef9038abc2180800000000000000
+      internalID: -9138724471870438992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_33
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 443
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a5bc2ef5413f40800000000000000
+      internalID: 5706419160829239804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_34
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 441
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b947b308818f541c0800000000000000
+      internalID: -4519933866882141029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_35
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 465
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5908015cff907bc0800000000000000
+      internalID: -3787351380578530982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_36
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 443
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4c838018e8e3a70800000000000000
+      internalID: 8808634606023132397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_37
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 471
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996632bd52f7b75d0800000000000000
+      internalID: -3063715320928442727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_38
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 443
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5463c9bc3adc726e0800000000000000
+      internalID: -1862293817515035067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_39
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 443
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc1f22fb99c912c0800000000000000
+      internalID: -4460312284313477939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_40
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 443
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5413fb79773b0e1d0800000000000000
+      internalID: -3323459198771056315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_41
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 449
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9deea35924d8ef0800000000000000
+      internalID: -104354007653361215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_42
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 439
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dec6ebc5b5b52c10800000000000000
+      internalID: 2028226999614885586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_43
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 437
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4416052d8f7823070800000000000000
+      internalID: 8084673783833583940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_44
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 439
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25832d25cc24a33f0800000000000000
+      internalID: -920349728513574830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 299
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1770bfcb15b53d630800000000000000
+      internalID: 3950601704755103601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 299
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d14232e696e34780800000000000000
+      internalID: -8699856519435238958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 299
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5bf07d074d4bee0800000000000000
+      internalID: -1246137615765228046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 299
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc7bc585105b72c0800000000000000
+      internalID: -4432861354846880528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_49
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 297
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7835d58c0f650b0800000000000000
+      internalID: -5740135931687237666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_50
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 321
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2131ecbd423afe40800000000000000
+      internalID: 5690916388598788395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_51
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 299
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62386dd85dc851300800000000000000
+      internalID: 222238605460276006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_52
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 327
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e86935a3b7bf6da0800000000000000
+      internalID: -5949334600534103838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_53
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 299
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfdfe99e74f57c30800000000000000
+      internalID: 4356657039136514007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_54
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 299
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e85a9498ce8b60800000000000000
+      internalID: 7750352549321434932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_55
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 299
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c09f871dcb1bc0800000000000000
+      internalID: -3811227158562420956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_56
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 305
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcec9380a121bfd0800000000000000
+      internalID: -2328042559087252289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_57
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 295
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d3cc078fdd3510800000000000000
+      internalID: 1530625219503577000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_58
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 293
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0f750d7aca5c4f0800000000000000
+      internalID: -809050721288195846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_59
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 295
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0901fc305601110800000000000000
+      internalID: 1229593765305422079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 131
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09858bbebbcaab0800000000000000
+      internalID: -4995411265576202046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 155
+        width: 128
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911bd3322ace48e0800000000000000
+      internalID: -1707204960479145577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 155
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da04ac7d264d060800000000000000
+      internalID: 6977310401654467879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_63
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 155
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cdefefbe69c98f0800000000000000
+      internalID: -532384715596964842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_64
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 153
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfebd7b33574daa80800000000000000
+      internalID: -8454022502698598659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_65
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 177
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbc3914be72cc690800000000000000
+      internalID: -7580640181400384545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_66
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 155
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb024d93a2b889970800000000000000
+      internalID: 8761906088524390588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_67
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 183
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab23b4abe98e2530800000000000000
+      internalID: 3832151978112396195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_68
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 155
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9914c5107c78660800000000000000
+      internalID: 7388092522381285867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_69
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 155
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c76d208c7420b7d0800000000000000
+      internalID: -2904781642508965948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_70
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 155
+        width: 124
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0934ef16bbb2b0f40800000000000000
+      internalID: 5695694237543056272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_71
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 161
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd58cbdfba9488010800000000000000
+      internalID: 1191283104484722143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_72
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 151
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067894df795ea2f0800000000000000
+      internalID: -959731265020856817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_73
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 149
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3eb585e3962b0b0800000000000000
+      internalID: -5714389260688432203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_74
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 151
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce119613d7e54ce40800000000000000
+      internalID: 5675765322186559980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 11
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80d871075e68850800000000000000
+      internalID: 6379038191811102885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 11
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9b38899446c3390800000000000000
+      internalID: -7837278984277345816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 11
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e9229939f2f8f20800000000000000
+      internalID: 3427010152428117544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_78
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 11
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc4ddd12d6092b60800000000000000
+      internalID: 7721710535617367249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_79
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 11
+        width: 134
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191aa3c2be1229a40800000000000000
+      internalID: 5373394599349494161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_80
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 11
+        width: 124
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503739825507a02f0800000000000000
+      internalID: -1005868055708601595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115abomination3f_81
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 9
+        width: 433
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4be376c8650ff10800000000000000
+      internalID: 2301434570613896390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115abomination3f_0: 1199469418237143215
+      20251115abomination3f_1: 5777551419665457464
+      20251115abomination3f_10: 6770344299101828257
+      20251115abomination3f_11: 6161429885104628169
+      20251115abomination3f_12: 7858042897077566064
+      20251115abomination3f_13: 6608537892497710500
+      20251115abomination3f_14: -6395645896711935086
+      20251115abomination3f_15: 849201246777319065
+      20251115abomination3f_16: -8436440034031636508
+      20251115abomination3f_17: -4834115237194245175
+      20251115abomination3f_18: -481721958831885697
+      20251115abomination3f_19: 2487295139528716123
+      20251115abomination3f_2: 6330554664713546955
+      20251115abomination3f_20: -292770275410756791
+      20251115abomination3f_21: 8127035222496585628
+      20251115abomination3f_22: -721216257373063461
+      20251115abomination3f_23: 7598978419168344277
+      20251115abomination3f_24: -9138472487674102356
+      20251115abomination3f_25: -3593038612585228732
+      20251115abomination3f_26: -7188697175047486349
+      20251115abomination3f_27: 5116839253541816244
+      20251115abomination3f_28: 481157166671777706
+      20251115abomination3f_29: -8485148100317530662
+      20251115abomination3f_3: -5952675381196519603
+      20251115abomination3f_30: -6643254280615908600
+      20251115abomination3f_31: -7949524509017516231
+      20251115abomination3f_32: -9138724471870438992
+      20251115abomination3f_33: 5706419160829239804
+      20251115abomination3f_34: -4519933866882141029
+      20251115abomination3f_35: -3787351380578530982
+      20251115abomination3f_36: 8808634606023132397
+      20251115abomination3f_37: -3063715320928442727
+      20251115abomination3f_38: -1862293817515035067
+      20251115abomination3f_39: -4460312284313477939
+      20251115abomination3f_4: 6636115319474630973
+      20251115abomination3f_40: -3323459198771056315
+      20251115abomination3f_41: -104354007653361215
+      20251115abomination3f_42: 2028226999614885586
+      20251115abomination3f_43: 8084673783833583940
+      20251115abomination3f_44: -920349728513574830
+      20251115abomination3f_45: 3950601704755103601
+      20251115abomination3f_46: -8699856519435238958
+      20251115abomination3f_47: -1246137615765228046
+      20251115abomination3f_48: -4432861354846880528
+      20251115abomination3f_49: -5740135931687237666
+      20251115abomination3f_5: -960510330367251728
+      20251115abomination3f_50: 5690916388598788395
+      20251115abomination3f_51: 222238605460276006
+      20251115abomination3f_52: -5949334600534103838
+      20251115abomination3f_53: 4356657039136514007
+      20251115abomination3f_54: 7750352549321434932
+      20251115abomination3f_55: -3811227158562420956
+      20251115abomination3f_56: -2328042559087252289
+      20251115abomination3f_57: 1530625219503577000
+      20251115abomination3f_58: -809050721288195846
+      20251115abomination3f_59: 1229593765305422079
+      20251115abomination3f_6: -3055448555395831628
+      20251115abomination3f_60: -4995411265576202046
+      20251115abomination3f_61: -1707204960479145577
+      20251115abomination3f_62: 6977310401654467879
+      20251115abomination3f_63: -532384715596964842
+      20251115abomination3f_64: -8454022502698598659
+      20251115abomination3f_65: -7580640181400384545
+      20251115abomination3f_66: 8761906088524390588
+      20251115abomination3f_67: 3832151978112396195
+      20251115abomination3f_68: 7388092522381285867
+      20251115abomination3f_69: -2904781642508965948
+      20251115abomination3f_7: 6086694026217232191
+      20251115abomination3f_70: 5695694237543056272
+      20251115abomination3f_71: 1191283104484722143
+      20251115abomination3f_72: -959731265020856817
+      20251115abomination3f_73: -5714389260688432203
+      20251115abomination3f_74: 5675765322186559980
+      20251115abomination3f_75: 6379038191811102885
+      20251115abomination3f_76: -7837278984277345816
+      20251115abomination3f_77: 3427010152428117544
+      20251115abomination3f_78: 7721710535617367249
+      20251115abomination3f_79: 5373394599349494161
+      20251115abomination3f_8: 1258453442438375071
+      20251115abomination3f_80: -1005868055708601595
+      20251115abomination3f_81: 2301434570613896390
+      20251115abomination3f_9: -6498653931229951377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

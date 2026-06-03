@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 60bf1a7c44e7c2a45bea3818fc99ef52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4649122199500157140
+    second: 20241017bloodBoilFX-Sheet_0
+  - first:
+      213: 6316425285253495040
+    second: 20241017bloodBoilFX-Sheet_1
+  - first:
+      213: 8589031742064679282
+    second: 20241017bloodBoilFX-Sheet_2
+  - first:
+      213: -2228945311229436744
+    second: 20241017bloodBoilFX-Sheet_3
+  - first:
+      213: 5172520453824532069
+    second: 20241017bloodBoilFX-Sheet_4
+  - first:
+      213: -5146418510758401211
+    second: 20241017bloodBoilFX-Sheet_5
+  - first:
+      213: 1343603500660018315
+    second: 20241017bloodBoilFX-Sheet_6
+  - first:
+      213: 6429724242662381583
+    second: 20241017bloodBoilFX-Sheet_7
+  - first:
+      213: -5751727304874606901
+    second: 20241017bloodBoilFX-Sheet_8
+  - first:
+      213: -8398899686662476946
+    second: 20241017bloodBoilFX-Sheet_9
+  - first:
+      213: 1993098125268634254
+    second: 20241017bloodBoilFX-Sheet_10
+  - first:
+      213: 3660312594237628593
+    second: 20241017bloodBoilFX-Sheet_11
+  - first:
+      213: 7703288888079357984
+    second: 20241017bloodBoilFX-Sheet_12
+  - first:
+      213: -7573575257287705042
+    second: 20241017bloodBoilFX-Sheet_13
+  - first:
+      213: 8916636704556870814
+    second: 20241017bloodBoilFX-Sheet_14
+  - first:
+      213: 8823977032880237153
+    second: 20241017bloodBoilFX-Sheet_15
+  - first:
+      213: 280572447958338965
+    second: 20241017bloodBoilFX-Sheet_16
+  - first:
+      213: -1305362246318262795
+    second: 20241017bloodBoilFX-Sheet_17
+  - first:
+      213: -8320851348795048762
+    second: 20241017bloodBoilFX-Sheet_18
+  - first:
+      213: 2611473525766427918
+    second: 20241017bloodBoilFX-Sheet_19
+  - first:
+      213: 8227544226859674968
+    second: 20241017bloodBoilFX-Sheet_20
+  - first:
+      213: -8208149827715369092
+    second: 20241017bloodBoilFX-Sheet_21
+  - first:
+      213: 8628563291105053302
+    second: 20241017bloodBoilFX-Sheet_22
+  - first:
+      213: 857163213647510334
+    second: 20241017bloodBoilFX-Sheet_23
+  - first:
+      213: 2415961760560816637
+    second: 20241017bloodBoilFX-Sheet_24
+  - first:
+      213: -5046943423474668221
+    second: 20241017bloodBoilFX-Sheet_25
+  - first:
+      213: 1482751479886055973
+    second: 20241017bloodBoilFX-Sheet_26
+  - first:
+      213: -6071272471278918699
+    second: 20241017bloodBoilFX-Sheet_27
+  - first:
+      213: 6628488068531670320
+    second: 20241017bloodBoilFX-Sheet_28
+  - first:
+      213: -695615159733643085
+    second: 20241017bloodBoilFX-Sheet_29
+  - first:
+      213: 2342335661761192351
+    second: 20241017bloodBoilFX-Sheet_30
+  - first:
+      213: 2369951342314136048
+    second: 20241017bloodBoilFX-Sheet_31
+  - first:
+      213: -1236813294510063940
+    second: 20241017bloodBoilFX-Sheet_32
+  - first:
+      213: 4936329417277988640
+    second: 20241017bloodBoilFX-Sheet_33
+  - first:
+      213: -5720086318408698151
+    second: 20241017bloodBoilFX-Sheet_34
+  - first:
+      213: -5483714796146341506
+    second: 20241017bloodBoilFX-Sheet_35
+  - first:
+      213: -5781763551887937255
+    second: 20241017bloodBoilFX-Sheet_36
+  - first:
+      213: -6020667754967916493
+    second: 20241017bloodBoilFX-Sheet_37
+  - first:
+      213: 7016531225199918789
+    second: 20241017bloodBoilFX-Sheet_38
+  - first:
+      213: 2521777274503734435
+    second: 20241017bloodBoilFX-Sheet_39
+  - first:
+      213: -2368939218540809192
+    second: 20241017bloodBoilFX-Sheet_40
+  - first:
+      213: -6419530764795738122
+    second: 20241017bloodBoilFX-Sheet_41
+  - first:
+      213: 1936798685854267281
+    second: 20241017bloodBoilFX-Sheet_42
+  - first:
+      213: 2757268801351041040
+    second: 20241017bloodBoilFX-Sheet_43
+  - first:
+      213: 7848892843597208124
+    second: 20241017bloodBoilFX-Sheet_44
+  - first:
+      213: -2415392115864915421
+    second: 20241017bloodBoilFX-Sheet_45
+  - first:
+      213: -5255977825161514891
+    second: 20241017bloodBoilFX-Sheet_46
+  - first:
+      213: -1555488478232259175
+    second: 20241017bloodBoilFX-Sheet_47
+  - first:
+      213: 7137549595732806114
+    second: 20241017bloodBoilFX-Sheet_48
+  - first:
+      213: 1719620035385513352
+    second: 20241017bloodBoilFX-Sheet_49
+  - first:
+      213: 9144922178716931727
+    second: 20241017bloodBoilFX-Sheet_50
+  - first:
+      213: 5934329272930013453
+    second: 20241017bloodBoilFX-Sheet_51
+  - first:
+      213: -8213094040295794824
+    second: 20241017bloodBoilFX-Sheet_52
+  - first:
+      213: -1911624881994991869
+    second: 20241017bloodBoilFX-Sheet_53
+  - first:
+      213: -5638140343718885080
+    second: 20241017bloodBoilFX-Sheet_54
+  - first:
+      213: 5009047717685873493
+    second: 20241017bloodBoilFX-Sheet_55
+  - first:
+      213: 950716933924905734
+    second: 20241017bloodBoilFX-Sheet_56
+  - first:
+      213: 1881707830944603855
+    second: 20241017bloodBoilFX-Sheet_57
+  - first:
+      213: 610948355697204457
+    second: 20241017bloodBoilFX-Sheet_58
+  - first:
+      213: -6604879187868364383
+    second: 20241017bloodBoilFX-Sheet_59
+  - first:
+      213: 6184433157180775195
+    second: 20241017bloodBoilFX-Sheet_60
+  - first:
+      213: -3667784777790481307
+    second: 20241017bloodBoilFX-Sheet_61
+  - first:
+      213: -3633673215883796625
+    second: 20241017bloodBoilFX-Sheet_62
+  - first:
+      213: 1802082259170202948
+    second: 20241017bloodBoilFX-Sheet_63
+  - first:
+      213: 3780014879697215633
+    second: 20241017bloodBoilFX-Sheet_64
+  - first:
+      213: -6021197109344323866
+    second: 20241017bloodBoilFX-Sheet_65
+  - first:
+      213: 3862434382364995246
+    second: 20241017bloodBoilFX-Sheet_66
+  - first:
+      213: -1187029834172243860
+    second: 20241017bloodBoilFX-Sheet_67
+  - first:
+      213: -4805181743140789490
+    second: 20241017bloodBoilFX-Sheet_68
+  - first:
+      213: -5754747719292766920
+    second: 20241017bloodBoilFX-Sheet_69
+  - first:
+      213: -2070559954583157028
+    second: 20241017bloodBoilFX-Sheet_70
+  - first:
+      213: -4970264141851412934
+    second: 20241017bloodBoilFX-Sheet_71
+  - first:
+      213: 2927589833932802732
+    second: 20241017bloodBoilFX-Sheet_72
+  - first:
+      213: -7196556295756013121
+    second: 20241017bloodBoilFX-Sheet_73
+  - first:
+      213: 7224118131711877175
+    second: 20241017bloodBoilFX-Sheet_74
+  - first:
+      213: 7704908482446900746
+    second: 20241017bloodBoilFX-Sheet_75
+  - first:
+      213: -853839268182874919
+    second: 20241017bloodBoilFX-Sheet_76
+  - first:
+      213: 4547726317787795567
+    second: 20241017bloodBoilFX-Sheet_77
+  - first:
+      213: -5049567226315143998
+    second: 20241017bloodBoilFX-Sheet_78
+  - first:
+      213: 3655909804738249325
+    second: 20241017bloodBoilFX-Sheet_79
+  - first:
+      213: 1811676999951789324
+    second: 20241017bloodBoilFX-Sheet_80
+  - first:
+      213: -1732645173631319690
+    second: 20241017bloodBoilFX-Sheet_81
+  - first:
+      213: -214146371949490902
+    second: 20241017bloodBoilFX-Sheet_82
+  - first:
+      213: 2944008105111778362
+    second: 20241017bloodBoilFX-Sheet_83
+  - first:
+      213: 7486461053685895155
+    second: 20241017bloodBoilFX-Sheet_84
+  - first:
+      213: -8824448077148435955
+    second: 20241017bloodBoilFX-Sheet_85
+  - first:
+      213: -8808685559355191320
+    second: 20241017bloodBoilFX-Sheet_86
+  - first:
+      213: 5151396929471559717
+    second: 20241017bloodBoilFX-Sheet_87
+  - first:
+      213: -536755166946529123
+    second: 20241017bloodBoilFX-Sheet_88
+  - first:
+      213: 8855836136525887803
+    second: 20241017bloodBoilFX-Sheet_89
+  - first:
+      213: -8340211543464760981
+    second: 20241017bloodBoilFX-Sheet_90
+  - first:
+      213: -2240980884129731770
+    second: 20241017bloodBoilFX-Sheet_91
+  - first:
+      213: 3526794202277267233
+    second: 20241017bloodBoilFX-Sheet_92
+  - first:
+      213: 8422478929204361409
+    second: 20241017bloodBoilFX-Sheet_93
+  - first:
+      213: -459769452907657867
+    second: 20241017bloodBoilFX-Sheet_94
+  - first:
+      213: -4201762745937934771
+    second: 20241017bloodBoilFX-Sheet_95
+  - first:
+      213: 6776999523843860720
+    second: 20241017bloodBoilFX-Sheet_96
+  - first:
+      213: -6521653788354003861
+    second: 20241017bloodBoilFX-Sheet_97
+  - first:
+      213: 6063687869255741859
+    second: 20241017bloodBoilFX-Sheet_98
+  - first:
+      213: 7648559014596440991
+    second: 20241017bloodBoilFX-Sheet_99
+  - first:
+      213: 8404278748105873743
+    second: 20241017bloodBoilFX-Sheet_100
+  - first:
+      213: 8801588580191972262
+    second: 20241017bloodBoilFX-Sheet_101
+  - first:
+      213: 2041864497568829811
+    second: 20241017bloodBoilFX-Sheet_102
+  - first:
+      213: 6944484866147293468
+    second: 20241017bloodBoilFX-Sheet_103
+  - first:
+      213: -2498002702222041506
+    second: 20241017bloodBoilFX-Sheet_104
+  - first:
+      213: 8041323937888907113
+    second: 20241017bloodBoilFX-Sheet_105
+  - first:
+      213: -4069103682186624632
+    second: 20241017bloodBoilFX-Sheet_106
+  - first:
+      213: -5863967755502642997
+    second: 20241017bloodBoilFX-Sheet_107
+  - first:
+      213: 6763360877046234357
+    second: 20241017bloodBoilFX-Sheet_108
+  - first:
+      213: -1216264287594930738
+    second: 20241017bloodBoilFX-Sheet_109
+  - first:
+      213: -8867771748914168367
+    second: 20241017bloodBoilFX-Sheet_110
+  - first:
+      213: 1152499921288491352
+    second: 20241017bloodBoilFX-Sheet_111
+  - first:
+      213: 2745585896137839097
+    second: 20241017bloodBoilFX-Sheet_112
+  - first:
+      213: -597126193532183487
+    second: 20241017bloodBoilFX-Sheet_113
+  - first:
+      213: 8558341738792953506
+    second: 20241017bloodBoilFX-Sheet_114
+  - first:
+      213: -710262162041305837
+    second: 20241017bloodBoilFX-Sheet_115
+  - first:
+      213: -2575027300806466478
+    second: 20241017bloodBoilFX-Sheet_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 824
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f096dddfffa7fb0800000000000000
+      internalID: -4649122199500157140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 840
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00974d1c45378a750800000000000000
+      internalID: 6316425285253495040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 808
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d15edcde523770800000000000000
+      internalID: 8589031742064679282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 810
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc95648c023111e0800000000000000
+      internalID: -2228945311229436744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 814
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e47a392fb78c740800000000000000
+      internalID: 5172520453824532069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 810
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b20c0a1af3498b0800000000000000
+      internalID: -5146418510758401211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 810
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ccfcfd34075a210800000000000000
+      internalID: 1343603500660018315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 808
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08db9fe128fa3950800000000000000
+      internalID: 6429724242662381583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 810
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb80c7d72cd20b0800000000000000
+      internalID: -5751727304874606901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 788
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6be758fb3d117b80800000000000000
+      internalID: -8398899686662476946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 800
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a422f5f28e8ab10800000000000000
+      internalID: 1993098125268634254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 790
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b02c6a49ea0cc230800000000000000
+      internalID: 3660312594237628593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 692
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281f201e6497ea60800000000000000
+      internalID: 7703288888079357984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 738
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebda51e6145e690800000000000000
+      internalID: -7573575257287705042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 740
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c625627d14ebb70800000000000000
+      internalID: 8916636704556870814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 732
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a28072c50157a70800000000000000
+      internalID: 8823977032880237153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 694
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d8156a72bc4e300800000000000000
+      internalID: 280572447958338965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 724
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f57efcf3fb62ede0800000000000000
+      internalID: -1305362246318262795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 698
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccbd36b8c5668c80800000000000000
+      internalID: -8320851348795048762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0515a3e551dd3420800000000000000
+      internalID: 2611473525766427918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d69c702eb1e2270800000000000000
+      internalID: 8227544226859674968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 672
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7777d7683bc61e80800000000000000
+      internalID: -8208149827715369092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 668
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aca40e890deb770800000000000000
+      internalID: 8628563291105053302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 688
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bfdffb66145eb00800000000000000
+      internalID: 857163213647510334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 696
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a721cb68378120800000000000000
+      internalID: 2415961760560816637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 612
+        width: 110
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d6c4a32b7a5f9b0800000000000000
+      internalID: -5046943423474668221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 640
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a0bc07d9ac39410800000000000000
+      internalID: 1482751479886055973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 596
+        width: 124
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3efc6bad18ebba0800000000000000
+      internalID: -6071272471278918699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 610
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dceb277ce1dfb50800000000000000
+      internalID: 6628488068531670320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 618
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b813bf92bda856f0800000000000000
+      internalID: -695615159733643085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 614
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916108cfd5a18020800000000000000
+      internalID: 2342335661761192351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 616
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f128957032c3e020800000000000000
+      internalID: 2369951342314136048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 596
+        width: 116
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe3f3f8cd4f5dee0800000000000000
+      internalID: -1236813294510063940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 494
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f5a23837d518440800000000000000
+      internalID: 4936329417277988640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 596
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d67daabccb2e90b0800000000000000
+      internalID: -5720086318408698151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 594
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c426627ee5e3b0800000000000000
+      internalID: -5483714796146341506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 606
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113b62ceac03cfa0800000000000000
+      internalID: -5781763551887937255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 494
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302d72639a427ca0800000000000000
+      internalID: -6020667754967916493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 534
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce3a7169f9bf5160800000000000000
+      internalID: 7016531225199918789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 540
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a279f1172ff220800000000000000
+      internalID: 2521777274503734435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 534
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8143268f456df1fd0800000000000000
+      internalID: -2368939218540809192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 470
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f788a318ce39e6a0800000000000000
+      internalID: -6419530764795738122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 496
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19779c7a424e0ea10800000000000000
+      internalID: 1936798685854267281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 526
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010cbcebd59c34620800000000000000
+      internalID: 2757268801351041040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 496
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a97beb47edcec60800000000000000
+      internalID: 7848892843597208124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 496
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322b79cfaadca7ed0800000000000000
+      internalID: -2415392115864915421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 478
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570faefe3040f07b0800000000000000
+      internalID: -5255977825161514891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995d0ca687bc96ae0800000000000000
+      internalID: -1555488478232259175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 516
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9036c7a8bad0360800000000000000
+      internalID: 7137549595732806114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8855ccdaf415dd710800000000000000
+      internalID: 1719620035385513352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f869309054a49ee70800000000000000
+      internalID: 9144922178716931727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0112354809fa5250800000000000000
+      internalID: 5934329272930013453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8779a453c7a350e80800000000000000
+      internalID: -8213094040295794824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307f3ec4c4b8875e0800000000000000
+      internalID: -1911624881994991869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 406
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82946d2ca3d41c1b0800000000000000
+      internalID: -5638140343718885080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 456
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc5a33c56b38540800000000000000
+      internalID: 5009047717685873493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 406
+        width: 128
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ea88a300a13d00800000000000000
+      internalID: 950716933924905734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 454
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce16827d4b2d1a10800000000000000
+      internalID: 1881707830944603855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 406
+        width: 130
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecd075ea468a7800800000000000000
+      internalID: 610948355697204457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 406
+        width: 126
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a15cbe6f51c654a0800000000000000
+      internalID: -6604879187868364383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 294
+        width: 72
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b58ee903583d550800000000000000
+      internalID: 6184433157180775195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 416
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c96376d29691dc0800000000000000
+      internalID: -3667784777790481307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 302
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f15615679929dc0800000000000000
+      internalID: -3633673215883796625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4459fd15448420910800000000000000
+      internalID: 1802082259170202948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 348
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1902b06718f457430800000000000000
+      internalID: 3780014879697215633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 350
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e63ce67129607ca0800000000000000
+      internalID: -6021197109344323866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaeee115b9f1a9530800000000000000
+      internalID: 3862434382364995246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 300
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606f5ca7a2d68fe0800000000000000
+      internalID: -1187029834172243860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03a6eed9a0905db0800000000000000
+      internalID: -4805181743140789490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 346
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835b09370770320b0800000000000000
+      internalID: -5754747719292766920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd60cec01b4e343e0800000000000000
+      internalID: -2070559954583157028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 332
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b519b813160bb0800000000000000
+      internalID: -4970264141851412934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 302
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0c936173e0a820800000000000000
+      internalID: 2927589833932802732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1ac519d22b02c90800000000000000
+      internalID: -7196556295756013121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73025207a29314460800000000000000
+      internalID: 7224118131711877175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e342341755dea60800000000000000
+      internalID: 7704908482446900746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d42eac95bd8624f0800000000000000
+      internalID: -853839268182874919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60df6bbdf4cc1f30800000000000000
+      internalID: 4547726317787795567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 306
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c408068c555ce9b0800000000000000
+      internalID: -5049567226315143998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d628a4af8966cb230800000000000000
+      internalID: 3655909804738249325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2fddf1ae542910800000000000000
+      internalID: 1811676999951789324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67109eff46864f7e0800000000000000
+      internalID: -1732645173631319690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d03026203370df0800000000000000
+      internalID: -214146371949490902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34fe0906c73bd820800000000000000
+      internalID: 2944008105111778362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 298
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff8eb1d9a045e760800000000000000
+      internalID: 7486461053685895155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 296
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a40be4a33498580800000000000000
+      internalID: -8824448077148435955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 214
+        width: 120
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef4588772341c580800000000000000
+      internalID: -8808685559355191320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 214
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528b03ec6307d7740800000000000000
+      internalID: 5151396929471559717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 234
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90fbcef4001d88f0800000000000000
+      internalID: -536755166946529123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 222
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3971b2cb0046ea70800000000000000
+      internalID: 8855836136525887803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 214
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ab202acd914c80800000000000000
+      internalID: -8340211543464760981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 234
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ba10552cf66e0e0800000000000000
+      internalID: -2240980884129731770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 222
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127c4a624a0b1f030800000000000000
+      internalID: 3526794202277267233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 216
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8307f36f7a2e470800000000000000
+      internalID: 8422478929204361409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 238
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750dd85e129e99f0800000000000000
+      internalID: -459769452907657867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 234
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4646e16b0750b5c0800000000000000
+      internalID: -4201762745937934771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 220
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f864bd292dbc0e50800000000000000
+      internalID: 6776999523843860720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 216
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c3415ce6e6e75a0800000000000000
+      internalID: -6521653788354003861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 224
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a175d38dfb862450800000000000000
+      internalID: 6063687869255741859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 226
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93f1a466e3252a60800000000000000
+      internalID: 7648559014596440991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 226
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49173e5efef1a470800000000000000
+      internalID: 8404278748105873743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 220
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab2a7d4e26852a70800000000000000
+      internalID: 8801588580191972262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 42
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371521931f8265c10800000000000000
+      internalID: 2041864497568829811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 32
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1919ca3134cf5060800000000000000
+      internalID: 6944484866147293468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 46
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed61ef6cf455dd0800000000000000
+      internalID: -2498002702222041506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 32
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa6b94485889f60800000000000000
+      internalID: 8041323937888907113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 44
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881480592c3a787c0800000000000000
+      internalID: -4069103682186624632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 44
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc89bee15600f9ea0800000000000000
+      internalID: -5863967755502642997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 32
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc7d1442e84cdd50800000000000000
+      internalID: 6763360877046234357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd19e01316fe1fe0800000000000000
+      internalID: -1216264287594930738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 24
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddf9bce3985fe480800000000000000
+      internalID: -8867771748914168367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 26
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f01c72908eff00800000000000000
+      internalID: 1152499921288491352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f15e9763d74a1620800000000000000
+      internalID: 2745585896137839097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 24
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cde6404e496b7f0800000000000000
+      internalID: -597126193532183487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62727a77655c670800000000000000
+      internalID: 8558341738792953506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 24
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158026a354a426f0800000000000000
+      internalID: -710262162041305837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241017bloodBoilFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546f70205aa34cd0800000000000000
+      internalID: -2575027300806466478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241017bloodBoilFX-Sheet_0: -4649122199500157140
+      20241017bloodBoilFX-Sheet_1: 6316425285253495040
+      20241017bloodBoilFX-Sheet_10: 1993098125268634254
+      20241017bloodBoilFX-Sheet_100: 8404278748105873743
+      20241017bloodBoilFX-Sheet_101: 8801588580191972262
+      20241017bloodBoilFX-Sheet_102: 2041864497568829811
+      20241017bloodBoilFX-Sheet_103: 6944484866147293468
+      20241017bloodBoilFX-Sheet_104: -2498002702222041506
+      20241017bloodBoilFX-Sheet_105: 8041323937888907113
+      20241017bloodBoilFX-Sheet_106: -4069103682186624632
+      20241017bloodBoilFX-Sheet_107: -5863967755502642997
+      20241017bloodBoilFX-Sheet_108: 6763360877046234357
+      20241017bloodBoilFX-Sheet_109: -1216264287594930738
+      20241017bloodBoilFX-Sheet_11: 3660312594237628593
+      20241017bloodBoilFX-Sheet_110: -8867771748914168367
+      20241017bloodBoilFX-Sheet_111: 1152499921288491352
+      20241017bloodBoilFX-Sheet_112: 2745585896137839097
+      20241017bloodBoilFX-Sheet_113: -597126193532183487
+      20241017bloodBoilFX-Sheet_114: 8558341738792953506
+      20241017bloodBoilFX-Sheet_115: -710262162041305837
+      20241017bloodBoilFX-Sheet_116: -2575027300806466478
+      20241017bloodBoilFX-Sheet_12: 7703288888079357984
+      20241017bloodBoilFX-Sheet_13: -7573575257287705042
+      20241017bloodBoilFX-Sheet_14: 8916636704556870814
+      20241017bloodBoilFX-Sheet_15: 8823977032880237153
+      20241017bloodBoilFX-Sheet_16: 280572447958338965
+      20241017bloodBoilFX-Sheet_17: -1305362246318262795
+      20241017bloodBoilFX-Sheet_18: -8320851348795048762
+      20241017bloodBoilFX-Sheet_19: 2611473525766427918
+      20241017bloodBoilFX-Sheet_2: 8589031742064679282
+      20241017bloodBoilFX-Sheet_20: 8227544226859674968
+      20241017bloodBoilFX-Sheet_21: -8208149827715369092
+      20241017bloodBoilFX-Sheet_22: 8628563291105053302
+      20241017bloodBoilFX-Sheet_23: 857163213647510334
+      20241017bloodBoilFX-Sheet_24: 2415961760560816637
+      20241017bloodBoilFX-Sheet_25: -5046943423474668221
+      20241017bloodBoilFX-Sheet_26: 1482751479886055973
+      20241017bloodBoilFX-Sheet_27: -6071272471278918699
+      20241017bloodBoilFX-Sheet_28: 6628488068531670320
+      20241017bloodBoilFX-Sheet_29: -695615159733643085
+      20241017bloodBoilFX-Sheet_3: -2228945311229436744
+      20241017bloodBoilFX-Sheet_30: 2342335661761192351
+      20241017bloodBoilFX-Sheet_31: 2369951342314136048
+      20241017bloodBoilFX-Sheet_32: -1236813294510063940
+      20241017bloodBoilFX-Sheet_33: 4936329417277988640
+      20241017bloodBoilFX-Sheet_34: -5720086318408698151
+      20241017bloodBoilFX-Sheet_35: -5483714796146341506
+      20241017bloodBoilFX-Sheet_36: -5781763551887937255
+      20241017bloodBoilFX-Sheet_37: -6020667754967916493
+      20241017bloodBoilFX-Sheet_38: 7016531225199918789
+      20241017bloodBoilFX-Sheet_39: 2521777274503734435
+      20241017bloodBoilFX-Sheet_4: 5172520453824532069
+      20241017bloodBoilFX-Sheet_40: -2368939218540809192
+      20241017bloodBoilFX-Sheet_41: -6419530764795738122
+      20241017bloodBoilFX-Sheet_42: 1936798685854267281
+      20241017bloodBoilFX-Sheet_43: 2757268801351041040
+      20241017bloodBoilFX-Sheet_44: 7848892843597208124
+      20241017bloodBoilFX-Sheet_45: -2415392115864915421
+      20241017bloodBoilFX-Sheet_46: -5255977825161514891
+      20241017bloodBoilFX-Sheet_47: -1555488478232259175
+      20241017bloodBoilFX-Sheet_48: 7137549595732806114
+      20241017bloodBoilFX-Sheet_49: 1719620035385513352
+      20241017bloodBoilFX-Sheet_5: -5146418510758401211
+      20241017bloodBoilFX-Sheet_50: 9144922178716931727
+      20241017bloodBoilFX-Sheet_51: 5934329272930013453
+      20241017bloodBoilFX-Sheet_52: -8213094040295794824
+      20241017bloodBoilFX-Sheet_53: -1911624881994991869
+      20241017bloodBoilFX-Sheet_54: -5638140343718885080
+      20241017bloodBoilFX-Sheet_55: 5009047717685873493
+      20241017bloodBoilFX-Sheet_56: 950716933924905734
+      20241017bloodBoilFX-Sheet_57: 1881707830944603855
+      20241017bloodBoilFX-Sheet_58: 610948355697204457
+      20241017bloodBoilFX-Sheet_59: -6604879187868364383
+      20241017bloodBoilFX-Sheet_6: 1343603500660018315
+      20241017bloodBoilFX-Sheet_60: 6184433157180775195
+      20241017bloodBoilFX-Sheet_61: -3667784777790481307
+      20241017bloodBoilFX-Sheet_62: -3633673215883796625
+      20241017bloodBoilFX-Sheet_63: 1802082259170202948
+      20241017bloodBoilFX-Sheet_64: 3780014879697215633
+      20241017bloodBoilFX-Sheet_65: -6021197109344323866
+      20241017bloodBoilFX-Sheet_66: 3862434382364995246
+      20241017bloodBoilFX-Sheet_67: -1187029834172243860
+      20241017bloodBoilFX-Sheet_68: -4805181743140789490
+      20241017bloodBoilFX-Sheet_69: -5754747719292766920
+      20241017bloodBoilFX-Sheet_7: 6429724242662381583
+      20241017bloodBoilFX-Sheet_70: -2070559954583157028
+      20241017bloodBoilFX-Sheet_71: -4970264141851412934
+      20241017bloodBoilFX-Sheet_72: 2927589833932802732
+      20241017bloodBoilFX-Sheet_73: -7196556295756013121
+      20241017bloodBoilFX-Sheet_74: 7224118131711877175
+      20241017bloodBoilFX-Sheet_75: 7704908482446900746
+      20241017bloodBoilFX-Sheet_76: -853839268182874919
+      20241017bloodBoilFX-Sheet_77: 4547726317787795567
+      20241017bloodBoilFX-Sheet_78: -5049567226315143998
+      20241017bloodBoilFX-Sheet_79: 3655909804738249325
+      20241017bloodBoilFX-Sheet_8: -5751727304874606901
+      20241017bloodBoilFX-Sheet_80: 1811676999951789324
+      20241017bloodBoilFX-Sheet_81: -1732645173631319690
+      20241017bloodBoilFX-Sheet_82: -214146371949490902
+      20241017bloodBoilFX-Sheet_83: 2944008105111778362
+      20241017bloodBoilFX-Sheet_84: 7486461053685895155
+      20241017bloodBoilFX-Sheet_85: -8824448077148435955
+      20241017bloodBoilFX-Sheet_86: -8808685559355191320
+      20241017bloodBoilFX-Sheet_87: 5151396929471559717
+      20241017bloodBoilFX-Sheet_88: -536755166946529123
+      20241017bloodBoilFX-Sheet_89: 8855836136525887803
+      20241017bloodBoilFX-Sheet_9: -8398899686662476946
+      20241017bloodBoilFX-Sheet_90: -8340211543464760981
+      20241017bloodBoilFX-Sheet_91: -2240980884129731770
+      20241017bloodBoilFX-Sheet_92: 3526794202277267233
+      20241017bloodBoilFX-Sheet_93: 8422478929204361409
+      20241017bloodBoilFX-Sheet_94: -459769452907657867
+      20241017bloodBoilFX-Sheet_95: -4201762745937934771
+      20241017bloodBoilFX-Sheet_96: 6776999523843860720
+      20241017bloodBoilFX-Sheet_97: -6521653788354003861
+      20241017bloodBoilFX-Sheet_98: 6063687869255741859
+      20241017bloodBoilFX-Sheet_99: 7648559014596440991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

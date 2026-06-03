@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: e2ce607e0f37a2540a63753f225dfc1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2995512687164634834
+    second: 20221110bundleBarrierFX-Sheet_0
+  - first:
+      213: -1248298679186141582
+    second: 20221110bundleBarrierFX-Sheet_1
+  - first:
+      213: -5962430356893549808
+    second: 20221110bundleBarrierFX-Sheet_2
+  - first:
+      213: -7271376048202900027
+    second: 20221110bundleBarrierFX-Sheet_3
+  - first:
+      213: -3003630172648378700
+    second: 20221110bundleBarrierFX-Sheet_4
+  - first:
+      213: -473680522612646512
+    second: 20221110bundleBarrierFX-Sheet_5
+  - first:
+      213: 8893407183304567705
+    second: 20221110bundleBarrierFX-Sheet_6
+  - first:
+      213: -2854210458972523041
+    second: 20221110bundleBarrierFX-Sheet_7
+  - first:
+      213: -7335103528351524726
+    second: 20221110bundleBarrierFX-Sheet_8
+  - first:
+      213: 4242702189280768605
+    second: 20221110bundleBarrierFX-Sheet_9
+  - first:
+      213: 729385226449322563
+    second: 20221110bundleBarrierFX-Sheet_10
+  - first:
+      213: 4981580389845069054
+    second: 20221110bundleBarrierFX-Sheet_11
+  - first:
+      213: -5887812212457670496
+    second: 20221110bundleBarrierFX-Sheet_12
+  - first:
+      213: 5364442956660591112
+    second: 20221110bundleBarrierFX-Sheet_13
+  - first:
+      213: 620576810850784459
+    second: 20221110bundleBarrierFX-Sheet_14
+  - first:
+      213: -7312729643072265476
+    second: 20221110bundleBarrierFX-Sheet_15
+  - first:
+      213: -3522581828933541826
+    second: 20221110bundleBarrierFX-Sheet_16
+  - first:
+      213: 2437207130673386137
+    second: 20221110bundleBarrierFX-Sheet_17
+  - first:
+      213: -6573276412517816084
+    second: 20221110bundleBarrierFX-Sheet_18
+  - first:
+      213: 7852762126102774033
+    second: 20221110bundleBarrierFX-Sheet_19
+  - first:
+      213: 485963670030127091
+    second: 20221110bundleBarrierFX-Sheet_20
+  - first:
+      213: 8652869619570803592
+    second: 20221110bundleBarrierFX-Sheet_21
+  - first:
+      213: 6161505846433219631
+    second: 20221110bundleBarrierFX-Sheet_22
+  - first:
+      213: 586349974330963962
+    second: 20221110bundleBarrierFX-Sheet_23
+  - first:
+      213: 2671636687233521895
+    second: 20221110bundleBarrierFX-Sheet_24
+  - first:
+      213: -6424920159054905652
+    second: 20221110bundleBarrierFX-Sheet_25
+  - first:
+      213: 1920239945394803762
+    second: 20221110bundleBarrierFX-Sheet_26
+  - first:
+      213: 7913591163174176102
+    second: 20221110bundleBarrierFX-Sheet_27
+  - first:
+      213: -5597658852864387204
+    second: 20221110bundleBarrierFX-Sheet_28
+  - first:
+      213: -3987325615646831872
+    second: 20221110bundleBarrierFX-Sheet_29
+  - first:
+      213: 417195124825039159
+    second: 20221110bundleBarrierFX-Sheet_30
+  - first:
+      213: 5504126242093435314
+    second: 20221110bundleBarrierFX-Sheet_31
+  - first:
+      213: 6985462977998171355
+    second: 20221110bundleBarrierFX-Sheet_32
+  - first:
+      213: 5311057774407416972
+    second: 20221110bundleBarrierFX-Sheet_33
+  - first:
+      213: 4327068379277358842
+    second: 20221110bundleBarrierFX-Sheet_34
+  - first:
+      213: 7212213126762135723
+    second: 20221110bundleBarrierFX-Sheet_35
+  - first:
+      213: -223337533608981691
+    second: 20221110bundleBarrierFX-Sheet_36
+  - first:
+      213: -8918203649605872268
+    second: 20221110bundleBarrierFX-Sheet_37
+  - first:
+      213: 6097266411997328031
+    second: 20221110bundleBarrierFX-Sheet_38
+  - first:
+      213: 7021592266615263051
+    second: 20221110bundleBarrierFX-Sheet_39
+  - first:
+      213: 2423341396119266024
+    second: 20221110bundleBarrierFX-Sheet_40
+  - first:
+      213: -6247128618437568466
+    second: 20221110bundleBarrierFX-Sheet_41
+  - first:
+      213: 1439219682354960888
+    second: 20221110bundleBarrierFX-Sheet_42
+  - first:
+      213: -5486946757880421097
+    second: 20221110bundleBarrierFX-Sheet_43
+  - first:
+      213: 3475626182552337026
+    second: 20221110bundleBarrierFX-Sheet_44
+  - first:
+      213: -2132328922755986677
+    second: 20221110bundleBarrierFX-Sheet_45
+  - first:
+      213: -4488542959425648589
+    second: 20221110bundleBarrierFX-Sheet_46
+  - first:
+      213: 4517795335827009270
+    second: 20221110bundleBarrierFX-Sheet_47
+  - first:
+      213: -6709927503857443853
+    second: 20221110bundleBarrierFX-Sheet_48
+  - first:
+      213: 989440836739346636
+    second: 20221110bundleBarrierFX-Sheet_49
+  - first:
+      213: 1194158692819060816
+    second: 20221110bundleBarrierFX-Sheet_50
+  - first:
+      213: -2627862628645786807
+    second: 20221110bundleBarrierFX-Sheet_51
+  - first:
+      213: -3656491594970007939
+    second: 20221110bundleBarrierFX-Sheet_52
+  - first:
+      213: -9008301765476471621
+    second: 20221110bundleBarrierFX-Sheet_53
+  - first:
+      213: 4629761515283628505
+    second: 20221110bundleBarrierFX-Sheet_54
+  - first:
+      213: -3942925991894735304
+    second: 20221110bundleBarrierFX-Sheet_55
+  - first:
+      213: -3617596853318677332
+    second: 20221110bundleBarrierFX-Sheet_56
+  - first:
+      213: 3819575409167961982
+    second: 20221110bundleBarrierFX-Sheet_57
+  - first:
+      213: -1725938558687832428
+    second: 20221110bundleBarrierFX-Sheet_58
+  - first:
+      213: 7519985816322509073
+    second: 20221110bundleBarrierFX-Sheet_59
+  - first:
+      213: -3220352949416712343
+    second: 20221110bundleBarrierFX-Sheet_60
+  - first:
+      213: 2167989036766531499
+    second: 20221110bundleBarrierFX-Sheet_61
+  - first:
+      213: -3568674424176448847
+    second: 20221110bundleBarrierFX-Sheet_62
+  - first:
+      213: 4490418160872917385
+    second: 20221110bundleBarrierFX-Sheet_63
+  - first:
+      213: -36264266787867133
+    second: 20221110bundleBarrierFX-Sheet_64
+  - first:
+      213: -353944268276280350
+    second: 20221110bundleBarrierFX-Sheet_65
+  - first:
+      213: 8764141596830709676
+    second: 20221110bundleBarrierFX-Sheet_66
+  - first:
+      213: 2545188719883442768
+    second: 20221110bundleBarrierFX-Sheet_67
+  - first:
+      213: -3497604469965939621
+    second: 20221110bundleBarrierFX-Sheet_68
+  - first:
+      213: 1041724280969711802
+    second: 20221110bundleBarrierFX-Sheet_69
+  - first:
+      213: 4392853006268267460
+    second: 20221110bundleBarrierFX-Sheet_70
+  - first:
+      213: 5077957382019702619
+    second: 20221110bundleBarrierFX-Sheet_71
+  - first:
+      213: 4666785485981980928
+    second: 20221110bundleBarrierFX-Sheet_72
+  - first:
+      213: 2117733748360637815
+    second: 20221110bundleBarrierFX-Sheet_73
+  - first:
+      213: -2406979354581103034
+    second: 20221110bundleBarrierFX-Sheet_74
+  - first:
+      213: 2876048368773424789
+    second: 20221110bundleBarrierFX-Sheet_75
+  - first:
+      213: 526686057216303755
+    second: 20221110bundleBarrierFX-Sheet_76
+  - first:
+      213: -598081446485790654
+    second: 20221110bundleBarrierFX-Sheet_77
+  - first:
+      213: -789171911822505261
+    second: 20221110bundleBarrierFX-Sheet_78
+  - first:
+      213: -1525448225231742227
+    second: 20221110bundleBarrierFX-Sheet_79
+  - first:
+      213: -4053280967729652445
+    second: 20221110bundleBarrierFX-Sheet_80
+  - first:
+      213: -2791754949429707561
+    second: 20221110bundleBarrierFX-Sheet_81
+  - first:
+      213: 680292563102355349
+    second: 20221110bundleBarrierFX-Sheet_82
+  - first:
+      213: -5105215992682348318
+    second: 20221110bundleBarrierFX-Sheet_83
+  - first:
+      213: 4957015017325241788
+    second: 20221110bundleBarrierFX-Sheet_84
+  - first:
+      213: 537583685275699016
+    second: 20221110bundleBarrierFX-Sheet_85
+  - first:
+      213: -2981723695137213783
+    second: 20221110bundleBarrierFX-Sheet_86
+  - first:
+      213: -1681629484345965114
+    second: 20221110bundleBarrierFX-Sheet_87
+  - first:
+      213: -5300290902174809071
+    second: 20221110bundleBarrierFX-Sheet_88
+  - first:
+      213: -4785062307996788936
+    second: 20221110bundleBarrierFX-Sheet_89
+  - first:
+      213: -4767062371278803357
+    second: 20221110bundleBarrierFX-Sheet_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 650
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6bf960be2329920800000000000000
+      internalID: 2995512687164634834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 686
+        width: 70
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e458d07f62daee0800000000000000
+      internalID: -1248298679186141582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 632
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bba534e21314da0800000000000000
+      internalID: -5962430356893549808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 694
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd15927202e61b90800000000000000
+      internalID: -7271376048202900027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 704
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bee5aa9546f056d0800000000000000
+      internalID: -3003630172648378700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 668
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dd6a803162d69f0800000000000000
+      internalID: -473680522612646512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 680
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba6c3c6babb6b70800000000000000
+      internalID: 8893407183304567705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 680
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5fcb6b5bec368d0800000000000000
+      internalID: -2854210458972523041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 688
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8894e9343a743a90800000000000000
+      internalID: -7335103528351524726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 632
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d523adf892b11ea30800000000000000
+      internalID: 4242702189280768605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 668
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3420eeebffb4f1a00800000000000000
+      internalID: 729385226449322563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc64c498f0222540800000000000000
+      internalID: 4981580389845069054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 668
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8f04cdcf94a4ea0800000000000000
+      internalID: -5887812212457670496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 668
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ac9917274527a40800000000000000
+      internalID: 5364442956660591112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 634
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc41b9e425bbc9800800000000000000
+      internalID: 620576810850784459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 656
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf265365227f38a90800000000000000
+      internalID: -7312729643072265476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 636
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30ab227d764d1fc0800000000000000
+      internalID: -3522581828933541826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 634
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99216d3f8f2b2d120800000000000000
+      internalID: 2437207130673386137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 634
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8eb65fde707c4a0800000000000000
+      internalID: -6573276412517816084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 642
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1114ff74c8d9afc60800000000000000
+      internalID: 7852762126102774033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 634
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff04e5126d7eb600800000000000000
+      internalID: 485963670030127091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 634
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883894af21b251870800000000000000
+      internalID: 8652869619570803592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 636
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24052a1ce0128550800000000000000
+      internalID: 6161505846433219631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 634
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af77e0ee132232800800000000000000
+      internalID: 586349974330963962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 440
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8947f796f831520800000000000000
+      internalID: 2671636687233521895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 448
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce3941f72916d6a0800000000000000
+      internalID: -6424920159054905652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 440
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d5c47e0016aa10800000000000000
+      internalID: 1920239945394803762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 476
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665caa22c39b2dd60800000000000000
+      internalID: 7913591163174176102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 464
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7792355eee1152b0800000000000000
+      internalID: -5597658852864387204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 440
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0e837a7c2aa8c0800000000000000
+      internalID: -3987325615646831872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731a83171cc2ac500800000000000000
+      internalID: 417195124825039159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 284
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b982e2b7a5926c40800000000000000
+      internalID: 5504126242093435314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 248
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2933619951f060800000000000000
+      internalID: 6985462977998171355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 284
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c712918eaa4b940800000000000000
+      internalID: 5311057774407416972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 288
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f6a1e3c5dc0c30800000000000000
+      internalID: 4327068379277358842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 306
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0011970ade61460800000000000000
+      internalID: 7212213126762135723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 308
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b893c42bb86ecf0800000000000000
+      internalID: -223337533608981691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 278
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47556a6080d2c3480800000000000000
+      internalID: -8918203649605872268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 282
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92750c3f77dd9450800000000000000
+      internalID: 6097266411997328031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 274
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f8b39e6f4b17160800000000000000
+      internalID: 7021592266615263051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 264
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2203d092071a120800000000000000
+      internalID: 2423341396119266024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 248
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e281ad7ce9dbd49a0800000000000000
+      internalID: -6247128618437568466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 250
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f994800da229f310800000000000000
+      internalID: 1439219682354960888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 116
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7156e0baef27ad3b0800000000000000
+      internalID: -5486946757880421097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a341f2997eb3030800000000000000
+      internalID: 3475626182552337026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b86de64227862e0800000000000000
+      internalID: -2132328922755986677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 118
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3388a50b5fd75b1c0800000000000000
+      internalID: -4488542959425648589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 118
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fea2efebee62be30800000000000000
+      internalID: 4517795335827009270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 108
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb14f76c7c81e2a0800000000000000
+      internalID: -6709927503857443853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 124
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc03d10e2333bbd00800000000000000
+      internalID: 989440836739346636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058cce21101829010800000000000000
+      internalID: 1194158692819060816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2b0dbcd4f78bd0800000000000000
+      internalID: -2627862628645786807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 110
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d767c9d6448814dc0800000000000000
+      internalID: -3656491594970007939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc2047b5451cf280800000000000000
+      internalID: -9008301765476471621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d141419197304040800000000000000
+      internalID: 4629761515283628505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 92
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836a57d63b9e749c0800000000000000
+      internalID: -3942925991894735304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 114
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8e5924d6bbcdc0800000000000000
+      internalID: -3617596853318677332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f0640099bd10530800000000000000
+      internalID: 3819575409167961982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4961349760c3c08e0800000000000000
+      internalID: -1725938558687832428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11901e1e14b5c5860800000000000000
+      internalID: 7519985816322509073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a2aefd020f43d0800000000000000
+      internalID: -3220352949416712343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 102
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf096dda8e361e10800000000000000
+      internalID: 2167989036766531499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 92
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae0f3d485897ec0800000000000000
+      internalID: -3568674424176448847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9890bcba68b215e30800000000000000
+      internalID: 4490418160872917385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 102
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b11c67d92f7ff0800000000000000
+      internalID: -36264266787867133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 86
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35b133099861bf0800000000000000
+      internalID: -353944268276280350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b150195c70a970800000000000000
+      internalID: 8764141596830709676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 96
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05adbfed7a3525320800000000000000
+      internalID: 2545188719883442768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c9cd20443067fc0800000000000000
+      internalID: -3497604469965939621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab05919d6b2f47e00800000000000000
+      internalID: 1041724280969711802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb702de88c86fc30800000000000000
+      internalID: 4392853006268267460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 70
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f5bd3b557887640800000000000000
+      internalID: 5077957382019702619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 76
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00997ee7ca0c3c040800000000000000
+      internalID: 4666785485981980928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d64e7bf93b36d10800000000000000
+      internalID: 2117733748360637815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 88
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e8e7c9701b89ed0800000000000000
+      internalID: -2406979354581103034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 68
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596e491e0c6c9e720800000000000000
+      internalID: 2876048368773424789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 92
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b826784bd2a2f4700800000000000000
+      internalID: 526686057216303755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240767bd71033b7f0800000000000000
+      internalID: -598081446485790654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 56
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da8a11d35c4c05f0800000000000000
+      internalID: -789171911822505261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 88
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deadfcbdbe484dae0800000000000000
+      internalID: -1525448225231742227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 68
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d5f9f5f6adfb7c0800000000000000
+      internalID: -4053280967729652445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 68
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcbd433aa1b149d0800000000000000
+      internalID: -2791754949429707561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 78
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f4e075b72e07900800000000000000
+      internalID: 680292563102355349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 58
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0868e6a11a629b0800000000000000
+      internalID: -5105215992682348318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 60
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5a2f515eadac440800000000000000
+      internalID: 4957015017325241788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 58
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84747e57381e57700800000000000000
+      internalID: 537583685275699016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a23bfcd81ace96d0800000000000000
+      internalID: -2981723695137213783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 56
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c54cb5c4e6a9a8e0800000000000000
+      internalID: -1681629484345965114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 58
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114c2a1b1859176b0800000000000000
+      internalID: -5300290902174809071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 56
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8379db7ee2b089db0800000000000000
+      internalID: -4785062307996788936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleBarrierFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 60
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eabc1c70ef7ddb0800000000000000
+      internalID: -4767062371278803357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundleBarrierFX-Sheet_0: 2995512687164634834
+      20221110bundleBarrierFX-Sheet_1: -1248298679186141582
+      20221110bundleBarrierFX-Sheet_10: 729385226449322563
+      20221110bundleBarrierFX-Sheet_11: 4981580389845069054
+      20221110bundleBarrierFX-Sheet_12: -5887812212457670496
+      20221110bundleBarrierFX-Sheet_13: 5364442956660591112
+      20221110bundleBarrierFX-Sheet_14: 620576810850784459
+      20221110bundleBarrierFX-Sheet_15: -7312729643072265476
+      20221110bundleBarrierFX-Sheet_16: -3522581828933541826
+      20221110bundleBarrierFX-Sheet_17: 2437207130673386137
+      20221110bundleBarrierFX-Sheet_18: -6573276412517816084
+      20221110bundleBarrierFX-Sheet_19: 7852762126102774033
+      20221110bundleBarrierFX-Sheet_2: -5962430356893549808
+      20221110bundleBarrierFX-Sheet_20: 485963670030127091
+      20221110bundleBarrierFX-Sheet_21: 8652869619570803592
+      20221110bundleBarrierFX-Sheet_22: 6161505846433219631
+      20221110bundleBarrierFX-Sheet_23: 586349974330963962
+      20221110bundleBarrierFX-Sheet_24: 2671636687233521895
+      20221110bundleBarrierFX-Sheet_25: -6424920159054905652
+      20221110bundleBarrierFX-Sheet_26: 1920239945394803762
+      20221110bundleBarrierFX-Sheet_27: 7913591163174176102
+      20221110bundleBarrierFX-Sheet_28: -5597658852864387204
+      20221110bundleBarrierFX-Sheet_29: -3987325615646831872
+      20221110bundleBarrierFX-Sheet_3: -7271376048202900027
+      20221110bundleBarrierFX-Sheet_30: 417195124825039159
+      20221110bundleBarrierFX-Sheet_31: 5504126242093435314
+      20221110bundleBarrierFX-Sheet_32: 6985462977998171355
+      20221110bundleBarrierFX-Sheet_33: 5311057774407416972
+      20221110bundleBarrierFX-Sheet_34: 4327068379277358842
+      20221110bundleBarrierFX-Sheet_35: 7212213126762135723
+      20221110bundleBarrierFX-Sheet_36: -223337533608981691
+      20221110bundleBarrierFX-Sheet_37: -8918203649605872268
+      20221110bundleBarrierFX-Sheet_38: 6097266411997328031
+      20221110bundleBarrierFX-Sheet_39: 7021592266615263051
+      20221110bundleBarrierFX-Sheet_4: -3003630172648378700
+      20221110bundleBarrierFX-Sheet_40: 2423341396119266024
+      20221110bundleBarrierFX-Sheet_41: -6247128618437568466
+      20221110bundleBarrierFX-Sheet_42: 1439219682354960888
+      20221110bundleBarrierFX-Sheet_43: -5486946757880421097
+      20221110bundleBarrierFX-Sheet_44: 3475626182552337026
+      20221110bundleBarrierFX-Sheet_45: -2132328922755986677
+      20221110bundleBarrierFX-Sheet_46: -4488542959425648589
+      20221110bundleBarrierFX-Sheet_47: 4517795335827009270
+      20221110bundleBarrierFX-Sheet_48: -6709927503857443853
+      20221110bundleBarrierFX-Sheet_49: 989440836739346636
+      20221110bundleBarrierFX-Sheet_5: -473680522612646512
+      20221110bundleBarrierFX-Sheet_50: 1194158692819060816
+      20221110bundleBarrierFX-Sheet_51: -2627862628645786807
+      20221110bundleBarrierFX-Sheet_52: -3656491594970007939
+      20221110bundleBarrierFX-Sheet_53: -9008301765476471621
+      20221110bundleBarrierFX-Sheet_54: 4629761515283628505
+      20221110bundleBarrierFX-Sheet_55: -3942925991894735304
+      20221110bundleBarrierFX-Sheet_56: -3617596853318677332
+      20221110bundleBarrierFX-Sheet_57: 3819575409167961982
+      20221110bundleBarrierFX-Sheet_58: -1725938558687832428
+      20221110bundleBarrierFX-Sheet_59: 7519985816322509073
+      20221110bundleBarrierFX-Sheet_6: 8893407183304567705
+      20221110bundleBarrierFX-Sheet_60: -3220352949416712343
+      20221110bundleBarrierFX-Sheet_61: 2167989036766531499
+      20221110bundleBarrierFX-Sheet_62: -3568674424176448847
+      20221110bundleBarrierFX-Sheet_63: 4490418160872917385
+      20221110bundleBarrierFX-Sheet_64: -36264266787867133
+      20221110bundleBarrierFX-Sheet_65: -353944268276280350
+      20221110bundleBarrierFX-Sheet_66: 8764141596830709676
+      20221110bundleBarrierFX-Sheet_67: 2545188719883442768
+      20221110bundleBarrierFX-Sheet_68: -3497604469965939621
+      20221110bundleBarrierFX-Sheet_69: 1041724280969711802
+      20221110bundleBarrierFX-Sheet_7: -2854210458972523041
+      20221110bundleBarrierFX-Sheet_70: 4392853006268267460
+      20221110bundleBarrierFX-Sheet_71: 5077957382019702619
+      20221110bundleBarrierFX-Sheet_72: 4666785485981980928
+      20221110bundleBarrierFX-Sheet_73: 2117733748360637815
+      20221110bundleBarrierFX-Sheet_74: -2406979354581103034
+      20221110bundleBarrierFX-Sheet_75: 2876048368773424789
+      20221110bundleBarrierFX-Sheet_76: 526686057216303755
+      20221110bundleBarrierFX-Sheet_77: -598081446485790654
+      20221110bundleBarrierFX-Sheet_78: -789171911822505261
+      20221110bundleBarrierFX-Sheet_79: -1525448225231742227
+      20221110bundleBarrierFX-Sheet_8: -7335103528351524726
+      20221110bundleBarrierFX-Sheet_80: -4053280967729652445
+      20221110bundleBarrierFX-Sheet_81: -2791754949429707561
+      20221110bundleBarrierFX-Sheet_82: 680292563102355349
+      20221110bundleBarrierFX-Sheet_83: -5105215992682348318
+      20221110bundleBarrierFX-Sheet_84: 4957015017325241788
+      20221110bundleBarrierFX-Sheet_85: 537583685275699016
+      20221110bundleBarrierFX-Sheet_86: -2981723695137213783
+      20221110bundleBarrierFX-Sheet_87: -1681629484345965114
+      20221110bundleBarrierFX-Sheet_88: -5300290902174809071
+      20221110bundleBarrierFX-Sheet_89: -4785062307996788936
+      20221110bundleBarrierFX-Sheet_9: 4242702189280768605
+      20221110bundleBarrierFX-Sheet_90: -4767062371278803357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

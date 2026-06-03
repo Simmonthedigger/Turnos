@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 09a8d3b835ba6ad4d9b736890e74f44e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6924748289068766313
+    second: vfx-haste_0
+  - first:
+      213: -6130827765626403218
+    second: vfx-haste_1
+  - first:
+      213: 1475194280137081992
+    second: vfx-haste_2
+  - first:
+      213: -7953375636552035906
+    second: vfx-haste_3
+  - first:
+      213: 6835222929427042863
+    second: vfx-haste_4
+  - first:
+      213: -297901147972464611
+    second: vfx-haste_5
+  - first:
+      213: -5322544219211111182
+    second: vfx-haste_6
+  - first:
+      213: 2003824962138309645
+    second: vfx-haste_7
+  - first:
+      213: -9088762138047157760
+    second: vfx-haste_8
+  - first:
+      213: 7366037237240422102
+    second: vfx-haste_9
+  - first:
+      213: -7352220270085271514
+    second: vfx-haste_10
+  - first:
+      213: -4607693101298069775
+    second: vfx-haste_11
+  - first:
+      213: 5232317430411265775
+    second: vfx-haste_12
+  - first:
+      213: 5206937324418727495
+    second: vfx-haste_13
+  - first:
+      213: 1328347904064453502
+    second: vfx-haste_14
+  - first:
+      213: 3658929133587090798
+    second: vfx-haste_15
+  - first:
+      213: 3799449995775431977
+    second: vfx-haste_16
+  - first:
+      213: 283476741102657953
+    second: vfx-haste_17
+  - first:
+      213: -4917299581270978817
+    second: vfx-haste_18
+  - first:
+      213: 3068999880568000958
+    second: vfx-haste_19
+  - first:
+      213: -1308432965930583027
+    second: vfx-haste_20
+  - first:
+      213: 5074004686552596632
+    second: vfx-haste_21
+  - first:
+      213: 2945555986498736843
+    second: vfx-haste_22
+  - first:
+      213: -5587048436883759523
+    second: vfx-haste_23
+  - first:
+      213: -5912975326607082872
+    second: vfx-haste_24
+  - first:
+      213: -735660122948047059
+    second: vfx-haste_25
+  - first:
+      213: 4770234438148376133
+    second: vfx-haste_26
+  - first:
+      213: 2476138599800642168
+    second: vfx-haste_27
+  - first:
+      213: -2688970716902434857
+    second: vfx-haste_28
+  - first:
+      213: 6389734299308256529
+    second: vfx-haste_29
+  - first:
+      213: -6026143284132772075
+    second: vfx-haste_30
+  - first:
+      213: -2723095137588543741
+    second: vfx-haste_31
+  - first:
+      213: -3326362177311825230
+    second: vfx-haste_32
+  - first:
+      213: -576750513764042849
+    second: vfx-haste_33
+  - first:
+      213: 5435024683970275001
+    second: vfx-haste_34
+  - first:
+      213: -3518362660443575365
+    second: vfx-haste_35
+  - first:
+      213: 2940464398705898468
+    second: vfx-haste_36
+  - first:
+      213: -6741693970768933743
+    second: vfx-haste_37
+  - first:
+      213: -4959798166611730125
+    second: vfx-haste_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-haste_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 805
+        width: 54
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96410f841e5a91060800000000000000
+      internalID: 6924748289068766313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 951
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e668cb231aceaeaa0800000000000000
+      internalID: -6130827765626403218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 943
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8844242c161f87410800000000000000
+      internalID: 1475194280137081992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 935
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d1125ffeef9190800000000000000
+      internalID: -7953375636552035906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 804
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f229a1d2a079bde50800000000000000
+      internalID: 6835222929427042863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 853
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d109be8fb74addbf0800000000000000
+      internalID: -297901147972464611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 847
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ec909b368226b0800000000000000
+      internalID: -5322544219211111182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 801
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048054bf240fcb10800000000000000
+      internalID: 2003824962138309645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 855
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aeda16dfa3ed180800000000000000
+      internalID: -9088762138047157760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 855
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded30027db693660800000000000000
+      internalID: 7366037237240422102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 801
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620142b3e9aa7f990800000000000000
+      internalID: -7352220270085271514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 815
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe4c17798f2e00c0800000000000000
+      internalID: -4607693101298069775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_12
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 828
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe68fbf1bfcec9840800000000000000
+      internalID: 5232317430411265775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 842
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e73b5b8e1c24840800000000000000
+      internalID: 5206937324418727495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 810
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b75ef716d3f6210800000000000000
+      internalID: 1328347904064453502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 805
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d49c149a027c230800000000000000
+      internalID: 3658929133587090798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 678
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925dd0c04ab5ab430800000000000000
+      internalID: 3799449995775431977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 679
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16287189c1fe300800000000000000
+      internalID: 283476741102657953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 679
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8a24751e32cbb0800000000000000
+      internalID: -4917299581270978817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_19
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 679
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d8f09127479a20800000000000000
+      internalID: 3068999880568000958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 551
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cfb4d562387dde0800000000000000
+      internalID: -1308432965930583027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 551
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89082a2116c7a6640800000000000000
+      internalID: 5074004686552596632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 550
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc258414097b0e820800000000000000
+      internalID: 2945555986498736843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 550
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e54a05c01d672b0800000000000000
+      internalID: -5587048436883759523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 423
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7febc444e0fda0800000000000000
+      internalID: -5912975326607082872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 423
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fe24014096ac5f0800000000000000
+      internalID: -735660122948047059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 423
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5464b2d92f6433240800000000000000
+      internalID: 4770234438148376133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 422
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a10c7ffe20d5220800000000000000
+      internalID: 2476138599800642168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 295
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d75a97316bdeaad0800000000000000
+      internalID: -2688970716902434857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 295
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de56fad75eca850800000000000000
+      internalID: 6389734299308256529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 294
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51709a76c96de5ca0800000000000000
+      internalID: -6026143284132772075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 295
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ff072666f953ad0800000000000000
+      internalID: -2723095137588543741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2a80b393366d1d0800000000000000
+      internalID: -3326362177311825230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 167
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97f117a678fef7f0800000000000000
+      internalID: -576750513764042849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 174
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6278177261d6b40800000000000000
+      internalID: 5435024683970275001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 181
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb23492dc34c2fc0800000000000000
+      internalID: -3518362660443575365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 60
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e33c879ac0aec820800000000000000
+      internalID: 2940464398705898468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 54
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ccce77d01b072a0800000000000000
+      internalID: -6741693970768933743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-haste_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331697978d14b2bb0800000000000000
+      internalID: -4959798166611730125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-haste_0: 6924748289068766313
+      vfx-haste_1: -6130827765626403218
+      vfx-haste_10: -7352220270085271514
+      vfx-haste_11: -4607693101298069775
+      vfx-haste_12: 5232317430411265775
+      vfx-haste_13: 5206937324418727495
+      vfx-haste_14: 1328347904064453502
+      vfx-haste_15: 3658929133587090798
+      vfx-haste_16: 3799449995775431977
+      vfx-haste_17: 283476741102657953
+      vfx-haste_18: -4917299581270978817
+      vfx-haste_19: 3068999880568000958
+      vfx-haste_2: 1475194280137081992
+      vfx-haste_20: -1308432965930583027
+      vfx-haste_21: 5074004686552596632
+      vfx-haste_22: 2945555986498736843
+      vfx-haste_23: -5587048436883759523
+      vfx-haste_24: -5912975326607082872
+      vfx-haste_25: -735660122948047059
+      vfx-haste_26: 4770234438148376133
+      vfx-haste_27: 2476138599800642168
+      vfx-haste_28: -2688970716902434857
+      vfx-haste_29: 6389734299308256529
+      vfx-haste_3: -7953375636552035906
+      vfx-haste_30: -6026143284132772075
+      vfx-haste_31: -2723095137588543741
+      vfx-haste_32: -3326362177311825230
+      vfx-haste_33: -576750513764042849
+      vfx-haste_34: 5435024683970275001
+      vfx-haste_35: -3518362660443575365
+      vfx-haste_36: 2940464398705898468
+      vfx-haste_37: -6741693970768933743
+      vfx-haste_38: -4959798166611730125
+      vfx-haste_4: 6835222929427042863
+      vfx-haste_5: -297901147972464611
+      vfx-haste_6: -5322544219211111182
+      vfx-haste_7: 2003824962138309645
+      vfx-haste_8: -9088762138047157760
+      vfx-haste_9: 7366037237240422102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

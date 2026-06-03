@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: 6c6b5da3da37a574483311b40264344f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1982380780587425736
+    second: 20250320infectiousFX-Sheet_0
+  - first:
+      213: -8907398519224610305
+    second: 20250320infectiousFX-Sheet_1
+  - first:
+      213: 6607502131738455536
+    second: 20250320infectiousFX-Sheet_2
+  - first:
+      213: -590568246499841702
+    second: 20250320infectiousFX-Sheet_3
+  - first:
+      213: 3645589105955614778
+    second: 20250320infectiousFX-Sheet_4
+  - first:
+      213: 2503638924496235480
+    second: 20250320infectiousFX-Sheet_5
+  - first:
+      213: -5260500511506691247
+    second: 20250320infectiousFX-Sheet_6
+  - first:
+      213: 1122849332345993074
+    second: 20250320infectiousFX-Sheet_7
+  - first:
+      213: -4502583516114643476
+    second: 20250320infectiousFX-Sheet_8
+  - first:
+      213: -3168233641908234635
+    second: 20250320infectiousFX-Sheet_9
+  - first:
+      213: 3987818999022933439
+    second: 20250320infectiousFX-Sheet_10
+  - first:
+      213: 3915339102293771711
+    second: 20250320infectiousFX-Sheet_11
+  - first:
+      213: -3202146896036972557
+    second: 20250320infectiousFX-Sheet_12
+  - first:
+      213: -2532385760037550460
+    second: 20250320infectiousFX-Sheet_13
+  - first:
+      213: 2664227838207318471
+    second: 20250320infectiousFX-Sheet_14
+  - first:
+      213: -4662599580174442460
+    second: 20250320infectiousFX-Sheet_15
+  - first:
+      213: -8159738459493523035
+    second: 20250320infectiousFX-Sheet_16
+  - first:
+      213: -5645386890951990004
+    second: 20250320infectiousFX-Sheet_17
+  - first:
+      213: 2459905933233852099
+    second: 20250320infectiousFX-Sheet_18
+  - first:
+      213: 8663774810604606946
+    second: 20250320infectiousFX-Sheet_19
+  - first:
+      213: -2099258671025992126
+    second: 20250320infectiousFX-Sheet_20
+  - first:
+      213: 7804939586146759739
+    second: 20250320infectiousFX-Sheet_21
+  - first:
+      213: 203505939865865935
+    second: 20250320infectiousFX-Sheet_22
+  - first:
+      213: -9046394387867530107
+    second: 20250320infectiousFX-Sheet_23
+  - first:
+      213: -7505515194065494053
+    second: 20250320infectiousFX-Sheet_24
+  - first:
+      213: -2513138704679165869
+    second: 20250320infectiousFX-Sheet_25
+  - first:
+      213: -6129741926637569082
+    second: 20250320infectiousFX-Sheet_26
+  - first:
+      213: -874672153021148053
+    second: 20250320infectiousFX-Sheet_27
+  - first:
+      213: -5380672961584964165
+    second: 20250320infectiousFX-Sheet_28
+  - first:
+      213: -5507345150200412299
+    second: 20250320infectiousFX-Sheet_29
+  - first:
+      213: -8533296908845905904
+    second: 20250320infectiousFX-Sheet_30
+  - first:
+      213: -8306271455022870563
+    second: 20250320infectiousFX-Sheet_31
+  - first:
+      213: 2820887655586243763
+    second: 20250320infectiousFX-Sheet_32
+  - first:
+      213: -5011950787770805419
+    second: 20250320infectiousFX-Sheet_33
+  - first:
+      213: 9136016849671633279
+    second: 20250320infectiousFX-Sheet_34
+  - first:
+      213: 7894264645693602266
+    second: 20250320infectiousFX-Sheet_35
+  - first:
+      213: -6374800213117001592
+    second: 20250320infectiousFX-Sheet_36
+  - first:
+      213: 3360787860353497883
+    second: 20250320infectiousFX-Sheet_37
+  - first:
+      213: 1672654925476666597
+    second: 20250320infectiousFX-Sheet_38
+  - first:
+      213: -7643071262121986880
+    second: 20250320infectiousFX-Sheet_39
+  - first:
+      213: 3424492881953296649
+    second: 20250320infectiousFX-Sheet_40
+  - first:
+      213: -8362519153994792421
+    second: 20250320infectiousFX-Sheet_41
+  - first:
+      213: -4371637658933551946
+    second: 20250320infectiousFX-Sheet_42
+  - first:
+      213: -7745915616298264067
+    second: 20250320infectiousFX-Sheet_43
+  - first:
+      213: 4340787843911985613
+    second: 20250320infectiousFX-Sheet_44
+  - first:
+      213: -8923240896497740392
+    second: 20250320infectiousFX-Sheet_45
+  - first:
+      213: 356242401225274605
+    second: 20250320infectiousFX-Sheet_46
+  - first:
+      213: 8103896646827292432
+    second: 20250320infectiousFX-Sheet_47
+  - first:
+      213: -5641317137843430060
+    second: 20250320infectiousFX-Sheet_48
+  - first:
+      213: 2081809767419542428
+    second: 20250320infectiousFX-Sheet_49
+  - first:
+      213: 8514717530248414728
+    second: 20250320infectiousFX-Sheet_50
+  - first:
+      213: 7332511532322913302
+    second: 20250320infectiousFX-Sheet_51
+  - first:
+      213: -2495196959216216949
+    second: 20250320infectiousFX-Sheet_52
+  - first:
+      213: -3280828545764185956
+    second: 20250320infectiousFX-Sheet_53
+  - first:
+      213: -4491687387510196249
+    second: 20250320infectiousFX-Sheet_54
+  - first:
+      213: 1915257158111082027
+    second: 20250320infectiousFX-Sheet_55
+  - first:
+      213: 2331891602513908381
+    second: 20250320infectiousFX-Sheet_56
+  - first:
+      213: 7871561886001663072
+    second: 20250320infectiousFX-Sheet_57
+  - first:
+      213: -6531393796766563973
+    second: 20250320infectiousFX-Sheet_58
+  - first:
+      213: -4097251012077060447
+    second: 20250320infectiousFX-Sheet_59
+  - first:
+      213: 5622424920570203365
+    second: 20250320infectiousFX-Sheet_60
+  - first:
+      213: -1223338054311935453
+    second: 20250320infectiousFX-Sheet_61
+  - first:
+      213: -4398363181412394165
+    second: 20250320infectiousFX-Sheet_62
+  - first:
+      213: -1683083365764717453
+    second: 20250320infectiousFX-Sheet_63
+  - first:
+      213: -3118979141419256052
+    second: 20250320infectiousFX-Sheet_64
+  - first:
+      213: 6174952214916641546
+    second: 20250320infectiousFX-Sheet_65
+  - first:
+      213: 8289862504132733341
+    second: 20250320infectiousFX-Sheet_66
+  - first:
+      213: -8517930901981588101
+    second: 20250320infectiousFX-Sheet_67
+  - first:
+      213: -8773057438993094007
+    second: 20250320infectiousFX-Sheet_68
+  - first:
+      213: 1552146329528608348
+    second: 20250320infectiousFX-Sheet_69
+  - first:
+      213: 4944827533980033057
+    second: 20250320infectiousFX-Sheet_70
+  - first:
+      213: -4179390875586662748
+    second: 20250320infectiousFX-Sheet_71
+  - first:
+      213: 262816362599522924
+    second: 20250320infectiousFX-Sheet_72
+  - first:
+      213: 2097464495557632469
+    second: 20250320infectiousFX-Sheet_73
+  - first:
+      213: 7037630936210479398
+    second: 20250320infectiousFX-Sheet_74
+  - first:
+      213: 7515278779022469247
+    second: 20250320infectiousFX-Sheet_75
+  - first:
+      213: -4118893697167466228
+    second: 20250320infectiousFX-Sheet_76
+  - first:
+      213: -1714233741092772402
+    second: 20250320infectiousFX-Sheet_77
+  - first:
+      213: -8411422242574730347
+    second: 20250320infectiousFX-Sheet_78
+  - first:
+      213: 3884345504540831405
+    second: 20250320infectiousFX-Sheet_79
+  - first:
+      213: -8921106143701804216
+    second: 20250320infectiousFX-Sheet_80
+  - first:
+      213: -571005182977939938
+    second: 20250320infectiousFX-Sheet_81
+  - first:
+      213: -2971764772358219433
+    second: 20250320infectiousFX-Sheet_82
+  - first:
+      213: -2994467678217851533
+    second: 20250320infectiousFX-Sheet_83
+  - first:
+      213: 1600174792523977471
+    second: 20250320infectiousFX-Sheet_84
+  - first:
+      213: -3902883698189180490
+    second: 20250320infectiousFX-Sheet_85
+  - first:
+      213: -3865921911972328220
+    second: 20250320infectiousFX-Sheet_86
+  - first:
+      213: -7361495474991511175
+    second: 20250320infectiousFX-Sheet_87
+  - first:
+      213: 8483097023464163743
+    second: 20250320infectiousFX-Sheet_88
+  - first:
+      213: -7612200671689805572
+    second: 20250320infectiousFX-Sheet_89
+  - first:
+      213: -4813323029183271775
+    second: 20250320infectiousFX-Sheet_90
+  - first:
+      213: -2125512569174129309
+    second: 20250320infectiousFX-Sheet_91
+  - first:
+      213: 7475718574456124620
+    second: 20250320infectiousFX-Sheet_92
+  - first:
+      213: -2140449952901935514
+    second: 20250320infectiousFX-Sheet_93
+  - first:
+      213: -1299556696370466440
+    second: 20250320infectiousFX-Sheet_94
+  - first:
+      213: -2834204333000842062
+    second: 20250320infectiousFX-Sheet_95
+  - first:
+      213: 5801187398275060400
+    second: 20250320infectiousFX-Sheet_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 863
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8306683ee2b2d74e0800000000000000
+      internalID: -1982380780587425736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 851
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1d6cc7d30926480800000000000000
+      internalID: -8907398519224610305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 873
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd28e64e2092bb50800000000000000
+      internalID: 6607502131738455536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 809
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5960cb0f41edc7f0800000000000000
+      internalID: -590568246499841702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 805
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30b4890afbb79230800000000000000
+      internalID: 3645589105955614778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 779
+        width: 134
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db60744656beb220800000000000000
+      internalID: 2503638924496235480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 733
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b02e6f7a2fef6b0800000000000000
+      internalID: -5260500511506691247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 717
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27774c6c489259f00800000000000000
+      internalID: 1122849332345993074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 577
+        width: 166
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce51576d52c9381c0800000000000000
+      internalID: -4502583516114643476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 599
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761e98e94c2804d0800000000000000
+      internalID: -3168233641908234635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 583
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5d0515044975730800000000000000
+      internalID: 3987818999022933439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 579
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5ca6f4b24165630800000000000000
+      internalID: 3915339102293771711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 695
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7b81f1d50bf83d0800000000000000
+      internalID: -3202146896036972557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 577
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48644b281982bdcd0800000000000000
+      internalID: -2532385760037550460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 657
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9dd096a1d39f420800000000000000
+      internalID: 2664227838207318471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 601
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42021d5a26e1b4fb0800000000000000
+      internalID: -4662599580174442460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1abcd6a19c2ce80800000000000000
+      internalID: -8159738459493523035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 575
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05e821888e87a1b0800000000000000
+      internalID: -5645386890951990004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 395
+        width: 146
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce8743c967532220800000000000000
+      internalID: 2459905933233852099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 395
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e59010a949eb3870800000000000000
+      internalID: 8663774810604606946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 393
+        width: 138
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e46dd6c5fedd2e0800000000000000
+      internalID: -2099258671025992126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 397
+        width: 128
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3479a58337b05c60800000000000000
+      internalID: 7804939586146759739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 395
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce0367f29ff2d200800000000000000
+      internalID: 203505939865865935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 505
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c811deb30c47280800000000000000
+      internalID: -9046394387867530107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 491
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfdd6962bd07d790800000000000000
+      internalID: -7505515194065494053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 469
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350205cc9a98f1dd0800000000000000
+      internalID: -2513138704679165869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf2f9c138ceeaa0800000000000000
+      internalID: -6129741926637569082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 469
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b649f30af4a8cd3f0800000000000000
+      internalID: -874672153021148053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 453
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbddd2013720455b0800000000000000
+      internalID: -5380672961584964165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 453
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57785dad3caf193b0800000000000000
+      internalID: -5507345150200412299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180d493ca3a39980800000000000000
+      internalID: -8533296908845905904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 447
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf0563ce123abc80800000000000000
+      internalID: -8306271455022870563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 435
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4a086806ec52720800000000000000
+      internalID: 2820887655586243763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 433
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5539e2f1059f17ab0800000000000000
+      internalID: -5011950787770805419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 433
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7939aa8be6a9ce70800000000000000
+      internalID: 9136016849671633279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 433
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9fd71aedf0e8d60800000000000000
+      internalID: 7894264645693602266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 409
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880a3173bf82887a0800000000000000
+      internalID: -6374800213117001592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 407
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bb0d5b0cae3ae20800000000000000
+      internalID: 3360787860353497883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 419
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec18d8eac6763710800000000000000
+      internalID: 1672654925476666597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 395
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4f83c8e2b5ee590800000000000000
+      internalID: -7643071262121986880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 405
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9011ea4e12e368f20800000000000000
+      internalID: 3424492881953296649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 393
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b128dbec22d52fb80800000000000000
+      internalID: -8362519153994792421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 393
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9b8c06b2d453c0800000000000000
+      internalID: -4371637658933551946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 393
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9146e59caf08490800000000000000
+      internalID: -7745915616298264067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 391
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc925b9ab839d3c30800000000000000
+      internalID: 4340787843911985613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 393
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89593079ea74a2480800000000000000
+      internalID: -8923240896497740392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 395
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4f6f29390a1f400800000000000000
+      internalID: 356242401225274605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 405
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017be926013d67070800000000000000
+      internalID: 8103896646827292432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dd48db3f306b1b0800000000000000
+      internalID: -5641317137843430060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 303
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bfafc14f214ec10800000000000000
+      internalID: 2081809767419542428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 303
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8068f391b7a5a2670800000000000000
+      internalID: 8514717530248414728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 303
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cff8ba36052c560800000000000000
+      internalID: 7332511532322913302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b845841f5974f5dd0800000000000000
+      internalID: -2495196959216216949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 303
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98a3c8f1d72872d0800000000000000
+      internalID: -3280828545764185956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 303
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e73a597e125aa1c0800000000000000
+      internalID: -4491687387510196249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 307
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263cb2ec3c549a10800000000000000
+      internalID: 1915257158111082027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 229
+        width: 114
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92de8ebe0b8c5020800000000000000
+      internalID: 2331891602513908381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c02aa74d76d3d60800000000000000
+      internalID: 7871561886001663072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 219
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710a8752f3db55a0800000000000000
+      internalID: -6531393796766563973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 287
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae7985a9e3a327c0800000000000000
+      internalID: -4097251012077060447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 227
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec04e62dadd60e40800000000000000
+      internalID: 5622424920570203365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32205886584d50fe0800000000000000
+      internalID: -1223338054311935453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bd1c27dffd5f2c0800000000000000
+      internalID: -4398363181412394165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 231
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a930a89c74a8e0800000000000000
+      internalID: -1683083365764717453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 235
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c073ad5fef827b4d0800000000000000
+      internalID: -3118979141419256052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 267
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a033e1bb256d1b550800000000000000
+      internalID: 6174952214916641546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9969a3a6028b0370800000000000000
+      internalID: 8289862504132733341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 267
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75901e79fa3ac980800000000000000
+      internalID: -8517930901981588101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 267
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ae7baadb6df3680800000000000000
+      internalID: -8773057438993094007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 243
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56aaf2fcd45a8510800000000000000
+      internalID: 1552146329528608348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 241
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120637e717e8f9440800000000000000
+      internalID: 4944827533980033057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 253
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aee52b5422dff5c0800000000000000
+      internalID: -4179390875586662748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 235
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62a7edd616b5a300800000000000000
+      internalID: 262816362599522924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1e4ba88d0bb1d10800000000000000
+      internalID: 2097464495557632469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 235
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629102dac00baa160800000000000000
+      internalID: 7037630936210479398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 219
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786aab5b32ab4860800000000000000
+      internalID: 7515278779022469247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01ecb85100c6d6c0800000000000000
+      internalID: -4118893697167466228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 239
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec52d20be71d538e0800000000000000
+      internalID: -1714233741092772402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b73873900a44b80800000000000000
+      internalID: -8411422242574730347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 233
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeaa0ff7a7f7e530800000000000000
+      internalID: 3884345504540831405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 227
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b59157a3dd13480800000000000000
+      internalID: -8921106143701804216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 227
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1661b7bfc16318f0800000000000000
+      internalID: -571005182977939938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 227
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75991934fab22c6d0800000000000000
+      internalID: -2971764772358219433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 233
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37daf6413838176d0800000000000000
+      internalID: -2994467678217851533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff21de6ee76f43610800000000000000
+      internalID: 1600174792523977471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b165c174fb26d9c0800000000000000
+      internalID: -3902883698189180490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 227
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8d7be08c795ac0800000000000000
+      internalID: -3865921911972328220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 239
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794c7d4ed6b6d990800000000000000
+      internalID: -7361495474991511175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9941c62cc30ab570800000000000000
+      internalID: 8483097023464163743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 229
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf070fcf1d70c5690800000000000000
+      internalID: -7612200671689805572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ace2500534a33db0800000000000000
+      internalID: -4813323029183271775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3658fbc6499a082e0800000000000000
+      internalID: -2125512569174129309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc43f377f661fb760800000000000000
+      internalID: 7475718574456124620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 53
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e47c1cb189b42e0800000000000000
+      internalID: -2140449952901935514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871bb5be11c07fde0800000000000000
+      internalID: -1299556696370466440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 69
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4ac96ec22eaa8d0800000000000000
+      internalID: -2834204333000842062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320infectiousFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 53
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b258a5e335f18050800000000000000
+      internalID: 5801187398275060400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250320infectiousFX-Sheet_0: -1982380780587425736
+      20250320infectiousFX-Sheet_1: -8907398519224610305
+      20250320infectiousFX-Sheet_10: 3987818999022933439
+      20250320infectiousFX-Sheet_11: 3915339102293771711
+      20250320infectiousFX-Sheet_12: -3202146896036972557
+      20250320infectiousFX-Sheet_13: -2532385760037550460
+      20250320infectiousFX-Sheet_14: 2664227838207318471
+      20250320infectiousFX-Sheet_15: -4662599580174442460
+      20250320infectiousFX-Sheet_16: -8159738459493523035
+      20250320infectiousFX-Sheet_17: -5645386890951990004
+      20250320infectiousFX-Sheet_18: 2459905933233852099
+      20250320infectiousFX-Sheet_19: 8663774810604606946
+      20250320infectiousFX-Sheet_2: 6607502131738455536
+      20250320infectiousFX-Sheet_20: -2099258671025992126
+      20250320infectiousFX-Sheet_21: 7804939586146759739
+      20250320infectiousFX-Sheet_22: 203505939865865935
+      20250320infectiousFX-Sheet_23: -9046394387867530107
+      20250320infectiousFX-Sheet_24: -7505515194065494053
+      20250320infectiousFX-Sheet_25: -2513138704679165869
+      20250320infectiousFX-Sheet_26: -6129741926637569082
+      20250320infectiousFX-Sheet_27: -874672153021148053
+      20250320infectiousFX-Sheet_28: -5380672961584964165
+      20250320infectiousFX-Sheet_29: -5507345150200412299
+      20250320infectiousFX-Sheet_3: -590568246499841702
+      20250320infectiousFX-Sheet_30: -8533296908845905904
+      20250320infectiousFX-Sheet_31: -8306271455022870563
+      20250320infectiousFX-Sheet_32: 2820887655586243763
+      20250320infectiousFX-Sheet_33: -5011950787770805419
+      20250320infectiousFX-Sheet_34: 9136016849671633279
+      20250320infectiousFX-Sheet_35: 7894264645693602266
+      20250320infectiousFX-Sheet_36: -6374800213117001592
+      20250320infectiousFX-Sheet_37: 3360787860353497883
+      20250320infectiousFX-Sheet_38: 1672654925476666597
+      20250320infectiousFX-Sheet_39: -7643071262121986880
+      20250320infectiousFX-Sheet_4: 3645589105955614778
+      20250320infectiousFX-Sheet_40: 3424492881953296649
+      20250320infectiousFX-Sheet_41: -8362519153994792421
+      20250320infectiousFX-Sheet_42: -4371637658933551946
+      20250320infectiousFX-Sheet_43: -7745915616298264067
+      20250320infectiousFX-Sheet_44: 4340787843911985613
+      20250320infectiousFX-Sheet_45: -8923240896497740392
+      20250320infectiousFX-Sheet_46: 356242401225274605
+      20250320infectiousFX-Sheet_47: 8103896646827292432
+      20250320infectiousFX-Sheet_48: -5641317137843430060
+      20250320infectiousFX-Sheet_49: 2081809767419542428
+      20250320infectiousFX-Sheet_5: 2503638924496235480
+      20250320infectiousFX-Sheet_50: 8514717530248414728
+      20250320infectiousFX-Sheet_51: 7332511532322913302
+      20250320infectiousFX-Sheet_52: -2495196959216216949
+      20250320infectiousFX-Sheet_53: -3280828545764185956
+      20250320infectiousFX-Sheet_54: -4491687387510196249
+      20250320infectiousFX-Sheet_55: 1915257158111082027
+      20250320infectiousFX-Sheet_56: 2331891602513908381
+      20250320infectiousFX-Sheet_57: 7871561886001663072
+      20250320infectiousFX-Sheet_58: -6531393796766563973
+      20250320infectiousFX-Sheet_59: -4097251012077060447
+      20250320infectiousFX-Sheet_6: -5260500511506691247
+      20250320infectiousFX-Sheet_60: 5622424920570203365
+      20250320infectiousFX-Sheet_61: -1223338054311935453
+      20250320infectiousFX-Sheet_62: -4398363181412394165
+      20250320infectiousFX-Sheet_63: -1683083365764717453
+      20250320infectiousFX-Sheet_64: -3118979141419256052
+      20250320infectiousFX-Sheet_65: 6174952214916641546
+      20250320infectiousFX-Sheet_66: 8289862504132733341
+      20250320infectiousFX-Sheet_67: -8517930901981588101
+      20250320infectiousFX-Sheet_68: -8773057438993094007
+      20250320infectiousFX-Sheet_69: 1552146329528608348
+      20250320infectiousFX-Sheet_7: 1122849332345993074
+      20250320infectiousFX-Sheet_70: 4944827533980033057
+      20250320infectiousFX-Sheet_71: -4179390875586662748
+      20250320infectiousFX-Sheet_72: 262816362599522924
+      20250320infectiousFX-Sheet_73: 2097464495557632469
+      20250320infectiousFX-Sheet_74: 7037630936210479398
+      20250320infectiousFX-Sheet_75: 7515278779022469247
+      20250320infectiousFX-Sheet_76: -4118893697167466228
+      20250320infectiousFX-Sheet_77: -1714233741092772402
+      20250320infectiousFX-Sheet_78: -8411422242574730347
+      20250320infectiousFX-Sheet_79: 3884345504540831405
+      20250320infectiousFX-Sheet_8: -4502583516114643476
+      20250320infectiousFX-Sheet_80: -8921106143701804216
+      20250320infectiousFX-Sheet_81: -571005182977939938
+      20250320infectiousFX-Sheet_82: -2971764772358219433
+      20250320infectiousFX-Sheet_83: -2994467678217851533
+      20250320infectiousFX-Sheet_84: 1600174792523977471
+      20250320infectiousFX-Sheet_85: -3902883698189180490
+      20250320infectiousFX-Sheet_86: -3865921911972328220
+      20250320infectiousFX-Sheet_87: -7361495474991511175
+      20250320infectiousFX-Sheet_88: 8483097023464163743
+      20250320infectiousFX-Sheet_89: -7612200671689805572
+      20250320infectiousFX-Sheet_9: -3168233641908234635
+      20250320infectiousFX-Sheet_90: -4813323029183271775
+      20250320infectiousFX-Sheet_91: -2125512569174129309
+      20250320infectiousFX-Sheet_92: 7475718574456124620
+      20250320infectiousFX-Sheet_93: -2140449952901935514
+      20250320infectiousFX-Sheet_94: -1299556696370466440
+      20250320infectiousFX-Sheet_95: -2834204333000842062
+      20250320infectiousFX-Sheet_96: 5801187398275060400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

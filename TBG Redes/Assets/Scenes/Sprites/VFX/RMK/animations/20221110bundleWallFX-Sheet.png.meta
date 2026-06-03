@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: e82bf3a1a915766428296b197160d5f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4192864213039702400
+    second: 20221110bundleWallFX-Sheet_0
+  - first:
+      213: 3688985576501243031
+    second: 20221110bundleWallFX-Sheet_1
+  - first:
+      213: -8986743449355894555
+    second: 20221110bundleWallFX-Sheet_2
+  - first:
+      213: 1742296170331540276
+    second: 20221110bundleWallFX-Sheet_3
+  - first:
+      213: 906315076293329050
+    second: 20221110bundleWallFX-Sheet_4
+  - first:
+      213: 7823594107296780403
+    second: 20221110bundleWallFX-Sheet_5
+  - first:
+      213: 2211835318029944990
+    second: 20221110bundleWallFX-Sheet_6
+  - first:
+      213: 4466322099169148157
+    second: 20221110bundleWallFX-Sheet_7
+  - first:
+      213: -1764383724850886006
+    second: 20221110bundleWallFX-Sheet_8
+  - first:
+      213: -951024332454849055
+    second: 20221110bundleWallFX-Sheet_9
+  - first:
+      213: 8439907638941955368
+    second: 20221110bundleWallFX-Sheet_10
+  - first:
+      213: 1800974223542351569
+    second: 20221110bundleWallFX-Sheet_11
+  - first:
+      213: 5484271525008308440
+    second: 20221110bundleWallFX-Sheet_12
+  - first:
+      213: 3947212176470221012
+    second: 20221110bundleWallFX-Sheet_13
+  - first:
+      213: -6347635854883985416
+    second: 20221110bundleWallFX-Sheet_14
+  - first:
+      213: -3528825532960131468
+    second: 20221110bundleWallFX-Sheet_15
+  - first:
+      213: 767616858023498163
+    second: 20221110bundleWallFX-Sheet_16
+  - first:
+      213: 4707892718139114755
+    second: 20221110bundleWallFX-Sheet_17
+  - first:
+      213: -1516761431378196587
+    second: 20221110bundleWallFX-Sheet_18
+  - first:
+      213: 5852835344734571259
+    second: 20221110bundleWallFX-Sheet_19
+  - first:
+      213: 6071105365485292
+    second: 20221110bundleWallFX-Sheet_20
+  - first:
+      213: 8692320286061514
+    second: 20221110bundleWallFX-Sheet_21
+  - first:
+      213: -7257099600029393350
+    second: 20221110bundleWallFX-Sheet_22
+  - first:
+      213: 4479254824965480477
+    second: 20221110bundleWallFX-Sheet_23
+  - first:
+      213: 6638388554299372343
+    second: 20221110bundleWallFX-Sheet_24
+  - first:
+      213: 4259552487710423091
+    second: 20221110bundleWallFX-Sheet_25
+  - first:
+      213: 628617656403580876
+    second: 20221110bundleWallFX-Sheet_26
+  - first:
+      213: 8221676920715934199
+    second: 20221110bundleWallFX-Sheet_27
+  - first:
+      213: -8031981285544545099
+    second: 20221110bundleWallFX-Sheet_28
+  - first:
+      213: 907959864676612564
+    second: 20221110bundleWallFX-Sheet_29
+  - first:
+      213: 192314006418808173
+    second: 20221110bundleWallFX-Sheet_30
+  - first:
+      213: 7085759034892816136
+    second: 20221110bundleWallFX-Sheet_31
+  - first:
+      213: 5829135835097902438
+    second: 20221110bundleWallFX-Sheet_32
+  - first:
+      213: 2947735259822312210
+    second: 20221110bundleWallFX-Sheet_33
+  - first:
+      213: 1445990300867687150
+    second: 20221110bundleWallFX-Sheet_34
+  - first:
+      213: 1801385932719819574
+    second: 20221110bundleWallFX-Sheet_35
+  - first:
+      213: -1736177323443361429
+    second: 20221110bundleWallFX-Sheet_36
+  - first:
+      213: 9089524199741743612
+    second: 20221110bundleWallFX-Sheet_37
+  - first:
+      213: -3532933307248147043
+    second: 20221110bundleWallFX-Sheet_38
+  - first:
+      213: 1025998264226197799
+    second: 20221110bundleWallFX-Sheet_39
+  - first:
+      213: 1602852447862404920
+    second: 20221110bundleWallFX-Sheet_40
+  - first:
+      213: 4178249152457646756
+    second: 20221110bundleWallFX-Sheet_41
+  - first:
+      213: -9124822957447739168
+    second: 20221110bundleWallFX-Sheet_42
+  - first:
+      213: -3206325641834548766
+    second: 20221110bundleWallFX-Sheet_43
+  - first:
+      213: -5460969540970804481
+    second: 20221110bundleWallFX-Sheet_44
+  - first:
+      213: -3023687334442265728
+    second: 20221110bundleWallFX-Sheet_45
+  - first:
+      213: -5339153606139491909
+    second: 20221110bundleWallFX-Sheet_46
+  - first:
+      213: 2464143481893137005
+    second: 20221110bundleWallFX-Sheet_47
+  - first:
+      213: -3717439251871907203
+    second: 20221110bundleWallFX-Sheet_48
+  - first:
+      213: -8615962933135398111
+    second: 20221110bundleWallFX-Sheet_49
+  - first:
+      213: -3196874158398360562
+    second: 20221110bundleWallFX-Sheet_50
+  - first:
+      213: 3775008206995487642
+    second: 20221110bundleWallFX-Sheet_51
+  - first:
+      213: 3654660791895208617
+    second: 20221110bundleWallFX-Sheet_52
+  - first:
+      213: -2247355136214734675
+    second: 20221110bundleWallFX-Sheet_53
+  - first:
+      213: 9178691922702357127
+    second: 20221110bundleWallFX-Sheet_54
+  - first:
+      213: -4939242256557035522
+    second: 20221110bundleWallFX-Sheet_55
+  - first:
+      213: -9200299602791451180
+    second: 20221110bundleWallFX-Sheet_56
+  - first:
+      213: -7375048302587165683
+    second: 20221110bundleWallFX-Sheet_57
+  - first:
+      213: -1517968970543938199
+    second: 20221110bundleWallFX-Sheet_58
+  - first:
+      213: 4287007554484035260
+    second: 20221110bundleWallFX-Sheet_59
+  - first:
+      213: -2734347507770434662
+    second: 20221110bundleWallFX-Sheet_60
+  - first:
+      213: 4716830980412051037
+    second: 20221110bundleWallFX-Sheet_61
+  - first:
+      213: -2985418124384829664
+    second: 20221110bundleWallFX-Sheet_62
+  - first:
+      213: 42546065131632812
+    second: 20221110bundleWallFX-Sheet_63
+  - first:
+      213: -3953321260302838494
+    second: 20221110bundleWallFX-Sheet_64
+  - first:
+      213: 2504667036216756198
+    second: 20221110bundleWallFX-Sheet_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 471
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e12568634ffc5c0800000000000000
+      internalID: -4192864213039702400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c65e436d8e13330800000000000000
+      internalID: 3688985576501243031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 453
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c295527ca84380800000000000000
+      internalID: -8986743449355894555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 431
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8226c221ed2810800000000000000
+      internalID: 1742296170331540276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 423
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908b0192c0e39c00800000000000000
+      internalID: 906315076293329050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 357
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3709340b36df29c60800000000000000
+      internalID: 7823594107296780403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 353
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9886d0c08402be10800000000000000
+      internalID: 2211835318029944990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 357
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc347d19409bfd30800000000000000
+      internalID: 4466322099169148157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 363
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a48c0b956a387e0800000000000000
+      internalID: -1764383724850886006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 357
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5964b88684dc2f0800000000000000
+      internalID: -951024332454849055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825bd34f743902570800000000000000
+      internalID: 8439907638941955368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 341
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d670eba3885ef810800000000000000
+      internalID: 1800974223542351569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 351
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f8e325eb0c1c40800000000000000
+      internalID: 5484271525008308440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 351
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0aa9faf8057c630800000000000000
+      internalID: 3947212176470221012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f76b1a32daa8e7a0800000000000000
+      internalID: -6347635854883985416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 349
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763591dfd7170fc0800000000000000
+      internalID: -3528825532960131468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 333
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b19712277f17aa00800000000000000
+      internalID: 767616858023498163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3058451db7bc55140800000000000000
+      internalID: 4707892718139114755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 231
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59780b9a38163fae0800000000000000
+      internalID: -1516761431378196587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 329
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa41c38cb2793150800000000000000
+      internalID: 5852835344734571259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 333
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce624be53a1951000800000000000000
+      internalID: 6071105365485292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 233
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3bce68e91ee1000800000000000000
+      internalID: 8692320286061514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 321
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e5e901d5a994b90800000000000000
+      internalID: -7257099600029393350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 335
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a58cf782892e30800000000000000
+      internalID: 4479254824965480477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 325
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733780ce73b402c50800000000000000
+      internalID: 6638388554299372343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 301
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387c146b68fc1b30800000000000000
+      internalID: 4259552487710423091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 247
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7597d8d6c49b800800000000000000
+      internalID: 628617656403580876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 291
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9fc4d5993491270800000000000000
+      internalID: 8221676920715934199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 315
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43888739ba88090800000000000000
+      internalID: -8031981285544545099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 325
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d97c54bfa8b99c00800000000000000
+      internalID: 907959864676612564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 287
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ddce5e19c3ba200800000000000000
+      internalID: 192314006418808173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 289
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f0dcedc4ca55260800000000000000
+      internalID: 7085759034892816136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 297
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da28e682045e050800000000000000
+      internalID: 5829135835097902438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 297
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b4a9dd99578e820800000000000000
+      internalID: 2947735259822312210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2f0e77480311410800000000000000
+      internalID: 1445990300867687150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 267
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b862f26fecff810800000000000000
+      internalID: 1801385932719819574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 263
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69e1194cebd7e7e0800000000000000
+      internalID: -1736177323443361429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 269
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf16ceee91a742e70800000000000000
+      internalID: 9089524199741743612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 283
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95045610ef78fec0800000000000000
+      internalID: -3532933307248147043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 269
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721be5f3cf31d3e00800000000000000
+      internalID: 1025998264226197799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 263
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837343e1fc97e3610800000000000000
+      internalID: 1602852447862404920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 265
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2a053877f1cf930800000000000000
+      internalID: 4178249152457646756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 253
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88ff69ddd1e5180800000000000000
+      internalID: -9124822957447739168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 241
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b93c01d7d083d0800000000000000
+      internalID: -3206325641834548766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 241
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa053dc22db634b0800000000000000
+      internalID: -5460969540970804481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 223
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08398b6b364b906d0800000000000000
+      internalID: -3023687334442265728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 249
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb94fc0551487e5b0800000000000000
+      internalID: -5339153606139491909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 243
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa5d1f075623220800000000000000
+      internalID: 2464143481893137005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 243
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c41e32b0096cc0800000000000000
+      internalID: -3717439251871907203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 245
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b28849c53fd6880800000000000000
+      internalID: -8615962933135398111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 219
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e043a0504eb62a3d0800000000000000
+      internalID: -3196874158398360562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b7622a6f5836430800000000000000
+      internalID: 3775008206995487642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 231
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2367380a6f7b230800000000000000
+      internalID: 3654660791895208617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 235
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da865cd196acfc0e0800000000000000
+      internalID: -2247355136214734675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 215
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782db634ca3416f70800000000000000
+      internalID: 9178691922702357127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 217
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa15e3659447bb0800000000000000
+      internalID: -4939242256557035522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 215
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b27ca148f15080800000000000000
+      internalID: -9200299602791451180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 211
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c1fab4a096a990800000000000000
+      internalID: -7375048302587165683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 221
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965c9aa83471feae0800000000000000
+      internalID: -1517968970543938199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 221
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbedf6248a28e7b30800000000000000
+      internalID: 4287007554484035260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 213
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b5edacd65ad0ad0800000000000000
+      internalID: -2734347507770434662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 211
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e840d29cc857140800000000000000
+      internalID: 4716830980412051037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 207
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f7706880aa196d0800000000000000
+      internalID: -2985418124384829664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 207
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f2cabb67279000800000000000000
+      internalID: 42546065131632812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 61
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22556a4624bf229c0800000000000000
+      internalID: -3953321260302838494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleWallFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 61
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7845e266d52c220800000000000000
+      internalID: 2504667036216756198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundleWallFX-Sheet_0: -4192864213039702400
+      20221110bundleWallFX-Sheet_1: 3688985576501243031
+      20221110bundleWallFX-Sheet_10: 8439907638941955368
+      20221110bundleWallFX-Sheet_11: 1800974223542351569
+      20221110bundleWallFX-Sheet_12: 5484271525008308440
+      20221110bundleWallFX-Sheet_13: 3947212176470221012
+      20221110bundleWallFX-Sheet_14: -6347635854883985416
+      20221110bundleWallFX-Sheet_15: -3528825532960131468
+      20221110bundleWallFX-Sheet_16: 767616858023498163
+      20221110bundleWallFX-Sheet_17: 4707892718139114755
+      20221110bundleWallFX-Sheet_18: -1516761431378196587
+      20221110bundleWallFX-Sheet_19: 5852835344734571259
+      20221110bundleWallFX-Sheet_2: -8986743449355894555
+      20221110bundleWallFX-Sheet_20: 6071105365485292
+      20221110bundleWallFX-Sheet_21: 8692320286061514
+      20221110bundleWallFX-Sheet_22: -7257099600029393350
+      20221110bundleWallFX-Sheet_23: 4479254824965480477
+      20221110bundleWallFX-Sheet_24: 6638388554299372343
+      20221110bundleWallFX-Sheet_25: 4259552487710423091
+      20221110bundleWallFX-Sheet_26: 628617656403580876
+      20221110bundleWallFX-Sheet_27: 8221676920715934199
+      20221110bundleWallFX-Sheet_28: -8031981285544545099
+      20221110bundleWallFX-Sheet_29: 907959864676612564
+      20221110bundleWallFX-Sheet_3: 1742296170331540276
+      20221110bundleWallFX-Sheet_30: 192314006418808173
+      20221110bundleWallFX-Sheet_31: 7085759034892816136
+      20221110bundleWallFX-Sheet_32: 5829135835097902438
+      20221110bundleWallFX-Sheet_33: 2947735259822312210
+      20221110bundleWallFX-Sheet_34: 1445990300867687150
+      20221110bundleWallFX-Sheet_35: 1801385932719819574
+      20221110bundleWallFX-Sheet_36: -1736177323443361429
+      20221110bundleWallFX-Sheet_37: 9089524199741743612
+      20221110bundleWallFX-Sheet_38: -3532933307248147043
+      20221110bundleWallFX-Sheet_39: 1025998264226197799
+      20221110bundleWallFX-Sheet_4: 906315076293329050
+      20221110bundleWallFX-Sheet_40: 1602852447862404920
+      20221110bundleWallFX-Sheet_41: 4178249152457646756
+      20221110bundleWallFX-Sheet_42: -9124822957447739168
+      20221110bundleWallFX-Sheet_43: -3206325641834548766
+      20221110bundleWallFX-Sheet_44: -5460969540970804481
+      20221110bundleWallFX-Sheet_45: -3023687334442265728
+      20221110bundleWallFX-Sheet_46: -5339153606139491909
+      20221110bundleWallFX-Sheet_47: 2464143481893137005
+      20221110bundleWallFX-Sheet_48: -3717439251871907203
+      20221110bundleWallFX-Sheet_49: -8615962933135398111
+      20221110bundleWallFX-Sheet_5: 7823594107296780403
+      20221110bundleWallFX-Sheet_50: -3196874158398360562
+      20221110bundleWallFX-Sheet_51: 3775008206995487642
+      20221110bundleWallFX-Sheet_52: 3654660791895208617
+      20221110bundleWallFX-Sheet_53: -2247355136214734675
+      20221110bundleWallFX-Sheet_54: 9178691922702357127
+      20221110bundleWallFX-Sheet_55: -4939242256557035522
+      20221110bundleWallFX-Sheet_56: -9200299602791451180
+      20221110bundleWallFX-Sheet_57: -7375048302587165683
+      20221110bundleWallFX-Sheet_58: -1517968970543938199
+      20221110bundleWallFX-Sheet_59: 4287007554484035260
+      20221110bundleWallFX-Sheet_6: 2211835318029944990
+      20221110bundleWallFX-Sheet_60: -2734347507770434662
+      20221110bundleWallFX-Sheet_61: 4716830980412051037
+      20221110bundleWallFX-Sheet_62: -2985418124384829664
+      20221110bundleWallFX-Sheet_63: 42546065131632812
+      20221110bundleWallFX-Sheet_64: -3953321260302838494
+      20221110bundleWallFX-Sheet_65: 2504667036216756198
+      20221110bundleWallFX-Sheet_7: 4466322099169148157
+      20221110bundleWallFX-Sheet_8: -1764383724850886006
+      20221110bundleWallFX-Sheet_9: -951024332454849055
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: a9bca03ae5429e543b48b221f3725dd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2930315200741442173
+    second: vfx-thunder_0
+  - first:
+      213: -279099578354311250
+    second: vfx-thunder_1
+  - first:
+      213: 3932286829626909992
+    second: vfx-thunder_2
+  - first:
+      213: 1189693531244107527
+    second: vfx-thunder_3
+  - first:
+      213: 7337281709593442122
+    second: vfx-thunder_4
+  - first:
+      213: 6777909557103286441
+    second: vfx-thunder_5
+  - first:
+      213: -8584090525390326698
+    second: vfx-thunder_6
+  - first:
+      213: 1868550515342452623
+    second: vfx-thunder_7
+  - first:
+      213: -150485712686156083
+    second: vfx-thunder_8
+  - first:
+      213: -208014043248126338
+    second: vfx-thunder_9
+  - first:
+      213: 1765877942451376659
+    second: vfx-thunder_10
+  - first:
+      213: -412527843049044066
+    second: vfx-thunder_11
+  - first:
+      213: -7784403425343576184
+    second: vfx-thunder_12
+  - first:
+      213: -7871016728634778735
+    second: vfx-thunder_13
+  - first:
+      213: 5662313183498062469
+    second: vfx-thunder_14
+  - first:
+      213: 4140273668728167951
+    second: vfx-thunder_15
+  - first:
+      213: -8916316986494099830
+    second: vfx-thunder_16
+  - first:
+      213: 3520282298502711765
+    second: vfx-thunder_17
+  - first:
+      213: 3217004304788550144
+    second: vfx-thunder_18
+  - first:
+      213: 668452484701118497
+    second: vfx-thunder_19
+  - first:
+      213: 2147008259446434564
+    second: vfx-thunder_20
+  - first:
+      213: -3055261889259834297
+    second: vfx-thunder_21
+  - first:
+      213: 2562784749769770821
+    second: vfx-thunder_22
+  - first:
+      213: 2956909900330904502
+    second: vfx-thunder_23
+  - first:
+      213: 2441287903911921318
+    second: vfx-thunder_24
+  - first:
+      213: 2942156955871513974
+    second: vfx-thunder_25
+  - first:
+      213: -4762306035972498474
+    second: vfx-thunder_26
+  - first:
+      213: 1148608833840719781
+    second: vfx-thunder_27
+  - first:
+      213: -1528116895135879175
+    second: vfx-thunder_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-thunder_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 299
+        width: 35
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38df0e3b9dd6557d0800000000000000
+      internalID: -2930315200741442173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 462
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafda378960702cf0800000000000000
+      internalID: -279099578354311250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 483
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825ebd2990a429630800000000000000
+      internalID: 3932286829626909992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 445
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7079261a6f3a28010800000000000000
+      internalID: 1189693531244107527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 452
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47b94d17d243d560800000000000000
+      internalID: 7337281709593442122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 431
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8dddec4d8ff0e50800000000000000
+      internalID: 6777909557103286441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 428
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654305ac52f2fd880800000000000000
+      internalID: -8584090525390326698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 351
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872cdf2bcc6ee910800000000000000
+      internalID: 1868550515342452623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 352
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f197aa0e59edf0800000000000000
+      internalID: -150485712686156083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 353
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7617eb645cfc1df0800000000000000
+      internalID: -208014043248126338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 298
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3121384f1a8a18810800000000000000
+      internalID: 1765877942451376659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 299
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e978a17cc18664af0800000000000000
+      internalID: -412527843049044066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 302
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887ef04045e38f390800000000000000
+      internalID: -7784403425343576184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 172
+        width: 38
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b119cdcf784c290800000000000000
+      internalID: -7871016728634778735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 309
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac96517d3949e40800000000000000
+      internalID: 5662313183498062469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_15
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 300
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e127137f4357930800000000000000
+      internalID: 4140273668728167951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_16
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 309
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8edc3301f0e24480800000000000000
+      internalID: -8916316986494099830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d98957691e8ad030800000000000000
+      internalID: 3520282298502711765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f2dbee5815ac20800000000000000
+      internalID: 3217004304788550144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12066d34ef1d64900800000000000000
+      internalID: 668452484701118497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 212
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b622af2a4bbcd10800000000000000
+      internalID: 2147008259446434564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 202
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f0eacf778995d0800000000000000
+      internalID: -3055261889259834297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 188
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547c0d5d627d09320800000000000000
+      internalID: 2562784749769770821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 44
+        width: 38
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb2f0253ed090920800000000000000
+      internalID: 2956909900330904502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 174
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c0230a6231e120800000000000000
+      internalID: 2441287903911921318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 182
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d8a24c924a4d820800000000000000
+      internalID: 2942156955871513974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db192e54e3e8edb0800000000000000
+      internalID: -4762306035972498474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 181
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7a3f616ada0ff00800000000000000
+      internalID: 1148608833840719781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-thunder_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff272ab7c90bcae0800000000000000
+      internalID: -1528116895135879175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-thunder_0: -2930315200741442173
+      vfx-thunder_1: -279099578354311250
+      vfx-thunder_10: 1765877942451376659
+      vfx-thunder_11: -412527843049044066
+      vfx-thunder_12: -7784403425343576184
+      vfx-thunder_13: -7871016728634778735
+      vfx-thunder_14: 5662313183498062469
+      vfx-thunder_15: 4140273668728167951
+      vfx-thunder_16: -8916316986494099830
+      vfx-thunder_17: 3520282298502711765
+      vfx-thunder_18: 3217004304788550144
+      vfx-thunder_19: 668452484701118497
+      vfx-thunder_2: 3932286829626909992
+      vfx-thunder_20: 2147008259446434564
+      vfx-thunder_21: -3055261889259834297
+      vfx-thunder_22: 2562784749769770821
+      vfx-thunder_23: 2956909900330904502
+      vfx-thunder_24: 2441287903911921318
+      vfx-thunder_25: 2942156955871513974
+      vfx-thunder_26: -4762306035972498474
+      vfx-thunder_27: 1148608833840719781
+      vfx-thunder_28: -1528116895135879175
+      vfx-thunder_3: 1189693531244107527
+      vfx-thunder_4: 7337281709593442122
+      vfx-thunder_5: 6777909557103286441
+      vfx-thunder_6: -8584090525390326698
+      vfx-thunder_7: 1868550515342452623
+      vfx-thunder_8: -150485712686156083
+      vfx-thunder_9: -208014043248126338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

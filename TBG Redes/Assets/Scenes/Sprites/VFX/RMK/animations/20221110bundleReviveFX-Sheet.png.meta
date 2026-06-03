@@ -1,0 +1,2938 @@
+fileFormatVersion: 2
+guid: fa753566d9e5cc64496b97230b41415b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7357013350303215218
+    second: 20221110bundleReviveFX-Sheet_0
+  - first:
+      213: 1754267075783258379
+    second: 20221110bundleReviveFX-Sheet_1
+  - first:
+      213: -87029318121231995
+    second: 20221110bundleReviveFX-Sheet_2
+  - first:
+      213: 4903183507770203086
+    second: 20221110bundleReviveFX-Sheet_3
+  - first:
+      213: -1069758391203241969
+    second: 20221110bundleReviveFX-Sheet_4
+  - first:
+      213: -913389042511726054
+    second: 20221110bundleReviveFX-Sheet_5
+  - first:
+      213: 483938268588300098
+    second: 20221110bundleReviveFX-Sheet_6
+  - first:
+      213: -8177825873505241976
+    second: 20221110bundleReviveFX-Sheet_7
+  - first:
+      213: 2474059780970609789
+    second: 20221110bundleReviveFX-Sheet_8
+  - first:
+      213: 1065866214128625483
+    second: 20221110bundleReviveFX-Sheet_9
+  - first:
+      213: 5555986128736640872
+    second: 20221110bundleReviveFX-Sheet_10
+  - first:
+      213: -7581122498903623208
+    second: 20221110bundleReviveFX-Sheet_11
+  - first:
+      213: 2344681864246365973
+    second: 20221110bundleReviveFX-Sheet_12
+  - first:
+      213: 8737028933172428560
+    second: 20221110bundleReviveFX-Sheet_13
+  - first:
+      213: -2389914857627291530
+    second: 20221110bundleReviveFX-Sheet_14
+  - first:
+      213: 1931636950265090024
+    second: 20221110bundleReviveFX-Sheet_15
+  - first:
+      213: 8661749567665861022
+    second: 20221110bundleReviveFX-Sheet_16
+  - first:
+      213: 1173026157180721227
+    second: 20221110bundleReviveFX-Sheet_17
+  - first:
+      213: 7349869100725818190
+    second: 20221110bundleReviveFX-Sheet_18
+  - first:
+      213: -8465313960708267603
+    second: 20221110bundleReviveFX-Sheet_19
+  - first:
+      213: 6393564276256718089
+    second: 20221110bundleReviveFX-Sheet_20
+  - first:
+      213: 5235478530062701812
+    second: 20221110bundleReviveFX-Sheet_21
+  - first:
+      213: -8432953337092526455
+    second: 20221110bundleReviveFX-Sheet_22
+  - first:
+      213: 5014956630213711041
+    second: 20221110bundleReviveFX-Sheet_23
+  - first:
+      213: -4554182829466427474
+    second: 20221110bundleReviveFX-Sheet_24
+  - first:
+      213: -3089632863480662656
+    second: 20221110bundleReviveFX-Sheet_25
+  - first:
+      213: 3236788762332757393
+    second: 20221110bundleReviveFX-Sheet_26
+  - first:
+      213: -6104550241262913030
+    second: 20221110bundleReviveFX-Sheet_27
+  - first:
+      213: -3813238968106696435
+    second: 20221110bundleReviveFX-Sheet_28
+  - first:
+      213: -3129813405006497228
+    second: 20221110bundleReviveFX-Sheet_29
+  - first:
+      213: -8884069425637587113
+    second: 20221110bundleReviveFX-Sheet_30
+  - first:
+      213: 2360593005801680482
+    second: 20221110bundleReviveFX-Sheet_31
+  - first:
+      213: 3868085532478837257
+    second: 20221110bundleReviveFX-Sheet_32
+  - first:
+      213: -4101812773193482970
+    second: 20221110bundleReviveFX-Sheet_33
+  - first:
+      213: 8301905777749856312
+    second: 20221110bundleReviveFX-Sheet_34
+  - first:
+      213: -6133451075556886527
+    second: 20221110bundleReviveFX-Sheet_35
+  - first:
+      213: 8901939473521776254
+    second: 20221110bundleReviveFX-Sheet_36
+  - first:
+      213: 4100335112095045498
+    second: 20221110bundleReviveFX-Sheet_37
+  - first:
+      213: -5018466242439478756
+    second: 20221110bundleReviveFX-Sheet_38
+  - first:
+      213: -7422758589621861281
+    second: 20221110bundleReviveFX-Sheet_39
+  - first:
+      213: 3649489382992476980
+    second: 20221110bundleReviveFX-Sheet_40
+  - first:
+      213: -7110101307154820621
+    second: 20221110bundleReviveFX-Sheet_41
+  - first:
+      213: -118442382179780154
+    second: 20221110bundleReviveFX-Sheet_42
+  - first:
+      213: -1622981289315565633
+    second: 20221110bundleReviveFX-Sheet_43
+  - first:
+      213: 2116592993441670761
+    second: 20221110bundleReviveFX-Sheet_44
+  - first:
+      213: 8051714863208350024
+    second: 20221110bundleReviveFX-Sheet_45
+  - first:
+      213: 4676293537250710849
+    second: 20221110bundleReviveFX-Sheet_46
+  - first:
+      213: 1924974880032639626
+    second: 20221110bundleReviveFX-Sheet_47
+  - first:
+      213: 556968246811839644
+    second: 20221110bundleReviveFX-Sheet_48
+  - first:
+      213: 7897498269050789917
+    second: 20221110bundleReviveFX-Sheet_49
+  - first:
+      213: -3435220345555492925
+    second: 20221110bundleReviveFX-Sheet_50
+  - first:
+      213: 8942790148890028265
+    second: 20221110bundleReviveFX-Sheet_51
+  - first:
+      213: 7860121542180461641
+    second: 20221110bundleReviveFX-Sheet_52
+  - first:
+      213: 1241092486574702970
+    second: 20221110bundleReviveFX-Sheet_53
+  - first:
+      213: 5685200958805850597
+    second: 20221110bundleReviveFX-Sheet_54
+  - first:
+      213: 1851726978506444843
+    second: 20221110bundleReviveFX-Sheet_55
+  - first:
+      213: 492674433347137684
+    second: 20221110bundleReviveFX-Sheet_56
+  - first:
+      213: -6450381486911831981
+    second: 20221110bundleReviveFX-Sheet_57
+  - first:
+      213: 5527347884266266281
+    second: 20221110bundleReviveFX-Sheet_58
+  - first:
+      213: -1328610168670193076
+    second: 20221110bundleReviveFX-Sheet_59
+  - first:
+      213: 8623885134610559721
+    second: 20221110bundleReviveFX-Sheet_60
+  - first:
+      213: -3941590099584468593
+    second: 20221110bundleReviveFX-Sheet_61
+  - first:
+      213: 7280824870701910885
+    second: 20221110bundleReviveFX-Sheet_62
+  - first:
+      213: -7397294150051234848
+    second: 20221110bundleReviveFX-Sheet_63
+  - first:
+      213: -5221560450416377904
+    second: 20221110bundleReviveFX-Sheet_64
+  - first:
+      213: -8085488455645086347
+    second: 20221110bundleReviveFX-Sheet_65
+  - first:
+      213: 2346969325004469320
+    second: 20221110bundleReviveFX-Sheet_66
+  - first:
+      213: 8562733126450626682
+    second: 20221110bundleReviveFX-Sheet_67
+  - first:
+      213: -4743026610239117971
+    second: 20221110bundleReviveFX-Sheet_68
+  - first:
+      213: -2604611621760452855
+    second: 20221110bundleReviveFX-Sheet_69
+  - first:
+      213: -5290845625125460828
+    second: 20221110bundleReviveFX-Sheet_70
+  - first:
+      213: 5775847079045764273
+    second: 20221110bundleReviveFX-Sheet_71
+  - first:
+      213: 132645552011697598
+    second: 20221110bundleReviveFX-Sheet_72
+  - first:
+      213: -25784370441214102
+    second: 20221110bundleReviveFX-Sheet_73
+  - first:
+      213: 9180335524595516314
+    second: 20221110bundleReviveFX-Sheet_74
+  - first:
+      213: 49585225439512402
+    second: 20221110bundleReviveFX-Sheet_75
+  - first:
+      213: 3452366285272470721
+    second: 20221110bundleReviveFX-Sheet_76
+  - first:
+      213: -3542402799342228915
+    second: 20221110bundleReviveFX-Sheet_77
+  - first:
+      213: -5343730549943295245
+    second: 20221110bundleReviveFX-Sheet_78
+  - first:
+      213: -4046969078248226718
+    second: 20221110bundleReviveFX-Sheet_79
+  - first:
+      213: 6314585077566634636
+    second: 20221110bundleReviveFX-Sheet_80
+  - first:
+      213: -3978155509411642113
+    second: 20221110bundleReviveFX-Sheet_81
+  - first:
+      213: -7017746374582551621
+    second: 20221110bundleReviveFX-Sheet_82
+  - first:
+      213: 3547095608489754632
+    second: 20221110bundleReviveFX-Sheet_83
+  - first:
+      213: 5425837454881335757
+    second: 20221110bundleReviveFX-Sheet_84
+  - first:
+      213: -4502328097060287158
+    second: 20221110bundleReviveFX-Sheet_85
+  - first:
+      213: 7722135979006482030
+    second: 20221110bundleReviveFX-Sheet_86
+  - first:
+      213: 9113037963060351154
+    second: 20221110bundleReviveFX-Sheet_87
+  - first:
+      213: 8896190221220629150
+    second: 20221110bundleReviveFX-Sheet_88
+  - first:
+      213: -7227281319841381996
+    second: 20221110bundleReviveFX-Sheet_89
+  - first:
+      213: 6077918009079292119
+    second: 20221110bundleReviveFX-Sheet_90
+  - first:
+      213: -6300609164821406499
+    second: 20221110bundleReviveFX-Sheet_91
+  - first:
+      213: -4136118696290773441
+    second: 20221110bundleReviveFX-Sheet_92
+  - first:
+      213: -7522221032448739725
+    second: 20221110bundleReviveFX-Sheet_93
+  - first:
+      213: 6539068639457803701
+    second: 20221110bundleReviveFX-Sheet_94
+  - first:
+      213: 6607591751240946023
+    second: 20221110bundleReviveFX-Sheet_95
+  - first:
+      213: 8497969672485625177
+    second: 20221110bundleReviveFX-Sheet_96
+  - first:
+      213: -2104450483234673633
+    second: 20221110bundleReviveFX-Sheet_97
+  - first:
+      213: -434232071388246783
+    second: 20221110bundleReviveFX-Sheet_98
+  - first:
+      213: -1094953809283451670
+    second: 20221110bundleReviveFX-Sheet_99
+  - first:
+      213: 7395048397832124044
+    second: 20221110bundleReviveFX-Sheet_100
+  - first:
+      213: 1847450640648228848
+    second: 20221110bundleReviveFX-Sheet_101
+  - first:
+      213: -4756289491098880021
+    second: 20221110bundleReviveFX-Sheet_102
+  - first:
+      213: 8853346609109651011
+    second: 20221110bundleReviveFX-Sheet_103
+  - first:
+      213: 1892857818659076327
+    second: 20221110bundleReviveFX-Sheet_104
+  - first:
+      213: 1340894972252269510
+    second: 20221110bundleReviveFX-Sheet_105
+  - first:
+      213: -1920280194799586243
+    second: 20221110bundleReviveFX-Sheet_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1292
+        width: 200
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81de574653a6e990800000000000000
+      internalID: -7357013350303215218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1268
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0179356c98685810800000000000000
+      internalID: 1754267075783258379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1298
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e658db4fcacef0800000000000000
+      internalID: -87029318121231995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1278
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb52311c6b9b0440800000000000000
+      internalID: 4903183507770203086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0066d839647721f0800000000000000
+      internalID: -1069758391203241969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aba53518df253f0800000000000000
+      internalID: -913389042511726054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1096
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2475c609a4b47b600800000000000000
+      internalID: 483938268588300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1082
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b8be22b6828e80800000000000000
+      internalID: -8177825873505241976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1098
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c75dd3340a55220800000000000000
+      internalID: 2474059780970609789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1060
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472a3faca7bace00800000000000000
+      internalID: 1065866214128625483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1080
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f585c72f3da1d40800000000000000
+      internalID: 5555986128736640872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1070
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9b026f0417ac690800000000000000
+      internalID: -7581122498903623208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1084
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f84bd9bbbf98020800000000000000
+      internalID: 2344681864246365973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1076
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7d022689204970800000000000000
+      internalID: 8737028933172428560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1056
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67072bb691155ded0800000000000000
+      internalID: -2389914857627291530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1060
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efc19f629d8eca10800000000000000
+      internalID: 1931636950265090024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1074
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91fd120757b43870800000000000000
+      internalID: 8661749567665861022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1052
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b489ff2331d674010800000000000000
+      internalID: 1173026157180721227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1042
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43d16e710bfff560800000000000000
+      internalID: 7349869100725818190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1058
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da124dbcdc9258a80800000000000000
+      internalID: -8465313960708267603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1058
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90db8eea5d08ab850800000000000000
+      internalID: 6393564276256718089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1048
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4529dfbf728a840800000000000000
+      internalID: 5235478530062701812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1032
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ea72f9e9128fa80800000000000000
+      internalID: -8432953337092526455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1026
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d0eb1c74b89540800000000000000
+      internalID: 5014956630213711041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 918
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf587f78da4cc0c0800000000000000
+      internalID: -4554182829466427474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 910
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085bcddb74b6f15d0800000000000000
+      internalID: -3089632863480662656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 900
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df1d7ea326bec20800000000000000
+      internalID: 3236788762332757393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 886
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bffb16e7484ba0800000000000000
+      internalID: -6104550241262913030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 872
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01c256ac57a41bc0800000000000000
+      internalID: -3813238968106696435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af4556a4ba094d0800000000000000
+      internalID: -3129813405006497228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 886
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75786fc5de175b480800000000000000
+      internalID: -8884069425637587113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 858
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ea412f4d282c020800000000000000
+      internalID: 2360593005801680482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 876
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029a3c3c433ea530800000000000000
+      internalID: 3868085532478837257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 890
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d74aed30f6317c0800000000000000
+      internalID: -4101812773193482970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 862
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8301b89c15b463370800000000000000
+      internalID: 8301905777749856312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 848
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108b1324eba91eaa0800000000000000
+      internalID: -6133451075556886527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 864
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e761b4369ca0a8b70800000000000000
+      internalID: 8901939473521776254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 864
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779c785f0157e830800000000000000
+      internalID: 4100335112095045498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 828
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c120b1e9a83da5ab0800000000000000
+      internalID: -5018466242439478756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 838
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540c14e3601df890800000000000000
+      internalID: -7422758589621861281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b73dc024795a230800000000000000
+      internalID: 3649489382992476980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f11ff53888d35d90800000000000000
+      internalID: -7110101307154820621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 832
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9b2dbe7453b5ef0800000000000000
+      internalID: -118442382179780154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 838
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7d35cd130a79e0800000000000000
+      internalID: -1622981289315565633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 828
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966eb240d16af5d10800000000000000
+      internalID: 2116592993441670761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 700
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841444e12007dbf60800000000000000
+      internalID: 8051714863208350024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 638
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1459841323885e040800000000000000
+      internalID: 4676293537250710849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 640
+        width: 10
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a45e55472e6ba10800000000000000
+      internalID: 1924974880032639626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 672
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c44666bafbab700800000000000000
+      internalID: 556968246811839644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 668
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10e80d35dc899d60800000000000000
+      internalID: 7897498269050789917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 668
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf58f9db45a350d0800000000000000
+      internalID: -3435220345555492925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 642
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e37d624c2b1c70800000000000000
+      internalID: 8942790148890028265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 652
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cdf0dd5e2c41d60800000000000000
+      internalID: 7860121542180461641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 646
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7101bb7a0f393110800000000000000
+      internalID: 1241092486574702970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 466
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9355a8624e5ee40800000000000000
+      internalID: 5685200958805850597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 448
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2052e640e7a2b910800000000000000
+      internalID: 1851726978506444843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 420
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b29d69c456d600800000000000000
+      internalID: 492674433347137684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 222
+        width: 94
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3504dd69634ab76a0800000000000000
+      internalID: -6450381486911831981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 226
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae92b79d9515bc40800000000000000
+      internalID: 5527347884266266281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 224
+        width: 98
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4af0734714df8de0800000000000000
+      internalID: -1328610168670193076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 328
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2fb30b6d13ea770800000000000000
+      internalID: 8623885134610559721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 316
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89321810b8ac49c0800000000000000
+      internalID: -3941590099584468593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 222
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b440af4afaa0560800000000000000
+      internalID: 7280824870701910885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 318
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebfe1fb928875990800000000000000
+      internalID: -7397294150051234848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dff3b37f6a4987b0800000000000000
+      internalID: -5221560450416377904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 318
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57db0cd96139acf80800000000000000
+      internalID: -8085488455645086347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 288
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84431a39a2c129020800000000000000
+      internalID: 2346969325004469320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a704f844960f4d670800000000000000
+      internalID: 8562733126450626682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 288
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e8787d626d2eb0800000000000000
+      internalID: -4743026610239117971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 296
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9073d13a78f8adbd0800000000000000
+      internalID: -2604611621760452855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 234
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4a7f0afe32396b0800000000000000
+      internalID: -5290845625125460828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 302
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4108f015ee72050800000000000000
+      internalID: 5775847079045764273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 276
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd51b04d6047d100800000000000000
+      internalID: 132645552011697598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 276
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67281f604564aff0800000000000000
+      internalID: -25784370441214102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934a66258a176f70800000000000000
+      internalID: 9180335524595516314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 284
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2570e64ff7920b000800000000000000
+      internalID: 49585225439512402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 280
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4533458d449ef20800000000000000
+      internalID: 3452366285272470721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 284
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6bd52c6bd6dec0800000000000000
+      internalID: -3542402799342228915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 254
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22a3b806147d5b0800000000000000
+      internalID: -5343730549943295245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 260
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260460aa01746d7c0800000000000000
+      internalID: -4046969078248226718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a77540ca9e1a750800000000000000
+      internalID: 6314585077566634636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 254
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4814034a0cac8c0800000000000000
+      internalID: -3978155509411642113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 266
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbb83b9ad4fb9e90800000000000000
+      internalID: -7017746374582551621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8004160a9a0d93130800000000000000
+      internalID: 3547095608489754632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 260
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9263bfa627c4b40800000000000000
+      internalID: 5425837454881335757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 238
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d067833748481c0800000000000000
+      internalID: -4502328097060287158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66d1ff52c98a2b60800000000000000
+      internalID: 7722135979006482030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b09cd49eb3087e70800000000000000
+      internalID: 9113037963060351154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 236
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac8264fdd957b70800000000000000
+      internalID: 8896190221220629150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 236
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491c90f6ee983bb90800000000000000
+      internalID: -7227281319841381996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 224
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ee112a3a195450800000000000000
+      internalID: 6077918009079292119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcdf3eb85dbf88a0800000000000000
+      internalID: -6300609164821406499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 222
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f369cb6b5fd8996c0800000000000000
+      internalID: -4136118696290773441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 98
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376bbee43d3bb9790800000000000000
+      internalID: -7522221032448739725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd77c838407fba50800000000000000
+      internalID: 6539068639457803701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 110
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761948170b1e2bb50800000000000000
+      internalID: 6607591751240946023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d5c88946adee570800000000000000
+      internalID: 8497969672485625177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 86
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce5637f6d7bc2e0800000000000000
+      internalID: -2104450483234673633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 84
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d42d25b3c49f9f0800000000000000
+      internalID: -434232071388246783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4f230df41fdc0f0800000000000000
+      internalID: -1094953809283451670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86fa91565d70a660800000000000000
+      internalID: 7395048397832124044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffc7e7c19673a910800000000000000
+      internalID: 1847450640648228848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7b02268e34efdb0800000000000000
+      internalID: -4756289491098880021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 66
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec36d75d76dda70800000000000000
+      internalID: 8853346609109651011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 56
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8be734828c44a10800000000000000
+      internalID: 1892857818659076327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb24367fd0db9210800000000000000
+      internalID: 1340894972252269510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleReviveFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b0cf365bc955e0800000000000000
+      internalID: -1920280194799586243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundleReviveFX-Sheet_0: -7357013350303215218
+      20221110bundleReviveFX-Sheet_1: 1754267075783258379
+      20221110bundleReviveFX-Sheet_10: 5555986128736640872
+      20221110bundleReviveFX-Sheet_100: 7395048397832124044
+      20221110bundleReviveFX-Sheet_101: 1847450640648228848
+      20221110bundleReviveFX-Sheet_102: -4756289491098880021
+      20221110bundleReviveFX-Sheet_103: 8853346609109651011
+      20221110bundleReviveFX-Sheet_104: 1892857818659076327
+      20221110bundleReviveFX-Sheet_105: 1340894972252269510
+      20221110bundleReviveFX-Sheet_106: -1920280194799586243
+      20221110bundleReviveFX-Sheet_11: -7581122498903623208
+      20221110bundleReviveFX-Sheet_12: 2344681864246365973
+      20221110bundleReviveFX-Sheet_13: 8737028933172428560
+      20221110bundleReviveFX-Sheet_14: -2389914857627291530
+      20221110bundleReviveFX-Sheet_15: 1931636950265090024
+      20221110bundleReviveFX-Sheet_16: 8661749567665861022
+      20221110bundleReviveFX-Sheet_17: 1173026157180721227
+      20221110bundleReviveFX-Sheet_18: 7349869100725818190
+      20221110bundleReviveFX-Sheet_19: -8465313960708267603
+      20221110bundleReviveFX-Sheet_2: -87029318121231995
+      20221110bundleReviveFX-Sheet_20: 6393564276256718089
+      20221110bundleReviveFX-Sheet_21: 5235478530062701812
+      20221110bundleReviveFX-Sheet_22: -8432953337092526455
+      20221110bundleReviveFX-Sheet_23: 5014956630213711041
+      20221110bundleReviveFX-Sheet_24: -4554182829466427474
+      20221110bundleReviveFX-Sheet_25: -3089632863480662656
+      20221110bundleReviveFX-Sheet_26: 3236788762332757393
+      20221110bundleReviveFX-Sheet_27: -6104550241262913030
+      20221110bundleReviveFX-Sheet_28: -3813238968106696435
+      20221110bundleReviveFX-Sheet_29: -3129813405006497228
+      20221110bundleReviveFX-Sheet_3: 4903183507770203086
+      20221110bundleReviveFX-Sheet_30: -8884069425637587113
+      20221110bundleReviveFX-Sheet_31: 2360593005801680482
+      20221110bundleReviveFX-Sheet_32: 3868085532478837257
+      20221110bundleReviveFX-Sheet_33: -4101812773193482970
+      20221110bundleReviveFX-Sheet_34: 8301905777749856312
+      20221110bundleReviveFX-Sheet_35: -6133451075556886527
+      20221110bundleReviveFX-Sheet_36: 8901939473521776254
+      20221110bundleReviveFX-Sheet_37: 4100335112095045498
+      20221110bundleReviveFX-Sheet_38: -5018466242439478756
+      20221110bundleReviveFX-Sheet_39: -7422758589621861281
+      20221110bundleReviveFX-Sheet_4: -1069758391203241969
+      20221110bundleReviveFX-Sheet_40: 3649489382992476980
+      20221110bundleReviveFX-Sheet_41: -7110101307154820621
+      20221110bundleReviveFX-Sheet_42: -118442382179780154
+      20221110bundleReviveFX-Sheet_43: -1622981289315565633
+      20221110bundleReviveFX-Sheet_44: 2116592993441670761
+      20221110bundleReviveFX-Sheet_45: 8051714863208350024
+      20221110bundleReviveFX-Sheet_46: 4676293537250710849
+      20221110bundleReviveFX-Sheet_47: 1924974880032639626
+      20221110bundleReviveFX-Sheet_48: 556968246811839644
+      20221110bundleReviveFX-Sheet_49: 7897498269050789917
+      20221110bundleReviveFX-Sheet_5: -913389042511726054
+      20221110bundleReviveFX-Sheet_50: -3435220345555492925
+      20221110bundleReviveFX-Sheet_51: 8942790148890028265
+      20221110bundleReviveFX-Sheet_52: 7860121542180461641
+      20221110bundleReviveFX-Sheet_53: 1241092486574702970
+      20221110bundleReviveFX-Sheet_54: 5685200958805850597
+      20221110bundleReviveFX-Sheet_55: 1851726978506444843
+      20221110bundleReviveFX-Sheet_56: 492674433347137684
+      20221110bundleReviveFX-Sheet_57: -6450381486911831981
+      20221110bundleReviveFX-Sheet_58: 5527347884266266281
+      20221110bundleReviveFX-Sheet_59: -1328610168670193076
+      20221110bundleReviveFX-Sheet_6: 483938268588300098
+      20221110bundleReviveFX-Sheet_60: 8623885134610559721
+      20221110bundleReviveFX-Sheet_61: -3941590099584468593
+      20221110bundleReviveFX-Sheet_62: 7280824870701910885
+      20221110bundleReviveFX-Sheet_63: -7397294150051234848
+      20221110bundleReviveFX-Sheet_64: -5221560450416377904
+      20221110bundleReviveFX-Sheet_65: -8085488455645086347
+      20221110bundleReviveFX-Sheet_66: 2346969325004469320
+      20221110bundleReviveFX-Sheet_67: 8562733126450626682
+      20221110bundleReviveFX-Sheet_68: -4743026610239117971
+      20221110bundleReviveFX-Sheet_69: -2604611621760452855
+      20221110bundleReviveFX-Sheet_7: -8177825873505241976
+      20221110bundleReviveFX-Sheet_70: -5290845625125460828
+      20221110bundleReviveFX-Sheet_71: 5775847079045764273
+      20221110bundleReviveFX-Sheet_72: 132645552011697598
+      20221110bundleReviveFX-Sheet_73: -25784370441214102
+      20221110bundleReviveFX-Sheet_74: 9180335524595516314
+      20221110bundleReviveFX-Sheet_75: 49585225439512402
+      20221110bundleReviveFX-Sheet_76: 3452366285272470721
+      20221110bundleReviveFX-Sheet_77: -3542402799342228915
+      20221110bundleReviveFX-Sheet_78: -5343730549943295245
+      20221110bundleReviveFX-Sheet_79: -4046969078248226718
+      20221110bundleReviveFX-Sheet_8: 2474059780970609789
+      20221110bundleReviveFX-Sheet_80: 6314585077566634636
+      20221110bundleReviveFX-Sheet_81: -3978155509411642113
+      20221110bundleReviveFX-Sheet_82: -7017746374582551621
+      20221110bundleReviveFX-Sheet_83: 3547095608489754632
+      20221110bundleReviveFX-Sheet_84: 5425837454881335757
+      20221110bundleReviveFX-Sheet_85: -4502328097060287158
+      20221110bundleReviveFX-Sheet_86: 7722135979006482030
+      20221110bundleReviveFX-Sheet_87: 9113037963060351154
+      20221110bundleReviveFX-Sheet_88: 8896190221220629150
+      20221110bundleReviveFX-Sheet_89: -7227281319841381996
+      20221110bundleReviveFX-Sheet_9: 1065866214128625483
+      20221110bundleReviveFX-Sheet_90: 6077918009079292119
+      20221110bundleReviveFX-Sheet_91: -6300609164821406499
+      20221110bundleReviveFX-Sheet_92: -4136118696290773441
+      20221110bundleReviveFX-Sheet_93: -7522221032448739725
+      20221110bundleReviveFX-Sheet_94: 6539068639457803701
+      20221110bundleReviveFX-Sheet_95: 6607591751240946023
+      20221110bundleReviveFX-Sheet_96: 8497969672485625177
+      20221110bundleReviveFX-Sheet_97: -2104450483234673633
+      20221110bundleReviveFX-Sheet_98: -434232071388246783
+      20221110bundleReviveFX-Sheet_99: -1094953809283451670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

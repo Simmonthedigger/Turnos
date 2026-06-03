@@ -1,0 +1,1612 @@
+fileFormatVersion: 2
+guid: 3546d9e0f8ab23049b91ab01c7f2889f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1740072573925473534
+    second: vfx-revive_0
+  - first:
+      213: 7692552586067838293
+    second: vfx-revive_1
+  - first:
+      213: -6213129563930245639
+    second: vfx-revive_2
+  - first:
+      213: -7284699589291533280
+    second: vfx-revive_3
+  - first:
+      213: 8337751256866401829
+    second: vfx-revive_4
+  - first:
+      213: 6505415286366226532
+    second: vfx-revive_5
+  - first:
+      213: -4838414272462449916
+    second: vfx-revive_6
+  - first:
+      213: -1325075146839479881
+    second: vfx-revive_7
+  - first:
+      213: 7372113825065537493
+    second: vfx-revive_8
+  - first:
+      213: -8374552815331891576
+    second: vfx-revive_9
+  - first:
+      213: 6601060360681527222
+    second: vfx-revive_10
+  - first:
+      213: 4780081946158733990
+    second: vfx-revive_11
+  - first:
+      213: -7517873539075266075
+    second: vfx-revive_12
+  - first:
+      213: 4432689211694702035
+    second: vfx-revive_13
+  - first:
+      213: -1452796557681182537
+    second: vfx-revive_14
+  - first:
+      213: 4210834715752817029
+    second: vfx-revive_15
+  - first:
+      213: 5255228666337824680
+    second: vfx-revive_16
+  - first:
+      213: 6502031405756331602
+    second: vfx-revive_17
+  - first:
+      213: 7244215762679668654
+    second: vfx-revive_18
+  - first:
+      213: -2969283966186218150
+    second: vfx-revive_19
+  - first:
+      213: -8956614531691079164
+    second: vfx-revive_20
+  - first:
+      213: 7129805870476761148
+    second: vfx-revive_21
+  - first:
+      213: -3778324825774796283
+    second: vfx-revive_22
+  - first:
+      213: -3513574226322526339
+    second: vfx-revive_23
+  - first:
+      213: 1636862675057041240
+    second: vfx-revive_24
+  - first:
+      213: 841332535968069206
+    second: vfx-revive_25
+  - first:
+      213: -2283180072356957682
+    second: vfx-revive_26
+  - first:
+      213: -5614111387221461702
+    second: vfx-revive_27
+  - first:
+      213: 1115438599348250329
+    second: vfx-revive_28
+  - first:
+      213: 1935822821266841318
+    second: vfx-revive_29
+  - first:
+      213: -4768326190918586321
+    second: vfx-revive_30
+  - first:
+      213: -7506951071869798602
+    second: vfx-revive_31
+  - first:
+      213: 1708766642944608558
+    second: vfx-revive_32
+  - first:
+      213: 6092488473419306676
+    second: vfx-revive_33
+  - first:
+      213: -4519844378020946350
+    second: vfx-revive_34
+  - first:
+      213: 4712826607723024958
+    second: vfx-revive_35
+  - first:
+      213: 3430687919526918626
+    second: vfx-revive_36
+  - first:
+      213: -3964596673418961904
+    second: vfx-revive_37
+  - first:
+      213: -1902577385935513130
+    second: vfx-revive_38
+  - first:
+      213: -5925745776662587737
+    second: vfx-revive_39
+  - first:
+      213: -4163872891876394385
+    second: vfx-revive_40
+  - first:
+      213: 3980673671661208404
+    second: vfx-revive_41
+  - first:
+      213: 6873763255949621123
+    second: vfx-revive_42
+  - first:
+      213: -4674103685425498324
+    second: vfx-revive_43
+  - first:
+      213: -1189843771671801149
+    second: vfx-revive_44
+  - first:
+      213: 6242356863322513100
+    second: vfx-revive_45
+  - first:
+      213: -653110685427658438
+    second: vfx-revive_46
+  - first:
+      213: -1683003876583431082
+    second: vfx-revive_47
+  - first:
+      213: -7520054847120857793
+    second: vfx-revive_48
+  - first:
+      213: 6081798836825656560
+    second: vfx-revive_49
+  - first:
+      213: 6721397758541122259
+    second: vfx-revive_50
+  - first:
+      213: 8632431659800156989
+    second: vfx-revive_51
+  - first:
+      213: -3096063645856912998
+    second: vfx-revive_52
+  - first:
+      213: 6279635180075331106
+    second: vfx-revive_53
+  - first:
+      213: 9186656191751411787
+    second: vfx-revive_54
+  - first:
+      213: 8706216343930970907
+    second: vfx-revive_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-revive_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 841
+        width: 135
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c5cb96350ad7e0800000000000000
+      internalID: -1740072573925473534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 979
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5550694f1df61ca60800000000000000
+      internalID: 7692552586067838293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 974
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c576849786c9a0800000000000000
+      internalID: -6213129563930245639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 856
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c18dcc15c87ea90800000000000000
+      internalID: -7284699589291533280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 849
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ea613c794a5b370800000000000000
+      internalID: 8337751256866401829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 843
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468414c5cb0e74a50800000000000000
+      internalID: 6505415286366226532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 836
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40312bdaadf7adcb0800000000000000
+      internalID: -4838414272462449916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 834
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b92febac236c9de0800000000000000
+      internalID: -1325075146839479881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 829
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df07caf6720f4660800000000000000
+      internalID: 7372113825065537493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 693
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8862561b59c97cb80800000000000000
+      internalID: -8374552815331891576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 712
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b795539c6dab9b50800000000000000
+      internalID: 6601060360681527222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 731
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa9c0e3433465240800000000000000
+      internalID: 4780081946158733990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 722
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e92c1df8d52ba790800000000000000
+      internalID: -7517873539075266075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 710
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd4c64a53148d30800000000000000
+      internalID: 4432689211694702035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 707
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8b0806a31a6dbe0800000000000000
+      internalID: -1452796557681182537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 696
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58164503dd3ef6a30800000000000000
+      internalID: 4210834715752817029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 704
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af048ee0a25ee840800000000000000
+      internalID: 5255228666337824680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 690
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2563a824d1bdb3a50800000000000000
+      internalID: 6502031405756331602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 695
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf9ecacadf988460800000000000000
+      internalID: 7244215762679668654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1536f6fbfac6d0800000000000000
+      internalID: -2969283966186218150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 591
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a9370a986b3b380800000000000000
+      internalID: -8956614531691079164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 586
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c381343f9a822f260800000000000000
+      internalID: 7129805870476761148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 437
+        width: 31
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50257a1e691b09bc0800000000000000
+      internalID: -3778324825774796283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 577
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe31c5bd64d3fc0800000000000000
+      internalID: -3513574226322526339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 564
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fded43eed47b610800000000000000
+      internalID: 1636862675057041240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 562
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656fa50eb730dab00800000000000000
+      internalID: 841332535968069206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 567
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b9ec22d38050e0800000000000000
+      internalID: -2283180072356957682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 435
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35703b207ba612b0800000000000000
+      internalID: -5614111387221461702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 442
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d669ea0f75da7f00800000000000000
+      internalID: 1115438599348250329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_29
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 439
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee54b9799c6dda10800000000000000
+      internalID: 1935822821266841318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_30
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 166
+        width: 48
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f203b11d79083ddb0800000000000000
+      internalID: -4768326190918586321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 165
+        width: 52
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63776fe06c3f1d790800000000000000
+      internalID: -7506951071869798602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2900c45532c6b710800000000000000
+      internalID: 1708766642944608558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 163
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6d158bcfddc8450800000000000000
+      internalID: 6092488473419306676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 164
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ed3004c794641c0800000000000000
+      internalID: -4519844378020946350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_35
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 210
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32175184d2576140800000000000000
+      internalID: 4712826607723024958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 190
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e930aa7c704c9f20800000000000000
+      internalID: 3430687919526918626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cda23b45ceaf8c0800000000000000
+      internalID: -3964596673418961904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_38
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 179
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d95f91a2ffa895e0800000000000000
+      internalID: -1902577385935513130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 35
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a651c0bc9583cda0800000000000000
+      internalID: -5925745776662587737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a34dd7aa3f636c0800000000000000
+      internalID: -4163872891876394385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_41
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453cd162d913e3730800000000000000
+      internalID: 3980673671661208404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 41
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38772053343846f50800000000000000
+      internalID: 6873763255949621123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_43
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 66
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c277eda667f322fb0800000000000000
+      internalID: -4674103685425498324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 46
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c29a4bc463dc7fe0800000000000000
+      internalID: -1189843771671801149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce5f876e7e41a650800000000000000
+      internalID: 6242356863322513100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_46
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31921cba4fafe6f0800000000000000
+      internalID: -653110685427658438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 41
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a3a424e4c4a8e0800000000000000
+      internalID: -1683003876583431082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3528e1a5f563a790800000000000000
+      internalID: -7520054847120857793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_49
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc8060c1d3e66450800000000000000
+      internalID: 6081798836825656560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 66
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da43ff56a3374d50800000000000000
+      internalID: 6721397758541122259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 62
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b5936abde8cc770800000000000000
+      internalID: 8632431659800156989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_52
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99a2ba84829805d0800000000000000
+      internalID: -3096063645856912998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eaf63eceeb52750800000000000000
+      internalID: 6279635180075331106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 53
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b485cf6222f8d7f70800000000000000
+      internalID: 9186656191751411787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-revive_55
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a4b523a1b2d870800000000000000
+      internalID: 8706216343930970907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-revive_0: -1740072573925473534
+      vfx-revive_1: 7692552586067838293
+      vfx-revive_10: 6601060360681527222
+      vfx-revive_11: 4780081946158733990
+      vfx-revive_12: -7517873539075266075
+      vfx-revive_13: 4432689211694702035
+      vfx-revive_14: -1452796557681182537
+      vfx-revive_15: 4210834715752817029
+      vfx-revive_16: 5255228666337824680
+      vfx-revive_17: 6502031405756331602
+      vfx-revive_18: 7244215762679668654
+      vfx-revive_19: -2969283966186218150
+      vfx-revive_2: -6213129563930245639
+      vfx-revive_20: -8956614531691079164
+      vfx-revive_21: 7129805870476761148
+      vfx-revive_22: -3778324825774796283
+      vfx-revive_23: -3513574226322526339
+      vfx-revive_24: 1636862675057041240
+      vfx-revive_25: 841332535968069206
+      vfx-revive_26: -2283180072356957682
+      vfx-revive_27: -5614111387221461702
+      vfx-revive_28: 1115438599348250329
+      vfx-revive_29: 1935822821266841318
+      vfx-revive_3: -7284699589291533280
+      vfx-revive_30: -4768326190918586321
+      vfx-revive_31: -7506951071869798602
+      vfx-revive_32: 1708766642944608558
+      vfx-revive_33: 6092488473419306676
+      vfx-revive_34: -4519844378020946350
+      vfx-revive_35: 4712826607723024958
+      vfx-revive_36: 3430687919526918626
+      vfx-revive_37: -3964596673418961904
+      vfx-revive_38: -1902577385935513130
+      vfx-revive_39: -5925745776662587737
+      vfx-revive_4: 8337751256866401829
+      vfx-revive_40: -4163872891876394385
+      vfx-revive_41: 3980673671661208404
+      vfx-revive_42: 6873763255949621123
+      vfx-revive_43: -4674103685425498324
+      vfx-revive_44: -1189843771671801149
+      vfx-revive_45: 6242356863322513100
+      vfx-revive_46: -653110685427658438
+      vfx-revive_47: -1683003876583431082
+      vfx-revive_48: -7520054847120857793
+      vfx-revive_49: 6081798836825656560
+      vfx-revive_5: 6505415286366226532
+      vfx-revive_50: 6721397758541122259
+      vfx-revive_51: 8632431659800156989
+      vfx-revive_52: -3096063645856912998
+      vfx-revive_53: 6279635180075331106
+      vfx-revive_54: 9186656191751411787
+      vfx-revive_55: 8706216343930970907
+      vfx-revive_6: -4838414272462449916
+      vfx-revive_7: -1325075146839479881
+      vfx-revive_8: 7372113825065537493
+      vfx-revive_9: -8374552815331891576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 9e0d3ec99815bdc4db0ac3c07789c2d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4873325503659175232
+    second: vfx-terrorTreantBranchHit_0
+  - first:
+      213: 5564198318595846413
+    second: vfx-terrorTreantBranchHit_1
+  - first:
+      213: 1510082174315027644
+    second: vfx-terrorTreantBranchHit_2
+  - first:
+      213: 3246876276479791034
+    second: vfx-terrorTreantBranchHit_3
+  - first:
+      213: 4758622867140665992
+    second: vfx-terrorTreantBranchHit_4
+  - first:
+      213: 1611554038219336317
+    second: vfx-terrorTreantBranchHit_5
+  - first:
+      213: -6260269676312933540
+    second: vfx-terrorTreantBranchHit_6
+  - first:
+      213: 6325750646812784794
+    second: vfx-terrorTreantBranchHit_7
+  - first:
+      213: 4762211229650161925
+    second: vfx-terrorTreantBranchHit_8
+  - first:
+      213: -8356932319171635829
+    second: vfx-terrorTreantBranchHit_9
+  - first:
+      213: -3400451096047967480
+    second: vfx-terrorTreantBranchHit_10
+  - first:
+      213: -1219580901248186397
+    second: vfx-terrorTreantBranchHit_11
+  - first:
+      213: 1675488716402334092
+    second: vfx-terrorTreantBranchHit_12
+  - first:
+      213: 7709512826949465323
+    second: vfx-terrorTreantBranchHit_13
+  - first:
+      213: 5759782490883584853
+    second: vfx-terrorTreantBranchHit_14
+  - first:
+      213: 7954220576874738545
+    second: vfx-terrorTreantBranchHit_15
+  - first:
+      213: 4851163803862996229
+    second: vfx-terrorTreantBranchHit_16
+  - first:
+      213: 1614064198130909121
+    second: vfx-terrorTreantBranchHit_17
+  - first:
+      213: -3644640974040181648
+    second: vfx-terrorTreantBranchHit_18
+  - first:
+      213: -6771960583541568148
+    second: vfx-terrorTreantBranchHit_19
+  - first:
+      213: 3205545482890452179
+    second: vfx-terrorTreantBranchHit_20
+  - first:
+      213: -7896302683983974999
+    second: vfx-terrorTreantBranchHit_21
+  - first:
+      213: 2520643674841740043
+    second: vfx-terrorTreantBranchHit_22
+  - first:
+      213: 6340819493019023931
+    second: vfx-terrorTreantBranchHit_23
+  - first:
+      213: -9118596736500819903
+    second: vfx-terrorTreantBranchHit_24
+  - first:
+      213: -2702017526124569121
+    second: vfx-terrorTreantBranchHit_25
+  - first:
+      213: -7970407789940374925
+    second: vfx-terrorTreantBranchHit_26
+  - first:
+      213: 3151726575459759719
+    second: vfx-terrorTreantBranchHit_27
+  - first:
+      213: -159041962290395637
+    second: vfx-terrorTreantBranchHit_28
+  - first:
+      213: -505295483872324601
+    second: vfx-terrorTreantBranchHit_29
+  - first:
+      213: 7776631038165376868
+    second: vfx-terrorTreantBranchHit_30
+  - first:
+      213: 8760941108553579756
+    second: vfx-terrorTreantBranchHit_31
+  - first:
+      213: -3729115388160426758
+    second: vfx-terrorTreantBranchHit_32
+  - first:
+      213: -5269635610566522000
+    second: vfx-terrorTreantBranchHit_33
+  - first:
+      213: -7944651274915378630
+    second: vfx-terrorTreantBranchHit_34
+  - first:
+      213: 4588892931520966470
+    second: vfx-terrorTreantBranchHit_35
+  - first:
+      213: -2894343205289002367
+    second: vfx-terrorTreantBranchHit_36
+  - first:
+      213: -9091787724038519897
+    second: vfx-terrorTreantBranchHit_37
+  - first:
+      213: -207590856035457514
+    second: vfx-terrorTreantBranchHit_38
+  - first:
+      213: 5731782792179223837
+    second: vfx-terrorTreantBranchHit_39
+  - first:
+      213: 4911389209939269404
+    second: vfx-terrorTreantBranchHit_40
+  - first:
+      213: 1505542702308203720
+    second: vfx-terrorTreantBranchHit_41
+  - first:
+      213: 5108911690362671339
+    second: vfx-terrorTreantBranchHit_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 424
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de470c9b781a340800000000000000
+      internalID: 4873325503659175232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 432
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d013bbfe3e0083d40800000000000000
+      internalID: 5564198318595846413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 424
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc52bd9cb3e4f410800000000000000
+      internalID: 1510082174315027644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 294
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf883155c83f0d20800000000000000
+      internalID: 3246876276479791034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 294
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88268ff09460a0240800000000000000
+      internalID: 4758622867140665992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 293
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ae8600cd36d5610800000000000000
+      internalID: 1611554038219336317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bc731d5ed0f19a0800000000000000
+      internalID: -6260269676312933540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9839f0b2b499c750800000000000000
+      internalID: 6325750646812784794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 211
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5019ca0d1e5c61240800000000000000
+      internalID: 4762211229650161925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 206
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b851bc72556360c80800000000000000
+      internalID: -8356932319171635829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 181
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80329f79ebb2fc0d0800000000000000
+      internalID: -3400451096047967480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 199
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e74046c1ad231fe0800000000000000
+      internalID: -1219580901248186397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 187
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8916564c18804710800000000000000
+      internalID: 1675488716402334092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 39
+        width: 50
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f3a1c111bdfa60800000000000000
+      internalID: 7709512826949465323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 162
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55371a8a8abdeef40800000000000000
+      internalID: 5759782490883584853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 182
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173b8bda871136e60800000000000000
+      internalID: 7954220576874738545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 164
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5059c7ce6cbc25340800000000000000
+      internalID: 4851163803862996229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfb44626de466610800000000000000
+      internalID: 1614064198130909121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07450802852ab6dc0800000000000000
+      internalID: -3644640974040181648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dce098ab92502a0800000000000000
+      internalID: -6771960583541568148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 180
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc1b0b02a26c7c20800000000000000
+      internalID: 3205545482890452179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adeb2a9b82ba6290800000000000000
+      internalID: -7896302683983974999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f64c31102bf220800000000000000
+      internalID: 2520643674841740043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a754adbbd1ff750800000000000000
+      internalID: 6340819493019023931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14815de949c347180800000000000000
+      internalID: -9118596736500819903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd177a3061808ad0800000000000000
+      internalID: -2702017526124569121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 178
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720995185c636190800000000000000
+      internalID: -7970407789940374925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 180
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ff6f2f9e2dbb20800000000000000
+      internalID: 3151726575459759719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 177
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06cc4d8d28facdf0800000000000000
+      internalID: -159041962290395637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 168
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7045e214f64dcf8f0800000000000000
+      internalID: -505295483872324601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdf131ab42ceb60800000000000000
+      internalID: 7776631038165376868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 168
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecf371558d159970800000000000000
+      internalID: 8760941108553579756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 172
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc314aef458f3cc0800000000000000
+      internalID: -3729115388160426758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_33
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 163
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0f68f45e7ed6b0800000000000000
+      internalID: -5269635610566522000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 170
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a805e02cdeeb190800000000000000
+      internalID: -7944651274915378630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 167
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fab97eec50faf30800000000000000
+      internalID: 4588892931520966470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 168
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18afeae803a35d7d0800000000000000
+      internalID: -2894343205289002367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 167
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a34d6f3c3b73d180800000000000000
+      internalID: -9091787724038519897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616236f573d7e1df0800000000000000
+      internalID: -207590856035457514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d0a89c4126b8f40800000000000000
+      internalID: 5731782792179223837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 37
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17dd1cf672c82440800000000000000
+      internalID: 4911389209939269404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc134d6c13c4e410800000000000000
+      internalID: 1505542702308203720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-terrorTreantBranchHit_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 38
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be058ec3d1086e640800000000000000
+      internalID: 5108911690362671339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-terrorTreantBranchHit_0: 4873325503659175232
+      vfx-terrorTreantBranchHit_1: 5564198318595846413
+      vfx-terrorTreantBranchHit_10: -3400451096047967480
+      vfx-terrorTreantBranchHit_11: -1219580901248186397
+      vfx-terrorTreantBranchHit_12: 1675488716402334092
+      vfx-terrorTreantBranchHit_13: 7709512826949465323
+      vfx-terrorTreantBranchHit_14: 5759782490883584853
+      vfx-terrorTreantBranchHit_15: 7954220576874738545
+      vfx-terrorTreantBranchHit_16: 4851163803862996229
+      vfx-terrorTreantBranchHit_17: 1614064198130909121
+      vfx-terrorTreantBranchHit_18: -3644640974040181648
+      vfx-terrorTreantBranchHit_19: -6771960583541568148
+      vfx-terrorTreantBranchHit_2: 1510082174315027644
+      vfx-terrorTreantBranchHit_20: 3205545482890452179
+      vfx-terrorTreantBranchHit_21: -7896302683983974999
+      vfx-terrorTreantBranchHit_22: 2520643674841740043
+      vfx-terrorTreantBranchHit_23: 6340819493019023931
+      vfx-terrorTreantBranchHit_24: -9118596736500819903
+      vfx-terrorTreantBranchHit_25: -2702017526124569121
+      vfx-terrorTreantBranchHit_26: -7970407789940374925
+      vfx-terrorTreantBranchHit_27: 3151726575459759719
+      vfx-terrorTreantBranchHit_28: -159041962290395637
+      vfx-terrorTreantBranchHit_29: -505295483872324601
+      vfx-terrorTreantBranchHit_3: 3246876276479791034
+      vfx-terrorTreantBranchHit_30: 7776631038165376868
+      vfx-terrorTreantBranchHit_31: 8760941108553579756
+      vfx-terrorTreantBranchHit_32: -3729115388160426758
+      vfx-terrorTreantBranchHit_33: -5269635610566522000
+      vfx-terrorTreantBranchHit_34: -7944651274915378630
+      vfx-terrorTreantBranchHit_35: 4588892931520966470
+      vfx-terrorTreantBranchHit_36: -2894343205289002367
+      vfx-terrorTreantBranchHit_37: -9091787724038519897
+      vfx-terrorTreantBranchHit_38: -207590856035457514
+      vfx-terrorTreantBranchHit_39: 5731782792179223837
+      vfx-terrorTreantBranchHit_4: 4758622867140665992
+      vfx-terrorTreantBranchHit_40: 4911389209939269404
+      vfx-terrorTreantBranchHit_41: 1505542702308203720
+      vfx-terrorTreantBranchHit_42: 5108911690362671339
+      vfx-terrorTreantBranchHit_5: 1611554038219336317
+      vfx-terrorTreantBranchHit_6: -6260269676312933540
+      vfx-terrorTreantBranchHit_7: 6325750646812784794
+      vfx-terrorTreantBranchHit_8: 4762211229650161925
+      vfx-terrorTreantBranchHit_9: -8356932319171635829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

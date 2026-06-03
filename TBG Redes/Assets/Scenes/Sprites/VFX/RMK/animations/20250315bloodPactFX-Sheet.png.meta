@@ -1,0 +1,4212 @@
+fileFormatVersion: 2
+guid: 9f798e0b64df5c04f82b793abcb93f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 182276780474172229
+    second: 20250315bloodPactFX-Sheet_0
+  - first:
+      213: -4292801048426489579
+    second: 20250315bloodPactFX-Sheet_1
+  - first:
+      213: 8794581667652094077
+    second: 20250315bloodPactFX-Sheet_2
+  - first:
+      213: 202747114709197390
+    second: 20250315bloodPactFX-Sheet_3
+  - first:
+      213: -6660052599772659244
+    second: 20250315bloodPactFX-Sheet_4
+  - first:
+      213: 1925739904537143055
+    second: 20250315bloodPactFX-Sheet_5
+  - first:
+      213: 1466835108223241870
+    second: 20250315bloodPactFX-Sheet_6
+  - first:
+      213: -4311792184281106282
+    second: 20250315bloodPactFX-Sheet_7
+  - first:
+      213: -838062029028310770
+    second: 20250315bloodPactFX-Sheet_8
+  - first:
+      213: -656942187543477687
+    second: 20250315bloodPactFX-Sheet_9
+  - first:
+      213: 2043695238305751178
+    second: 20250315bloodPactFX-Sheet_10
+  - first:
+      213: -6940063978896528082
+    second: 20250315bloodPactFX-Sheet_11
+  - first:
+      213: 2989015346054506875
+    second: 20250315bloodPactFX-Sheet_12
+  - first:
+      213: -4307056117608174327
+    second: 20250315bloodPactFX-Sheet_13
+  - first:
+      213: -2765553279019994659
+    second: 20250315bloodPactFX-Sheet_14
+  - first:
+      213: 1012612720363367765
+    second: 20250315bloodPactFX-Sheet_15
+  - first:
+      213: -977852472680648815
+    second: 20250315bloodPactFX-Sheet_16
+  - first:
+      213: -1492392881534826924
+    second: 20250315bloodPactFX-Sheet_17
+  - first:
+      213: 8405281811089108320
+    second: 20250315bloodPactFX-Sheet_18
+  - first:
+      213: 3720056856344089244
+    second: 20250315bloodPactFX-Sheet_19
+  - first:
+      213: 3682396849561564061
+    second: 20250315bloodPactFX-Sheet_20
+  - first:
+      213: -6674285307670432744
+    second: 20250315bloodPactFX-Sheet_21
+  - first:
+      213: -1502913928931861138
+    second: 20250315bloodPactFX-Sheet_22
+  - first:
+      213: -4721023347767981112
+    second: 20250315bloodPactFX-Sheet_23
+  - first:
+      213: 2641472280967410010
+    second: 20250315bloodPactFX-Sheet_24
+  - first:
+      213: -8557262071767816817
+    second: 20250315bloodPactFX-Sheet_25
+  - first:
+      213: 1844564916403542833
+    second: 20250315bloodPactFX-Sheet_26
+  - first:
+      213: -8918362499948043538
+    second: 20250315bloodPactFX-Sheet_27
+  - first:
+      213: 1291321949449484961
+    second: 20250315bloodPactFX-Sheet_28
+  - first:
+      213: 8631983011207110780
+    second: 20250315bloodPactFX-Sheet_29
+  - first:
+      213: -2890492684860115291
+    second: 20250315bloodPactFX-Sheet_30
+  - first:
+      213: 8673050280399308622
+    second: 20250315bloodPactFX-Sheet_31
+  - first:
+      213: -9097372822699220048
+    second: 20250315bloodPactFX-Sheet_32
+  - first:
+      213: -4671360481231897306
+    second: 20250315bloodPactFX-Sheet_33
+  - first:
+      213: -3194354239977577089
+    second: 20250315bloodPactFX-Sheet_34
+  - first:
+      213: 669782642503639348
+    second: 20250315bloodPactFX-Sheet_35
+  - first:
+      213: -8176471332536713251
+    second: 20250315bloodPactFX-Sheet_36
+  - first:
+      213: 9151920662154369061
+    second: 20250315bloodPactFX-Sheet_37
+  - first:
+      213: 2485969989312252380
+    second: 20250315bloodPactFX-Sheet_38
+  - first:
+      213: -5848968712226101393
+    second: 20250315bloodPactFX-Sheet_39
+  - first:
+      213: 1048078533074751421
+    second: 20250315bloodPactFX-Sheet_40
+  - first:
+      213: 5942394298310076094
+    second: 20250315bloodPactFX-Sheet_41
+  - first:
+      213: -4262330748866668334
+    second: 20250315bloodPactFX-Sheet_42
+  - first:
+      213: 7847390987525785243
+    second: 20250315bloodPactFX-Sheet_43
+  - first:
+      213: 2831018129261168602
+    second: 20250315bloodPactFX-Sheet_44
+  - first:
+      213: -6688938320742761017
+    second: 20250315bloodPactFX-Sheet_45
+  - first:
+      213: -754318116164791803
+    second: 20250315bloodPactFX-Sheet_46
+  - first:
+      213: 444631123590811550
+    second: 20250315bloodPactFX-Sheet_47
+  - first:
+      213: -1913334066490058642
+    second: 20250315bloodPactFX-Sheet_48
+  - first:
+      213: -4590396868498650573
+    second: 20250315bloodPactFX-Sheet_49
+  - first:
+      213: -2961921313864015184
+    second: 20250315bloodPactFX-Sheet_50
+  - first:
+      213: -1086640714272536812
+    second: 20250315bloodPactFX-Sheet_51
+  - first:
+      213: 1784010273671050039
+    second: 20250315bloodPactFX-Sheet_52
+  - first:
+      213: -1262795017278364454
+    second: 20250315bloodPactFX-Sheet_53
+  - first:
+      213: -6257311289588602380
+    second: 20250315bloodPactFX-Sheet_54
+  - first:
+      213: -7555837099840389015
+    second: 20250315bloodPactFX-Sheet_55
+  - first:
+      213: -4639479042187221862
+    second: 20250315bloodPactFX-Sheet_56
+  - first:
+      213: 2046558933538646588
+    second: 20250315bloodPactFX-Sheet_57
+  - first:
+      213: 8173580516368083411
+    second: 20250315bloodPactFX-Sheet_58
+  - first:
+      213: 1550291016423420253
+    second: 20250315bloodPactFX-Sheet_59
+  - first:
+      213: 2116616006729666048
+    second: 20250315bloodPactFX-Sheet_60
+  - first:
+      213: 2695855937795079542
+    second: 20250315bloodPactFX-Sheet_61
+  - first:
+      213: 4310455584719435837
+    second: 20250315bloodPactFX-Sheet_62
+  - first:
+      213: -1761828000553114161
+    second: 20250315bloodPactFX-Sheet_63
+  - first:
+      213: 5963378419616290622
+    second: 20250315bloodPactFX-Sheet_64
+  - first:
+      213: -1484912209985005311
+    second: 20250315bloodPactFX-Sheet_65
+  - first:
+      213: -6643860123447945194
+    second: 20250315bloodPactFX-Sheet_66
+  - first:
+      213: -1988438216346033726
+    second: 20250315bloodPactFX-Sheet_67
+  - first:
+      213: -7004657552506354718
+    second: 20250315bloodPactFX-Sheet_68
+  - first:
+      213: 30133295704511806
+    second: 20250315bloodPactFX-Sheet_69
+  - first:
+      213: 5451989186124347572
+    second: 20250315bloodPactFX-Sheet_70
+  - first:
+      213: -378847732779952222
+    second: 20250315bloodPactFX-Sheet_71
+  - first:
+      213: -2739954863746591675
+    second: 20250315bloodPactFX-Sheet_72
+  - first:
+      213: -4509105525495363548
+    second: 20250315bloodPactFX-Sheet_73
+  - first:
+      213: -5737498021021996372
+    second: 20250315bloodPactFX-Sheet_74
+  - first:
+      213: -451924832998254450
+    second: 20250315bloodPactFX-Sheet_75
+  - first:
+      213: 6853741711757288460
+    second: 20250315bloodPactFX-Sheet_76
+  - first:
+      213: -3940952324186967547
+    second: 20250315bloodPactFX-Sheet_77
+  - first:
+      213: -4102611601574748590
+    second: 20250315bloodPactFX-Sheet_78
+  - first:
+      213: 5438503448151352156
+    second: 20250315bloodPactFX-Sheet_79
+  - first:
+      213: 189022891281996686
+    second: 20250315bloodPactFX-Sheet_80
+  - first:
+      213: -3994952535499625729
+    second: 20250315bloodPactFX-Sheet_81
+  - first:
+      213: -7927197276714267868
+    second: 20250315bloodPactFX-Sheet_82
+  - first:
+      213: 7888113473523542577
+    second: 20250315bloodPactFX-Sheet_83
+  - first:
+      213: -1784719290401707826
+    second: 20250315bloodPactFX-Sheet_84
+  - first:
+      213: -2375306620171648588
+    second: 20250315bloodPactFX-Sheet_85
+  - first:
+      213: 4076244714583461576
+    second: 20250315bloodPactFX-Sheet_86
+  - first:
+      213: 5889069049928686100
+    second: 20250315bloodPactFX-Sheet_87
+  - first:
+      213: 81873347775180002
+    second: 20250315bloodPactFX-Sheet_88
+  - first:
+      213: -3987311940519018339
+    second: 20250315bloodPactFX-Sheet_89
+  - first:
+      213: 8766705048102315671
+    second: 20250315bloodPactFX-Sheet_90
+  - first:
+      213: 2195916557787299163
+    second: 20250315bloodPactFX-Sheet_91
+  - first:
+      213: -2702692785778736685
+    second: 20250315bloodPactFX-Sheet_92
+  - first:
+      213: -2519928140877555706
+    second: 20250315bloodPactFX-Sheet_93
+  - first:
+      213: -743056658748024160
+    second: 20250315bloodPactFX-Sheet_94
+  - first:
+      213: 7872036639565757052
+    second: 20250315bloodPactFX-Sheet_95
+  - first:
+      213: 6821747437722848822
+    second: 20250315bloodPactFX-Sheet_96
+  - first:
+      213: 7622782391297829103
+    second: 20250315bloodPactFX-Sheet_97
+  - first:
+      213: 5158700577455673130
+    second: 20250315bloodPactFX-Sheet_98
+  - first:
+      213: 733458851922540542
+    second: 20250315bloodPactFX-Sheet_99
+  - first:
+      213: 1901073607276095157
+    second: 20250315bloodPactFX-Sheet_100
+  - first:
+      213: 1584274825196519617
+    second: 20250315bloodPactFX-Sheet_101
+  - first:
+      213: -2688158447201888999
+    second: 20250315bloodPactFX-Sheet_102
+  - first:
+      213: 2473743658629984263
+    second: 20250315bloodPactFX-Sheet_103
+  - first:
+      213: -7374042375452622516
+    second: 20250315bloodPactFX-Sheet_104
+  - first:
+      213: -1540274519552532945
+    second: 20250315bloodPactFX-Sheet_105
+  - first:
+      213: -4869846589488006726
+    second: 20250315bloodPactFX-Sheet_106
+  - first:
+      213: 243997377862208012
+    second: 20250315bloodPactFX-Sheet_107
+  - first:
+      213: -6901240794850474274
+    second: 20250315bloodPactFX-Sheet_108
+  - first:
+      213: -8492937947262134414
+    second: 20250315bloodPactFX-Sheet_109
+  - first:
+      213: 3710456428639593884
+    second: 20250315bloodPactFX-Sheet_110
+  - first:
+      213: -5878996670050184675
+    second: 20250315bloodPactFX-Sheet_111
+  - first:
+      213: -2998110175750235992
+    second: 20250315bloodPactFX-Sheet_112
+  - first:
+      213: 809713514422250713
+    second: 20250315bloodPactFX-Sheet_113
+  - first:
+      213: 3990960432079337428
+    second: 20250315bloodPactFX-Sheet_114
+  - first:
+      213: -1872013449783168572
+    second: 20250315bloodPactFX-Sheet_115
+  - first:
+      213: 1624250772195468844
+    second: 20250315bloodPactFX-Sheet_116
+  - first:
+      213: 5129982473394239111
+    second: 20250315bloodPactFX-Sheet_117
+  - first:
+      213: 9210506509063699510
+    second: 20250315bloodPactFX-Sheet_118
+  - first:
+      213: -1167641343067857742
+    second: 20250315bloodPactFX-Sheet_119
+  - first:
+      213: 702945172403478997
+    second: 20250315bloodPactFX-Sheet_120
+  - first:
+      213: 3915370705215380870
+    second: 20250315bloodPactFX-Sheet_121
+  - first:
+      213: 6431187916138928265
+    second: 20250315bloodPactFX-Sheet_122
+  - first:
+      213: -1267288667571506132
+    second: 20250315bloodPactFX-Sheet_123
+  - first:
+      213: -2097586964151823438
+    second: 20250315bloodPactFX-Sheet_124
+  - first:
+      213: -2979952422063065269
+    second: 20250315bloodPactFX-Sheet_125
+  - first:
+      213: 6929016075481850589
+    second: 20250315bloodPactFX-Sheet_126
+  - first:
+      213: 6549450505744019739
+    second: 20250315bloodPactFX-Sheet_127
+  - first:
+      213: -9011761061276443430
+    second: 20250315bloodPactFX-Sheet_128
+  - first:
+      213: 3991063881628769371
+    second: 20250315bloodPactFX-Sheet_129
+  - first:
+      213: -7120253071069955756
+    second: 20250315bloodPactFX-Sheet_130
+  - first:
+      213: -5743799661799997640
+    second: 20250315bloodPactFX-Sheet_131
+  - first:
+      213: 8967954415709204126
+    second: 20250315bloodPactFX-Sheet_132
+  - first:
+      213: -1876881950671444941
+    second: 20250315bloodPactFX-Sheet_133
+  - first:
+      213: 5618894823740026620
+    second: 20250315bloodPactFX-Sheet_134
+  - first:
+      213: -7412705608539355685
+    second: 20250315bloodPactFX-Sheet_135
+  - first:
+      213: 4174853629014197043
+    second: 20250315bloodPactFX-Sheet_136
+  - first:
+      213: 2663698530208010889
+    second: 20250315bloodPactFX-Sheet_137
+  - first:
+      213: 4925241313305313035
+    second: 20250315bloodPactFX-Sheet_138
+  - first:
+      213: -5256700380082749911
+    second: 20250315bloodPactFX-Sheet_139
+  - first:
+      213: -1565481864092391105
+    second: 20250315bloodPactFX-Sheet_140
+  - first:
+      213: 7488100953218043985
+    second: 20250315bloodPactFX-Sheet_141
+  - first:
+      213: 3810622277250874813
+    second: 20250315bloodPactFX-Sheet_142
+  - first:
+      213: 3480051369430074724
+    second: 20250315bloodPactFX-Sheet_143
+  - first:
+      213: -1381746691783333058
+    second: 20250315bloodPactFX-Sheet_144
+  - first:
+      213: -8727329226556939462
+    second: 20250315bloodPactFX-Sheet_145
+  - first:
+      213: -6868704571162095114
+    second: 20250315bloodPactFX-Sheet_146
+  - first:
+      213: 3776503958238142405
+    second: 20250315bloodPactFX-Sheet_147
+  - first:
+      213: -8389115332525578868
+    second: 20250315bloodPactFX-Sheet_148
+  - first:
+      213: -8519625244771494013
+    second: 20250315bloodPactFX-Sheet_149
+  - first:
+      213: 1118900925225121450
+    second: 20250315bloodPactFX-Sheet_150
+  - first:
+      213: 210913634352678
+    second: 20250315bloodPactFX-Sheet_151
+  - first:
+      213: 2383701357406809167
+    second: 20250315bloodPactFX-Sheet_152
+  - first:
+      213: -7709273068304105353
+    second: 20250315bloodPactFX-Sheet_153
+  - first:
+      213: 8103861254157008148
+    second: 20250315bloodPactFX-Sheet_154
+  - first:
+      213: 7000029053371883918
+    second: 20250315bloodPactFX-Sheet_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 769
+        width: 10
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54307fe14c3978200800000000000000
+      internalID: 182276780474172229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 767
+        width: 8
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5195d11d038ec64c0800000000000000
+      internalID: -4292801048426489579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 771
+        width: 22
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c0985e61ac0a70800000000000000
+      internalID: 8794581667652094077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 881
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e422a773d6d40d200800000000000000
+      internalID: 202747114709197390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 771
+        width: 28
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1422d627db293a0800000000000000
+      internalID: -6660052599772659244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 773
+        width: 6
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072bbb7d3a99ba10800000000000000
+      internalID: 1925739904537143055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 781
+        width: 12
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ec7b162ce3b5410800000000000000
+      internalID: 1466835108223241870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 803
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6987e9e6adf6924c0800000000000000
+      internalID: -4311792184281106282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 781
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01460c560b9e54f0800000000000000
+      internalID: -838062029028310770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 785
+        width: 186
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942c081af8212e6f0800000000000000
+      internalID: -656942187543477687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 795
+        width: 186
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802f54cdf9ac5c10800000000000000
+      internalID: 2043695238305751178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 787
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d636bc490ffaf90800000000000000
+      internalID: -6940063978896528082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7925c9ee9d1b7920800000000000000
+      internalID: 2989015346054506875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 767
+        width: 6
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90daa42e7434a34c0800000000000000
+      internalID: -4307056117608174327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 777
+        width: 6
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b89cf1f7ce99d0800000000000000
+      internalID: -2765553279019994659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 803
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dec4477e58d0e00800000000000000
+      internalID: 1012612720363367765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 777
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fe1236b58fd62f0800000000000000
+      internalID: -977852472680648815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 775
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4568bcec494f94be0800000000000000
+      internalID: -1492392881534826924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 617
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da40b264f85a470800000000000000
+      internalID: 8405281811089108320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 599
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9255aa400c40a330800000000000000
+      internalID: 3720056856344089244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 725
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93722cac608a1330800000000000000
+      internalID: 3682396849561564061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 713
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f1b2efdc2063a0800000000000000
+      internalID: -6674285307670432744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 727
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d97029eb3942be0800000000000000
+      internalID: -1502913928931861138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 725
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbc6fb374e8b7eb0800000000000000
+      internalID: -4721023347767981112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 607
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a517a1f5b0568a420800000000000000
+      internalID: 2641472280967410010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 699
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852b5aeb7f7e3980800000000000000
+      internalID: -8557262071767816817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 611
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b916fb406399910800000000000000
+      internalID: 1844564916403542833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 609
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2ae6cce8c9b3480800000000000000
+      internalID: -8918362499948043538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 627
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaf997a872bbe110800000000000000
+      internalID: 1291321949449484961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 605
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e43280d6fac770800000000000000
+      internalID: 8631983011207110780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 607
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a63c05b738e2e7d0800000000000000
+      internalID: -2890492684860115291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 589
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e478d4a374ddc5870800000000000000
+      internalID: 8673050280399308622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 607
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b368b12e93afb180800000000000000
+      internalID: -9097372822699220048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 589
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dff5a646efb2fb0800000000000000
+      internalID: -4671360481231897306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 603
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75af5f3ebf5ba3d0800000000000000
+      internalID: -3194354239977577089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 599
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431e623c3cb8b4900800000000000000
+      internalID: 669782642503639348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 599
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddffbf3d4a6578e80800000000000000
+      internalID: -8176471332536713251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 603
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528d4407a57220f70800000000000000
+      internalID: 9151920662154369061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 601
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90d37b880ff7220800000000000000
+      internalID: 2485969989312252380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 593
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67a36502f944dea0800000000000000
+      internalID: -5848968712226101393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 563
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf02a47fd58b8e00800000000000000
+      internalID: 1048078533074751421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 545
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb624125120a77250800000000000000
+      internalID: 5942394298310076094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 545
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d39644c829d4c0800000000000000
+      internalID: -4262330748866668334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 555
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968311a68887ec60800000000000000
+      internalID: 7847390987525785243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 557
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78d4b3dfbc94720800000000000000
+      internalID: 2831018129261168602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 557
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd31ab690e1c23a0800000000000000
+      internalID: -6688938320742761017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 403
+        width: 160
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5021b5e7baf1885f0800000000000000
+      internalID: -754318116164791803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 549
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f86b1b6a5ab2600800000000000000
+      internalID: 444631123590811550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 545
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d436cdc87275e0800000000000000
+      internalID: -1913334066490058642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 543
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a821b7e52ab40c0800000000000000
+      internalID: -4590396868498650573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 551
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b22a7a024425e6d0800000000000000
+      internalID: -2961921313864015184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 407
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4170f43170a7be0f0800000000000000
+      internalID: -1086640714272536812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 551
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337fcd44e312c810800000000000000
+      internalID: 1784010273671050039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 551
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad46df25f96a97ee0800000000000000
+      internalID: -1262795017278364454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 551
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9a707e8809929a0800000000000000
+      internalID: -6257311289588602380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 545
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960cb43b036442790800000000000000
+      internalID: -7555837099840389015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 403
+        width: 168
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94af8364624d9fb0800000000000000
+      internalID: -4639479042187221862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2975c186d66c10800000000000000
+      internalID: 2046558933538646588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 535
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d96c259c246e6170800000000000000
+      internalID: 8173580516368083411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 415
+        width: 186
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b564377db38510800000000000000
+      internalID: 1550291016423420253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 535
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e07073b0bbf5d10800000000000000
+      internalID: 2116616006729666048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 509
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d37e131ba996520800000000000000
+      internalID: 2695855937795079542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 515
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38fc4b3480d1db30800000000000000
+      internalID: 4310455584719435837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 509
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5e1bf94cabc87e0800000000000000
+      internalID: -1761828000553114161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 507
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37957ac31d22c250800000000000000
+      internalID: 5963378419616290622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 491
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10914316638846be0800000000000000
+      internalID: -1484912209985005311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618908c1b644cc3a0800000000000000
+      internalID: -6643860123447945194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 489
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c122e83af5a764e0800000000000000
+      internalID: -1988438216346033726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 491
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e30a9971157ace90800000000000000
+      internalID: -7004657552506354718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 489
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e351162a21e0b6000800000000000000
+      internalID: 30133295704511806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 467
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87636674b59ab40800000000000000
+      internalID: 5451989186124347572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 481
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a750b78eff0ebaf0800000000000000
+      internalID: -378847732779952222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 479
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544d7cd7199b9f9d0800000000000000
+      internalID: -2739954863746591675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 483
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42809123a607c61c0800000000000000
+      internalID: -4509105525495363548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 475
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa2a7dc2ff4060b0800000000000000
+      internalID: -5737498021021996372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 459
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8816ff32c07ab9f0800000000000000
+      internalID: -451924832998254450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 471
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04229f26c16d1f50800000000000000
+      internalID: 6853741711757288460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 467
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f510cdbcee49c0800000000000000
+      internalID: -3940952324186967547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 471
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e9db42c789017c0800000000000000
+      internalID: -4102611601574748590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 457
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536cc85212797b40800000000000000
+      internalID: 5438503448151352156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 463
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd741715b8f9200800000000000000
+      internalID: 189022891281996686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 447
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaaffac5d31f88c0800000000000000
+      internalID: -3994952535499625729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 451
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b8001b310fcf190800000000000000
+      internalID: -7927197276714267868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 453
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae7514965387d60800000000000000
+      internalID: 7888113473523542577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 437
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8a1dfd2476b37e0800000000000000
+      internalID: -1784719290401707826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 439
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b10900c637390fd0800000000000000
+      internalID: -2375306620171648588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 439
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce8f4698fab19830800000000000000
+      internalID: 4076244714583461576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 441
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1fba691d2ab150800000000000000
+      internalID: 5889069049928686100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 439
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec26b2406fd22100800000000000000
+      internalID: 81873347775180002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 423
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90c0b07ae83aa8c0800000000000000
+      internalID: -3987311940519018339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 425
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79623c21bc799a970800000000000000
+      internalID: 8766705048102315671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 413
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7f4f8976797e10800000000000000
+      internalID: 2195916557787299163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c5a61b3b1e7ad0800000000000000
+      internalID: -2702692785778736685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 411
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6089b7ff4ba670dd0800000000000000
+      internalID: -2519928140877555706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 405
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aad55fd7e120b5f0800000000000000
+      internalID: -743056658748024160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 391
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a3d28ad971f3d60800000000000000
+      internalID: 7872036639565757052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 383
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec6e4c627bbae50800000000000000
+      internalID: 6821747437722848822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 385
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e869923099c960800000000000000
+      internalID: 7622782391297829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f09ddd7d2679740800000000000000
+      internalID: 5158700577455673130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 393
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7753690f4cd2a00800000000000000
+      internalID: 733458851922540542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 209
+        width: 180
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6ef8d9f58f16a10800000000000000
+      internalID: 1901073607276095157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ce664f897cf510800000000000000
+      internalID: 1584274825196519617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 345
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d09e722eb1bad0800000000000000
+      internalID: -2688158447201888999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 213
+        width: 182
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700f30640c0845220800000000000000
+      internalID: 2473743658629984263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 357
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41087467832aa990800000000000000
+      internalID: -7374042375452622516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 225
+        width: 174
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e5c753c78df9ae0800000000000000
+      internalID: -1540274519552532945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 215
+        width: 136
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab97be21454da6cb0800000000000000
+      internalID: -4869846589488006726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 225
+        width: 110
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a8a99825ad26300800000000000000
+      internalID: 243997377862208012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6c089bf0ed930a0800000000000000
+      internalID: -6901240794850474274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 285
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277510a3fe5032a80800000000000000
+      internalID: -8492937947262134414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 281
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a0a786703e7330800000000000000
+      internalID: 3710456428639593884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1254f54dab996ea0800000000000000
+      internalID: -5878996670050184675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a85ce80ea29466d0800000000000000
+      internalID: -2998110175750235992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 251
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dca8fcb62eac3b00800000000000000
+      internalID: 809713514422250713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 209
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d77ab23e5db26730800000000000000
+      internalID: 3990960432079337428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 157
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1bbee8fa54506e0800000000000000
+      internalID: -1872013449783168572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 141
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c266ddeb87f7a8610800000000000000
+      internalID: 1624250772195468844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b4a631eb513740800000000000000
+      internalID: 5129982473394239111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 159
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3a22eeda42df70800000000000000
+      internalID: 9210506509063699510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 67
+        width: 24
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc51698264bbcfe0800000000000000
+      internalID: -1167641343067857742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 63
+        width: 16
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d16fa1f8ec51c900800000000000000
+      internalID: 702945172403478997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 45
+        width: 18
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d555079e0365630800000000000000
+      internalID: 3915370705215380870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 61
+        width: 12
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988de39f55b204950800000000000000
+      internalID: 6431187916138928265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 89
+        width: 8
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b585dbafa96ee0800000000000000
+      internalID: -1267288667571506132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 79
+        width: 20
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b39d3405cfd3e2e0800000000000000
+      internalID: -2097586964151823438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 63
+        width: 12
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47bd538f0515a6d0800000000000000
+      internalID: -2979952422063065269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 69
+        width: 16
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2211eb86fc82060800000000000000
+      internalID: 6929016075481850589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 23
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ffd4d88254ea50800000000000000
+      internalID: 6549450505744019739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 27
+        width: 100
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc9be5af0bcfe280800000000000000
+      internalID: -9011761061276443430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 129
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cdf5c647b136730800000000000000
+      internalID: 3991063881628769371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 69
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459bdfb7e87cf2d90800000000000000
+      internalID: -7120253071069955756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 131
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ff669b3ace940b0800000000000000
+      internalID: -5743799661799997640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 75
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e2e3ed603947c70800000000000000
+      internalID: 8967954415709204126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e2ec5fc9f3f5e0800000000000000
+      internalID: -1876881950671444941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 109
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe2e4f62135afd40800000000000000
+      internalID: 5618894823740026620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 109
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd54772f587c02990800000000000000
+      internalID: -7412705608539355685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 111
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33344aa914f00f930800000000000000
+      internalID: 4174853629014197043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98257c943bb57f420800000000000000
+      internalID: 2663698530208010889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 87
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f34a021e8f95440800000000000000
+      internalID: 4925241313305313035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 117
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92eb1820bd27c07b0800000000000000
+      internalID: -5256700380082749911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 87
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39e474f98a464ae0800000000000000
+      internalID: -1565481864092391105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15053dea4241be760800000000000000
+      internalID: 7488100953218043985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd7ab885cc02e430800000000000000
+      internalID: 3810622277250874813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 59
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465cdfa4840ab4030800000000000000
+      internalID: 3480051369430074724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 41
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3beea264bc03dce0800000000000000
+      internalID: -1381746691783333058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 55
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33603dce4c42e680800000000000000
+      internalID: -8727329226556939462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 59
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f118c0a5957da0a0800000000000000
+      internalID: -6868704571162095114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 55
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf14ab5756d86430800000000000000
+      internalID: 3776503958238142405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 41
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85a7017d00e39b80800000000000000
+      internalID: -8389115332525578868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387d1f19af534c980800000000000000
+      internalID: -8519625244771494013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa636ea9672278f00800000000000000
+      internalID: 1118900925225121450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 41
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef04823dfb00000800000000000000
+      internalID: 210913634352678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 19
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c69d251cb941120800000000000000
+      internalID: 2383701357406809167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7708f376df8230590800000000000000
+      internalID: -7709273068304105353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 29
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7413efd2b67070800000000000000
+      internalID: 8103861254157008148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315bloodPactFX-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 23
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8125a71659152160800000000000000
+      internalID: 7000029053371883918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250315bloodPactFX-Sheet_0: 182276780474172229
+      20250315bloodPactFX-Sheet_1: -4292801048426489579
+      20250315bloodPactFX-Sheet_10: 2043695238305751178
+      20250315bloodPactFX-Sheet_100: 1901073607276095157
+      20250315bloodPactFX-Sheet_101: 1584274825196519617
+      20250315bloodPactFX-Sheet_102: -2688158447201888999
+      20250315bloodPactFX-Sheet_103: 2473743658629984263
+      20250315bloodPactFX-Sheet_104: -7374042375452622516
+      20250315bloodPactFX-Sheet_105: -1540274519552532945
+      20250315bloodPactFX-Sheet_106: -4869846589488006726
+      20250315bloodPactFX-Sheet_107: 243997377862208012
+      20250315bloodPactFX-Sheet_108: -6901240794850474274
+      20250315bloodPactFX-Sheet_109: -8492937947262134414
+      20250315bloodPactFX-Sheet_11: -6940063978896528082
+      20250315bloodPactFX-Sheet_110: 3710456428639593884
+      20250315bloodPactFX-Sheet_111: -5878996670050184675
+      20250315bloodPactFX-Sheet_112: -2998110175750235992
+      20250315bloodPactFX-Sheet_113: 809713514422250713
+      20250315bloodPactFX-Sheet_114: 3990960432079337428
+      20250315bloodPactFX-Sheet_115: -1872013449783168572
+      20250315bloodPactFX-Sheet_116: 1624250772195468844
+      20250315bloodPactFX-Sheet_117: 5129982473394239111
+      20250315bloodPactFX-Sheet_118: 9210506509063699510
+      20250315bloodPactFX-Sheet_119: -1167641343067857742
+      20250315bloodPactFX-Sheet_12: 2989015346054506875
+      20250315bloodPactFX-Sheet_120: 702945172403478997
+      20250315bloodPactFX-Sheet_121: 3915370705215380870
+      20250315bloodPactFX-Sheet_122: 6431187916138928265
+      20250315bloodPactFX-Sheet_123: -1267288667571506132
+      20250315bloodPactFX-Sheet_124: -2097586964151823438
+      20250315bloodPactFX-Sheet_125: -2979952422063065269
+      20250315bloodPactFX-Sheet_126: 6929016075481850589
+      20250315bloodPactFX-Sheet_127: 6549450505744019739
+      20250315bloodPactFX-Sheet_128: -9011761061276443430
+      20250315bloodPactFX-Sheet_129: 3991063881628769371
+      20250315bloodPactFX-Sheet_13: -4307056117608174327
+      20250315bloodPactFX-Sheet_130: -7120253071069955756
+      20250315bloodPactFX-Sheet_131: -5743799661799997640
+      20250315bloodPactFX-Sheet_132: 8967954415709204126
+      20250315bloodPactFX-Sheet_133: -1876881950671444941
+      20250315bloodPactFX-Sheet_134: 5618894823740026620
+      20250315bloodPactFX-Sheet_135: -7412705608539355685
+      20250315bloodPactFX-Sheet_136: 4174853629014197043
+      20250315bloodPactFX-Sheet_137: 2663698530208010889
+      20250315bloodPactFX-Sheet_138: 4925241313305313035
+      20250315bloodPactFX-Sheet_139: -5256700380082749911
+      20250315bloodPactFX-Sheet_14: -2765553279019994659
+      20250315bloodPactFX-Sheet_140: -1565481864092391105
+      20250315bloodPactFX-Sheet_141: 7488100953218043985
+      20250315bloodPactFX-Sheet_142: 3810622277250874813
+      20250315bloodPactFX-Sheet_143: 3480051369430074724
+      20250315bloodPactFX-Sheet_144: -1381746691783333058
+      20250315bloodPactFX-Sheet_145: -8727329226556939462
+      20250315bloodPactFX-Sheet_146: -6868704571162095114
+      20250315bloodPactFX-Sheet_147: 3776503958238142405
+      20250315bloodPactFX-Sheet_148: -8389115332525578868
+      20250315bloodPactFX-Sheet_149: -8519625244771494013
+      20250315bloodPactFX-Sheet_15: 1012612720363367765
+      20250315bloodPactFX-Sheet_150: 1118900925225121450
+      20250315bloodPactFX-Sheet_151: 210913634352678
+      20250315bloodPactFX-Sheet_152: 2383701357406809167
+      20250315bloodPactFX-Sheet_153: -7709273068304105353
+      20250315bloodPactFX-Sheet_154: 8103861254157008148
+      20250315bloodPactFX-Sheet_155: 7000029053371883918
+      20250315bloodPactFX-Sheet_16: -977852472680648815
+      20250315bloodPactFX-Sheet_17: -1492392881534826924
+      20250315bloodPactFX-Sheet_18: 8405281811089108320
+      20250315bloodPactFX-Sheet_19: 3720056856344089244
+      20250315bloodPactFX-Sheet_2: 8794581667652094077
+      20250315bloodPactFX-Sheet_20: 3682396849561564061
+      20250315bloodPactFX-Sheet_21: -6674285307670432744
+      20250315bloodPactFX-Sheet_22: -1502913928931861138
+      20250315bloodPactFX-Sheet_23: -4721023347767981112
+      20250315bloodPactFX-Sheet_24: 2641472280967410010
+      20250315bloodPactFX-Sheet_25: -8557262071767816817
+      20250315bloodPactFX-Sheet_26: 1844564916403542833
+      20250315bloodPactFX-Sheet_27: -8918362499948043538
+      20250315bloodPactFX-Sheet_28: 1291321949449484961
+      20250315bloodPactFX-Sheet_29: 8631983011207110780
+      20250315bloodPactFX-Sheet_3: 202747114709197390
+      20250315bloodPactFX-Sheet_30: -2890492684860115291
+      20250315bloodPactFX-Sheet_31: 8673050280399308622
+      20250315bloodPactFX-Sheet_32: -9097372822699220048
+      20250315bloodPactFX-Sheet_33: -4671360481231897306
+      20250315bloodPactFX-Sheet_34: -3194354239977577089
+      20250315bloodPactFX-Sheet_35: 669782642503639348
+      20250315bloodPactFX-Sheet_36: -8176471332536713251
+      20250315bloodPactFX-Sheet_37: 9151920662154369061
+      20250315bloodPactFX-Sheet_38: 2485969989312252380
+      20250315bloodPactFX-Sheet_39: -5848968712226101393
+      20250315bloodPactFX-Sheet_4: -6660052599772659244
+      20250315bloodPactFX-Sheet_40: 1048078533074751421
+      20250315bloodPactFX-Sheet_41: 5942394298310076094
+      20250315bloodPactFX-Sheet_42: -4262330748866668334
+      20250315bloodPactFX-Sheet_43: 7847390987525785243
+      20250315bloodPactFX-Sheet_44: 2831018129261168602
+      20250315bloodPactFX-Sheet_45: -6688938320742761017
+      20250315bloodPactFX-Sheet_46: -754318116164791803
+      20250315bloodPactFX-Sheet_47: 444631123590811550
+      20250315bloodPactFX-Sheet_48: -1913334066490058642
+      20250315bloodPactFX-Sheet_49: -4590396868498650573
+      20250315bloodPactFX-Sheet_5: 1925739904537143055
+      20250315bloodPactFX-Sheet_50: -2961921313864015184
+      20250315bloodPactFX-Sheet_51: -1086640714272536812
+      20250315bloodPactFX-Sheet_52: 1784010273671050039
+      20250315bloodPactFX-Sheet_53: -1262795017278364454
+      20250315bloodPactFX-Sheet_54: -6257311289588602380
+      20250315bloodPactFX-Sheet_55: -7555837099840389015
+      20250315bloodPactFX-Sheet_56: -4639479042187221862
+      20250315bloodPactFX-Sheet_57: 2046558933538646588
+      20250315bloodPactFX-Sheet_58: 8173580516368083411
+      20250315bloodPactFX-Sheet_59: 1550291016423420253
+      20250315bloodPactFX-Sheet_6: 1466835108223241870
+      20250315bloodPactFX-Sheet_60: 2116616006729666048
+      20250315bloodPactFX-Sheet_61: 2695855937795079542
+      20250315bloodPactFX-Sheet_62: 4310455584719435837
+      20250315bloodPactFX-Sheet_63: -1761828000553114161
+      20250315bloodPactFX-Sheet_64: 5963378419616290622
+      20250315bloodPactFX-Sheet_65: -1484912209985005311
+      20250315bloodPactFX-Sheet_66: -6643860123447945194
+      20250315bloodPactFX-Sheet_67: -1988438216346033726
+      20250315bloodPactFX-Sheet_68: -7004657552506354718
+      20250315bloodPactFX-Sheet_69: 30133295704511806
+      20250315bloodPactFX-Sheet_7: -4311792184281106282
+      20250315bloodPactFX-Sheet_70: 5451989186124347572
+      20250315bloodPactFX-Sheet_71: -378847732779952222
+      20250315bloodPactFX-Sheet_72: -2739954863746591675
+      20250315bloodPactFX-Sheet_73: -4509105525495363548
+      20250315bloodPactFX-Sheet_74: -5737498021021996372
+      20250315bloodPactFX-Sheet_75: -451924832998254450
+      20250315bloodPactFX-Sheet_76: 6853741711757288460
+      20250315bloodPactFX-Sheet_77: -3940952324186967547
+      20250315bloodPactFX-Sheet_78: -4102611601574748590
+      20250315bloodPactFX-Sheet_79: 5438503448151352156
+      20250315bloodPactFX-Sheet_8: -838062029028310770
+      20250315bloodPactFX-Sheet_80: 189022891281996686
+      20250315bloodPactFX-Sheet_81: -3994952535499625729
+      20250315bloodPactFX-Sheet_82: -7927197276714267868
+      20250315bloodPactFX-Sheet_83: 7888113473523542577
+      20250315bloodPactFX-Sheet_84: -1784719290401707826
+      20250315bloodPactFX-Sheet_85: -2375306620171648588
+      20250315bloodPactFX-Sheet_86: 4076244714583461576
+      20250315bloodPactFX-Sheet_87: 5889069049928686100
+      20250315bloodPactFX-Sheet_88: 81873347775180002
+      20250315bloodPactFX-Sheet_89: -3987311940519018339
+      20250315bloodPactFX-Sheet_9: -656942187543477687
+      20250315bloodPactFX-Sheet_90: 8766705048102315671
+      20250315bloodPactFX-Sheet_91: 2195916557787299163
+      20250315bloodPactFX-Sheet_92: -2702692785778736685
+      20250315bloodPactFX-Sheet_93: -2519928140877555706
+      20250315bloodPactFX-Sheet_94: -743056658748024160
+      20250315bloodPactFX-Sheet_95: 7872036639565757052
+      20250315bloodPactFX-Sheet_96: 6821747437722848822
+      20250315bloodPactFX-Sheet_97: 7622782391297829103
+      20250315bloodPactFX-Sheet_98: 5158700577455673130
+      20250315bloodPactFX-Sheet_99: 733458851922540542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

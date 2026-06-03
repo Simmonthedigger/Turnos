@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 12290218b3d15ad4babfd147d73991c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1962049130755913543
+    second: 20241028piercingGazeFX-Sheet_0
+  - first:
+      213: -4630064318196715614
+    second: 20241028piercingGazeFX-Sheet_1
+  - first:
+      213: 2600856833215244128
+    second: 20241028piercingGazeFX-Sheet_2
+  - first:
+      213: -8794589046893512625
+    second: 20241028piercingGazeFX-Sheet_3
+  - first:
+      213: -7456056040252485902
+    second: 20241028piercingGazeFX-Sheet_4
+  - first:
+      213: -4728359327295108125
+    second: 20241028piercingGazeFX-Sheet_5
+  - first:
+      213: 3287751809984373746
+    second: 20241028piercingGazeFX-Sheet_6
+  - first:
+      213: 8107345826160847661
+    second: 20241028piercingGazeFX-Sheet_7
+  - first:
+      213: -7606692916167016959
+    second: 20241028piercingGazeFX-Sheet_8
+  - first:
+      213: 6090976649839554447
+    second: 20241028piercingGazeFX-Sheet_9
+  - first:
+      213: 1159270734335955036
+    second: 20241028piercingGazeFX-Sheet_10
+  - first:
+      213: 8944239527741043452
+    second: 20241028piercingGazeFX-Sheet_11
+  - first:
+      213: -3039225472444369788
+    second: 20241028piercingGazeFX-Sheet_12
+  - first:
+      213: 5264302420687819399
+    second: 20241028piercingGazeFX-Sheet_13
+  - first:
+      213: -3707067773701331805
+    second: 20241028piercingGazeFX-Sheet_14
+  - first:
+      213: 7499248295152049788
+    second: 20241028piercingGazeFX-Sheet_15
+  - first:
+      213: -4523619467356157976
+    second: 20241028piercingGazeFX-Sheet_16
+  - first:
+      213: -5464318796899336993
+    second: 20241028piercingGazeFX-Sheet_17
+  - first:
+      213: -2141646000663680894
+    second: 20241028piercingGazeFX-Sheet_18
+  - first:
+      213: 162421046538166910
+    second: 20241028piercingGazeFX-Sheet_19
+  - first:
+      213: 8764214786152288972
+    second: 20241028piercingGazeFX-Sheet_20
+  - first:
+      213: 4412899526274772063
+    second: 20241028piercingGazeFX-Sheet_21
+  - first:
+      213: -3948632659448500102
+    second: 20241028piercingGazeFX-Sheet_22
+  - first:
+      213: 4822700972175726009
+    second: 20241028piercingGazeFX-Sheet_23
+  - first:
+      213: -8482815662220821130
+    second: 20241028piercingGazeFX-Sheet_24
+  - first:
+      213: 8125781133205159165
+    second: 20241028piercingGazeFX-Sheet_25
+  - first:
+      213: 1184225327421945178
+    second: 20241028piercingGazeFX-Sheet_26
+  - first:
+      213: 6647121041163019742
+    second: 20241028piercingGazeFX-Sheet_27
+  - first:
+      213: 8335862208752287388
+    second: 20241028piercingGazeFX-Sheet_28
+  - first:
+      213: -9210008820388659786
+    second: 20241028piercingGazeFX-Sheet_29
+  - first:
+      213: -7037324027075050007
+    second: 20241028piercingGazeFX-Sheet_30
+  - first:
+      213: 9027466201575719177
+    second: 20241028piercingGazeFX-Sheet_31
+  - first:
+      213: 2896618568318817249
+    second: 20241028piercingGazeFX-Sheet_32
+  - first:
+      213: 7669918141912426094
+    second: 20241028piercingGazeFX-Sheet_33
+  - first:
+      213: -1436353690135832691
+    second: 20241028piercingGazeFX-Sheet_34
+  - first:
+      213: -7559249874255209082
+    second: 20241028piercingGazeFX-Sheet_35
+  - first:
+      213: -1653140560928748652
+    second: 20241028piercingGazeFX-Sheet_36
+  - first:
+      213: -4635988760222199466
+    second: 20241028piercingGazeFX-Sheet_37
+  - first:
+      213: 2096626532919727186
+    second: 20241028piercingGazeFX-Sheet_38
+  - first:
+      213: 9050970352131351235
+    second: 20241028piercingGazeFX-Sheet_39
+  - first:
+      213: -2160187214786010656
+    second: 20241028piercingGazeFX-Sheet_40
+  - first:
+      213: -528047936618848954
+    second: 20241028piercingGazeFX-Sheet_41
+  - first:
+      213: -7384864362781471375
+    second: 20241028piercingGazeFX-Sheet_42
+  - first:
+      213: 1433517070286918553
+    second: 20241028piercingGazeFX-Sheet_43
+  - first:
+      213: 2134275183241437979
+    second: 20241028piercingGazeFX-Sheet_44
+  - first:
+      213: 6226151001507697396
+    second: 20241028piercingGazeFX-Sheet_45
+  - first:
+      213: -71095865072676307
+    second: 20241028piercingGazeFX-Sheet_46
+  - first:
+      213: 3324970219266403681
+    second: 20241028piercingGazeFX-Sheet_47
+  - first:
+      213: -4048908644726900227
+    second: 20241028piercingGazeFX-Sheet_48
+  - first:
+      213: -773527873132365223
+    second: 20241028piercingGazeFX-Sheet_49
+  - first:
+      213: -6154658394320021139
+    second: 20241028piercingGazeFX-Sheet_50
+  - first:
+      213: -9116477511811340037
+    second: 20241028piercingGazeFX-Sheet_51
+  - first:
+      213: -2285704879802888996
+    second: 20241028piercingGazeFX-Sheet_52
+  - first:
+      213: -8689926860619826332
+    second: 20241028piercingGazeFX-Sheet_53
+  - first:
+      213: -5715377577776785705
+    second: 20241028piercingGazeFX-Sheet_54
+  - first:
+      213: -4018062802752940285
+    second: 20241028piercingGazeFX-Sheet_55
+  - first:
+      213: -5692071264521542038
+    second: 20241028piercingGazeFX-Sheet_56
+  - first:
+      213: 7267418493434149262
+    second: 20241028piercingGazeFX-Sheet_57
+  - first:
+      213: -1920400579063151824
+    second: 20241028piercingGazeFX-Sheet_58
+  - first:
+      213: 5463770070001384840
+    second: 20241028piercingGazeFX-Sheet_59
+  - first:
+      213: 1659258801393251049
+    second: 20241028piercingGazeFX-Sheet_60
+  - first:
+      213: 7217138866998306242
+    second: 20241028piercingGazeFX-Sheet_61
+  - first:
+      213: 3041188438768537649
+    second: 20241028piercingGazeFX-Sheet_62
+  - first:
+      213: -3148222705604057983
+    second: 20241028piercingGazeFX-Sheet_63
+  - first:
+      213: 2407421831820989633
+    second: 20241028piercingGazeFX-Sheet_64
+  - first:
+      213: 883166978548297563
+    second: 20241028piercingGazeFX-Sheet_65
+  - first:
+      213: 4891743958571916996
+    second: 20241028piercingGazeFX-Sheet_66
+  - first:
+      213: 10305051361143308
+    second: 20241028piercingGazeFX-Sheet_67
+  - first:
+      213: -4109320914425564867
+    second: 20241028piercingGazeFX-Sheet_68
+  - first:
+      213: -88217140515477079
+    second: 20241028piercingGazeFX-Sheet_69
+  - first:
+      213: 100983386818417026
+    second: 20241028piercingGazeFX-Sheet_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 443
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b80e6106b665c4e0800000000000000
+      internalID: -1962049130755913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 443
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af6ca2a805bebfb0800000000000000
+      internalID: -4630064318196715614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 441
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06721778289181420800000000000000
+      internalID: 2600856833215244128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 441
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48fe5a8bd753f580800000000000000
+      internalID: -8794589046893512625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 438
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe48570984c68890800000000000000
+      internalID: -7456056040252485902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 443
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb8b266e3e716eb0800000000000000
+      internalID: -4728359327295108125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 438
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f324c71ad070ad20800000000000000
+      internalID: 3287751809984373746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 332
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b20970314138070800000000000000
+      internalID: 8107345826160847661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 347
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e726048199f6690800000000000000
+      internalID: -7606692916167016959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 346
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fa2ecddfe778450800000000000000
+      internalID: 6090976649839554447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 356
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50d99e379e861010800000000000000
+      internalID: 1159270734335955036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 340
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2330d3672502c70800000000000000
+      internalID: 8944239527741043452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 344
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48472aa098082d5d0800000000000000
+      internalID: -3039225472444369788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 353
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782935ff82f8e0940800000000000000
+      internalID: 5264302420687819399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 348
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4eb3e2089dd8cc0800000000000000
+      internalID: -3707067773701331805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 343
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eddfa779ea21860800000000000000
+      internalID: 7499248295152049788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 342
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7c135cf00e831c0800000000000000
+      internalID: -4523619467356157976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 295
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc33536107da24b0800000000000000
+      internalID: -5464318796899336993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 285
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2882ecf2f485742e0800000000000000
+      internalID: -2141646000663680894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 332
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7264fec419014200800000000000000
+      internalID: 162421046538166910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 295
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc255d7c9eeb0a970800000000000000
+      internalID: 8764214786152288972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 332
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ce8151db4cd3d30800000000000000
+      internalID: 4412899526274772063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 291
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70f0195483a339c0800000000000000
+      internalID: -3948632659448500102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 333
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b517708bfcade240800000000000000
+      internalID: 4822700972175726009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 312
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d353e591cf64a80800000000000000
+      internalID: -8482815662220821130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 311
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb34f63e294c070800000000000000
+      internalID: 8125781133205159165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 278
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55710739a63f6010800000000000000
+      internalID: 1184225327421945178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 268
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5eb857e515f3c50800000000000000
+      internalID: 6647121041163019742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 283
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7849738eeea370800000000000000
+      internalID: 8335862208752287388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 270
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdf48a46c97f2080800000000000000
+      internalID: -9210008820388659786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5cedc2517665e90800000000000000
+      internalID: -7037324027075050007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 275
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90104c64ea0084d70800000000000000
+      internalID: 9027466201575719177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 262
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3917ead3bd23820800000000000000
+      internalID: 2896618568318817249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 274
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a301c9e5017a60800000000000000
+      internalID: 7669918141912426094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d1afcdeb011ce0800000000000000
+      internalID: -1436353690135832691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 262
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1a9c3a46281790800000000000000
+      internalID: -7559249874255209082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 268
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b4d062b6dde09e0800000000000000
+      internalID: -1653140560928748652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 268
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651904cf8c8a9afb0800000000000000
+      internalID: -4635988760222199466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254d65929b6b81d10800000000000000
+      internalID: 2096626532919727186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 226
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2a167c4918b9d70800000000000000
+      internalID: 9050970352131351235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 223
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e65e5c297502e0800000000000000
+      internalID: -2160187214786010656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 142
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9479033ffba8f0800000000000000
+      internalID: -528047936618848954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 224
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d08fd1df0b38990800000000000000
+      internalID: -7384864362781471375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 224
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99319e92e20e4e310800000000000000
+      internalID: 1433517070286918553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 228
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a906a8f77e9d10800000000000000
+      internalID: 2134275183241437979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f21fca295bb76650800000000000000
+      internalID: 6226151001507697396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d221859ffaa630ff0800000000000000
+      internalID: -71095865072676307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 183
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d60284ccaa42e20800000000000000
+      internalID: 3324970219266403681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 216
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df97b072a036fc7c0800000000000000
+      internalID: -4048908644726900227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 174
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95af41a6f70e345f0800000000000000
+      internalID: -773527873132365223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 204
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69dda49cc2469aa0800000000000000
+      internalID: -6154658394320021139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 181
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8e5a11104cb7180800000000000000
+      internalID: -9116477511811340037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcc8f1a58b8740e0800000000000000
+      internalID: -2285704879802888996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b31acbf8d276780800000000000000
+      internalID: -8689926860619826332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 181
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6d167df56eea0b0800000000000000
+      internalID: -5715377577776785705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 133
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30753b46b29fc38c0800000000000000
+      internalID: -4018062802752940285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 173
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662cf1c753b101b0800000000000000
+      internalID: -5692071264521542038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e893f378d9e0bd460800000000000000
+      internalID: 7267418493434149262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 135
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0338c7a19dd5955e0800000000000000
+      internalID: -1920400579063151824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 158
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88df7dc2ee533db40800000000000000
+      internalID: 5463770070001384840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 134
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e23c77b61fd60710800000000000000
+      internalID: 1659258801393251049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 158
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5691ebf8d682460800000000000000
+      internalID: 7217138866998306242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 148
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d2dba5c8743a20800000000000000
+      internalID: 3041188438768537649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 143
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184a6a611244f44d0800000000000000
+      internalID: -3148222705604057983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 137
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4d536a661e86120800000000000000
+      internalID: 2407421831820989633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 141
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe9b110b3a14c00800000000000000
+      internalID: 883166978548297563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce97d67637f2e340800000000000000
+      internalID: 4891743958571916996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 138
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ae5cdb36c942000800000000000000
+      internalID: 10305051361143308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31b4938662c8f6c0800000000000000
+      internalID: -4109320914425564867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a969746af696cef0800000000000000
+      internalID: -88217140515477079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241028piercingGazeFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2811783fad3c66100800000000000000
+      internalID: 100983386818417026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241028piercingGazeFX-Sheet_0: -1962049130755913543
+      20241028piercingGazeFX-Sheet_1: -4630064318196715614
+      20241028piercingGazeFX-Sheet_10: 1159270734335955036
+      20241028piercingGazeFX-Sheet_11: 8944239527741043452
+      20241028piercingGazeFX-Sheet_12: -3039225472444369788
+      20241028piercingGazeFX-Sheet_13: 5264302420687819399
+      20241028piercingGazeFX-Sheet_14: -3707067773701331805
+      20241028piercingGazeFX-Sheet_15: 7499248295152049788
+      20241028piercingGazeFX-Sheet_16: -4523619467356157976
+      20241028piercingGazeFX-Sheet_17: -5464318796899336993
+      20241028piercingGazeFX-Sheet_18: -2141646000663680894
+      20241028piercingGazeFX-Sheet_19: 162421046538166910
+      20241028piercingGazeFX-Sheet_2: 2600856833215244128
+      20241028piercingGazeFX-Sheet_20: 8764214786152288972
+      20241028piercingGazeFX-Sheet_21: 4412899526274772063
+      20241028piercingGazeFX-Sheet_22: -3948632659448500102
+      20241028piercingGazeFX-Sheet_23: 4822700972175726009
+      20241028piercingGazeFX-Sheet_24: -8482815662220821130
+      20241028piercingGazeFX-Sheet_25: 8125781133205159165
+      20241028piercingGazeFX-Sheet_26: 1184225327421945178
+      20241028piercingGazeFX-Sheet_27: 6647121041163019742
+      20241028piercingGazeFX-Sheet_28: 8335862208752287388
+      20241028piercingGazeFX-Sheet_29: -9210008820388659786
+      20241028piercingGazeFX-Sheet_3: -8794589046893512625
+      20241028piercingGazeFX-Sheet_30: -7037324027075050007
+      20241028piercingGazeFX-Sheet_31: 9027466201575719177
+      20241028piercingGazeFX-Sheet_32: 2896618568318817249
+      20241028piercingGazeFX-Sheet_33: 7669918141912426094
+      20241028piercingGazeFX-Sheet_34: -1436353690135832691
+      20241028piercingGazeFX-Sheet_35: -7559249874255209082
+      20241028piercingGazeFX-Sheet_36: -1653140560928748652
+      20241028piercingGazeFX-Sheet_37: -4635988760222199466
+      20241028piercingGazeFX-Sheet_38: 2096626532919727186
+      20241028piercingGazeFX-Sheet_39: 9050970352131351235
+      20241028piercingGazeFX-Sheet_4: -7456056040252485902
+      20241028piercingGazeFX-Sheet_40: -2160187214786010656
+      20241028piercingGazeFX-Sheet_41: -528047936618848954
+      20241028piercingGazeFX-Sheet_42: -7384864362781471375
+      20241028piercingGazeFX-Sheet_43: 1433517070286918553
+      20241028piercingGazeFX-Sheet_44: 2134275183241437979
+      20241028piercingGazeFX-Sheet_45: 6226151001507697396
+      20241028piercingGazeFX-Sheet_46: -71095865072676307
+      20241028piercingGazeFX-Sheet_47: 3324970219266403681
+      20241028piercingGazeFX-Sheet_48: -4048908644726900227
+      20241028piercingGazeFX-Sheet_49: -773527873132365223
+      20241028piercingGazeFX-Sheet_5: -4728359327295108125
+      20241028piercingGazeFX-Sheet_50: -6154658394320021139
+      20241028piercingGazeFX-Sheet_51: -9116477511811340037
+      20241028piercingGazeFX-Sheet_52: -2285704879802888996
+      20241028piercingGazeFX-Sheet_53: -8689926860619826332
+      20241028piercingGazeFX-Sheet_54: -5715377577776785705
+      20241028piercingGazeFX-Sheet_55: -4018062802752940285
+      20241028piercingGazeFX-Sheet_56: -5692071264521542038
+      20241028piercingGazeFX-Sheet_57: 7267418493434149262
+      20241028piercingGazeFX-Sheet_58: -1920400579063151824
+      20241028piercingGazeFX-Sheet_59: 5463770070001384840
+      20241028piercingGazeFX-Sheet_6: 3287751809984373746
+      20241028piercingGazeFX-Sheet_60: 1659258801393251049
+      20241028piercingGazeFX-Sheet_61: 7217138866998306242
+      20241028piercingGazeFX-Sheet_62: 3041188438768537649
+      20241028piercingGazeFX-Sheet_63: -3148222705604057983
+      20241028piercingGazeFX-Sheet_64: 2407421831820989633
+      20241028piercingGazeFX-Sheet_65: 883166978548297563
+      20241028piercingGazeFX-Sheet_66: 4891743958571916996
+      20241028piercingGazeFX-Sheet_67: 10305051361143308
+      20241028piercingGazeFX-Sheet_68: -4109320914425564867
+      20241028piercingGazeFX-Sheet_69: -88217140515477079
+      20241028piercingGazeFX-Sheet_7: 8107345826160847661
+      20241028piercingGazeFX-Sheet_70: 100983386818417026
+      20241028piercingGazeFX-Sheet_8: -7606692916167016959
+      20241028piercingGazeFX-Sheet_9: 6090976649839554447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

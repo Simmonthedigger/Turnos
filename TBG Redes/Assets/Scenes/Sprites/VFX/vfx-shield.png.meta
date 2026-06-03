@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: cd7c26d852e5ed048a104ffe9bf91ced
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 234329357496321449
+    second: vfx-shield_0
+  - first:
+      213: -4586545104511361306
+    second: vfx-shield_1
+  - first:
+      213: -271964652145033528
+    second: vfx-shield_2
+  - first:
+      213: -6914719977012863579
+    second: vfx-shield_3
+  - first:
+      213: 206212939583719338
+    second: vfx-shield_4
+  - first:
+      213: -7334860672032076624
+    second: vfx-shield_5
+  - first:
+      213: 7562401780354083072
+    second: vfx-shield_6
+  - first:
+      213: -1372784672742762788
+    second: vfx-shield_7
+  - first:
+      213: -2504896408087415259
+    second: vfx-shield_8
+  - first:
+      213: 8412416339478910438
+    second: vfx-shield_9
+  - first:
+      213: -2166650107614608441
+    second: vfx-shield_10
+  - first:
+      213: 7376671965588546071
+    second: vfx-shield_11
+  - first:
+      213: 6051399589857274076
+    second: vfx-shield_12
+  - first:
+      213: 2711832091335709003
+    second: vfx-shield_13
+  - first:
+      213: -7208942621141719914
+    second: vfx-shield_14
+  - first:
+      213: 6638748201537848165
+    second: vfx-shield_15
+  - first:
+      213: 7131092390341132117
+    second: vfx-shield_16
+  - first:
+      213: 1147557346704624796
+    second: vfx-shield_17
+  - first:
+      213: 1272426151003780322
+    second: vfx-shield_18
+  - first:
+      213: 4980671492730089285
+    second: vfx-shield_19
+  - first:
+      213: -9083358476256125655
+    second: vfx-shield_20
+  - first:
+      213: -7642823126285870220
+    second: vfx-shield_21
+  - first:
+      213: -6570890271184797705
+    second: vfx-shield_22
+  - first:
+      213: 9169812622430649599
+    second: vfx-shield_23
+  - first:
+      213: 7312146971420823594
+    second: vfx-shield_24
+  - first:
+      213: 1803027890073627617
+    second: vfx-shield_25
+  - first:
+      213: 3051064497580324632
+    second: vfx-shield_26
+  - first:
+      213: -8261441734327970123
+    second: vfx-shield_27
+  - first:
+      213: -5993494223311989834
+    second: vfx-shield_28
+  - first:
+      213: 2158300210027047077
+    second: vfx-shield_29
+  - first:
+      213: 2417572350484446291
+    second: vfx-shield_30
+  - first:
+      213: -5429885365743398554
+    second: vfx-shield_31
+  - first:
+      213: -4057969406833173541
+    second: vfx-shield_32
+  - first:
+      213: 7786875748117974756
+    second: vfx-shield_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-shield_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 430
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a583022f41804300800000000000000
+      internalID: 234329357496321449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 423
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1b4b27815950c0800000000000000
+      internalID: -4586545104511361306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 454
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cebe6df699c93cf0800000000000000
+      internalID: -271964652145033528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 423
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add9d011daf900a0800000000000000
+      internalID: -6914719977012863579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 449
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70af3739d9cd200800000000000000
+      internalID: 206212939583719338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 429
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc8b8e9417553a90800000000000000
+      internalID: -7334860672032076624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 423
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00969c61a5c03f860800000000000000
+      internalID: 7562401780354083072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 423
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6111c0d93e2fce0800000000000000
+      internalID: -1372784672742762788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5263cc40df1dc3dd0800000000000000
+      internalID: -2504896408087415259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 295
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e515510718eeb470800000000000000
+      internalID: 8412416339478910438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3c11fd4338ee1e0800000000000000
+      internalID: -2166650107614608441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 293
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ec75c1143f5660800000000000000
+      internalID: 7376671965588546071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 317
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd823638dd3eaf350800000000000000
+      internalID: 6051399589857274076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 341
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41d19e4bec52a520800000000000000
+      internalID: 2711832091335709003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_14
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 317
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694aca471e0b4fb90800000000000000
+      internalID: -7208942621141719914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 299
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634de1d052912c50800000000000000
+      internalID: 6638748201537848165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 296
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f36c23fbab6f260800000000000000
+      internalID: 7131092390341132117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 291
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c08b9a351fcef00800000000000000
+      internalID: 1147557346704624796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 180
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e47f7db7d098a110800000000000000
+      internalID: 1272426151003780322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 164
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f671b7556ee1540800000000000000
+      internalID: 4980671492730089285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d583f679d61f180800000000000000
+      internalID: -9083358476256125655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b179c2cdc3fe590800000000000000
+      internalID: -7642823126285870220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffb5f7cc128fc4a0800000000000000
+      internalID: -6570890271184797705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 177
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3fd01ff7b14f70800000000000000
+      internalID: 9169812622430649599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 168
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a209cf8dde6f97560800000000000000
+      internalID: 7312146971420823594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 193
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebe5fb2054a50910800000000000000
+      internalID: 1803027890073627617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b41dcefe875a20800000000000000
+      internalID: 3051064497580324632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_27
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b65bcc7386795d80800000000000000
+      internalID: -8261441734327970123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 170
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3122042c4d2dca0800000000000000
+      internalID: -5993494223311989834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_29
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 162
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a820591b92d3fd10800000000000000
+      internalID: 2158300210027047077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c7e617e31fc8120800000000000000
+      internalID: 2417572350484446291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_31
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 65
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661d5c3570c25a4b0800000000000000
+      internalID: -5429885365743398554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 65
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb5e4413523fa7c0800000000000000
+      internalID: -4057969406833173541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-shield_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee0dac7c3a801c60800000000000000
+      internalID: 7786875748117974756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-shield_0: 234329357496321449
+      vfx-shield_1: -4586545104511361306
+      vfx-shield_10: -2166650107614608441
+      vfx-shield_11: 7376671965588546071
+      vfx-shield_12: 6051399589857274076
+      vfx-shield_13: 2711832091335709003
+      vfx-shield_14: -7208942621141719914
+      vfx-shield_15: 6638748201537848165
+      vfx-shield_16: 7131092390341132117
+      vfx-shield_17: 1147557346704624796
+      vfx-shield_18: 1272426151003780322
+      vfx-shield_19: 4980671492730089285
+      vfx-shield_2: -271964652145033528
+      vfx-shield_20: -9083358476256125655
+      vfx-shield_21: -7642823126285870220
+      vfx-shield_22: -6570890271184797705
+      vfx-shield_23: 9169812622430649599
+      vfx-shield_24: 7312146971420823594
+      vfx-shield_25: 1803027890073627617
+      vfx-shield_26: 3051064497580324632
+      vfx-shield_27: -8261441734327970123
+      vfx-shield_28: -5993494223311989834
+      vfx-shield_29: 2158300210027047077
+      vfx-shield_3: -6914719977012863579
+      vfx-shield_30: 2417572350484446291
+      vfx-shield_31: -5429885365743398554
+      vfx-shield_32: -4057969406833173541
+      vfx-shield_33: 7786875748117974756
+      vfx-shield_4: 206212939583719338
+      vfx-shield_5: -7334860672032076624
+      vfx-shield_6: 7562401780354083072
+      vfx-shield_7: -1372784672742762788
+      vfx-shield_8: -2504896408087415259
+      vfx-shield_9: 8412416339478910438
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

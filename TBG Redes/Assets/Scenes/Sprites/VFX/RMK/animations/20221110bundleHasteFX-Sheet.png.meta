@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: 897531929f2c4b74e90cdc38fd0de599
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8488221044648684239
+    second: 20221110bundleHasteFX-Sheet_0
+  - first:
+      213: 7768191706005316648
+    second: 20221110bundleHasteFX-Sheet_1
+  - first:
+      213: 4750473273885437923
+    second: 20221110bundleHasteFX-Sheet_2
+  - first:
+      213: -8750665471009105450
+    second: 20221110bundleHasteFX-Sheet_3
+  - first:
+      213: 3856370086157100718
+    second: 20221110bundleHasteFX-Sheet_4
+  - first:
+      213: -4482187832312302670
+    second: 20221110bundleHasteFX-Sheet_5
+  - first:
+      213: 7740998534698618885
+    second: 20221110bundleHasteFX-Sheet_6
+  - first:
+      213: -6003667875869431853
+    second: 20221110bundleHasteFX-Sheet_7
+  - first:
+      213: 889975679469029385
+    second: 20221110bundleHasteFX-Sheet_8
+  - first:
+      213: -7326374997765682545
+    second: 20221110bundleHasteFX-Sheet_9
+  - first:
+      213: -155435288240377034
+    second: 20221110bundleHasteFX-Sheet_10
+  - first:
+      213: 3855006861765354671
+    second: 20221110bundleHasteFX-Sheet_11
+  - first:
+      213: -7628829080805245186
+    second: 20221110bundleHasteFX-Sheet_12
+  - first:
+      213: 8070310242191988310
+    second: 20221110bundleHasteFX-Sheet_13
+  - first:
+      213: -1950490241375193891
+    second: 20221110bundleHasteFX-Sheet_14
+  - first:
+      213: 3022825405131523375
+    second: 20221110bundleHasteFX-Sheet_15
+  - first:
+      213: -8992529163388321537
+    second: 20221110bundleHasteFX-Sheet_16
+  - first:
+      213: 5595313055619308794
+    second: 20221110bundleHasteFX-Sheet_17
+  - first:
+      213: 6903565511908873072
+    second: 20221110bundleHasteFX-Sheet_18
+  - first:
+      213: 7874723694938348969
+    second: 20221110bundleHasteFX-Sheet_19
+  - first:
+      213: -7962604588427242242
+    second: 20221110bundleHasteFX-Sheet_20
+  - first:
+      213: -2164340140735682113
+    second: 20221110bundleHasteFX-Sheet_21
+  - first:
+      213: -7853758045412062719
+    second: 20221110bundleHasteFX-Sheet_22
+  - first:
+      213: 1355835360938548189
+    second: 20221110bundleHasteFX-Sheet_23
+  - first:
+      213: 8142663478052352481
+    second: 20221110bundleHasteFX-Sheet_24
+  - first:
+      213: 3668310063583455195
+    second: 20221110bundleHasteFX-Sheet_25
+  - first:
+      213: -6623668246980492792
+    second: 20221110bundleHasteFX-Sheet_26
+  - first:
+      213: -1561913839501439243
+    second: 20221110bundleHasteFX-Sheet_27
+  - first:
+      213: -7233200865670509670
+    second: 20221110bundleHasteFX-Sheet_28
+  - first:
+      213: 2095034383159986812
+    second: 20221110bundleHasteFX-Sheet_29
+  - first:
+      213: 8095194709101269525
+    second: 20221110bundleHasteFX-Sheet_30
+  - first:
+      213: -7715417996175274295
+    second: 20221110bundleHasteFX-Sheet_31
+  - first:
+      213: 8768549803269169476
+    second: 20221110bundleHasteFX-Sheet_32
+  - first:
+      213: -2980807675935593227
+    second: 20221110bundleHasteFX-Sheet_33
+  - first:
+      213: 5347278862432796829
+    second: 20221110bundleHasteFX-Sheet_34
+  - first:
+      213: -5337853604311117744
+    second: 20221110bundleHasteFX-Sheet_35
+  - first:
+      213: 3040364315847096484
+    second: 20221110bundleHasteFX-Sheet_36
+  - first:
+      213: 8257232862990613316
+    second: 20221110bundleHasteFX-Sheet_37
+  - first:
+      213: 1568645319525378556
+    second: 20221110bundleHasteFX-Sheet_38
+  - first:
+      213: -4886273316592778845
+    second: 20221110bundleHasteFX-Sheet_39
+  - first:
+      213: -9094656437341051199
+    second: 20221110bundleHasteFX-Sheet_40
+  - first:
+      213: 1885679211332488320
+    second: 20221110bundleHasteFX-Sheet_41
+  - first:
+      213: -7515864937366768231
+    second: 20221110bundleHasteFX-Sheet_42
+  - first:
+      213: -9123475432628851307
+    second: 20221110bundleHasteFX-Sheet_43
+  - first:
+      213: 1802408114223054248
+    second: 20221110bundleHasteFX-Sheet_44
+  - first:
+      213: 8586882936027171651
+    second: 20221110bundleHasteFX-Sheet_45
+  - first:
+      213: 2043331641592299939
+    second: 20221110bundleHasteFX-Sheet_46
+  - first:
+      213: 1469273712927025571
+    second: 20221110bundleHasteFX-Sheet_47
+  - first:
+      213: 544019059799655773
+    second: 20221110bundleHasteFX-Sheet_48
+  - first:
+      213: -7073008080074251056
+    second: 20221110bundleHasteFX-Sheet_49
+  - first:
+      213: 7424676650179323450
+    second: 20221110bundleHasteFX-Sheet_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1057
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa74d41183cc570800000000000000
+      internalID: 8488221044648684239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1041
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824259fe2392ecb60800000000000000
+      internalID: 7768191706005316648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1025
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efade406421de140800000000000000
+      internalID: 4750473273885437923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1009
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d93cfd146f8680800000000000000
+      internalID: -8750665471009105450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1005
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea626d35924948530800000000000000
+      internalID: 3856370086157100718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 909
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b372760ae11cc1c0800000000000000
+      internalID: -4482187832312302670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 897
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500d78b572d8d6b60800000000000000
+      internalID: 7740998534698618885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 913
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e06d20efaeaca0800000000000000
+      internalID: -6003667875869431853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 917
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080d794a24d95c00800000000000000
+      internalID: 889975679469029385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 913
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a8fde91cc735a90800000000000000
+      internalID: -7326374997765682545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 805
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6333fdacd68c7ddf0800000000000000
+      internalID: -155435288240377034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 913
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4a73ae05cbf7530800000000000000
+      internalID: 3855006861765354671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 833
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efefe6ace54f02690800000000000000
+      internalID: -7628829080805245186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 811
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656dc0d28608fff60800000000000000
+      internalID: 8070310242191988310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 859
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd437f8a5777ee4e0800000000000000
+      internalID: -1950490241375193891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 815
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2504eab0bb33f920800000000000000
+      internalID: 3022825405131523375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 887
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff006efce5e143380800000000000000
+      internalID: -8992529163388321537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 815
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc5b4f249b86ad40800000000000000
+      internalID: 5595313055619308794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 817
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07357f4a1446ecf50800000000000000
+      internalID: 6903565511908873072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 853
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add62d7a73a84d60800000000000000
+      internalID: 7874723694938348969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef416e380552f7190800000000000000
+      internalID: -7962604588427242242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 845
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a452fb18b6f1e0800000000000000
+      internalID: -2164340140735682113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 839
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a095f2ba8d10390800000000000000
+      internalID: -7853758045412062719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 839
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd7a6c315e0d210800000000000000
+      internalID: 1355835360938548189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 823
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17bd6aa4d800170800000000000000
+      internalID: 8142663478052352481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 835
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e1e9319478e230800000000000000
+      internalID: 3668310063583455195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 813
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80281b4b2d00414a0800000000000000
+      internalID: -6623668246980492792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 809
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe00ca63a7f25ae0800000000000000
+      internalID: -1561913839501439243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 805
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b49a4c2228e9b90800000000000000
+      internalID: -7233200865670509670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 625
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a0b78ebae031d10800000000000000
+      internalID: 2095034383159986812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 625
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125a9f92b8e75070800000000000000
+      internalID: 8095194709101269525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 625
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0154e5345de490800000000000000
+      internalID: -7715417996175274295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 625
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4412e2b969520b970800000000000000
+      internalID: 8768549803269169476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 623
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fce914363b02a6d0800000000000000
+      internalID: -2980807675935593227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 431
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9003465bc9553a40800000000000000
+      internalID: 5347278862432796829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 433
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0505ff39d622ce5b0800000000000000
+      internalID: -5337853604311117744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 433
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8f6d99c3b813a20800000000000000
+      internalID: 3040364315847096484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 433
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bbc3a4a85979270800000000000000
+      internalID: 8257232862990613316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 431
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a3e86b92f4c510800000000000000
+      internalID: 1568645319525378556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 241
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18401ae48703cb0800000000000000
+      internalID: -4886273316592778845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 241
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62112e72a49c180800000000000000
+      internalID: -9094656437341051199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 239
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ccfcf70474b2a10800000000000000
+      internalID: 1885679211332488320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 241
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995b07409a842b790800000000000000
+      internalID: -7515864937366768231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 241
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6729ae67e26180800000000000000
+      internalID: -9123475432628851307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adfb8c51a0730910800000000000000
+      internalID: 1802408114223054248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63
+        width: 82
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b43c9f88cba2770800000000000000
+      internalID: 8586882936027171651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 77
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1cc6f4d4f5b5c10800000000000000
+      internalID: 2043331641592299939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 91
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9a5d848a8e36410800000000000000
+      internalID: 1469273712927025571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55866ad37ebc8700800000000000000
+      internalID: 544019059799655773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4e4b520a0a7dd90800000000000000
+      internalID: -7073008080074251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleHasteFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3663126310c90760800000000000000
+      internalID: 7424676650179323450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundleHasteFX-Sheet_0: 8488221044648684239
+      20221110bundleHasteFX-Sheet_1: 7768191706005316648
+      20221110bundleHasteFX-Sheet_10: -155435288240377034
+      20221110bundleHasteFX-Sheet_11: 3855006861765354671
+      20221110bundleHasteFX-Sheet_12: -7628829080805245186
+      20221110bundleHasteFX-Sheet_13: 8070310242191988310
+      20221110bundleHasteFX-Sheet_14: -1950490241375193891
+      20221110bundleHasteFX-Sheet_15: 3022825405131523375
+      20221110bundleHasteFX-Sheet_16: -8992529163388321537
+      20221110bundleHasteFX-Sheet_17: 5595313055619308794
+      20221110bundleHasteFX-Sheet_18: 6903565511908873072
+      20221110bundleHasteFX-Sheet_19: 7874723694938348969
+      20221110bundleHasteFX-Sheet_2: 4750473273885437923
+      20221110bundleHasteFX-Sheet_20: -7962604588427242242
+      20221110bundleHasteFX-Sheet_21: -2164340140735682113
+      20221110bundleHasteFX-Sheet_22: -7853758045412062719
+      20221110bundleHasteFX-Sheet_23: 1355835360938548189
+      20221110bundleHasteFX-Sheet_24: 8142663478052352481
+      20221110bundleHasteFX-Sheet_25: 3668310063583455195
+      20221110bundleHasteFX-Sheet_26: -6623668246980492792
+      20221110bundleHasteFX-Sheet_27: -1561913839501439243
+      20221110bundleHasteFX-Sheet_28: -7233200865670509670
+      20221110bundleHasteFX-Sheet_29: 2095034383159986812
+      20221110bundleHasteFX-Sheet_3: -8750665471009105450
+      20221110bundleHasteFX-Sheet_30: 8095194709101269525
+      20221110bundleHasteFX-Sheet_31: -7715417996175274295
+      20221110bundleHasteFX-Sheet_32: 8768549803269169476
+      20221110bundleHasteFX-Sheet_33: -2980807675935593227
+      20221110bundleHasteFX-Sheet_34: 5347278862432796829
+      20221110bundleHasteFX-Sheet_35: -5337853604311117744
+      20221110bundleHasteFX-Sheet_36: 3040364315847096484
+      20221110bundleHasteFX-Sheet_37: 8257232862990613316
+      20221110bundleHasteFX-Sheet_38: 1568645319525378556
+      20221110bundleHasteFX-Sheet_39: -4886273316592778845
+      20221110bundleHasteFX-Sheet_4: 3856370086157100718
+      20221110bundleHasteFX-Sheet_40: -9094656437341051199
+      20221110bundleHasteFX-Sheet_41: 1885679211332488320
+      20221110bundleHasteFX-Sheet_42: -7515864937366768231
+      20221110bundleHasteFX-Sheet_43: -9123475432628851307
+      20221110bundleHasteFX-Sheet_44: 1802408114223054248
+      20221110bundleHasteFX-Sheet_45: 8586882936027171651
+      20221110bundleHasteFX-Sheet_46: 2043331641592299939
+      20221110bundleHasteFX-Sheet_47: 1469273712927025571
+      20221110bundleHasteFX-Sheet_48: 544019059799655773
+      20221110bundleHasteFX-Sheet_49: -7073008080074251056
+      20221110bundleHasteFX-Sheet_5: -4482187832312302670
+      20221110bundleHasteFX-Sheet_50: 7424676650179323450
+      20221110bundleHasteFX-Sheet_6: 7740998534698618885
+      20221110bundleHasteFX-Sheet_7: -6003667875869431853
+      20221110bundleHasteFX-Sheet_8: 889975679469029385
+      20221110bundleHasteFX-Sheet_9: -7326374997765682545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

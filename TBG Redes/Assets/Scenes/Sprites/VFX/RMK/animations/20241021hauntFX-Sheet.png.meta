@@ -1,0 +1,6682 @@
+fileFormatVersion: 2
+guid: fe9abbde868041b48947615340bd12f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9043072385521493737
+    second: 20241021hauntFX-Sheet_0
+  - first:
+      213: -8785323387446443847
+    second: 20241021hauntFX-Sheet_1
+  - first:
+      213: 5354588747435366411
+    second: 20241021hauntFX-Sheet_2
+  - first:
+      213: -95913608497175145
+    second: 20241021hauntFX-Sheet_3
+  - first:
+      213: -7132464433012326604
+    second: 20241021hauntFX-Sheet_4
+  - first:
+      213: -4765503340477478255
+    second: 20241021hauntFX-Sheet_5
+  - first:
+      213: -6834763118073229046
+    second: 20241021hauntFX-Sheet_6
+  - first:
+      213: -7130783789006848392
+    second: 20241021hauntFX-Sheet_7
+  - first:
+      213: 4196316705182608327
+    second: 20241021hauntFX-Sheet_8
+  - first:
+      213: -1676397784724716577
+    second: 20241021hauntFX-Sheet_9
+  - first:
+      213: -2478656726791120903
+    second: 20241021hauntFX-Sheet_10
+  - first:
+      213: 4864945907060897946
+    second: 20241021hauntFX-Sheet_11
+  - first:
+      213: -3701612785457901293
+    second: 20241021hauntFX-Sheet_12
+  - first:
+      213: -8041041772818761658
+    second: 20241021hauntFX-Sheet_13
+  - first:
+      213: -1120159274814514466
+    second: 20241021hauntFX-Sheet_14
+  - first:
+      213: -5615685892542680604
+    second: 20241021hauntFX-Sheet_15
+  - first:
+      213: 4545703234900386170
+    second: 20241021hauntFX-Sheet_16
+  - first:
+      213: 517151302707072497
+    second: 20241021hauntFX-Sheet_17
+  - first:
+      213: 2826026461955330509
+    second: 20241021hauntFX-Sheet_18
+  - first:
+      213: -6458355364502051241
+    second: 20241021hauntFX-Sheet_19
+  - first:
+      213: -1759199462766902065
+    second: 20241021hauntFX-Sheet_20
+  - first:
+      213: 5549516924780423549
+    second: 20241021hauntFX-Sheet_21
+  - first:
+      213: 8950016115873766505
+    second: 20241021hauntFX-Sheet_22
+  - first:
+      213: -9170702798439561695
+    second: 20241021hauntFX-Sheet_23
+  - first:
+      213: 5297591497876774023
+    second: 20241021hauntFX-Sheet_24
+  - first:
+      213: -3473408071510909253
+    second: 20241021hauntFX-Sheet_25
+  - first:
+      213: -8638187945208228528
+    second: 20241021hauntFX-Sheet_26
+  - first:
+      213: -1565703590121519877
+    second: 20241021hauntFX-Sheet_27
+  - first:
+      213: 3227926653009998587
+    second: 20241021hauntFX-Sheet_28
+  - first:
+      213: -6823186477545989423
+    second: 20241021hauntFX-Sheet_29
+  - first:
+      213: -5836145556989983242
+    second: 20241021hauntFX-Sheet_30
+  - first:
+      213: 931514913154832445
+    second: 20241021hauntFX-Sheet_31
+  - first:
+      213: -7607396941192065465
+    second: 20241021hauntFX-Sheet_32
+  - first:
+      213: -7485017711529587719
+    second: 20241021hauntFX-Sheet_33
+  - first:
+      213: -4589214656919026985
+    second: 20241021hauntFX-Sheet_34
+  - first:
+      213: 4790244142387810241
+    second: 20241021hauntFX-Sheet_35
+  - first:
+      213: -7412209945661336262
+    second: 20241021hauntFX-Sheet_36
+  - first:
+      213: -1869682828289525430
+    second: 20241021hauntFX-Sheet_37
+  - first:
+      213: -6004282275114669957
+    second: 20241021hauntFX-Sheet_38
+  - first:
+      213: 997240446084972152
+    second: 20241021hauntFX-Sheet_39
+  - first:
+      213: 6476321924112480666
+    second: 20241021hauntFX-Sheet_40
+  - first:
+      213: -6121728239559349974
+    second: 20241021hauntFX-Sheet_41
+  - first:
+      213: 4673007622310805724
+    second: 20241021hauntFX-Sheet_42
+  - first:
+      213: -5260250382329269625
+    second: 20241021hauntFX-Sheet_43
+  - first:
+      213: -3695613678832944836
+    second: 20241021hauntFX-Sheet_44
+  - first:
+      213: -3617771258709545775
+    second: 20241021hauntFX-Sheet_45
+  - first:
+      213: 1687940352071117192
+    second: 20241021hauntFX-Sheet_46
+  - first:
+      213: -7851499617755510794
+    second: 20241021hauntFX-Sheet_47
+  - first:
+      213: -3961202562569932766
+    second: 20241021hauntFX-Sheet_48
+  - first:
+      213: -2871808491115533816
+    second: 20241021hauntFX-Sheet_49
+  - first:
+      213: -5910328100421947926
+    second: 20241021hauntFX-Sheet_50
+  - first:
+      213: -6447281485230274563
+    second: 20241021hauntFX-Sheet_51
+  - first:
+      213: 698018767750342284
+    second: 20241021hauntFX-Sheet_52
+  - first:
+      213: -6910467025004802048
+    second: 20241021hauntFX-Sheet_53
+  - first:
+      213: 4833870918325063707
+    second: 20241021hauntFX-Sheet_54
+  - first:
+      213: -4261737456525093474
+    second: 20241021hauntFX-Sheet_55
+  - first:
+      213: 208684425606619543
+    second: 20241021hauntFX-Sheet_56
+  - first:
+      213: 2600856068058909903
+    second: 20241021hauntFX-Sheet_57
+  - first:
+      213: 6472910456875731378
+    second: 20241021hauntFX-Sheet_58
+  - first:
+      213: -1687497114173337795
+    second: 20241021hauntFX-Sheet_59
+  - first:
+      213: 6459316214131101895
+    second: 20241021hauntFX-Sheet_60
+  - first:
+      213: -4236490827599189910
+    second: 20241021hauntFX-Sheet_61
+  - first:
+      213: -1099696943401679651
+    second: 20241021hauntFX-Sheet_62
+  - first:
+      213: 5384104813758275051
+    second: 20241021hauntFX-Sheet_63
+  - first:
+      213: 7787501346302096238
+    second: 20241021hauntFX-Sheet_64
+  - first:
+      213: -212262414688081676
+    second: 20241021hauntFX-Sheet_65
+  - first:
+      213: 5353384752616676823
+    second: 20241021hauntFX-Sheet_66
+  - first:
+      213: 500343608765873357
+    second: 20241021hauntFX-Sheet_67
+  - first:
+      213: 4512298190900616523
+    second: 20241021hauntFX-Sheet_68
+  - first:
+      213: -4788883439311591901
+    second: 20241021hauntFX-Sheet_69
+  - first:
+      213: -4637879235804912465
+    second: 20241021hauntFX-Sheet_70
+  - first:
+      213: -8748370597798081792
+    second: 20241021hauntFX-Sheet_71
+  - first:
+      213: 8491059964280137886
+    second: 20241021hauntFX-Sheet_72
+  - first:
+      213: -5791944558683373417
+    second: 20241021hauntFX-Sheet_73
+  - first:
+      213: 4902389291795969446
+    second: 20241021hauntFX-Sheet_74
+  - first:
+      213: -7851429381077011618
+    second: 20241021hauntFX-Sheet_75
+  - first:
+      213: -7496580557624814175
+    second: 20241021hauntFX-Sheet_76
+  - first:
+      213: 1752956140530313316
+    second: 20241021hauntFX-Sheet_77
+  - first:
+      213: 4369323764566307928
+    second: 20241021hauntFX-Sheet_78
+  - first:
+      213: -6053697800080721958
+    second: 20241021hauntFX-Sheet_79
+  - first:
+      213: 6545569535684297761
+    second: 20241021hauntFX-Sheet_80
+  - first:
+      213: 7740652100133283308
+    second: 20241021hauntFX-Sheet_81
+  - first:
+      213: -7455163653313159679
+    second: 20241021hauntFX-Sheet_82
+  - first:
+      213: 5524542623721260535
+    second: 20241021hauntFX-Sheet_83
+  - first:
+      213: -4685806005479271138
+    second: 20241021hauntFX-Sheet_84
+  - first:
+      213: 3474313778105332576
+    second: 20241021hauntFX-Sheet_85
+  - first:
+      213: 6515488102518184866
+    second: 20241021hauntFX-Sheet_86
+  - first:
+      213: 5416510850904181743
+    second: 20241021hauntFX-Sheet_87
+  - first:
+      213: 2083116541378712887
+    second: 20241021hauntFX-Sheet_88
+  - first:
+      213: 1216671474533127819
+    second: 20241021hauntFX-Sheet_89
+  - first:
+      213: 474879423817261552
+    second: 20241021hauntFX-Sheet_90
+  - first:
+      213: 8115062533870076667
+    second: 20241021hauntFX-Sheet_91
+  - first:
+      213: -6451936958341821550
+    second: 20241021hauntFX-Sheet_92
+  - first:
+      213: 3163670200772673163
+    second: 20241021hauntFX-Sheet_93
+  - first:
+      213: 6124145692370646583
+    second: 20241021hauntFX-Sheet_94
+  - first:
+      213: 2648845847659220169
+    second: 20241021hauntFX-Sheet_95
+  - first:
+      213: 1207345180542213837
+    second: 20241021hauntFX-Sheet_96
+  - first:
+      213: 8835665742912120871
+    second: 20241021hauntFX-Sheet_97
+  - first:
+      213: -4201071586722433376
+    second: 20241021hauntFX-Sheet_98
+  - first:
+      213: -575854741222416707
+    second: 20241021hauntFX-Sheet_99
+  - first:
+      213: 5935408367728524257
+    second: 20241021hauntFX-Sheet_100
+  - first:
+      213: -6783441237863176491
+    second: 20241021hauntFX-Sheet_101
+  - first:
+      213: 2585043202547598480
+    second: 20241021hauntFX-Sheet_102
+  - first:
+      213: 1432701222128884637
+    second: 20241021hauntFX-Sheet_103
+  - first:
+      213: 8254304109242433919
+    second: 20241021hauntFX-Sheet_104
+  - first:
+      213: -6196063190911305515
+    second: 20241021hauntFX-Sheet_105
+  - first:
+      213: 9073544477936902158
+    second: 20241021hauntFX-Sheet_106
+  - first:
+      213: -1940592561735832597
+    second: 20241021hauntFX-Sheet_107
+  - first:
+      213: 3299649852137254589
+    second: 20241021hauntFX-Sheet_108
+  - first:
+      213: -2800873006255498462
+    second: 20241021hauntFX-Sheet_109
+  - first:
+      213: 4956339722623743766
+    second: 20241021hauntFX-Sheet_110
+  - first:
+      213: -3249170989628591650
+    second: 20241021hauntFX-Sheet_111
+  - first:
+      213: -2434214646599764467
+    second: 20241021hauntFX-Sheet_112
+  - first:
+      213: -2985004014338563961
+    second: 20241021hauntFX-Sheet_113
+  - first:
+      213: 1661115753086278170
+    second: 20241021hauntFX-Sheet_114
+  - first:
+      213: -6498552897969623874
+    second: 20241021hauntFX-Sheet_115
+  - first:
+      213: -6123804739599491180
+    second: 20241021hauntFX-Sheet_116
+  - first:
+      213: 3965287611393860363
+    second: 20241021hauntFX-Sheet_117
+  - first:
+      213: 1089322982524935205
+    second: 20241021hauntFX-Sheet_118
+  - first:
+      213: 399553946205505110
+    second: 20241021hauntFX-Sheet_119
+  - first:
+      213: 490025584161797384
+    second: 20241021hauntFX-Sheet_120
+  - first:
+      213: -8143756367547092572
+    second: 20241021hauntFX-Sheet_121
+  - first:
+      213: -7835957032041874564
+    second: 20241021hauntFX-Sheet_122
+  - first:
+      213: -5828034689101049522
+    second: 20241021hauntFX-Sheet_123
+  - first:
+      213: 6061045258154009270
+    second: 20241021hauntFX-Sheet_124
+  - first:
+      213: 4446532756433823739
+    second: 20241021hauntFX-Sheet_125
+  - first:
+      213: -2387325746689838881
+    second: 20241021hauntFX-Sheet_126
+  - first:
+      213: 7616425028839215758
+    second: 20241021hauntFX-Sheet_127
+  - first:
+      213: 1650440875787724159
+    second: 20241021hauntFX-Sheet_128
+  - first:
+      213: 5950261953216106632
+    second: 20241021hauntFX-Sheet_129
+  - first:
+      213: 8080867714393615860
+    second: 20241021hauntFX-Sheet_130
+  - first:
+      213: -5936382072043338992
+    second: 20241021hauntFX-Sheet_131
+  - first:
+      213: 7301165293260186255
+    second: 20241021hauntFX-Sheet_132
+  - first:
+      213: 7534008068253008494
+    second: 20241021hauntFX-Sheet_133
+  - first:
+      213: 3179912571639208421
+    second: 20241021hauntFX-Sheet_134
+  - first:
+      213: -4166484237625983838
+    second: 20241021hauntFX-Sheet_135
+  - first:
+      213: -1753982222033506592
+    second: 20241021hauntFX-Sheet_136
+  - first:
+      213: 4392064723938192454
+    second: 20241021hauntFX-Sheet_137
+  - first:
+      213: 3387132414522472314
+    second: 20241021hauntFX-Sheet_138
+  - first:
+      213: -449195195037678809
+    second: 20241021hauntFX-Sheet_139
+  - first:
+      213: -3190445712379204579
+    second: 20241021hauntFX-Sheet_140
+  - first:
+      213: -5052813347699234653
+    second: 20241021hauntFX-Sheet_141
+  - first:
+      213: -5136314547979280760
+    second: 20241021hauntFX-Sheet_142
+  - first:
+      213: -1345663682953030403
+    second: 20241021hauntFX-Sheet_143
+  - first:
+      213: -6248328317584516868
+    second: 20241021hauntFX-Sheet_144
+  - first:
+      213: -3939168269870568237
+    second: 20241021hauntFX-Sheet_145
+  - first:
+      213: 394449610979198063
+    second: 20241021hauntFX-Sheet_146
+  - first:
+      213: 8929193605534866288
+    second: 20241021hauntFX-Sheet_147
+  - first:
+      213: -6564122847712117231
+    second: 20241021hauntFX-Sheet_148
+  - first:
+      213: -7418941652112946590
+    second: 20241021hauntFX-Sheet_149
+  - first:
+      213: -8959604830817302159
+    second: 20241021hauntFX-Sheet_150
+  - first:
+      213: 4429669903780568459
+    second: 20241021hauntFX-Sheet_151
+  - first:
+      213: -8482956542497970190
+    second: 20241021hauntFX-Sheet_152
+  - first:
+      213: 819516030282893088
+    second: 20241021hauntFX-Sheet_153
+  - first:
+      213: 1010786449080128939
+    second: 20241021hauntFX-Sheet_154
+  - first:
+      213: 5682393013784156933
+    second: 20241021hauntFX-Sheet_155
+  - first:
+      213: -5064644064894978899
+    second: 20241021hauntFX-Sheet_156
+  - first:
+      213: -1494882803348268235
+    second: 20241021hauntFX-Sheet_157
+  - first:
+      213: 1871792800912295750
+    second: 20241021hauntFX-Sheet_158
+  - first:
+      213: -7039576920653553786
+    second: 20241021hauntFX-Sheet_159
+  - first:
+      213: 5476614180339682648
+    second: 20241021hauntFX-Sheet_160
+  - first:
+      213: 5733357005029854372
+    second: 20241021hauntFX-Sheet_161
+  - first:
+      213: 1165853467996066165
+    second: 20241021hauntFX-Sheet_162
+  - first:
+      213: -2886911317535604737
+    second: 20241021hauntFX-Sheet_163
+  - first:
+      213: 1127428098408679418
+    second: 20241021hauntFX-Sheet_164
+  - first:
+      213: 6958192377065341729
+    second: 20241021hauntFX-Sheet_165
+  - first:
+      213: -7019596984867172017
+    second: 20241021hauntFX-Sheet_166
+  - first:
+      213: -6706925416605072105
+    second: 20241021hauntFX-Sheet_167
+  - first:
+      213: 2877128407735817845
+    second: 20241021hauntFX-Sheet_168
+  - first:
+      213: 3761519177028777358
+    second: 20241021hauntFX-Sheet_169
+  - first:
+      213: 1878033424629286477
+    second: 20241021hauntFX-Sheet_170
+  - first:
+      213: -9204112913930889061
+    second: 20241021hauntFX-Sheet_171
+  - first:
+      213: 5316343958189754723
+    second: 20241021hauntFX-Sheet_172
+  - first:
+      213: -1401471298972955757
+    second: 20241021hauntFX-Sheet_173
+  - first:
+      213: 8125390477995263128
+    second: 20241021hauntFX-Sheet_174
+  - first:
+      213: -1783907080672443716
+    second: 20241021hauntFX-Sheet_175
+  - first:
+      213: -6240464620438929674
+    second: 20241021hauntFX-Sheet_176
+  - first:
+      213: 130059301395731966
+    second: 20241021hauntFX-Sheet_177
+  - first:
+      213: -6553044039787694887
+    second: 20241021hauntFX-Sheet_178
+  - first:
+      213: -3128628601659388288
+    second: 20241021hauntFX-Sheet_179
+  - first:
+      213: -4522626917036951274
+    second: 20241021hauntFX-Sheet_180
+  - first:
+      213: -2605275769404430445
+    second: 20241021hauntFX-Sheet_181
+  - first:
+      213: 5037333889992981837
+    second: 20241021hauntFX-Sheet_182
+  - first:
+      213: 1816419486128829759
+    second: 20241021hauntFX-Sheet_183
+  - first:
+      213: 4129423490633955686
+    second: 20241021hauntFX-Sheet_184
+  - first:
+      213: -8870081864718311723
+    second: 20241021hauntFX-Sheet_185
+  - first:
+      213: 3033055915924695143
+    second: 20241021hauntFX-Sheet_186
+  - first:
+      213: -154654311967772270
+    second: 20241021hauntFX-Sheet_187
+  - first:
+      213: 8368062512168890135
+    second: 20241021hauntFX-Sheet_188
+  - first:
+      213: -4187292572969889305
+    second: 20241021hauntFX-Sheet_189
+  - first:
+      213: 2342310690195155811
+    second: 20241021hauntFX-Sheet_190
+  - first:
+      213: 8543903855533831200
+    second: 20241021hauntFX-Sheet_191
+  - first:
+      213: 4879747736274045255
+    second: 20241021hauntFX-Sheet_192
+  - first:
+      213: 1998914788801160783
+    second: 20241021hauntFX-Sheet_193
+  - first:
+      213: 8566583796759514124
+    second: 20241021hauntFX-Sheet_194
+  - first:
+      213: -8328268545108061787
+    second: 20241021hauntFX-Sheet_195
+  - first:
+      213: -3037627695898845703
+    second: 20241021hauntFX-Sheet_196
+  - first:
+      213: 7372072297509030761
+    second: 20241021hauntFX-Sheet_197
+  - first:
+      213: 1520358560502932677
+    second: 20241021hauntFX-Sheet_198
+  - first:
+      213: -3493074016099802637
+    second: 20241021hauntFX-Sheet_199
+  - first:
+      213: -8827521483859768534
+    second: 20241021hauntFX-Sheet_200
+  - first:
+      213: 1781601532361323888
+    second: 20241021hauntFX-Sheet_201
+  - first:
+      213: 3751473589450898942
+    second: 20241021hauntFX-Sheet_202
+  - first:
+      213: -4159623397161434345
+    second: 20241021hauntFX-Sheet_203
+  - first:
+      213: -76325750289639454
+    second: 20241021hauntFX-Sheet_204
+  - first:
+      213: 4165896659463982438
+    second: 20241021hauntFX-Sheet_205
+  - first:
+      213: 3730674331529894714
+    second: 20241021hauntFX-Sheet_206
+  - first:
+      213: -3770698488441890941
+    second: 20241021hauntFX-Sheet_207
+  - first:
+      213: -2163503969895435876
+    second: 20241021hauntFX-Sheet_208
+  - first:
+      213: 2173089536681941584
+    second: 20241021hauntFX-Sheet_209
+  - first:
+      213: 5136199291400485481
+    second: 20241021hauntFX-Sheet_210
+  - first:
+      213: 6993227959859235442
+    second: 20241021hauntFX-Sheet_211
+  - first:
+      213: 4839866017439421122
+    second: 20241021hauntFX-Sheet_212
+  - first:
+      213: -3500875372738961684
+    second: 20241021hauntFX-Sheet_213
+  - first:
+      213: 7436910037065094542
+    second: 20241021hauntFX-Sheet_214
+  - first:
+      213: 966967509970180069
+    second: 20241021hauntFX-Sheet_215
+  - first:
+      213: -3236312867763103616
+    second: 20241021hauntFX-Sheet_216
+  - first:
+      213: 2241149696643958728
+    second: 20241021hauntFX-Sheet_217
+  - first:
+      213: 3911538258658149710
+    second: 20241021hauntFX-Sheet_218
+  - first:
+      213: 793578584637171308
+    second: 20241021hauntFX-Sheet_219
+  - first:
+      213: -5793907514373044416
+    second: 20241021hauntFX-Sheet_220
+  - first:
+      213: 7133791963482692747
+    second: 20241021hauntFX-Sheet_221
+  - first:
+      213: 1222162815421897206
+    second: 20241021hauntFX-Sheet_222
+  - first:
+      213: -5220617064984777313
+    second: 20241021hauntFX-Sheet_223
+  - first:
+      213: 4276543329650437373
+    second: 20241021hauntFX-Sheet_224
+  - first:
+      213: 5957679903376541913
+    second: 20241021hauntFX-Sheet_225
+  - first:
+      213: 5144785445476947084
+    second: 20241021hauntFX-Sheet_226
+  - first:
+      213: -4229740281019226882
+    second: 20241021hauntFX-Sheet_227
+  - first:
+      213: 7167801061854530242
+    second: 20241021hauntFX-Sheet_228
+  - first:
+      213: 1538543364321347645
+    second: 20241021hauntFX-Sheet_229
+  - first:
+      213: -2486923159167812030
+    second: 20241021hauntFX-Sheet_230
+  - first:
+      213: 6585376241346185877
+    second: 20241021hauntFX-Sheet_231
+  - first:
+      213: 2448263168531847189
+    second: 20241021hauntFX-Sheet_232
+  - first:
+      213: 7520779278195860876
+    second: 20241021hauntFX-Sheet_233
+  - first:
+      213: -4051841805152657749
+    second: 20241021hauntFX-Sheet_234
+  - first:
+      213: 3105496262606619244
+    second: 20241021hauntFX-Sheet_235
+  - first:
+      213: -2393682819140114261
+    second: 20241021hauntFX-Sheet_236
+  - first:
+      213: -5003000320330999535
+    second: 20241021hauntFX-Sheet_237
+  - first:
+      213: -7466396565362305141
+    second: 20241021hauntFX-Sheet_238
+  - first:
+      213: -1239060526115550648
+    second: 20241021hauntFX-Sheet_239
+  - first:
+      213: -2843542013944930762
+    second: 20241021hauntFX-Sheet_240
+  - first:
+      213: -6421286625788901544
+    second: 20241021hauntFX-Sheet_241
+  - first:
+      213: 369332729228767608
+    second: 20241021hauntFX-Sheet_242
+  - first:
+      213: 7505986321697151774
+    second: 20241021hauntFX-Sheet_243
+  - first:
+      213: -2897080867983639090
+    second: 20241021hauntFX-Sheet_244
+  - first:
+      213: -3789383796443017265
+    second: 20241021hauntFX-Sheet_245
+  - first:
+      213: -3031444058288405641
+    second: 20241021hauntFX-Sheet_246
+  - first:
+      213: -8381253617539490175
+    second: 20241021hauntFX-Sheet_247
+  - first:
+      213: 8471452730800427844
+    second: 20241021hauntFX-Sheet_248
+  - first:
+      213: 5797337419629654805
+    second: 20241021hauntFX-Sheet_249
+  - first:
+      213: 5943057910432316019
+    second: 20241021hauntFX-Sheet_250
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1113
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d8ded39d808280800000000000000
+      internalID: -9043072385521493737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c25efce2441680800000000000000
+      internalID: -8785323387446443847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1115
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08503198125f4a40800000000000000
+      internalID: 5354588747435366411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1113
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795666cc41f3baef0800000000000000
+      internalID: -95913608497175145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1117
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f31393365640d90800000000000000
+      internalID: -7132464433012326604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1111
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a07e6e5f78dddb0800000000000000
+      internalID: -4765503340477478255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1097
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01dd4ff72b0621a0800000000000000
+      internalID: -6834763118073229046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 999
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ef126aced5a0d90800000000000000
+      internalID: -7130783789006848392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1097
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb62717fcf4c3a30800000000000000
+      internalID: 4196316705182608327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1081
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd34b33c81d3cb8e0800000000000000
+      internalID: -1676397784724716577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 999
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f79b77e6da0a9dd0800000000000000
+      internalID: -2478656726791120903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98fad1e682c38340800000000000000
+      internalID: 4864945907060897946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 999
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311dcba98ca31acc0800000000000000
+      internalID: -3701612785457901293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1077
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6487f036c1b786090800000000000000
+      internalID: -8041041772818761658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1097
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda52dc03156470f0800000000000000
+      internalID: -1120159274814514466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e132d41f631112b0800000000000000
+      internalID: -5615685892542680604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1097
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71e49a0205951f30800000000000000
+      internalID: 4545703234900386170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1083
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd4cfcae5a4d2700800000000000000
+      internalID: 517151302707072497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1079
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc193be1810183720800000000000000
+      internalID: 2826026461955330509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 969
+        width: 54
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756ed9983005f56a0800000000000000
+      internalID: -6458355364502051241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1097
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc488b4c8611697e0800000000000000
+      internalID: -1759199462766902065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1091
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d792e809d38d30d40800000000000000
+      internalID: 5549516924780423549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 965
+        width: 62
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c5da8fc38d43c70800000000000000
+      internalID: 8950016115873766505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1079
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126445ea46e1bb080800000000000000
+      internalID: -9170702798439561695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 961
+        width: 60
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c13144663d48940800000000000000
+      internalID: 5297591497876774023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1025
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe1e9903c9fbcfc0800000000000000
+      internalID: -3473408071510909253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1077
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0555dc6b4ddfe1880800000000000000
+      internalID: -8638187945208228528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1069
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4c04751e0854ae0800000000000000
+      internalID: -1565703590121519877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1069
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23da94036ebcc20800000000000000
+      internalID: 3227926653009998587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1077
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da5f99ac0c2f41a0800000000000000
+      internalID: -6823186477545989423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1073
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f543228988d10fa0800000000000000
+      internalID: -5836145556989983242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1041
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38929dc0e76dec00800000000000000
+      internalID: 931514913154832445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1047
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e8ad6a9c81d6690800000000000000
+      internalID: -7607396941192065465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1035
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb85c67c00ef1890800000000000000
+      internalID: -7485017711529587719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1025
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d243509595df40c0800000000000000
+      internalID: -4589214656919026985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1045
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfcb6eeaad5a7240800000000000000
+      internalID: 4790244142387810241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1037
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a351d34735a822990800000000000000
+      internalID: -7412209945661336262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1047
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49b729af5d8d06e0800000000000000
+      internalID: -1869682828289525430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1041
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78ad9435118caca0800000000000000
+      internalID: -6004282275114669957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1055
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87efb80f6e8e6dd00800000000000000
+      internalID: 997240446084972152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1041
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a997cc91a7480e950800000000000000
+      internalID: 6476321924112480666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1029
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a296695b9904b0ba0800000000000000
+      internalID: -6121728239559349974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1027
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd047808cabd9d040800000000000000
+      internalID: 4673007622310805724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1031
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782b6a3b526dff6b0800000000000000
+      internalID: -5260250382329269625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1033
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39761670fa86bcc0800000000000000
+      internalID: -3695613678832944836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1033
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dceffd35381bcdc0800000000000000
+      internalID: -3617771258709545775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1023
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8892f3f9ec4cc6710800000000000000
+      internalID: 1687940352071117192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 981
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7419952bed90390800000000000000
+      internalID: -7851499617755510794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1013
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f6a6b14bf609c0800000000000000
+      internalID: -3961202562569932766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1019
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aab1094694528d0800000000000000
+      internalID: -2871808491115533816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1013
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed275c28eb4afda0800000000000000
+      internalID: -5910328100421947926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1005
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df785e9f5a7a686a0800000000000000
+      internalID: -6447281485230274563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 993
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86a05afe5cdfa900800000000000000
+      internalID: 698018767750342284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 999
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d98e9ad61910a0800000000000000
+      internalID: -6910467025004802048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 999
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105bd04dfb551340800000000000000
+      internalID: 4833870918325063707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1001
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9558d9ec544bd4c0800000000000000
+      internalID: -4261737456525093474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 921
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7916072216565e200800000000000000
+      internalID: 208684425606619543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 927
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc029060d8181420800000000000000
+      internalID: 2600856068058909903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 919
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94dfcf3c564d950800000000000000
+      internalID: 6472910456875731378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 917
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f833eb05ec498e0800000000000000
+      internalID: -1687497114173337795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 807
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c09433bfd914a950800000000000000
+      internalID: 6459316214131101895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 921
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68efb6c906f435c0800000000000000
+      internalID: -4236490827599189910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 917
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4c5f7d4771db0f0800000000000000
+      internalID: -1099696943401679651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 807
+        width: 52
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed58894dce28ba40800000000000000
+      internalID: 5384104813758275051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 927
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63763ae633c21c60800000000000000
+      internalID: 7787501346302096238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 923
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a95d5574ed0df0800000000000000
+      internalID: -212262414688081676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 917
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd95bda11b0b4a40800000000000000
+      internalID: 5353384752616676823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 809
+        width: 60
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc702a7cd391f600800000000000000
+      internalID: 500343608765873357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 923
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd4452c47ee9e30800000000000000
+      internalID: 4512298190900616523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 869
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e41172e77a8db0800000000000000
+      internalID: -4788883439311591901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 811
+        width: 54
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa420b65861f2afb0800000000000000
+      internalID: -4637879235804912465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 927
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b06caca4b879680800000000000000
+      internalID: -8748370597798081792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 923
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e986579cc0e46d570800000000000000
+      internalID: 8491059964280137886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 865
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790cbe46c11ee9fa0800000000000000
+      internalID: -5791944558683373417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 811
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a57d204619c80440800000000000000
+      internalID: 4902389291795969446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 881
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53f6d9939e1a0390800000000000000
+      internalID: -7851429381077011618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 909
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a55ca093bbc6f790800000000000000
+      internalID: -7496580557624814175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 769
+        width: 72
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468262f7250c35810800000000000000
+      internalID: 1752956140530313316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 887
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854b5af60d4f2ac30800000000000000
+      internalID: 4369323764566307928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 769
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ff98bce1fcfba0800000000000000
+      internalID: -6053697800080721958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 915
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124c41310d886da50800000000000000
+      internalID: 6545569535684297761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce56356c2125c6b60800000000000000
+      internalID: 7740652100133283308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 769
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e9ddd0820f98890800000000000000
+      internalID: -7455163653313159679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 905
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f50969fe3e1bac40800000000000000
+      internalID: 5524542623721260535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 769
+        width: 84
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e151405b34ca8feb0800000000000000
+      internalID: -4685806005479271138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 907
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063b63639fd373030800000000000000
+      internalID: 3474313778105332576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 769
+        width: 84
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab51e0a8e9ab6a50800000000000000
+      internalID: 6515488102518184866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 891
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb4136cbef4b2b40800000000000000
+      internalID: 5416510850904181743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 895
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7355e922577b8ec10800000000000000
+      internalID: 2083116541378712887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 879
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d5e7824c72e010800000000000000
+      internalID: 1216671474533127819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 865
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f125c7e15c179600800000000000000
+      internalID: 474879423817261552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 865
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2486d016e7e9070800000000000000
+      internalID: 8115062533870076667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 865
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b42dc258d1676a0800000000000000
+      internalID: -6451936958341821550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 851
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e3b87294d97eb20800000000000000
+      internalID: 3163670200772673163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 873
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736bd726f065df450800000000000000
+      internalID: 6124145692370646583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 851
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc0f76a34792c420800000000000000
+      internalID: 2648845847659220169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 839
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce9f7f7b0a51c010800000000000000
+      internalID: 1207345180542213837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 841
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286d580e279e9a70800000000000000
+      internalID: 8835665742912120871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 847
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a63c6d66abc2b5c0800000000000000
+      internalID: -4201071586722433376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 851
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe9633f9272208f0800000000000000
+      internalID: -575854741222416707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 835
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf65b967ece5250800000000000000
+      internalID: 5935408367728524257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 807
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ed6662206cd1a0800000000000000
+      internalID: -6783441237863176491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 807
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09443e8b81befd320800000000000000
+      internalID: 2585043202547598480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 809
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9246bb2af1e310800000000000000
+      internalID: 1432701222128884637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 809
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71417baadd2d8270800000000000000
+      internalID: 8254304109242433919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 811
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8bbd32b59230aa0800000000000000
+      internalID: -6196063190911305515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 807
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e22501a4bbed70800000000000000
+      internalID: 9073544477936902158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 817
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb68f7c851a115e0800000000000000
+      internalID: -1940592561735832597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 813
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeafc7ee06bacd20800000000000000
+      internalID: 3299649852137254589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 809
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b192927dc4129d0800000000000000
+      internalID: -2800873006255498462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 807
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177529c7b478c440800000000000000
+      internalID: 4956339722623743766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 789
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1fea42330a8e2d0800000000000000
+      internalID: -3249170989628591650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 789
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d063e5a0daee73ed0800000000000000
+      internalID: -2434214646599764467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 783
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7802c380aa22396d0800000000000000
+      internalID: -2985004014338563961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 789
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a5389f9f77d0710800000000000000
+      internalID: 1661115753086278170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 785
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc6f62f19080d5a0800000000000000
+      internalID: -6498552897969623874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 781
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f915ed800e30ba0800000000000000
+      internalID: -6123804739599491180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 777
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b036365d218870730800000000000000
+      internalID: 3965287611393860363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 781
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c511b2b7d0e1f00800000000000000
+      internalID: 1089322982524935205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 777
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6564f2872308b8500800000000000000
+      internalID: 399553946205505110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 623
+        width: 52
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80531da2cabecc600800000000000000
+      internalID: 490025584161797384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 721
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1b70f2bb09bfe80800000000000000
+      internalID: -8143756367547092572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 735
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7be59896114390800000000000000
+      internalID: -7835957032041874564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 671
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e415a791459ae1fa0800000000000000
+      internalID: -5828034689101049522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 619
+        width: 68
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2e5dbac882d1450800000000000000
+      internalID: 6061045258154009270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 581
+        width: 94
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76065bbf145bd30800000000000000
+      internalID: 4446532756433823739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 591
+        width: 140
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd07869c1e38eded0800000000000000
+      internalID: -2387325746689838881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 589
+        width: 112
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e821b5ec53af2b960800000000000000
+      internalID: 7616425028839215758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 609
+        width: 68
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ac1c6b3b87e610800000000000000
+      internalID: 1650440875787724159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 735
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d7f978b3939250800000000000000
+      internalID: 5950261953216106632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 599
+        width: 104
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdaa593f52052070800000000000000
+      internalID: 8080867714393615860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 619
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0130cd035fbbd9da0800000000000000
+      internalID: -5936382072043338992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 665
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822f27a623f25560800000000000000
+      internalID: 7301165293260186255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 579
+        width: 88
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c523db6c2e8860800000000000000
+      internalID: 7534008068253008494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 619
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e99a51d2a1512c20800000000000000
+      internalID: 3179912571639208421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 619
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acf90e29acad26c0800000000000000
+      internalID: -4166484237625983838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 619
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eea759467a98a7e0800000000000000
+      internalID: -1753982222033506592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 591
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c2cd4a89fb3fc30800000000000000
+      internalID: 4392064723938192454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 619
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b2d63cf2810f20800000000000000
+      internalID: 3387132414522472314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 593
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72387fc995324c9f0800000000000000
+      internalID: -449195195037678809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 607
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c287e378249b3d0800000000000000
+      internalID: -3190445712379204579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 595
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8e80ef70dc0e9b0800000000000000
+      internalID: -5052813347699234653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 599
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e1609c12528b8b0800000000000000
+      internalID: -5136314547979280760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 583
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4d07e820e335de0800000000000000
+      internalID: -1345663682953030403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 585
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85c5e008a7949a0800000000000000
+      internalID: -6248328317584516868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcefd344534559c0800000000000000
+      internalID: -3939168269870568237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 585
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64c430d4dd597500800000000000000
+      internalID: 394449610979198063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 585
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b589c764edaeb70800000000000000
+      internalID: 8929193605534866288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 593
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef7185c0d87e4a0800000000000000
+      internalID: -6564122847712117231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a4578efdf9a0990800000000000000
+      internalID: -7418941652112946590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 593
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179c24b50e619a380800000000000000
+      internalID: -8959604830817302159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 585
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d541fde49597d30800000000000000
+      internalID: 4429669903780568459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 407
+        width: 98
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7255f18fb764a80800000000000000
+      internalID: -8482956542497970190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 62
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02700c0dc718f5b00800000000000000
+      internalID: 819516030282893088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 537
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba513398be8070e00800000000000000
+      internalID: 1010786449080128939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 425
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b14c4e65aebde40800000000000000
+      internalID: 5682393013784156933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 407
+        width: 84
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4f42e7e05c6b9b0800000000000000
+      internalID: -5064644064894978899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 425
+        width: 62
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b1695b20c114be0800000000000000
+      internalID: -1494882803348268235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 415
+        width: 84
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c28f92a1f9f910800000000000000
+      internalID: 1871792800912295750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 425
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f186386166e4e90800000000000000
+      internalID: -7039576920653553786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 531
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d8307a497d00c40800000000000000
+      internalID: 5476614180339682648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 535
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac4d47c1d9f09f40800000000000000
+      internalID: 5733357005029854372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 521
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571101c5d81fd2010800000000000000
+      internalID: 1165853467996066165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 401
+        width: 80
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3c34c371afe7d0800000000000000
+      internalID: -2886911317535604737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 425
+        width: 62
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af78173d1ed65af00800000000000000
+      internalID: 1127428098408679418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 533
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238fc1d917709060800000000000000
+      internalID: 6958192377065341729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 407
+        width: 82
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d692dbb1659e90800000000000000
+      internalID: -7019596984867172017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 467
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71547305ed63ce2a0800000000000000
+      internalID: -6706925416605072105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 443
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576574c0b0d9de720800000000000000
+      internalID: 2877128407735817845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 441
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85be9a13c9933430800000000000000
+      internalID: 3761519177028777358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 461
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46c65f037d101a10800000000000000
+      internalID: 1878033424629286477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 471
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98509cf11c644080800000000000000
+      internalID: -9204112913930889061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 435
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369c1bba9a277c940800000000000000
+      internalID: 5316343958189754723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 401
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bcfc56749fc8ce0800000000000000
+      internalID: -1401471298972955757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 401
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894cf3ee69f23c070800000000000000
+      internalID: 8125390477995263128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 401
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2073036f94e37e0800000000000000
+      internalID: -1783907080672443716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 401
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe3859bd7a6569a0800000000000000
+      internalID: -6240464620438929674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 409
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59d6bde301ec100800000000000000
+      internalID: 130059301395731966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 403
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b6f25a29ee05a0800000000000000
+      internalID: -6553044039787694887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 403
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e07fbecd0e494d0800000000000000
+      internalID: -3128628601659388288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 421
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6197466e7c66c31c0800000000000000
+      internalID: -4522626917036951274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 405
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39767b6bd7338dbd0800000000000000
+      internalID: -2605275769404430445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 401
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7118eb7438e540800000000000000
+      internalID: 5037333889992981837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 399
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f357ec916e7353910800000000000000
+      internalID: 1816419486128829759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669f36e39c8ae4930800000000000000
+      internalID: 4129423490633955686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 393
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de94dc2a8327e480800000000000000
+      internalID: -8870081864718311723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 405
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768a6942944971a20800000000000000
+      internalID: 3033055915924695143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 391
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291bd2009be8addf0800000000000000
+      internalID: -154654311967772270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 401
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fe618d484512470800000000000000
+      internalID: 8368062512168890135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 391
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e19f71179fb3e5c0800000000000000
+      internalID: -4187292572969889305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 393
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36baea2a92f818020800000000000000
+      internalID: 2342310690195155811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 393
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0243f200a4b029670800000000000000
+      internalID: 8543903855533831200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 391
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749812e46b858b340800000000000000
+      internalID: 4879747736274045255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 391
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46a4c2e8629dbb10800000000000000
+      internalID: 1998914788801160783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 393
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc770539e92e670800000000000000
+      internalID: 8566583796759514124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 393
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a156ce12eb0c6c80800000000000000
+      internalID: -8328268545108061787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 393
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9f0264bd28d5d0800000000000000
+      internalID: -3037627695898845703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 393
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b068712bcde4660800000000000000
+      internalID: 7372072297509030761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4600a3e06691510800000000000000
+      internalID: 1520358560502932677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 395
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1693080bb168fc0800000000000000
+      internalID: -3493074016099802637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 391
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bc86b0bf75e7580800000000000000
+      internalID: -8827521483859768534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 393
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07530b3872589b810800000000000000
+      internalID: 1781601532361323888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 341
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdfa7b7a59ef0430800000000000000
+      internalID: 3751473589450898942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 209
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7130ac41f8c0646c0800000000000000
+      internalID: -4159623397161434345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 209
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e755ce6226d0fef0800000000000000
+      internalID: -76325750289639454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d465e90fc30d930800000000000000
+      internalID: 4165896659463982438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 213
+        width: 54
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bd18fd98406c330800000000000000
+      internalID: 3730674331529894714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 333
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3879159e3b9cbabc0800000000000000
+      internalID: -3770698488441890941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 331
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c913c342a90b9f1e0800000000000000
+      internalID: -2163503969895435876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 217
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a9b0b8b6d582e10800000000000000
+      internalID: 2173089536681941584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 339
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af983fa02774740800000000000000
+      internalID: 5136199291400485481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 335
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a4dbc17cfec0160800000000000000
+      internalID: 6993227959859235442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 231
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c216f90088aa2340800000000000000
+      internalID: 4839866017439421122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 231
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1bfc95646a6fc0800000000000000
+      internalID: -3500875372738961684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855dc9b646353760800000000000000
+      internalID: 7436910037065094542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 239
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7dd1db3db5b6d00800000000000000
+      internalID: 966967509970180069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 325
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08854fee79e4613d0800000000000000
+      internalID: -3236312867763103616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 307
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c700f466c92a1f10800000000000000
+      internalID: 2241149696643958728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 245
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e454ba07253984630800000000000000
+      internalID: 3911538258658149710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 305
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66e7a6a48b530b00800000000000000
+      internalID: 793578584637171308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047045820d7e79fa0800000000000000
+      internalID: -5793907514373044416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 265
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c1cec8ef1500360800000000000000
+      internalID: 7133791963482692747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 287
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d9e6fa9ef5f010800000000000000
+      internalID: 1222162815421897206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 271
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6d3d7074ac87b0800000000000000
+      internalID: -5220617064984777313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 283
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc616e0085595b30800000000000000
+      internalID: 4276543329650437373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 269
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d80e369e4eeda250800000000000000
+      internalID: 5957679903376541913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 273
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d04bba13f56740800000000000000
+      internalID: 5144785445476947084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_227
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef420b1ef91fc45c0800000000000000
+      internalID: -4229740281019226882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_228
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 265
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac180d615297360800000000000000
+      internalID: 7167801061854530242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_229
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 277
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3888edc9010a5510800000000000000
+      internalID: 1538543364321347645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_230
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 255
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e3c12209cac7dd0800000000000000
+      internalID: -2486923159167812030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_231
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 249
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a8cb9fcc4f36b50800000000000000
+      internalID: 6585376241346185877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_232
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 243
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518530d516af9f120800000000000000
+      internalID: 2448263168531847189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_233
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 215
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85abfe18ec2f5860800000000000000
+      internalID: 7520779278195860876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_234
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 215
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae5cc58857f4c7c0800000000000000
+      internalID: -4051841805152657749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_235
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 215
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6288ffa560f81b20800000000000000
+      internalID: 3105496262606619244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_236
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 215
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a234882ee7ced0800000000000000
+      internalID: -2393682819140114261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_237
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 219
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119518737b5c19ab0800000000000000
+      internalID: -5003000320330999535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_238
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 221
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b871269e1e7026890800000000000000
+      internalID: -7466396565362305141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_239
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 203
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a8cad2409fdcee0800000000000000
+      internalID: -1239060526115550648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_240
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ed9e2aa95b988d0800000000000000
+      internalID: -2843542013944930762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_241
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 213
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857c2e4d5d103e6a0800000000000000
+      internalID: -6421286625788901544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_242
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 201
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8713b911922202500800000000000000
+      internalID: 369332729228767608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_243
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 209
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b13b98ace9a2860800000000000000
+      internalID: 7505986321697151774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_244
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd314acc408bc7d0800000000000000
+      internalID: -2897080867983639090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_245
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 201
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf846f9387696bc0800000000000000
+      internalID: -3789383796443017265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_246
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 209
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7734045b0b52ee5d0800000000000000
+      internalID: -3031444058288405641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_247
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 203
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ed91a9d3ecfab80800000000000000
+      internalID: -8381253617539490175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_248
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 201
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4435fdeff55a09570800000000000000
+      internalID: 8471452730800427844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_249
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513fa14eaa7447050800000000000000
+      internalID: 5797337419629654805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021hauntFX-Sheet_250
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 19
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ab4ee8eabf97250800000000000000
+      internalID: 5943057910432316019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241021hauntFX-Sheet_0: -9043072385521493737
+      20241021hauntFX-Sheet_1: -8785323387446443847
+      20241021hauntFX-Sheet_10: -2478656726791120903
+      20241021hauntFX-Sheet_100: 5935408367728524257
+      20241021hauntFX-Sheet_101: -6783441237863176491
+      20241021hauntFX-Sheet_102: 2585043202547598480
+      20241021hauntFX-Sheet_103: 1432701222128884637
+      20241021hauntFX-Sheet_104: 8254304109242433919
+      20241021hauntFX-Sheet_105: -6196063190911305515
+      20241021hauntFX-Sheet_106: 9073544477936902158
+      20241021hauntFX-Sheet_107: -1940592561735832597
+      20241021hauntFX-Sheet_108: 3299649852137254589
+      20241021hauntFX-Sheet_109: -2800873006255498462
+      20241021hauntFX-Sheet_11: 4864945907060897946
+      20241021hauntFX-Sheet_110: 4956339722623743766
+      20241021hauntFX-Sheet_111: -3249170989628591650
+      20241021hauntFX-Sheet_112: -2434214646599764467
+      20241021hauntFX-Sheet_113: -2985004014338563961
+      20241021hauntFX-Sheet_114: 1661115753086278170
+      20241021hauntFX-Sheet_115: -6498552897969623874
+      20241021hauntFX-Sheet_116: -6123804739599491180
+      20241021hauntFX-Sheet_117: 3965287611393860363
+      20241021hauntFX-Sheet_118: 1089322982524935205
+      20241021hauntFX-Sheet_119: 399553946205505110
+      20241021hauntFX-Sheet_12: -3701612785457901293
+      20241021hauntFX-Sheet_120: 490025584161797384
+      20241021hauntFX-Sheet_121: -8143756367547092572
+      20241021hauntFX-Sheet_122: -7835957032041874564
+      20241021hauntFX-Sheet_123: -5828034689101049522
+      20241021hauntFX-Sheet_124: 6061045258154009270
+      20241021hauntFX-Sheet_125: 4446532756433823739
+      20241021hauntFX-Sheet_126: -2387325746689838881
+      20241021hauntFX-Sheet_127: 7616425028839215758
+      20241021hauntFX-Sheet_128: 1650440875787724159
+      20241021hauntFX-Sheet_129: 5950261953216106632
+      20241021hauntFX-Sheet_13: -8041041772818761658
+      20241021hauntFX-Sheet_130: 8080867714393615860
+      20241021hauntFX-Sheet_131: -5936382072043338992
+      20241021hauntFX-Sheet_132: 7301165293260186255
+      20241021hauntFX-Sheet_133: 7534008068253008494
+      20241021hauntFX-Sheet_134: 3179912571639208421
+      20241021hauntFX-Sheet_135: -4166484237625983838
+      20241021hauntFX-Sheet_136: -1753982222033506592
+      20241021hauntFX-Sheet_137: 4392064723938192454
+      20241021hauntFX-Sheet_138: 3387132414522472314
+      20241021hauntFX-Sheet_139: -449195195037678809
+      20241021hauntFX-Sheet_14: -1120159274814514466
+      20241021hauntFX-Sheet_140: -3190445712379204579
+      20241021hauntFX-Sheet_141: -5052813347699234653
+      20241021hauntFX-Sheet_142: -5136314547979280760
+      20241021hauntFX-Sheet_143: -1345663682953030403
+      20241021hauntFX-Sheet_144: -6248328317584516868
+      20241021hauntFX-Sheet_145: -3939168269870568237
+      20241021hauntFX-Sheet_146: 394449610979198063
+      20241021hauntFX-Sheet_147: 8929193605534866288
+      20241021hauntFX-Sheet_148: -6564122847712117231
+      20241021hauntFX-Sheet_149: -7418941652112946590
+      20241021hauntFX-Sheet_15: -5615685892542680604
+      20241021hauntFX-Sheet_150: -8959604830817302159
+      20241021hauntFX-Sheet_151: 4429669903780568459
+      20241021hauntFX-Sheet_152: -8482956542497970190
+      20241021hauntFX-Sheet_153: 819516030282893088
+      20241021hauntFX-Sheet_154: 1010786449080128939
+      20241021hauntFX-Sheet_155: 5682393013784156933
+      20241021hauntFX-Sheet_156: -5064644064894978899
+      20241021hauntFX-Sheet_157: -1494882803348268235
+      20241021hauntFX-Sheet_158: 1871792800912295750
+      20241021hauntFX-Sheet_159: -7039576920653553786
+      20241021hauntFX-Sheet_16: 4545703234900386170
+      20241021hauntFX-Sheet_160: 5476614180339682648
+      20241021hauntFX-Sheet_161: 5733357005029854372
+      20241021hauntFX-Sheet_162: 1165853467996066165
+      20241021hauntFX-Sheet_163: -2886911317535604737
+      20241021hauntFX-Sheet_164: 1127428098408679418
+      20241021hauntFX-Sheet_165: 6958192377065341729
+      20241021hauntFX-Sheet_166: -7019596984867172017
+      20241021hauntFX-Sheet_167: -6706925416605072105
+      20241021hauntFX-Sheet_168: 2877128407735817845
+      20241021hauntFX-Sheet_169: 3761519177028777358
+      20241021hauntFX-Sheet_17: 517151302707072497
+      20241021hauntFX-Sheet_170: 1878033424629286477
+      20241021hauntFX-Sheet_171: -9204112913930889061
+      20241021hauntFX-Sheet_172: 5316343958189754723
+      20241021hauntFX-Sheet_173: -1401471298972955757
+      20241021hauntFX-Sheet_174: 8125390477995263128
+      20241021hauntFX-Sheet_175: -1783907080672443716
+      20241021hauntFX-Sheet_176: -6240464620438929674
+      20241021hauntFX-Sheet_177: 130059301395731966
+      20241021hauntFX-Sheet_178: -6553044039787694887
+      20241021hauntFX-Sheet_179: -3128628601659388288
+      20241021hauntFX-Sheet_18: 2826026461955330509
+      20241021hauntFX-Sheet_180: -4522626917036951274
+      20241021hauntFX-Sheet_181: -2605275769404430445
+      20241021hauntFX-Sheet_182: 5037333889992981837
+      20241021hauntFX-Sheet_183: 1816419486128829759
+      20241021hauntFX-Sheet_184: 4129423490633955686
+      20241021hauntFX-Sheet_185: -8870081864718311723
+      20241021hauntFX-Sheet_186: 3033055915924695143
+      20241021hauntFX-Sheet_187: -154654311967772270
+      20241021hauntFX-Sheet_188: 8368062512168890135
+      20241021hauntFX-Sheet_189: -4187292572969889305
+      20241021hauntFX-Sheet_19: -6458355364502051241
+      20241021hauntFX-Sheet_190: 2342310690195155811
+      20241021hauntFX-Sheet_191: 8543903855533831200
+      20241021hauntFX-Sheet_192: 4879747736274045255
+      20241021hauntFX-Sheet_193: 1998914788801160783
+      20241021hauntFX-Sheet_194: 8566583796759514124
+      20241021hauntFX-Sheet_195: -8328268545108061787
+      20241021hauntFX-Sheet_196: -3037627695898845703
+      20241021hauntFX-Sheet_197: 7372072297509030761
+      20241021hauntFX-Sheet_198: 1520358560502932677
+      20241021hauntFX-Sheet_199: -3493074016099802637
+      20241021hauntFX-Sheet_2: 5354588747435366411
+      20241021hauntFX-Sheet_20: -1759199462766902065
+      20241021hauntFX-Sheet_200: -8827521483859768534
+      20241021hauntFX-Sheet_201: 1781601532361323888
+      20241021hauntFX-Sheet_202: 3751473589450898942
+      20241021hauntFX-Sheet_203: -4159623397161434345
+      20241021hauntFX-Sheet_204: -76325750289639454
+      20241021hauntFX-Sheet_205: 4165896659463982438
+      20241021hauntFX-Sheet_206: 3730674331529894714
+      20241021hauntFX-Sheet_207: -3770698488441890941
+      20241021hauntFX-Sheet_208: -2163503969895435876
+      20241021hauntFX-Sheet_209: 2173089536681941584
+      20241021hauntFX-Sheet_21: 5549516924780423549
+      20241021hauntFX-Sheet_210: 5136199291400485481
+      20241021hauntFX-Sheet_211: 6993227959859235442
+      20241021hauntFX-Sheet_212: 4839866017439421122
+      20241021hauntFX-Sheet_213: -3500875372738961684
+      20241021hauntFX-Sheet_214: 7436910037065094542
+      20241021hauntFX-Sheet_215: 966967509970180069
+      20241021hauntFX-Sheet_216: -3236312867763103616
+      20241021hauntFX-Sheet_217: 2241149696643958728
+      20241021hauntFX-Sheet_218: 3911538258658149710
+      20241021hauntFX-Sheet_219: 793578584637171308
+      20241021hauntFX-Sheet_22: 8950016115873766505
+      20241021hauntFX-Sheet_220: -5793907514373044416
+      20241021hauntFX-Sheet_221: 7133791963482692747
+      20241021hauntFX-Sheet_222: 1222162815421897206
+      20241021hauntFX-Sheet_223: -5220617064984777313
+      20241021hauntFX-Sheet_224: 4276543329650437373
+      20241021hauntFX-Sheet_225: 5957679903376541913
+      20241021hauntFX-Sheet_226: 5144785445476947084
+      20241021hauntFX-Sheet_227: -4229740281019226882
+      20241021hauntFX-Sheet_228: 7167801061854530242
+      20241021hauntFX-Sheet_229: 1538543364321347645
+      20241021hauntFX-Sheet_23: -9170702798439561695
+      20241021hauntFX-Sheet_230: -2486923159167812030
+      20241021hauntFX-Sheet_231: 6585376241346185877
+      20241021hauntFX-Sheet_232: 2448263168531847189
+      20241021hauntFX-Sheet_233: 7520779278195860876
+      20241021hauntFX-Sheet_234: -4051841805152657749
+      20241021hauntFX-Sheet_235: 3105496262606619244
+      20241021hauntFX-Sheet_236: -2393682819140114261
+      20241021hauntFX-Sheet_237: -5003000320330999535
+      20241021hauntFX-Sheet_238: -7466396565362305141
+      20241021hauntFX-Sheet_239: -1239060526115550648
+      20241021hauntFX-Sheet_24: 5297591497876774023
+      20241021hauntFX-Sheet_240: -2843542013944930762
+      20241021hauntFX-Sheet_241: -6421286625788901544
+      20241021hauntFX-Sheet_242: 369332729228767608
+      20241021hauntFX-Sheet_243: 7505986321697151774
+      20241021hauntFX-Sheet_244: -2897080867983639090
+      20241021hauntFX-Sheet_245: -3789383796443017265
+      20241021hauntFX-Sheet_246: -3031444058288405641
+      20241021hauntFX-Sheet_247: -8381253617539490175
+      20241021hauntFX-Sheet_248: 8471452730800427844
+      20241021hauntFX-Sheet_249: 5797337419629654805
+      20241021hauntFX-Sheet_25: -3473408071510909253
+      20241021hauntFX-Sheet_250: 5943057910432316019
+      20241021hauntFX-Sheet_26: -8638187945208228528
+      20241021hauntFX-Sheet_27: -1565703590121519877
+      20241021hauntFX-Sheet_28: 3227926653009998587
+      20241021hauntFX-Sheet_29: -6823186477545989423
+      20241021hauntFX-Sheet_3: -95913608497175145
+      20241021hauntFX-Sheet_30: -5836145556989983242
+      20241021hauntFX-Sheet_31: 931514913154832445
+      20241021hauntFX-Sheet_32: -7607396941192065465
+      20241021hauntFX-Sheet_33: -7485017711529587719
+      20241021hauntFX-Sheet_34: -4589214656919026985
+      20241021hauntFX-Sheet_35: 4790244142387810241
+      20241021hauntFX-Sheet_36: -7412209945661336262
+      20241021hauntFX-Sheet_37: -1869682828289525430
+      20241021hauntFX-Sheet_38: -6004282275114669957
+      20241021hauntFX-Sheet_39: 997240446084972152
+      20241021hauntFX-Sheet_4: -7132464433012326604
+      20241021hauntFX-Sheet_40: 6476321924112480666
+      20241021hauntFX-Sheet_41: -6121728239559349974
+      20241021hauntFX-Sheet_42: 4673007622310805724
+      20241021hauntFX-Sheet_43: -5260250382329269625
+      20241021hauntFX-Sheet_44: -3695613678832944836
+      20241021hauntFX-Sheet_45: -3617771258709545775
+      20241021hauntFX-Sheet_46: 1687940352071117192
+      20241021hauntFX-Sheet_47: -7851499617755510794
+      20241021hauntFX-Sheet_48: -3961202562569932766
+      20241021hauntFX-Sheet_49: -2871808491115533816
+      20241021hauntFX-Sheet_5: -4765503340477478255
+      20241021hauntFX-Sheet_50: -5910328100421947926
+      20241021hauntFX-Sheet_51: -6447281485230274563
+      20241021hauntFX-Sheet_52: 698018767750342284
+      20241021hauntFX-Sheet_53: -6910467025004802048
+      20241021hauntFX-Sheet_54: 4833870918325063707
+      20241021hauntFX-Sheet_55: -4261737456525093474
+      20241021hauntFX-Sheet_56: 208684425606619543
+      20241021hauntFX-Sheet_57: 2600856068058909903
+      20241021hauntFX-Sheet_58: 6472910456875731378
+      20241021hauntFX-Sheet_59: -1687497114173337795
+      20241021hauntFX-Sheet_6: -6834763118073229046
+      20241021hauntFX-Sheet_60: 6459316214131101895
+      20241021hauntFX-Sheet_61: -4236490827599189910
+      20241021hauntFX-Sheet_62: -1099696943401679651
+      20241021hauntFX-Sheet_63: 5384104813758275051
+      20241021hauntFX-Sheet_64: 7787501346302096238
+      20241021hauntFX-Sheet_65: -212262414688081676
+      20241021hauntFX-Sheet_66: 5353384752616676823
+      20241021hauntFX-Sheet_67: 500343608765873357
+      20241021hauntFX-Sheet_68: 4512298190900616523
+      20241021hauntFX-Sheet_69: -4788883439311591901
+      20241021hauntFX-Sheet_7: -7130783789006848392
+      20241021hauntFX-Sheet_70: -4637879235804912465
+      20241021hauntFX-Sheet_71: -8748370597798081792
+      20241021hauntFX-Sheet_72: 8491059964280137886
+      20241021hauntFX-Sheet_73: -5791944558683373417
+      20241021hauntFX-Sheet_74: 4902389291795969446
+      20241021hauntFX-Sheet_75: -7851429381077011618
+      20241021hauntFX-Sheet_76: -7496580557624814175
+      20241021hauntFX-Sheet_77: 1752956140530313316
+      20241021hauntFX-Sheet_78: 4369323764566307928
+      20241021hauntFX-Sheet_79: -6053697800080721958
+      20241021hauntFX-Sheet_8: 4196316705182608327
+      20241021hauntFX-Sheet_80: 6545569535684297761
+      20241021hauntFX-Sheet_81: 7740652100133283308
+      20241021hauntFX-Sheet_82: -7455163653313159679
+      20241021hauntFX-Sheet_83: 5524542623721260535
+      20241021hauntFX-Sheet_84: -4685806005479271138
+      20241021hauntFX-Sheet_85: 3474313778105332576
+      20241021hauntFX-Sheet_86: 6515488102518184866
+      20241021hauntFX-Sheet_87: 5416510850904181743
+      20241021hauntFX-Sheet_88: 2083116541378712887
+      20241021hauntFX-Sheet_89: 1216671474533127819
+      20241021hauntFX-Sheet_9: -1676397784724716577
+      20241021hauntFX-Sheet_90: 474879423817261552
+      20241021hauntFX-Sheet_91: 8115062533870076667
+      20241021hauntFX-Sheet_92: -6451936958341821550
+      20241021hauntFX-Sheet_93: 3163670200772673163
+      20241021hauntFX-Sheet_94: 6124145692370646583
+      20241021hauntFX-Sheet_95: 2648845847659220169
+      20241021hauntFX-Sheet_96: 1207345180542213837
+      20241021hauntFX-Sheet_97: 8835665742912120871
+      20241021hauntFX-Sheet_98: -4201071586722433376
+      20241021hauntFX-Sheet_99: -575854741222416707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

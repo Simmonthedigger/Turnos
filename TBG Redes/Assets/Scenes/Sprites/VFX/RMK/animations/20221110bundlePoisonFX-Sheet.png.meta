@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: deea3fe9994f8b8408f3836659008628
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7408643097319447886
+    second: 20221110bundlePoisonFX-Sheet_0
+  - first:
+      213: 993354826759604909
+    second: 20221110bundlePoisonFX-Sheet_1
+  - first:
+      213: 3532365332475158764
+    second: 20221110bundlePoisonFX-Sheet_2
+  - first:
+      213: -5232761242454515868
+    second: 20221110bundlePoisonFX-Sheet_3
+  - first:
+      213: 3633914443503572815
+    second: 20221110bundlePoisonFX-Sheet_4
+  - first:
+      213: 5054507974981076698
+    second: 20221110bundlePoisonFX-Sheet_5
+  - first:
+      213: 5704421362458245389
+    second: 20221110bundlePoisonFX-Sheet_6
+  - first:
+      213: 4667052897952555225
+    second: 20221110bundlePoisonFX-Sheet_7
+  - first:
+      213: 8284758243948548023
+    second: 20221110bundlePoisonFX-Sheet_8
+  - first:
+      213: 6996036090456521086
+    second: 20221110bundlePoisonFX-Sheet_9
+  - first:
+      213: 324364390748094689
+    second: 20221110bundlePoisonFX-Sheet_10
+  - first:
+      213: -2076815641534851701
+    second: 20221110bundlePoisonFX-Sheet_11
+  - first:
+      213: -4546599246797006499
+    second: 20221110bundlePoisonFX-Sheet_12
+  - first:
+      213: 1417833999365109016
+    second: 20221110bundlePoisonFX-Sheet_13
+  - first:
+      213: -297526291390561619
+    second: 20221110bundlePoisonFX-Sheet_14
+  - first:
+      213: 2874531001909716063
+    second: 20221110bundlePoisonFX-Sheet_15
+  - first:
+      213: -3367861640532436487
+    second: 20221110bundlePoisonFX-Sheet_16
+  - first:
+      213: -6290517501037391966
+    second: 20221110bundlePoisonFX-Sheet_17
+  - first:
+      213: -7454120060930346599
+    second: 20221110bundlePoisonFX-Sheet_18
+  - first:
+      213: -1302496406124442527
+    second: 20221110bundlePoisonFX-Sheet_19
+  - first:
+      213: -4863587772750000341
+    second: 20221110bundlePoisonFX-Sheet_20
+  - first:
+      213: 8525226853316749707
+    second: 20221110bundlePoisonFX-Sheet_21
+  - first:
+      213: 8123185757341186799
+    second: 20221110bundlePoisonFX-Sheet_22
+  - first:
+      213: 1945944871896471240
+    second: 20221110bundlePoisonFX-Sheet_23
+  - first:
+      213: 3299399849026556147
+    second: 20221110bundlePoisonFX-Sheet_24
+  - first:
+      213: -3810157517794020868
+    second: 20221110bundlePoisonFX-Sheet_25
+  - first:
+      213: -6937464366563983044
+    second: 20221110bundlePoisonFX-Sheet_26
+  - first:
+      213: -839291420668744472
+    second: 20221110bundlePoisonFX-Sheet_27
+  - first:
+      213: -9157517593600098583
+    second: 20221110bundlePoisonFX-Sheet_28
+  - first:
+      213: 7044920410257276896
+    second: 20221110bundlePoisonFX-Sheet_29
+  - first:
+      213: -8293631760090664149
+    second: 20221110bundlePoisonFX-Sheet_30
+  - first:
+      213: 3560870284117766457
+    second: 20221110bundlePoisonFX-Sheet_31
+  - first:
+      213: 6950018992074839572
+    second: 20221110bundlePoisonFX-Sheet_32
+  - first:
+      213: 4992997130096388926
+    second: 20221110bundlePoisonFX-Sheet_33
+  - first:
+      213: -9024763539557803033
+    second: 20221110bundlePoisonFX-Sheet_34
+  - first:
+      213: -17143619923495942
+    second: 20221110bundlePoisonFX-Sheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 454
+        width: 32
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d1063f4a9c0d660800000000000000
+      internalID: 7408643097319447886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 626
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0de0b3fa19cd00800000000000000
+      internalID: 993354826759604909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 630
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0261bfd8b750130800000000000000
+      internalID: 3532365332475158764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 638
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f1115df5f7167b0800000000000000
+      internalID: -5232761242454515868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 616
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47113ddee14e6230800000000000000
+      internalID: 3633914443503572815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 484
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6402b2938352640800000000000000
+      internalID: 5054507974981076698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 518
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09397e710d2a2f40800000000000000
+      internalID: 5704421362458245389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 458
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d06b6232e3b4c040800000000000000
+      internalID: 4667052897952555225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 452
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfca847abf59f270800000000000000
+      internalID: 8284758243948548023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 438
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793977f1c9e61160800000000000000
+      internalID: 6996036090456521086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 428
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e08350e1bf508400800000000000000
+      internalID: 324364390748094689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85175e6d2bad23e0800000000000000
+      internalID: -2076815641534851701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 450
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d591b9ee21c37e0c0800000000000000
+      internalID: -4546599246797006499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 446
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815f0aaa2882da310800000000000000
+      internalID: 1417833999365109016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 424
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da283521a69fedbf0800000000000000
+      internalID: -297526291390561619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 428
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f542da067b264e720800000000000000
+      internalID: 2874531001909716063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 428
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9566f7ea3f241d0800000000000000
+      internalID: -3367861640532436487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 336
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afc94159a793b8a0800000000000000
+      internalID: -6290517501037391966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 330
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99132275c45ad8890800000000000000
+      internalID: -7454120060930346599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 284
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ccab76b6a9cede0800000000000000
+      internalID: -1302496406124442527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 318
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f8d4760b0118cb0800000000000000
+      internalID: -4863587772750000341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89e09d87a0bf4670800000000000000
+      internalID: 8525226853316749707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 248
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea75d6686a5bb070800000000000000
+      internalID: 8123185757341186799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 252
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d1e90d82610b10800000000000000
+      internalID: 1945944871896471240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 252
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f094358ea2d9cd20800000000000000
+      internalID: 3299399849026556147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 252
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf17a95bce99f1bc0800000000000000
+      internalID: -3810157517794020868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 256
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3106053aec29bf90800000000000000
+      internalID: -6937464366563983044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 260
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eca10056ec3a54f0800000000000000
+      internalID: -839291420668744472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee73196446f9e080800000000000000
+      internalID: -9157517593600098583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 250
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb84c99c594c160800000000000000
+      internalID: 7044920410257276896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 128
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f5e11bd917ec80800000000000000
+      internalID: -8293631760090664149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 142
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931751838a0ca6130800000000000000
+      internalID: 3560870284117766457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 62
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d6d4537d637060800000000000000
+      internalID: 6950018992074839572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 94
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ba0ff8f60ba4540800000000000000
+      internalID: 4992997130096388926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb92c2406991c280800000000000000
+      internalID: -9024763539557803033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundlePoisonFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 60
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3bb40f7f713cff0800000000000000
+      internalID: -17143619923495942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundlePoisonFX-Sheet_0: 7408643097319447886
+      20221110bundlePoisonFX-Sheet_1: 993354826759604909
+      20221110bundlePoisonFX-Sheet_10: 324364390748094689
+      20221110bundlePoisonFX-Sheet_11: -2076815641534851701
+      20221110bundlePoisonFX-Sheet_12: -4546599246797006499
+      20221110bundlePoisonFX-Sheet_13: 1417833999365109016
+      20221110bundlePoisonFX-Sheet_14: -297526291390561619
+      20221110bundlePoisonFX-Sheet_15: 2874531001909716063
+      20221110bundlePoisonFX-Sheet_16: -3367861640532436487
+      20221110bundlePoisonFX-Sheet_17: -6290517501037391966
+      20221110bundlePoisonFX-Sheet_18: -7454120060930346599
+      20221110bundlePoisonFX-Sheet_19: -1302496406124442527
+      20221110bundlePoisonFX-Sheet_2: 3532365332475158764
+      20221110bundlePoisonFX-Sheet_20: -4863587772750000341
+      20221110bundlePoisonFX-Sheet_21: 8525226853316749707
+      20221110bundlePoisonFX-Sheet_22: 8123185757341186799
+      20221110bundlePoisonFX-Sheet_23: 1945944871896471240
+      20221110bundlePoisonFX-Sheet_24: 3299399849026556147
+      20221110bundlePoisonFX-Sheet_25: -3810157517794020868
+      20221110bundlePoisonFX-Sheet_26: -6937464366563983044
+      20221110bundlePoisonFX-Sheet_27: -839291420668744472
+      20221110bundlePoisonFX-Sheet_28: -9157517593600098583
+      20221110bundlePoisonFX-Sheet_29: 7044920410257276896
+      20221110bundlePoisonFX-Sheet_3: -5232761242454515868
+      20221110bundlePoisonFX-Sheet_30: -8293631760090664149
+      20221110bundlePoisonFX-Sheet_31: 3560870284117766457
+      20221110bundlePoisonFX-Sheet_32: 6950018992074839572
+      20221110bundlePoisonFX-Sheet_33: 4992997130096388926
+      20221110bundlePoisonFX-Sheet_34: -9024763539557803033
+      20221110bundlePoisonFX-Sheet_35: -17143619923495942
+      20221110bundlePoisonFX-Sheet_4: 3633914443503572815
+      20221110bundlePoisonFX-Sheet_5: 5054507974981076698
+      20221110bundlePoisonFX-Sheet_6: 5704421362458245389
+      20221110bundlePoisonFX-Sheet_7: 4667052897952555225
+      20221110bundlePoisonFX-Sheet_8: 8284758243948548023
+      20221110bundlePoisonFX-Sheet_9: 6996036090456521086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

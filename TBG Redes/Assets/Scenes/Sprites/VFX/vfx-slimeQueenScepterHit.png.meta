@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: c8580e6ff3ca791459e9c13b940e068a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4574241080584876308
+    second: vfx-slimeQueenScepterHit_0
+  - first:
+      213: 5541692084445169630
+    second: vfx-slimeQueenScepterHit_1
+  - first:
+      213: 1875533019512318668
+    second: vfx-slimeQueenScepterHit_2
+  - first:
+      213: -5231282599389396387
+    second: vfx-slimeQueenScepterHit_3
+  - first:
+      213: -8656064778962703048
+    second: vfx-slimeQueenScepterHit_4
+  - first:
+      213: -1255466469229326503
+    second: vfx-slimeQueenScepterHit_5
+  - first:
+      213: 4700278638931399764
+    second: vfx-slimeQueenScepterHit_6
+  - first:
+      213: -8603068151293814044
+    second: vfx-slimeQueenScepterHit_7
+  - first:
+      213: 2262565195490368614
+    second: vfx-slimeQueenScepterHit_8
+  - first:
+      213: 6489084569414601205
+    second: vfx-slimeQueenScepterHit_9
+  - first:
+      213: 1799073549158122591
+    second: vfx-slimeQueenScepterHit_10
+  - first:
+      213: -1077096548028958084
+    second: vfx-slimeQueenScepterHit_11
+  - first:
+      213: -8929607435994612685
+    second: vfx-slimeQueenScepterHit_12
+  - first:
+      213: -4869198211436451504
+    second: vfx-slimeQueenScepterHit_13
+  - first:
+      213: 3264031982512738892
+    second: vfx-slimeQueenScepterHit_14
+  - first:
+      213: 746139602602460894
+    second: vfx-slimeQueenScepterHit_15
+  - first:
+      213: -6545493255483732321
+    second: vfx-slimeQueenScepterHit_16
+  - first:
+      213: -3240116211911113946
+    second: vfx-slimeQueenScepterHit_17
+  - first:
+      213: -8430004862878331701
+    second: vfx-slimeQueenScepterHit_18
+  - first:
+      213: -1527327168963005183
+    second: vfx-slimeQueenScepterHit_19
+  - first:
+      213: 7717822342352558287
+    second: vfx-slimeQueenScepterHit_20
+  - first:
+      213: -7640044982556171976
+    second: vfx-slimeQueenScepterHit_21
+  - first:
+      213: -5445742633644457948
+    second: vfx-slimeQueenScepterHit_22
+  - first:
+      213: -3638218537382815175
+    second: vfx-slimeQueenScepterHit_23
+  - first:
+      213: -7622230660251854534
+    second: vfx-slimeQueenScepterHit_24
+  - first:
+      213: 800718641506440329
+    second: vfx-slimeQueenScepterHit_25
+  - first:
+      213: -4112411986984143870
+    second: vfx-slimeQueenScepterHit_26
+  - first:
+      213: 4688242274017590529
+    second: vfx-slimeQueenScepterHit_27
+  - first:
+      213: 7187831019547173194
+    second: vfx-slimeQueenScepterHit_28
+  - first:
+      213: 7450482550979636949
+    second: vfx-slimeQueenScepterHit_29
+  - first:
+      213: 6692229658387621742
+    second: vfx-slimeQueenScepterHit_30
+  - first:
+      213: -5693734157464230900
+    second: vfx-slimeQueenScepterHit_31
+  - first:
+      213: 6662338990877388564
+    second: vfx-slimeQueenScepterHit_32
+  - first:
+      213: 3019414723548286615
+    second: vfx-slimeQueenScepterHit_33
+  - first:
+      213: 1224360794891028099
+    second: vfx-slimeQueenScepterHit_34
+  - first:
+      213: -4974771018348847110
+    second: vfx-slimeQueenScepterHit_35
+  - first:
+      213: 7323189235064425050
+    second: vfx-slimeQueenScepterHit_36
+  - first:
+      213: 6007272891906858420
+    second: vfx-slimeQueenScepterHit_37
+  - first:
+      213: 5293128882419341498
+    second: vfx-slimeQueenScepterHit_38
+  - first:
+      213: 4257312784377729492
+    second: vfx-slimeQueenScepterHit_39
+  - first:
+      213: -1449330348574853995
+    second: vfx-slimeQueenScepterHit_40
+  - first:
+      213: -224728492121275283
+    second: vfx-slimeQueenScepterHit_41
+  - first:
+      213: 1920568301581211606
+    second: vfx-slimeQueenScepterHit_42
+  - first:
+      213: -685272272603011135
+    second: vfx-slimeQueenScepterHit_43
+  - first:
+      213: 7983098834177651119
+    second: vfx-slimeQueenScepterHit_44
+  - first:
+      213: -89430449153588637
+    second: vfx-slimeQueenScepterHit_45
+  - first:
+      213: -7054393999976189710
+    second: vfx-slimeQueenScepterHit_46
+  - first:
+      213: -8878738830166944689
+    second: vfx-slimeQueenScepterHit_47
+  - first:
+      213: 4791640381326622035
+    second: vfx-slimeQueenScepterHit_48
+  - first:
+      213: 4055732110568483610
+    second: vfx-slimeQueenScepterHit_49
+  - first:
+      213: -7157723784553756606
+    second: vfx-slimeQueenScepterHit_50
+  - first:
+      213: 7732664281296367145
+    second: vfx-slimeQueenScepterHit_51
+  - first:
+      213: 3735567267321977298
+    second: vfx-slimeQueenScepterHit_52
+  - first:
+      213: -3932561509485414653
+    second: vfx-slimeQueenScepterHit_53
+  - first:
+      213: -2476552496763711817
+    second: vfx-slimeQueenScepterHit_54
+  - first:
+      213: -990594758115903767
+    second: vfx-slimeQueenScepterHit_55
+  - first:
+      213: 3018205674966377157
+    second: vfx-slimeQueenScepterHit_56
+  - first:
+      213: 4179849959432549753
+    second: vfx-slimeQueenScepterHit_57
+  - first:
+      213: 4471591073331870249
+    second: vfx-slimeQueenScepterHit_58
+  - first:
+      213: -7611492978770603159
+    second: vfx-slimeQueenScepterHit_59
+  - first:
+      213: -8327605820978037011
+    second: vfx-slimeQueenScepterHit_60
+  - first:
+      213: -8440330763859201521
+    second: vfx-slimeQueenScepterHit_61
+  - first:
+      213: 4840911905704618067
+    second: vfx-slimeQueenScepterHit_62
+  - first:
+      213: -4547086301201759061
+    second: vfx-slimeQueenScepterHit_63
+  - first:
+      213: 3406045028768301759
+    second: vfx-slimeQueenScepterHit_64
+  - first:
+      213: -153560958098734746
+    second: vfx-slimeQueenScepterHit_65
+  - first:
+      213: -7332500035701872653
+    second: vfx-slimeQueenScepterHit_66
+  - first:
+      213: 7624730406538637938
+    second: vfx-slimeQueenScepterHit_67
+  - first:
+      213: -2712210689677283688
+    second: vfx-slimeQueenScepterHit_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b2450708fa7f30800000000000000
+      internalID: 4574241080584876308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 558
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7c2f3f69b08ec40800000000000000
+      internalID: 5541692084445169630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 552
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca2c80285b370a10800000000000000
+      internalID: 1875533019512318668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 423
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5286bf3130c667b0800000000000000
+      internalID: -5231282599389396387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 423
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d682102fa7fd780800000000000000
+      internalID: -8656064778962703048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 432
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f0c22e5efa39ee0800000000000000
+      internalID: -1255466469229326503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 463
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454dcdad48eba3140800000000000000
+      internalID: 4700278638931399764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 460
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ead7afe813cb9880800000000000000
+      internalID: -8603068151293814044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 433
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c9d56ce0f366f10800000000000000
+      internalID: 2262565195490368614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 432
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f90d65090cdd0a50800000000000000
+      internalID: 6489084569414601205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 462
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540f5e6cd797f810800000000000000
+      internalID: 1799073549158122591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 421
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a3fe175626d01f0800000000000000
+      internalID: -1077096548028958084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 420
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cbad91959a31480800000000000000
+      internalID: -8929607435994612685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 420
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059ec5a56022d6cb0800000000000000
+      internalID: -4869198211436451504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 424
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c429f256bcb2c4d20800000000000000
+      internalID: 3264031982512738892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_15
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 419
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed688fde302da5a00800000000000000
+      internalID: 746139602602460894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 425
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e4d2b409cb925a0800000000000000
+      internalID: -6545493255483732321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 338
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623cd0ed87bc803d0800000000000000
+      internalID: -3240116211911113946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 340
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc4255cd3b920b80800000000000000
+      internalID: -8430004862878331701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 330
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105382e2808ddcae0800000000000000
+      internalID: -1527327168963005183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc85f7397863b1b60800000000000000
+      internalID: 7717822342352558287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 335
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831ebba219b19f590800000000000000
+      internalID: -7640044982556171976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 344
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4200c6f6de5dc64b0800000000000000
+      internalID: -5445742633644457948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 305
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a5e003483728dc0800000000000000
+      internalID: -3638218537382815175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 330
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39d89b4995683690800000000000000
+      internalID: -7622230660251854534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 298
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9845600bc59bc1b00800000000000000
+      internalID: 800718641506440329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 293
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20470c91617cde6c0800000000000000
+      internalID: -4112411986984143870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 330
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10db9c3428bff0140800000000000000
+      internalID: 4688242274017590529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 305
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a4a1ca3e40c360800000000000000
+      internalID: 7187831019547173194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de2360e76e656760800000000000000
+      internalID: 7450482550979636949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 319
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e672787da639fdc50800000000000000
+      internalID: 6692229658387621742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 330
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0426d253facbf0b0800000000000000
+      internalID: -5693734157464230900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 320
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f2b7c7302657c50800000000000000
+      internalID: 6662338990877388564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 319
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e0eaa81bd17e920800000000000000
+      internalID: 3019414723548286615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 330
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3860560f7adcdf010800000000000000
+      internalID: 1224360794891028099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 320
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff9864cd1016fab0800000000000000
+      internalID: -4974771018348847110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 305
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5acaf23fc131a560800000000000000
+      internalID: 7323189235064425050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 307
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd11f60ede1e5350800000000000000
+      internalID: 6007272891906858420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab817f2aca8f47940800000000000000
+      internalID: 5293128882419341498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 306
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15092db63051b30800000000000000
+      internalID: 4257312784377729492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 307
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594b0031ab1f2ebe0800000000000000
+      internalID: -1449330348574853995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 304
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c33880aa91ecf0800000000000000
+      internalID: -224728492121275283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79f96d1ba37aa10800000000000000
+      internalID: 1920568301581211606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a211bf7c6d76f0800000000000000
+      internalID: -685272272603011135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_44
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 291
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17ef9e71aa9ce60800000000000000
+      internalID: 7983098834177651119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 218
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362c816fa7742cef0800000000000000
+      internalID: -89430449153588637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 220
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0b5c56802c91e90800000000000000
+      internalID: -7054393999976189710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 225
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f449e66531268c480800000000000000
+      internalID: -8878738830166944689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 229
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35df3642a835f7240800000000000000
+      internalID: 4791640381326622035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 211
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b649acddad84830800000000000000
+      internalID: 4055732110568483610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 201
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2480f452428aaac90800000000000000
+      internalID: -7157723784553756606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 205
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6506c131ff4b60800000000000000
+      internalID: 7732664281296367145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 195
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d99d4343a667d330800000000000000
+      internalID: 3735567267321977298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3077fb9842cbc69c0800000000000000
+      internalID: -3932561509485414653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 178
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7becac220a481add0800000000000000
+      internalID: -2476552496763711817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6332ed053b042f0800000000000000
+      internalID: -990594758115903767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2607bf112d2e920800000000000000
+      internalID: 3018205674966377157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_57
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975786e646fc10a30800000000000000
+      internalID: 4179849959432549753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 178
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af0c2c3684e0e30800000000000000
+      internalID: 4471591073331870249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639ff5967b8e5690800000000000000
+      internalID: -7611492978770603159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 178
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef02b90a66e6c80800000000000000
+      internalID: -8327605820978037011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 193
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02fe5993ebedda80800000000000000
+      internalID: -8440330763859201521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 68
+        width: 10
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ab70eabf5e2340800000000000000
+      internalID: 4840911905704618067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 179
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba403ddb91185e0c0800000000000000
+      internalID: -4547086301201759061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 193
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb248bc58e3b44f20800000000000000
+      internalID: 3406045028768301759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_65
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 180
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66108294f117eddf0800000000000000
+      internalID: -153560958098734746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_66
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f76378111abd3a90800000000000000
+      internalID: -7332500035701872653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_67
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 52
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272fadd38eb70d960800000000000000
+      internalID: 7624730406538637938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-slimeQueenScepterHit_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ea4c56fba4c5ad0800000000000000
+      internalID: -2712210689677283688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-slimeQueenScepterHit_0: 4574241080584876308
+      vfx-slimeQueenScepterHit_1: 5541692084445169630
+      vfx-slimeQueenScepterHit_10: 1799073549158122591
+      vfx-slimeQueenScepterHit_11: -1077096548028958084
+      vfx-slimeQueenScepterHit_12: -8929607435994612685
+      vfx-slimeQueenScepterHit_13: -4869198211436451504
+      vfx-slimeQueenScepterHit_14: 3264031982512738892
+      vfx-slimeQueenScepterHit_15: 746139602602460894
+      vfx-slimeQueenScepterHit_16: -6545493255483732321
+      vfx-slimeQueenScepterHit_17: -3240116211911113946
+      vfx-slimeQueenScepterHit_18: -8430004862878331701
+      vfx-slimeQueenScepterHit_19: -1527327168963005183
+      vfx-slimeQueenScepterHit_2: 1875533019512318668
+      vfx-slimeQueenScepterHit_20: 7717822342352558287
+      vfx-slimeQueenScepterHit_21: -7640044982556171976
+      vfx-slimeQueenScepterHit_22: -5445742633644457948
+      vfx-slimeQueenScepterHit_23: -3638218537382815175
+      vfx-slimeQueenScepterHit_24: -7622230660251854534
+      vfx-slimeQueenScepterHit_25: 800718641506440329
+      vfx-slimeQueenScepterHit_26: -4112411986984143870
+      vfx-slimeQueenScepterHit_27: 4688242274017590529
+      vfx-slimeQueenScepterHit_28: 7187831019547173194
+      vfx-slimeQueenScepterHit_29: 7450482550979636949
+      vfx-slimeQueenScepterHit_3: -5231282599389396387
+      vfx-slimeQueenScepterHit_30: 6692229658387621742
+      vfx-slimeQueenScepterHit_31: -5693734157464230900
+      vfx-slimeQueenScepterHit_32: 6662338990877388564
+      vfx-slimeQueenScepterHit_33: 3019414723548286615
+      vfx-slimeQueenScepterHit_34: 1224360794891028099
+      vfx-slimeQueenScepterHit_35: -4974771018348847110
+      vfx-slimeQueenScepterHit_36: 7323189235064425050
+      vfx-slimeQueenScepterHit_37: 6007272891906858420
+      vfx-slimeQueenScepterHit_38: 5293128882419341498
+      vfx-slimeQueenScepterHit_39: 4257312784377729492
+      vfx-slimeQueenScepterHit_4: -8656064778962703048
+      vfx-slimeQueenScepterHit_40: -1449330348574853995
+      vfx-slimeQueenScepterHit_41: -224728492121275283
+      vfx-slimeQueenScepterHit_42: 1920568301581211606
+      vfx-slimeQueenScepterHit_43: -685272272603011135
+      vfx-slimeQueenScepterHit_44: 7983098834177651119
+      vfx-slimeQueenScepterHit_45: -89430449153588637
+      vfx-slimeQueenScepterHit_46: -7054393999976189710
+      vfx-slimeQueenScepterHit_47: -8878738830166944689
+      vfx-slimeQueenScepterHit_48: 4791640381326622035
+      vfx-slimeQueenScepterHit_49: 4055732110568483610
+      vfx-slimeQueenScepterHit_5: -1255466469229326503
+      vfx-slimeQueenScepterHit_50: -7157723784553756606
+      vfx-slimeQueenScepterHit_51: 7732664281296367145
+      vfx-slimeQueenScepterHit_52: 3735567267321977298
+      vfx-slimeQueenScepterHit_53: -3932561509485414653
+      vfx-slimeQueenScepterHit_54: -2476552496763711817
+      vfx-slimeQueenScepterHit_55: -990594758115903767
+      vfx-slimeQueenScepterHit_56: 3018205674966377157
+      vfx-slimeQueenScepterHit_57: 4179849959432549753
+      vfx-slimeQueenScepterHit_58: 4471591073331870249
+      vfx-slimeQueenScepterHit_59: -7611492978770603159
+      vfx-slimeQueenScepterHit_6: 4700278638931399764
+      vfx-slimeQueenScepterHit_60: -8327605820978037011
+      vfx-slimeQueenScepterHit_61: -8440330763859201521
+      vfx-slimeQueenScepterHit_62: 4840911905704618067
+      vfx-slimeQueenScepterHit_63: -4547086301201759061
+      vfx-slimeQueenScepterHit_64: 3406045028768301759
+      vfx-slimeQueenScepterHit_65: -153560958098734746
+      vfx-slimeQueenScepterHit_66: -7332500035701872653
+      vfx-slimeQueenScepterHit_67: 7624730406538637938
+      vfx-slimeQueenScepterHit_68: -2712210689677283688
+      vfx-slimeQueenScepterHit_7: -8603068151293814044
+      vfx-slimeQueenScepterHit_8: 2262565195490368614
+      vfx-slimeQueenScepterHit_9: 6489084569414601205
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

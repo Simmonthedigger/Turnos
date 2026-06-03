@@ -1,0 +1,6422 @@
+fileFormatVersion: 2
+guid: e20be82f38b929640bce6bd9325d1c03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7278585881068900636
+    second: 20250314darkNovaFX-Sheet_0
+  - first:
+      213: 5760370784187355074
+    second: 20250314darkNovaFX-Sheet_1
+  - first:
+      213: -1445973034323462797
+    second: 20250314darkNovaFX-Sheet_2
+  - first:
+      213: -9105324102987319216
+    second: 20250314darkNovaFX-Sheet_3
+  - first:
+      213: 8069319047488608210
+    second: 20250314darkNovaFX-Sheet_4
+  - first:
+      213: -8937957363678344849
+    second: 20250314darkNovaFX-Sheet_5
+  - first:
+      213: -2940712913714907386
+    second: 20250314darkNovaFX-Sheet_6
+  - first:
+      213: 4827753989746114998
+    second: 20250314darkNovaFX-Sheet_7
+  - first:
+      213: 2679944433530678895
+    second: 20250314darkNovaFX-Sheet_8
+  - first:
+      213: 1493434745591830531
+    second: 20250314darkNovaFX-Sheet_9
+  - first:
+      213: -4937612842549510465
+    second: 20250314darkNovaFX-Sheet_10
+  - first:
+      213: -45719234679749221
+    second: 20250314darkNovaFX-Sheet_11
+  - first:
+      213: 3488465265316837282
+    second: 20250314darkNovaFX-Sheet_12
+  - first:
+      213: 4821672086949732571
+    second: 20250314darkNovaFX-Sheet_13
+  - first:
+      213: 2470906923524740985
+    second: 20250314darkNovaFX-Sheet_14
+  - first:
+      213: 8163505723199195502
+    second: 20250314darkNovaFX-Sheet_15
+  - first:
+      213: 3043492388234643678
+    second: 20250314darkNovaFX-Sheet_16
+  - first:
+      213: 4423457423146212355
+    second: 20250314darkNovaFX-Sheet_17
+  - first:
+      213: -6080883403272443312
+    second: 20250314darkNovaFX-Sheet_18
+  - first:
+      213: 4470950031723999581
+    second: 20250314darkNovaFX-Sheet_19
+  - first:
+      213: 4270009662487574393
+    second: 20250314darkNovaFX-Sheet_20
+  - first:
+      213: 3726070651796662715
+    second: 20250314darkNovaFX-Sheet_21
+  - first:
+      213: 688202575267743082
+    second: 20250314darkNovaFX-Sheet_22
+  - first:
+      213: 4642960632796718115
+    second: 20250314darkNovaFX-Sheet_23
+  - first:
+      213: -5237505837935512735
+    second: 20250314darkNovaFX-Sheet_24
+  - first:
+      213: 5700677329118500205
+    second: 20250314darkNovaFX-Sheet_25
+  - first:
+      213: -2190162811725544847
+    second: 20250314darkNovaFX-Sheet_26
+  - first:
+      213: 1973372900240454853
+    second: 20250314darkNovaFX-Sheet_27
+  - first:
+      213: -2682294364472207910
+    second: 20250314darkNovaFX-Sheet_28
+  - first:
+      213: 7592583894139167141
+    second: 20250314darkNovaFX-Sheet_29
+  - first:
+      213: -1956301176270479434
+    second: 20250314darkNovaFX-Sheet_30
+  - first:
+      213: 3647220713471768096
+    second: 20250314darkNovaFX-Sheet_31
+  - first:
+      213: -8950284447063796031
+    second: 20250314darkNovaFX-Sheet_32
+  - first:
+      213: -3166314244432650676
+    second: 20250314darkNovaFX-Sheet_33
+  - first:
+      213: -2784487524253843919
+    second: 20250314darkNovaFX-Sheet_34
+  - first:
+      213: -7763368809384539315
+    second: 20250314darkNovaFX-Sheet_35
+  - first:
+      213: -6219440035693604257
+    second: 20250314darkNovaFX-Sheet_36
+  - first:
+      213: 5298872416645843628
+    second: 20250314darkNovaFX-Sheet_37
+  - first:
+      213: 5665742246155241107
+    second: 20250314darkNovaFX-Sheet_38
+  - first:
+      213: 8758273858855420722
+    second: 20250314darkNovaFX-Sheet_39
+  - first:
+      213: -6146498717413080379
+    second: 20250314darkNovaFX-Sheet_40
+  - first:
+      213: 7461349248653009761
+    second: 20250314darkNovaFX-Sheet_41
+  - first:
+      213: -3224760764487700902
+    second: 20250314darkNovaFX-Sheet_42
+  - first:
+      213: 205505481329129295
+    second: 20250314darkNovaFX-Sheet_43
+  - first:
+      213: -4088124945868767770
+    second: 20250314darkNovaFX-Sheet_44
+  - first:
+      213: 116150101829336014
+    second: 20250314darkNovaFX-Sheet_45
+  - first:
+      213: 4077449342725491430
+    second: 20250314darkNovaFX-Sheet_46
+  - first:
+      213: -7894022379729890721
+    second: 20250314darkNovaFX-Sheet_47
+  - first:
+      213: 8354124976930172110
+    second: 20250314darkNovaFX-Sheet_48
+  - first:
+      213: -4190373877234097157
+    second: 20250314darkNovaFX-Sheet_49
+  - first:
+      213: -6247762764172709559
+    second: 20250314darkNovaFX-Sheet_50
+  - first:
+      213: -6584417428630136098
+    second: 20250314darkNovaFX-Sheet_51
+  - first:
+      213: 4931615684121415958
+    second: 20250314darkNovaFX-Sheet_52
+  - first:
+      213: -83102592472940461
+    second: 20250314darkNovaFX-Sheet_53
+  - first:
+      213: -2847219239231630361
+    second: 20250314darkNovaFX-Sheet_54
+  - first:
+      213: 201318347691937667
+    second: 20250314darkNovaFX-Sheet_55
+  - first:
+      213: 8213951555233801997
+    second: 20250314darkNovaFX-Sheet_56
+  - first:
+      213: -3548676709748694860
+    second: 20250314darkNovaFX-Sheet_57
+  - first:
+      213: -6360155222900559910
+    second: 20250314darkNovaFX-Sheet_58
+  - first:
+      213: 8330705285253950123
+    second: 20250314darkNovaFX-Sheet_59
+  - first:
+      213: 1248879049482542269
+    second: 20250314darkNovaFX-Sheet_60
+  - first:
+      213: 770765530632540294
+    second: 20250314darkNovaFX-Sheet_61
+  - first:
+      213: 2784058576188095161
+    second: 20250314darkNovaFX-Sheet_62
+  - first:
+      213: 1978282124429099655
+    second: 20250314darkNovaFX-Sheet_63
+  - first:
+      213: -6884640455755974438
+    second: 20250314darkNovaFX-Sheet_64
+  - first:
+      213: -2134309259398183587
+    second: 20250314darkNovaFX-Sheet_65
+  - first:
+      213: -2766596287257256890
+    second: 20250314darkNovaFX-Sheet_66
+  - first:
+      213: 6093532271058378435
+    second: 20250314darkNovaFX-Sheet_67
+  - first:
+      213: 6184513249202005325
+    second: 20250314darkNovaFX-Sheet_68
+  - first:
+      213: 5837360966940268632
+    second: 20250314darkNovaFX-Sheet_69
+  - first:
+      213: -3212956181534643587
+    second: 20250314darkNovaFX-Sheet_70
+  - first:
+      213: 5016410739644701780
+    second: 20250314darkNovaFX-Sheet_71
+  - first:
+      213: 793677749297094311
+    second: 20250314darkNovaFX-Sheet_72
+  - first:
+      213: 846167347786532728
+    second: 20250314darkNovaFX-Sheet_73
+  - first:
+      213: -3852242229052601535
+    second: 20250314darkNovaFX-Sheet_74
+  - first:
+      213: -7461337546575349573
+    second: 20250314darkNovaFX-Sheet_75
+  - first:
+      213: -2793403797801885007
+    second: 20250314darkNovaFX-Sheet_76
+  - first:
+      213: 5423721584048288464
+    second: 20250314darkNovaFX-Sheet_77
+  - first:
+      213: -3715239674927308213
+    second: 20250314darkNovaFX-Sheet_78
+  - first:
+      213: 8405595830461311514
+    second: 20250314darkNovaFX-Sheet_79
+  - first:
+      213: -4726453258664335818
+    second: 20250314darkNovaFX-Sheet_80
+  - first:
+      213: -6168351007204539747
+    second: 20250314darkNovaFX-Sheet_81
+  - first:
+      213: -7339918435040223598
+    second: 20250314darkNovaFX-Sheet_82
+  - first:
+      213: 5561336161123475758
+    second: 20250314darkNovaFX-Sheet_83
+  - first:
+      213: -1991441085708138636
+    second: 20250314darkNovaFX-Sheet_84
+  - first:
+      213: -3452849485917370359
+    second: 20250314darkNovaFX-Sheet_85
+  - first:
+      213: 1844833650713304517
+    second: 20250314darkNovaFX-Sheet_86
+  - first:
+      213: 2228600192903998754
+    second: 20250314darkNovaFX-Sheet_87
+  - first:
+      213: -5649730283582107763
+    second: 20250314darkNovaFX-Sheet_88
+  - first:
+      213: 5277620145184995414
+    second: 20250314darkNovaFX-Sheet_89
+  - first:
+      213: -7008681847425702177
+    second: 20250314darkNovaFX-Sheet_90
+  - first:
+      213: 7189005533854445139
+    second: 20250314darkNovaFX-Sheet_91
+  - first:
+      213: 2893008216875475024
+    second: 20250314darkNovaFX-Sheet_92
+  - first:
+      213: 3870893532102907610
+    second: 20250314darkNovaFX-Sheet_93
+  - first:
+      213: 8498896378690945260
+    second: 20250314darkNovaFX-Sheet_94
+  - first:
+      213: 8829076151176703092
+    second: 20250314darkNovaFX-Sheet_95
+  - first:
+      213: -3285438526335188779
+    second: 20250314darkNovaFX-Sheet_96
+  - first:
+      213: -4119468170906225439
+    second: 20250314darkNovaFX-Sheet_97
+  - first:
+      213: -433508136238023600
+    second: 20250314darkNovaFX-Sheet_98
+  - first:
+      213: 638150545347238971
+    second: 20250314darkNovaFX-Sheet_99
+  - first:
+      213: -4404392185332195974
+    second: 20250314darkNovaFX-Sheet_100
+  - first:
+      213: 9170852064268705936
+    second: 20250314darkNovaFX-Sheet_101
+  - first:
+      213: 980023198667706325
+    second: 20250314darkNovaFX-Sheet_102
+  - first:
+      213: -8885807327436684893
+    second: 20250314darkNovaFX-Sheet_103
+  - first:
+      213: -6718329676993944732
+    second: 20250314darkNovaFX-Sheet_104
+  - first:
+      213: -3502818849268002630
+    second: 20250314darkNovaFX-Sheet_105
+  - first:
+      213: 8309132374887385669
+    second: 20250314darkNovaFX-Sheet_106
+  - first:
+      213: -6885527691706438978
+    second: 20250314darkNovaFX-Sheet_107
+  - first:
+      213: 4895181918256065319
+    second: 20250314darkNovaFX-Sheet_108
+  - first:
+      213: -523127862966283754
+    second: 20250314darkNovaFX-Sheet_109
+  - first:
+      213: -6560308954177685960
+    second: 20250314darkNovaFX-Sheet_110
+  - first:
+      213: -4136731763487581984
+    second: 20250314darkNovaFX-Sheet_111
+  - first:
+      213: -1275006666461202005
+    second: 20250314darkNovaFX-Sheet_112
+  - first:
+      213: -3050483149210746213
+    second: 20250314darkNovaFX-Sheet_113
+  - first:
+      213: 1790531587483134212
+    second: 20250314darkNovaFX-Sheet_114
+  - first:
+      213: 7841635041424009593
+    second: 20250314darkNovaFX-Sheet_115
+  - first:
+      213: -5598765645529042891
+    second: 20250314darkNovaFX-Sheet_116
+  - first:
+      213: -7071456984108158313
+    second: 20250314darkNovaFX-Sheet_117
+  - first:
+      213: 1761120904328139130
+    second: 20250314darkNovaFX-Sheet_118
+  - first:
+      213: -9070083857286635835
+    second: 20250314darkNovaFX-Sheet_119
+  - first:
+      213: 1289118343933499219
+    second: 20250314darkNovaFX-Sheet_120
+  - first:
+      213: -6207187868997873172
+    second: 20250314darkNovaFX-Sheet_121
+  - first:
+      213: 4893045381360938939
+    second: 20250314darkNovaFX-Sheet_122
+  - first:
+      213: 3389921493734416121
+    second: 20250314darkNovaFX-Sheet_123
+  - first:
+      213: 243422104469654270
+    second: 20250314darkNovaFX-Sheet_124
+  - first:
+      213: 6283783531790217701
+    second: 20250314darkNovaFX-Sheet_125
+  - first:
+      213: -4892360571983996296
+    second: 20250314darkNovaFX-Sheet_126
+  - first:
+      213: 1789386980682032797
+    second: 20250314darkNovaFX-Sheet_127
+  - first:
+      213: -6614469996983902951
+    second: 20250314darkNovaFX-Sheet_128
+  - first:
+      213: -3045033848231800753
+    second: 20250314darkNovaFX-Sheet_129
+  - first:
+      213: 7215165202824748336
+    second: 20250314darkNovaFX-Sheet_130
+  - first:
+      213: 3265560897668255048
+    second: 20250314darkNovaFX-Sheet_131
+  - first:
+      213: 1418873785319318718
+    second: 20250314darkNovaFX-Sheet_132
+  - first:
+      213: 7255086578375542906
+    second: 20250314darkNovaFX-Sheet_133
+  - first:
+      213: -6437771097311561498
+    second: 20250314darkNovaFX-Sheet_134
+  - first:
+      213: 292725761091831608
+    second: 20250314darkNovaFX-Sheet_135
+  - first:
+      213: 2009842726294299819
+    second: 20250314darkNovaFX-Sheet_136
+  - first:
+      213: -9113407665058970539
+    second: 20250314darkNovaFX-Sheet_137
+  - first:
+      213: -2279592291285900278
+    second: 20250314darkNovaFX-Sheet_138
+  - first:
+      213: 6701789723881696856
+    second: 20250314darkNovaFX-Sheet_139
+  - first:
+      213: -656898283573940833
+    second: 20250314darkNovaFX-Sheet_140
+  - first:
+      213: -7093998428622227395
+    second: 20250314darkNovaFX-Sheet_141
+  - first:
+      213: 3620360579719399142
+    second: 20250314darkNovaFX-Sheet_142
+  - first:
+      213: -4763269733274521202
+    second: 20250314darkNovaFX-Sheet_143
+  - first:
+      213: -6576274507453524591
+    second: 20250314darkNovaFX-Sheet_144
+  - first:
+      213: -2197387095825960747
+    second: 20250314darkNovaFX-Sheet_145
+  - first:
+      213: 4636423720169262589
+    second: 20250314darkNovaFX-Sheet_146
+  - first:
+      213: 9091684175871115968
+    second: 20250314darkNovaFX-Sheet_147
+  - first:
+      213: -8896823681792957329
+    second: 20250314darkNovaFX-Sheet_148
+  - first:
+      213: 5715652341190878656
+    second: 20250314darkNovaFX-Sheet_149
+  - first:
+      213: 7745219174159985870
+    second: 20250314darkNovaFX-Sheet_150
+  - first:
+      213: 515599946154427297
+    second: 20250314darkNovaFX-Sheet_151
+  - first:
+      213: 2701613772153838978
+    second: 20250314darkNovaFX-Sheet_152
+  - first:
+      213: -362775738699523762
+    second: 20250314darkNovaFX-Sheet_153
+  - first:
+      213: -8257467361474918359
+    second: 20250314darkNovaFX-Sheet_154
+  - first:
+      213: 8016836645758344389
+    second: 20250314darkNovaFX-Sheet_155
+  - first:
+      213: -5385597833480112489
+    second: 20250314darkNovaFX-Sheet_156
+  - first:
+      213: -2852114053975363580
+    second: 20250314darkNovaFX-Sheet_157
+  - first:
+      213: -7182478120931299199
+    second: 20250314darkNovaFX-Sheet_158
+  - first:
+      213: 2746972727567364799
+    second: 20250314darkNovaFX-Sheet_159
+  - first:
+      213: -6512170519717492641
+    second: 20250314darkNovaFX-Sheet_160
+  - first:
+      213: 6282675167590928083
+    second: 20250314darkNovaFX-Sheet_161
+  - first:
+      213: 856835500337313633
+    second: 20250314darkNovaFX-Sheet_162
+  - first:
+      213: 5624439572609900000
+    second: 20250314darkNovaFX-Sheet_163
+  - first:
+      213: -7408774702203977551
+    second: 20250314darkNovaFX-Sheet_164
+  - first:
+      213: -2766478428246322761
+    second: 20250314darkNovaFX-Sheet_165
+  - first:
+      213: 7940168329196162923
+    second: 20250314darkNovaFX-Sheet_166
+  - first:
+      213: 154122204132805242
+    second: 20250314darkNovaFX-Sheet_167
+  - first:
+      213: -1237035929620145428
+    second: 20250314darkNovaFX-Sheet_168
+  - first:
+      213: -2757748062908258028
+    second: 20250314darkNovaFX-Sheet_169
+  - first:
+      213: -340225499313990269
+    second: 20250314darkNovaFX-Sheet_170
+  - first:
+      213: 5713091980193131908
+    second: 20250314darkNovaFX-Sheet_171
+  - first:
+      213: 3192652266956131518
+    second: 20250314darkNovaFX-Sheet_172
+  - first:
+      213: 7883387782780217326
+    second: 20250314darkNovaFX-Sheet_173
+  - first:
+      213: -6155077708327362062
+    second: 20250314darkNovaFX-Sheet_174
+  - first:
+      213: -5318920984992192119
+    second: 20250314darkNovaFX-Sheet_175
+  - first:
+      213: 3754809703534153996
+    second: 20250314darkNovaFX-Sheet_176
+  - first:
+      213: 6758855138229571885
+    second: 20250314darkNovaFX-Sheet_177
+  - first:
+      213: -6392776346590609586
+    second: 20250314darkNovaFX-Sheet_178
+  - first:
+      213: 8257572853902625567
+    second: 20250314darkNovaFX-Sheet_179
+  - first:
+      213: 6202800018550958805
+    second: 20250314darkNovaFX-Sheet_180
+  - first:
+      213: -7136394909665836340
+    second: 20250314darkNovaFX-Sheet_181
+  - first:
+      213: 8198878003183740575
+    second: 20250314darkNovaFX-Sheet_182
+  - first:
+      213: -7409518347653507630
+    second: 20250314darkNovaFX-Sheet_183
+  - first:
+      213: -6793559967521252756
+    second: 20250314darkNovaFX-Sheet_184
+  - first:
+      213: 2840174603465474242
+    second: 20250314darkNovaFX-Sheet_185
+  - first:
+      213: 2849708067421351847
+    second: 20250314darkNovaFX-Sheet_186
+  - first:
+      213: 7187697642033457355
+    second: 20250314darkNovaFX-Sheet_187
+  - first:
+      213: -1654330378026571235
+    second: 20250314darkNovaFX-Sheet_188
+  - first:
+      213: 2630227737936563919
+    second: 20250314darkNovaFX-Sheet_189
+  - first:
+      213: 6520205027636377283
+    second: 20250314darkNovaFX-Sheet_190
+  - first:
+      213: 2080796086409213514
+    second: 20250314darkNovaFX-Sheet_191
+  - first:
+      213: 6568704169381585346
+    second: 20250314darkNovaFX-Sheet_192
+  - first:
+      213: 170884176449365763
+    second: 20250314darkNovaFX-Sheet_193
+  - first:
+      213: 7505961885477306329
+    second: 20250314darkNovaFX-Sheet_194
+  - first:
+      213: -635402183921445559
+    second: 20250314darkNovaFX-Sheet_195
+  - first:
+      213: 5239776034727152464
+    second: 20250314darkNovaFX-Sheet_196
+  - first:
+      213: 3625525023413162951
+    second: 20250314darkNovaFX-Sheet_197
+  - first:
+      213: 3108368862056394465
+    second: 20250314darkNovaFX-Sheet_198
+  - first:
+      213: -3523802334782398402
+    second: 20250314darkNovaFX-Sheet_199
+  - first:
+      213: 1089167681424346498
+    second: 20250314darkNovaFX-Sheet_200
+  - first:
+      213: -8110586510607039072
+    second: 20250314darkNovaFX-Sheet_201
+  - first:
+      213: 1829785710662912118
+    second: 20250314darkNovaFX-Sheet_202
+  - first:
+      213: 4412939343246728340
+    second: 20250314darkNovaFX-Sheet_203
+  - first:
+      213: 6041088657542079174
+    second: 20250314darkNovaFX-Sheet_204
+  - first:
+      213: 2283170027544014125
+    second: 20250314darkNovaFX-Sheet_205
+  - first:
+      213: -8661655521106157697
+    second: 20250314darkNovaFX-Sheet_206
+  - first:
+      213: -5361595767620857178
+    second: 20250314darkNovaFX-Sheet_207
+  - first:
+      213: -8675278044419044844
+    second: 20250314darkNovaFX-Sheet_208
+  - first:
+      213: -7967359373606300227
+    second: 20250314darkNovaFX-Sheet_209
+  - first:
+      213: -2282910471153696559
+    second: 20250314darkNovaFX-Sheet_210
+  - first:
+      213: 875446263138974319
+    second: 20250314darkNovaFX-Sheet_211
+  - first:
+      213: -8196547729995208749
+    second: 20250314darkNovaFX-Sheet_212
+  - first:
+      213: 7854206653650310683
+    second: 20250314darkNovaFX-Sheet_213
+  - first:
+      213: -1099040159900722618
+    second: 20250314darkNovaFX-Sheet_214
+  - first:
+      213: 4232572799534741552
+    second: 20250314darkNovaFX-Sheet_215
+  - first:
+      213: -605397360544683845
+    second: 20250314darkNovaFX-Sheet_216
+  - first:
+      213: 6719115722835767898
+    second: 20250314darkNovaFX-Sheet_217
+  - first:
+      213: 92600006424037559
+    second: 20250314darkNovaFX-Sheet_218
+  - first:
+      213: -9123721982758242752
+    second: 20250314darkNovaFX-Sheet_219
+  - first:
+      213: 4733607849912122561
+    second: 20250314darkNovaFX-Sheet_220
+  - first:
+      213: 4769620422610638605
+    second: 20250314darkNovaFX-Sheet_221
+  - first:
+      213: 6968397860381862842
+    second: 20250314darkNovaFX-Sheet_222
+  - first:
+      213: -6097706553185982242
+    second: 20250314darkNovaFX-Sheet_223
+  - first:
+      213: -2251780925062115280
+    second: 20250314darkNovaFX-Sheet_224
+  - first:
+      213: 8009432947055067665
+    second: 20250314darkNovaFX-Sheet_225
+  - first:
+      213: -736094317559117912
+    second: 20250314darkNovaFX-Sheet_226
+  - first:
+      213: -5868902175547725340
+    second: 20250314darkNovaFX-Sheet_227
+  - first:
+      213: 8733023259295374593
+    second: 20250314darkNovaFX-Sheet_228
+  - first:
+      213: -8659542215012858154
+    second: 20250314darkNovaFX-Sheet_229
+  - first:
+      213: -3676934218454502917
+    second: 20250314darkNovaFX-Sheet_230
+  - first:
+      213: -6389506465100072302
+    second: 20250314darkNovaFX-Sheet_231
+  - first:
+      213: -2588702038525441267
+    second: 20250314darkNovaFX-Sheet_232
+  - first:
+      213: 5782494277525658720
+    second: 20250314darkNovaFX-Sheet_233
+  - first:
+      213: -2891297022418855247
+    second: 20250314darkNovaFX-Sheet_234
+  - first:
+      213: 3442799159667494218
+    second: 20250314darkNovaFX-Sheet_235
+  - first:
+      213: 3823652330037867214
+    second: 20250314darkNovaFX-Sheet_236
+  - first:
+      213: 6875737943521252934
+    second: 20250314darkNovaFX-Sheet_237
+  - first:
+      213: 740525031913281631
+    second: 20250314darkNovaFX-Sheet_238
+  - first:
+      213: -8304435563679138168
+    second: 20250314darkNovaFX-Sheet_239
+  - first:
+      213: -1795748050313058959
+    second: 20250314darkNovaFX-Sheet_240
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1879
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee6bb64b44dfa90800000000000000
+      internalID: -7278585881068900636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1867
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf860e55b2f0ff40800000000000000
+      internalID: 5760370784187355074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1855
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3753b56bf2fdeebe0800000000000000
+      internalID: -1445973034323462797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1835
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05873ac68f363a180800000000000000
+      internalID: -9105324102987319216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1819
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71adcabeafbff60800000000000000
+      internalID: 8069319047488608210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1861
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f698d50122ff5f380800000000000000
+      internalID: -8937957363678344849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1849
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6077e9f7f2d7037d0800000000000000
+      internalID: -2940712913714907386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1837
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1cac5dca0aff240800000000000000
+      internalID: 4827753989746114998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1697
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea16a6343113520800000000000000
+      internalID: 2679944433530678895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1685
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081a321dfeb9b410800000000000000
+      internalID: 1493434745591830531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1665
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbefd61c7431a7bb0800000000000000
+      internalID: -4937612842549510465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1649
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95c28929929d5ff0800000000000000
+      internalID: -45719234679749221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1647
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7bf761da4896030800000000000000
+      internalID: 3488465265316837282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1679
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02e0e77350ae240800000000000000
+      internalID: 4821672086949732571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1619
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977deb961cc6a4220800000000000000
+      internalID: 2470906923524740985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69082104399a4170800000000000000
+      internalID: 8163505723199195502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1625
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8c455b338ac3a20800000000000000
+      internalID: 3043492388234643678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1637
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cd1b10717436d30800000000000000
+      internalID: 4423457423146212355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1609
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa06b33cc5c9ba0800000000000000
+      internalID: -6080883403272443312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1613
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d513e61ad510c0e30800000000000000
+      internalID: 4470950031723999581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1625
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977be002a2f124b30800000000000000
+      internalID: 4270009662487574393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1597
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb929582489a5b330800000000000000
+      internalID: 3726070651796662715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1615
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65c750989cfc8900800000000000000
+      internalID: 688202575267743082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1601
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324a8f7981c1f6040800000000000000
+      internalID: 4642960632796718115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1611
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b1dc9034a057b0800000000000000
+      internalID: -5237505837935512735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1609
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d651b3dc3dfdc1f40800000000000000
+      internalID: 5700677329118500205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1595
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17204d6d68afa91e0800000000000000
+      internalID: -2190162811725544847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1487
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f6388234d26b10800000000000000
+      internalID: 1973372900240454853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1443
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51a96ac7396cad0800000000000000
+      internalID: -2682294364472207910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1477
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1648113d64e5960800000000000000
+      internalID: 7592583894139167141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1475
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf18b2f172d9d4e0800000000000000
+      internalID: -1956301176270479434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1427
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0267ee34ae78d9230800000000000000
+      internalID: 3647220713471768096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1487
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61f0e47b33ac380800000000000000
+      internalID: -8950284447063796031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1467
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e155578fdfe04d0800000000000000
+      internalID: -3166314244432650676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1451
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eb75b79538b59d0800000000000000
+      internalID: -2784487524253843919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1445
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b89403339f24490800000000000000
+      internalID: -7763368809384539315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1467
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52d3a25d3c10b9a0800000000000000
+      internalID: -6219440035693604257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1443
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8a486360698940800000000000000
+      internalID: 5298872416645843628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1441
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c103fd82c0ae40800000000000000
+      internalID: 5665742246155241107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1419
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233caaadba3ab8970800000000000000
+      internalID: 8758273858855420722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1441
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c203386bff33baa0800000000000000
+      internalID: -6146498717413080379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1415
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16327171c990c8760800000000000000
+      internalID: 7461349248653009761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1427
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ee7139b295f33d0800000000000000
+      internalID: -3224760764487700902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1413
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47b40e752a1ad200800000000000000
+      internalID: 205505481329129295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1415
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed341485001447c0800000000000000
+      internalID: -4088124945868767770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1401
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb928f6e5ac9100800000000000000
+      internalID: 116150101829336014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1413
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea8dcee292069830800000000000000
+      internalID: 4077449342725491430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1399
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52573f487cc27290800000000000000
+      internalID: -7894022379729890721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1411
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc242b8760dfe370800000000000000
+      internalID: 8354124976930172110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1397
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3a263092dc8d5c0800000000000000
+      internalID: -4190373877234097157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1411
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941b2983edc7b49a0800000000000000
+      internalID: -6247762764172709559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1395
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1c910c337f94a0800000000000000
+      internalID: -6584417428630136098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1393
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115dccf55e907440800000000000000
+      internalID: 4931615684121415958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1227
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3508cb7e1a2c8def0800000000000000
+      internalID: -83102592472940461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1261
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3d0f7ef25ac78d0800000000000000
+      internalID: -2847219239231630361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1251
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f42f878f93bc200800000000000000
+      internalID: 201318347691937667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1243
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d076afb8b61ddf170800000000000000
+      internalID: 8213951555233801997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1241
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b02abc855190cec0800000000000000
+      internalID: -3548676709748694860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1219
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfaaa6b5803cb7a0800000000000000
+      internalID: -6360155222900559910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1223
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baae708a15c9c9370800000000000000
+      internalID: 8330705285253950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1221
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc95dfe0e8e45110800000000000000
+      internalID: 1248879049482542269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1219
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d77a9a2f42ba00800000000000000
+      internalID: 770765530632540294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba32934686f2a620800000000000000
+      internalID: 2784058576188095161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7820a1c5c15447b10800000000000000
+      internalID: 1978282124429099655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1217
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b16c5bf7d470a0800000000000000
+      internalID: -6884640455755974438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1215
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558eb069096162e0800000000000000
+      internalID: -2134309259398183587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1213
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cdd15b5531b99d0800000000000000
+      internalID: -2766596287257256890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1217
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce50dbc053909450800000000000000
+      internalID: 6093532271058378435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45e16f780ec3d550800000000000000
+      internalID: 6184513249202005325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1069
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858943c2fd8720150800000000000000
+      internalID: 5837360966940268632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1063
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a6bb830694963d0800000000000000
+      internalID: -3212956181534643587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1077
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c1af75dfedd9540800000000000000
+      internalID: 5016410739644701780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1047
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae1cf835b5b30b00800000000000000
+      internalID: 793677749297094311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1037
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c95938b03ebb00800000000000000
+      internalID: 846167347786532728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1023
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b8f8c4a161a8ac0800000000000000
+      internalID: -3852242229052601535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1021
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb877138801047890800000000000000
+      internalID: -7461337546575349573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1037
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2aac5cb06db39d0800000000000000
+      internalID: -2793403797801885007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1031
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d231d96b0ee44b40800000000000000
+      internalID: 5423721584048288464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1019
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4225882331d07cc0800000000000000
+      internalID: -3715239674927308213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1019
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aa6208fdca6a470800000000000000
+      internalID: 8405595830461311514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1019
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63623d59dc3486eb0800000000000000
+      internalID: -4726453258664335818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 821
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9286a5b07d956aa0800000000000000
+      internalID: -6168351007204539747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 811
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e1617621f532a90800000000000000
+      internalID: -7339918435040223598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 923
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ac48f5c5dd2d40800000000000000
+      internalID: 5561336161123475758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 935
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4778f3732eafc54e0800000000000000
+      internalID: -1991441085708138636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 933
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9084101cfa30510d0800000000000000
+      internalID: -3452849485917370359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 941
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd14745e6a2a9910800000000000000
+      internalID: 1844833650713304517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 937
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22de86c51149dee10800000000000000
+      internalID: 2228600192903998754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 913
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f425a9d302891b0800000000000000
+      internalID: -5649730283582107763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 929
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658723d5f8fdd3940800000000000000
+      internalID: 5277620145184995414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 929
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6667c4ef82cbe90800000000000000
+      internalID: -7008681847425702177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 787
+        width: 164
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e26bda17a74c360800000000000000
+      internalID: 7189005533854445139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050262b35a7062820800000000000000
+      internalID: 2893008216875475024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 897
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d958982d28b530800000000000000
+      internalID: 3870893532102907610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 797
+        width: 168
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce04ab23a3522f570800000000000000
+      internalID: 8498896378690945260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 903
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ca2c52bfd278a70800000000000000
+      internalID: 8829076151176703092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 789
+        width: 154
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0886a3117c762d0800000000000000
+      internalID: -3285438526335188779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 915
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43b914685b4d6c0800000000000000
+      internalID: -4119468170906225439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 861
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c7a4c95aedbf9f0800000000000000
+      internalID: -433508136238023600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 861
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cd4a83a8a2bd800800000000000000
+      internalID: 638150545347238971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 583
+        width: 176
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d94c594a470e2c0800000000000000
+      internalID: -4404392185332195974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 753
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e46afc59654f70800000000000000
+      internalID: 9170852064268705936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 755
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0b3428edb99d00800000000000000
+      internalID: 980023198667706325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 761
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c29190554fa480800000000000000
+      internalID: -8885807327436684893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 753
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463afc601c2b3c2a0800000000000000
+      internalID: -6718329676993944732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 591
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab096d8b0dc736fc0800000000000000
+      internalID: -3502818849268002630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 583
+        width: 166
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a4cdc0fd7ff4370800000000000000
+      internalID: 8309132374887385669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 739
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebae8b4ab01b170a0800000000000000
+      internalID: -6885527691706438978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 741
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6194d40e2fe340800000000000000
+      internalID: 4895181918256065319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 743
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61219c3faf97db8f0800000000000000
+      internalID: -523127862966283754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 743
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836bc61a3c915f4a0800000000000000
+      internalID: -6560308954177685960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 727
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e85f32e0606796c0800000000000000
+      internalID: -4136731763487581984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 729
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9335f21344e4ee0800000000000000
+      internalID: -1275006666461202005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 741
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b928af9ecb18aa5d0800000000000000
+      internalID: -3050483149210746213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 737
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096c0ffdfe39d810800000000000000
+      internalID: 1790531587483134212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 741
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979655ef58513dc60800000000000000
+      internalID: 7841635041424009593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 607
+        width: 158
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530b4951f403d42b0800000000000000
+      internalID: -5598765645529042891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 733
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79237c1d6532ddd90800000000000000
+      internalID: -7071456984108158313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 729
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a715ef4b122c07810800000000000000
+      internalID: 1761120904328139130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 611
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cedc6389c6902280800000000000000
+      internalID: -9070083857286635835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 707
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3579893cd4ed3e110800000000000000
+      internalID: 1289118343933499219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 693
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1944e2583abd9a0800000000000000
+      internalID: -6207187868997873172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 681
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf62e199d697e340800000000000000
+      internalID: 4893045381360938939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 639
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe508253ab6b0f20800000000000000
+      internalID: 3389921493734416121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 629
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa44634d1fc06300800000000000000
+      internalID: 243422104469654270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 607
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e13ec944db743750800000000000000
+      internalID: 6283783531790217701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 421
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a54c90bf7da1cb0800000000000000
+      internalID: -4892360571983996296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 561
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96e2457afd25d810800000000000000
+      internalID: 1789386980682032797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 563
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d9b4c259ea434a0800000000000000
+      internalID: -6614469996983902951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405a1b29ddddb5d0800000000000000
+      internalID: -3045033848231800753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 561
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dd02e368a612460800000000000000
+      internalID: 7215165202824748336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 435
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d0ce1b55a915d20800000000000000
+      internalID: 3265560897668255048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 547
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb46213b03ad0b310800000000000000
+      internalID: 1418873785319318718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 549
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7847cecdce3fa460800000000000000
+      internalID: 7255086578375542906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 551
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b777bb4178a6a0800000000000000
+      internalID: -6437771097311561498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 551
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370c7e5788ff0400800000000000000
+      internalID: 292725761091831608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 385
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ac2b9f4564eb10800000000000000
+      internalID: 2009842726294299819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 555
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55486d6730ca68180800000000000000
+      internalID: -9113407665058970539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 445
+        width: 158
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046f2d83e24d50e0800000000000000
+      internalID: -2279592291285900278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 397
+        width: 168
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ee45b0f3a810d50800000000000000
+      internalID: 6701789723881696856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 543
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de202dd7a32e6f0800000000000000
+      internalID: -656898283573940833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 497
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38fac8c30e0d8d90800000000000000
+      internalID: -7093998428622227395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 483
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6800904ca1e3230800000000000000
+      internalID: 3620360579719399142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 475
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e817dca1a6775edb0800000000000000
+      internalID: -4763269733274521202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 459
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19596c59d216cb4a0800000000000000
+      internalID: -6576274507453524591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 437
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0344f14105181e0800000000000000
+      internalID: -2197387095825960747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 393
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd42e40fc2e75040800000000000000
+      internalID: 4636423720169262589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 225
+        width: 128
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c286d096962c2e70800000000000000
+      internalID: 9091684175871115968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 369
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a271bff1288480800000000000000
+      internalID: -8896823681792957329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 353
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ef408583125f40800000000000000
+      internalID: 5715652341190878656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 353
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecca95f8dcb8c7b60800000000000000
+      internalID: 7745219174159985870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 327
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3ceb45b67c72700800000000000000
+      internalID: 515599946154427297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 339
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d5889796f0e7520800000000000000
+      internalID: 2701613772153838978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 225
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e495fa1436927faf0800000000000000
+      internalID: -362775738699523762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 347
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c7e64f25976d80800000000000000
+      internalID: -8257467361474918359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 349
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc92cc4476814f60800000000000000
+      internalID: 8016836645758344389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 339
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796fd48fd438245b0800000000000000
+      internalID: -5385597833480112489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 295
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40036e901614b68d0800000000000000
+      internalID: -2852114053975363580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 311
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180ffd21436b25c90800000000000000
+      internalID: -7182478120931299199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 295
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2b65244253f1620800000000000000
+      internalID: 2746972727567364799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 295
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58c77f4a6f10a5a0800000000000000
+      internalID: -6512170519717492641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 293
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3decc6327cb803750800000000000000
+      internalID: 6282675167590928083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 317
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167bc8c095714eb00800000000000000
+      internalID: 856835500337313633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 311
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed1012edf50e0e40800000000000000
+      internalID: 5624439572609900000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 317
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04b3669aebe2990800000000000000
+      internalID: -7408774702203977551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 313
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1d895e68e7b99d0800000000000000
+      internalID: -2766478428246322761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 317
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f4b8ec605213e60800000000000000
+      internalID: 7940168329196162923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 283
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a065df35d832200800000000000000
+      internalID: 154122204132805242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 275
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea9898406a25dee0800000000000000
+      internalID: -1237035929620145428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 243
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419e45a7fb28ab9d0800000000000000
+      internalID: -2757748062908258028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851cd106b6474bf0800000000000000
+      internalID: -340225499313990269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6b8003eaf84f40800000000000000
+      internalID: 5713091980193131908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc044742549e4c20800000000000000
+      internalID: 3192652266956131518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 191
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7e443ab6b676d60800000000000000
+      internalID: 7883387782780217326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 195
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1e83e6f65c49aa0800000000000000
+      internalID: -6155077708327362062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 197
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9896b258b856f26b0800000000000000
+      internalID: -5318920984992192119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 255
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d7521883cb1430800000000000000
+      internalID: 3754809703534153996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 249
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d215f7230f64ccd50800000000000000
+      internalID: 6758855138229571885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 209
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f72fc78cb4847a0800000000000000
+      internalID: -6392776346590609586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 191
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b46c792cac89270800000000000000
+      internalID: 8257572853902625567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 209
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da2486c0c5c41650800000000000000
+      internalID: 6202800018550958805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 191
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc24670d3ae66fc90800000000000000
+      internalID: -7136394909665836340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e788ba1448c170800000000000000
+      internalID: 8198878003183740575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d59f53f15a1c2990800000000000000
+      internalID: -7409518347653507630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 217
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ad49f043d68b1a0800000000000000
+      internalID: -6793559967521252756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 243
+        width: 74
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c045a301c35a6720800000000000000
+      internalID: 2840174603465474242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 207
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afe63093623c8720800000000000000
+      internalID: 2849708067421351847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc821526ce4dfb360800000000000000
+      internalID: 7187697642033457355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 199
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa6944943aa09e0800000000000000
+      internalID: -1654330378026571235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce861e2132708420800000000000000
+      internalID: 2630227737936563919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 235
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c67bf65deb6c7a50800000000000000
+      internalID: 6520205027636377283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 191
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b17c140970ec10800000000000000
+      internalID: 2080796086409213514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 197
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ed9ab3a9b82b50800000000000000
+      internalID: 6568704169381585346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 219
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307effac04a1f5200800000000000000
+      internalID: 170884176449365763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 211
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dffe7901988a2860800000000000000
+      internalID: 7505961885477306329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 205
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945dad984199e27f0800000000000000
+      internalID: -635402183921445559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b4484ca8c67b840800000000000000
+      internalID: 5239776034727152464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 197
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d4d8ccc3705230800000000000000
+      internalID: 3625525023413162951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 243
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eea1cdd205232b20800000000000000
+      internalID: 3108368862056394465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306a984270f81fc0800000000000000
+      internalID: -3523802334782398402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 237
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d42205c308d1f00800000000000000
+      internalID: 1089167681424346498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 235
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a541335a88617f80800000000000000
+      internalID: -8110586510607039072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6780623c864b46910800000000000000
+      internalID: 1829785710662912118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 223
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1191b3f8ed3d30800000000000000
+      internalID: 4412939343246728340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 197
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2ef61802246d350800000000000000
+      internalID: 6041088657542079174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d64951b037faf10800000000000000
+      internalID: 2283170027544014125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 191
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f9aa9e13e9bc780800000000000000
+      internalID: -8661655521106157697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a298b96e09c795b0800000000000000
+      internalID: -5361595767620857178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 167
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a48aa05983b9780800000000000000
+      internalID: -8675278044419044844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db55152dcd04e6190800000000000000
+      internalID: -7967359373606300227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d04dd895097150e0800000000000000
+      internalID: -2282910471153696559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a775eecb5362c00800000000000000
+      internalID: 875446263138974319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7e9194443004e80800000000000000
+      internalID: -8196547729995208749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 133
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16165f865fbffc60800000000000000
+      internalID: 7854206653650310683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a9a3b2ccc6fb0f0800000000000000
+      internalID: -1099040159900722618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 125
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038bf3a398e1dba30800000000000000
+      internalID: 4232572799534741552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb866c0ee423997f0800000000000000
+      internalID: -605397360544683845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 85
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523e5886281f3d50800000000000000
+      internalID: 6719115722835767898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b88a19173bf84100800000000000000
+      internalID: 92600006424037559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 53
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b54c3237026180800000000000000
+      internalID: -9123721982758242752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 65
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3300824721b140800000000000000
+      internalID: 4733607849912122561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07d72bf088113240800000000000000
+      internalID: 4769620422610638605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb27a11fe8b4b060800000000000000
+      internalID: 6968397860381862842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed827c86238906ba0800000000000000
+      internalID: -6097706553185982242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0301ca9dd2110c0e0800000000000000
+      internalID: -2251780925062115280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112078d54d8372f60800000000000000
+      internalID: 8009432947055067665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a784b04e1ed8c5f0800000000000000
+      internalID: -736094317559117912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_227
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e5fce0987d8ea0800000000000000
+      internalID: -5868902175547725340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_228
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 59
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d5681826ee13970800000000000000
+      internalID: 8733023259295374593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_229
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 39
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6c8a45c3023d780800000000000000
+      internalID: -8659542215012858154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_230
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 87
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf17a8e3fc7e8fcc0800000000000000
+      internalID: -3676934218454502917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_231
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29af5a919b9e357a0800000000000000
+      internalID: -6389506465100072302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_232
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8c542635131cd0800000000000000
+      internalID: -2588702038525441267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_233
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 45
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c55af88eb8f3050800000000000000
+      internalID: 5782494277525658720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_234
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba54964dac00e7d0800000000000000
+      internalID: -2891297022418855247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_235
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 31
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d8ef0589747cf20800000000000000
+      internalID: 3442799159667494218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_236
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 21
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2708c1987501530800000000000000
+      internalID: 3823652330037867214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_237
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646524cfa378b6f50800000000000000
+      internalID: 6875737943521252934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_238
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d972d79fd64a00800000000000000
+      internalID: 740525031913281631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_239
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb8c68ad7b0cc80800000000000000
+      internalID: -8304435563679138168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkNovaFX-Sheet_240
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1756dfa99a83417e0800000000000000
+      internalID: -1795748050313058959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250314darkNovaFX-Sheet_0: -7278585881068900636
+      20250314darkNovaFX-Sheet_1: 5760370784187355074
+      20250314darkNovaFX-Sheet_10: -4937612842549510465
+      20250314darkNovaFX-Sheet_100: -4404392185332195974
+      20250314darkNovaFX-Sheet_101: 9170852064268705936
+      20250314darkNovaFX-Sheet_102: 980023198667706325
+      20250314darkNovaFX-Sheet_103: -8885807327436684893
+      20250314darkNovaFX-Sheet_104: -6718329676993944732
+      20250314darkNovaFX-Sheet_105: -3502818849268002630
+      20250314darkNovaFX-Sheet_106: 8309132374887385669
+      20250314darkNovaFX-Sheet_107: -6885527691706438978
+      20250314darkNovaFX-Sheet_108: 4895181918256065319
+      20250314darkNovaFX-Sheet_109: -523127862966283754
+      20250314darkNovaFX-Sheet_11: -45719234679749221
+      20250314darkNovaFX-Sheet_110: -6560308954177685960
+      20250314darkNovaFX-Sheet_111: -4136731763487581984
+      20250314darkNovaFX-Sheet_112: -1275006666461202005
+      20250314darkNovaFX-Sheet_113: -3050483149210746213
+      20250314darkNovaFX-Sheet_114: 1790531587483134212
+      20250314darkNovaFX-Sheet_115: 7841635041424009593
+      20250314darkNovaFX-Sheet_116: -5598765645529042891
+      20250314darkNovaFX-Sheet_117: -7071456984108158313
+      20250314darkNovaFX-Sheet_118: 1761120904328139130
+      20250314darkNovaFX-Sheet_119: -9070083857286635835
+      20250314darkNovaFX-Sheet_12: 3488465265316837282
+      20250314darkNovaFX-Sheet_120: 1289118343933499219
+      20250314darkNovaFX-Sheet_121: -6207187868997873172
+      20250314darkNovaFX-Sheet_122: 4893045381360938939
+      20250314darkNovaFX-Sheet_123: 3389921493734416121
+      20250314darkNovaFX-Sheet_124: 243422104469654270
+      20250314darkNovaFX-Sheet_125: 6283783531790217701
+      20250314darkNovaFX-Sheet_126: -4892360571983996296
+      20250314darkNovaFX-Sheet_127: 1789386980682032797
+      20250314darkNovaFX-Sheet_128: -6614469996983902951
+      20250314darkNovaFX-Sheet_129: -3045033848231800753
+      20250314darkNovaFX-Sheet_13: 4821672086949732571
+      20250314darkNovaFX-Sheet_130: 7215165202824748336
+      20250314darkNovaFX-Sheet_131: 3265560897668255048
+      20250314darkNovaFX-Sheet_132: 1418873785319318718
+      20250314darkNovaFX-Sheet_133: 7255086578375542906
+      20250314darkNovaFX-Sheet_134: -6437771097311561498
+      20250314darkNovaFX-Sheet_135: 292725761091831608
+      20250314darkNovaFX-Sheet_136: 2009842726294299819
+      20250314darkNovaFX-Sheet_137: -9113407665058970539
+      20250314darkNovaFX-Sheet_138: -2279592291285900278
+      20250314darkNovaFX-Sheet_139: 6701789723881696856
+      20250314darkNovaFX-Sheet_14: 2470906923524740985
+      20250314darkNovaFX-Sheet_140: -656898283573940833
+      20250314darkNovaFX-Sheet_141: -7093998428622227395
+      20250314darkNovaFX-Sheet_142: 3620360579719399142
+      20250314darkNovaFX-Sheet_143: -4763269733274521202
+      20250314darkNovaFX-Sheet_144: -6576274507453524591
+      20250314darkNovaFX-Sheet_145: -2197387095825960747
+      20250314darkNovaFX-Sheet_146: 4636423720169262589
+      20250314darkNovaFX-Sheet_147: 9091684175871115968
+      20250314darkNovaFX-Sheet_148: -8896823681792957329
+      20250314darkNovaFX-Sheet_149: 5715652341190878656
+      20250314darkNovaFX-Sheet_15: 8163505723199195502
+      20250314darkNovaFX-Sheet_150: 7745219174159985870
+      20250314darkNovaFX-Sheet_151: 515599946154427297
+      20250314darkNovaFX-Sheet_152: 2701613772153838978
+      20250314darkNovaFX-Sheet_153: -362775738699523762
+      20250314darkNovaFX-Sheet_154: -8257467361474918359
+      20250314darkNovaFX-Sheet_155: 8016836645758344389
+      20250314darkNovaFX-Sheet_156: -5385597833480112489
+      20250314darkNovaFX-Sheet_157: -2852114053975363580
+      20250314darkNovaFX-Sheet_158: -7182478120931299199
+      20250314darkNovaFX-Sheet_159: 2746972727567364799
+      20250314darkNovaFX-Sheet_16: 3043492388234643678
+      20250314darkNovaFX-Sheet_160: -6512170519717492641
+      20250314darkNovaFX-Sheet_161: 6282675167590928083
+      20250314darkNovaFX-Sheet_162: 856835500337313633
+      20250314darkNovaFX-Sheet_163: 5624439572609900000
+      20250314darkNovaFX-Sheet_164: -7408774702203977551
+      20250314darkNovaFX-Sheet_165: -2766478428246322761
+      20250314darkNovaFX-Sheet_166: 7940168329196162923
+      20250314darkNovaFX-Sheet_167: 154122204132805242
+      20250314darkNovaFX-Sheet_168: -1237035929620145428
+      20250314darkNovaFX-Sheet_169: -2757748062908258028
+      20250314darkNovaFX-Sheet_17: 4423457423146212355
+      20250314darkNovaFX-Sheet_170: -340225499313990269
+      20250314darkNovaFX-Sheet_171: 5713091980193131908
+      20250314darkNovaFX-Sheet_172: 3192652266956131518
+      20250314darkNovaFX-Sheet_173: 7883387782780217326
+      20250314darkNovaFX-Sheet_174: -6155077708327362062
+      20250314darkNovaFX-Sheet_175: -5318920984992192119
+      20250314darkNovaFX-Sheet_176: 3754809703534153996
+      20250314darkNovaFX-Sheet_177: 6758855138229571885
+      20250314darkNovaFX-Sheet_178: -6392776346590609586
+      20250314darkNovaFX-Sheet_179: 8257572853902625567
+      20250314darkNovaFX-Sheet_18: -6080883403272443312
+      20250314darkNovaFX-Sheet_180: 6202800018550958805
+      20250314darkNovaFX-Sheet_181: -7136394909665836340
+      20250314darkNovaFX-Sheet_182: 8198878003183740575
+      20250314darkNovaFX-Sheet_183: -7409518347653507630
+      20250314darkNovaFX-Sheet_184: -6793559967521252756
+      20250314darkNovaFX-Sheet_185: 2840174603465474242
+      20250314darkNovaFX-Sheet_186: 2849708067421351847
+      20250314darkNovaFX-Sheet_187: 7187697642033457355
+      20250314darkNovaFX-Sheet_188: -1654330378026571235
+      20250314darkNovaFX-Sheet_189: 2630227737936563919
+      20250314darkNovaFX-Sheet_19: 4470950031723999581
+      20250314darkNovaFX-Sheet_190: 6520205027636377283
+      20250314darkNovaFX-Sheet_191: 2080796086409213514
+      20250314darkNovaFX-Sheet_192: 6568704169381585346
+      20250314darkNovaFX-Sheet_193: 170884176449365763
+      20250314darkNovaFX-Sheet_194: 7505961885477306329
+      20250314darkNovaFX-Sheet_195: -635402183921445559
+      20250314darkNovaFX-Sheet_196: 5239776034727152464
+      20250314darkNovaFX-Sheet_197: 3625525023413162951
+      20250314darkNovaFX-Sheet_198: 3108368862056394465
+      20250314darkNovaFX-Sheet_199: -3523802334782398402
+      20250314darkNovaFX-Sheet_2: -1445973034323462797
+      20250314darkNovaFX-Sheet_20: 4270009662487574393
+      20250314darkNovaFX-Sheet_200: 1089167681424346498
+      20250314darkNovaFX-Sheet_201: -8110586510607039072
+      20250314darkNovaFX-Sheet_202: 1829785710662912118
+      20250314darkNovaFX-Sheet_203: 4412939343246728340
+      20250314darkNovaFX-Sheet_204: 6041088657542079174
+      20250314darkNovaFX-Sheet_205: 2283170027544014125
+      20250314darkNovaFX-Sheet_206: -8661655521106157697
+      20250314darkNovaFX-Sheet_207: -5361595767620857178
+      20250314darkNovaFX-Sheet_208: -8675278044419044844
+      20250314darkNovaFX-Sheet_209: -7967359373606300227
+      20250314darkNovaFX-Sheet_21: 3726070651796662715
+      20250314darkNovaFX-Sheet_210: -2282910471153696559
+      20250314darkNovaFX-Sheet_211: 875446263138974319
+      20250314darkNovaFX-Sheet_212: -8196547729995208749
+      20250314darkNovaFX-Sheet_213: 7854206653650310683
+      20250314darkNovaFX-Sheet_214: -1099040159900722618
+      20250314darkNovaFX-Sheet_215: 4232572799534741552
+      20250314darkNovaFX-Sheet_216: -605397360544683845
+      20250314darkNovaFX-Sheet_217: 6719115722835767898
+      20250314darkNovaFX-Sheet_218: 92600006424037559
+      20250314darkNovaFX-Sheet_219: -9123721982758242752
+      20250314darkNovaFX-Sheet_22: 688202575267743082
+      20250314darkNovaFX-Sheet_220: 4733607849912122561
+      20250314darkNovaFX-Sheet_221: 4769620422610638605
+      20250314darkNovaFX-Sheet_222: 6968397860381862842
+      20250314darkNovaFX-Sheet_223: -6097706553185982242
+      20250314darkNovaFX-Sheet_224: -2251780925062115280
+      20250314darkNovaFX-Sheet_225: 8009432947055067665
+      20250314darkNovaFX-Sheet_226: -736094317559117912
+      20250314darkNovaFX-Sheet_227: -5868902175547725340
+      20250314darkNovaFX-Sheet_228: 8733023259295374593
+      20250314darkNovaFX-Sheet_229: -8659542215012858154
+      20250314darkNovaFX-Sheet_23: 4642960632796718115
+      20250314darkNovaFX-Sheet_230: -3676934218454502917
+      20250314darkNovaFX-Sheet_231: -6389506465100072302
+      20250314darkNovaFX-Sheet_232: -2588702038525441267
+      20250314darkNovaFX-Sheet_233: 5782494277525658720
+      20250314darkNovaFX-Sheet_234: -2891297022418855247
+      20250314darkNovaFX-Sheet_235: 3442799159667494218
+      20250314darkNovaFX-Sheet_236: 3823652330037867214
+      20250314darkNovaFX-Sheet_237: 6875737943521252934
+      20250314darkNovaFX-Sheet_238: 740525031913281631
+      20250314darkNovaFX-Sheet_239: -8304435563679138168
+      20250314darkNovaFX-Sheet_24: -5237505837935512735
+      20250314darkNovaFX-Sheet_240: -1795748050313058959
+      20250314darkNovaFX-Sheet_25: 5700677329118500205
+      20250314darkNovaFX-Sheet_26: -2190162811725544847
+      20250314darkNovaFX-Sheet_27: 1973372900240454853
+      20250314darkNovaFX-Sheet_28: -2682294364472207910
+      20250314darkNovaFX-Sheet_29: 7592583894139167141
+      20250314darkNovaFX-Sheet_3: -9105324102987319216
+      20250314darkNovaFX-Sheet_30: -1956301176270479434
+      20250314darkNovaFX-Sheet_31: 3647220713471768096
+      20250314darkNovaFX-Sheet_32: -8950284447063796031
+      20250314darkNovaFX-Sheet_33: -3166314244432650676
+      20250314darkNovaFX-Sheet_34: -2784487524253843919
+      20250314darkNovaFX-Sheet_35: -7763368809384539315
+      20250314darkNovaFX-Sheet_36: -6219440035693604257
+      20250314darkNovaFX-Sheet_37: 5298872416645843628
+      20250314darkNovaFX-Sheet_38: 5665742246155241107
+      20250314darkNovaFX-Sheet_39: 8758273858855420722
+      20250314darkNovaFX-Sheet_4: 8069319047488608210
+      20250314darkNovaFX-Sheet_40: -6146498717413080379
+      20250314darkNovaFX-Sheet_41: 7461349248653009761
+      20250314darkNovaFX-Sheet_42: -3224760764487700902
+      20250314darkNovaFX-Sheet_43: 205505481329129295
+      20250314darkNovaFX-Sheet_44: -4088124945868767770
+      20250314darkNovaFX-Sheet_45: 116150101829336014
+      20250314darkNovaFX-Sheet_46: 4077449342725491430
+      20250314darkNovaFX-Sheet_47: -7894022379729890721
+      20250314darkNovaFX-Sheet_48: 8354124976930172110
+      20250314darkNovaFX-Sheet_49: -4190373877234097157
+      20250314darkNovaFX-Sheet_5: -8937957363678344849
+      20250314darkNovaFX-Sheet_50: -6247762764172709559
+      20250314darkNovaFX-Sheet_51: -6584417428630136098
+      20250314darkNovaFX-Sheet_52: 4931615684121415958
+      20250314darkNovaFX-Sheet_53: -83102592472940461
+      20250314darkNovaFX-Sheet_54: -2847219239231630361
+      20250314darkNovaFX-Sheet_55: 201318347691937667
+      20250314darkNovaFX-Sheet_56: 8213951555233801997
+      20250314darkNovaFX-Sheet_57: -3548676709748694860
+      20250314darkNovaFX-Sheet_58: -6360155222900559910
+      20250314darkNovaFX-Sheet_59: 8330705285253950123
+      20250314darkNovaFX-Sheet_6: -2940712913714907386
+      20250314darkNovaFX-Sheet_60: 1248879049482542269
+      20250314darkNovaFX-Sheet_61: 770765530632540294
+      20250314darkNovaFX-Sheet_62: 2784058576188095161
+      20250314darkNovaFX-Sheet_63: 1978282124429099655
+      20250314darkNovaFX-Sheet_64: -6884640455755974438
+      20250314darkNovaFX-Sheet_65: -2134309259398183587
+      20250314darkNovaFX-Sheet_66: -2766596287257256890
+      20250314darkNovaFX-Sheet_67: 6093532271058378435
+      20250314darkNovaFX-Sheet_68: 6184513249202005325
+      20250314darkNovaFX-Sheet_69: 5837360966940268632
+      20250314darkNovaFX-Sheet_7: 4827753989746114998
+      20250314darkNovaFX-Sheet_70: -3212956181534643587
+      20250314darkNovaFX-Sheet_71: 5016410739644701780
+      20250314darkNovaFX-Sheet_72: 793677749297094311
+      20250314darkNovaFX-Sheet_73: 846167347786532728
+      20250314darkNovaFX-Sheet_74: -3852242229052601535
+      20250314darkNovaFX-Sheet_75: -7461337546575349573
+      20250314darkNovaFX-Sheet_76: -2793403797801885007
+      20250314darkNovaFX-Sheet_77: 5423721584048288464
+      20250314darkNovaFX-Sheet_78: -3715239674927308213
+      20250314darkNovaFX-Sheet_79: 8405595830461311514
+      20250314darkNovaFX-Sheet_8: 2679944433530678895
+      20250314darkNovaFX-Sheet_80: -4726453258664335818
+      20250314darkNovaFX-Sheet_81: -6168351007204539747
+      20250314darkNovaFX-Sheet_82: -7339918435040223598
+      20250314darkNovaFX-Sheet_83: 5561336161123475758
+      20250314darkNovaFX-Sheet_84: -1991441085708138636
+      20250314darkNovaFX-Sheet_85: -3452849485917370359
+      20250314darkNovaFX-Sheet_86: 1844833650713304517
+      20250314darkNovaFX-Sheet_87: 2228600192903998754
+      20250314darkNovaFX-Sheet_88: -5649730283582107763
+      20250314darkNovaFX-Sheet_89: 5277620145184995414
+      20250314darkNovaFX-Sheet_9: 1493434745591830531
+      20250314darkNovaFX-Sheet_90: -7008681847425702177
+      20250314darkNovaFX-Sheet_91: 7189005533854445139
+      20250314darkNovaFX-Sheet_92: 2893008216875475024
+      20250314darkNovaFX-Sheet_93: 3870893532102907610
+      20250314darkNovaFX-Sheet_94: 8498896378690945260
+      20250314darkNovaFX-Sheet_95: 8829076151176703092
+      20250314darkNovaFX-Sheet_96: -3285438526335188779
+      20250314darkNovaFX-Sheet_97: -4119468170906225439
+      20250314darkNovaFX-Sheet_98: -433508136238023600
+      20250314darkNovaFX-Sheet_99: 638150545347238971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

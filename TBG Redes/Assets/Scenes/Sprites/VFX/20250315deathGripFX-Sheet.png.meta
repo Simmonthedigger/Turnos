@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 953e3675b8342fb48bdca3dd30ce6f2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4719054542587022043
+    second: 20250315deathGripFX-Sheet_0
+  - first:
+      213: 8787767105578965997
+    second: 20250315deathGripFX-Sheet_1
+  - first:
+      213: 1436465393908404775
+    second: 20250315deathGripFX-Sheet_2
+  - first:
+      213: -2698982377212016554
+    second: 20250315deathGripFX-Sheet_3
+  - first:
+      213: 3845494029530046535
+    second: 20250315deathGripFX-Sheet_4
+  - first:
+      213: -5813458730677184464
+    second: 20250315deathGripFX-Sheet_5
+  - first:
+      213: -8791069855766175732
+    second: 20250315deathGripFX-Sheet_6
+  - first:
+      213: -2465902221005867400
+    second: 20250315deathGripFX-Sheet_7
+  - first:
+      213: 6564239060439352217
+    second: 20250315deathGripFX-Sheet_8
+  - first:
+      213: -8161221613740493841
+    second: 20250315deathGripFX-Sheet_9
+  - first:
+      213: 4891222815197394384
+    second: 20250315deathGripFX-Sheet_10
+  - first:
+      213: 3022316561142157660
+    second: 20250315deathGripFX-Sheet_11
+  - first:
+      213: -4085874642715405553
+    second: 20250315deathGripFX-Sheet_12
+  - first:
+      213: 698579701158013303
+    second: 20250315deathGripFX-Sheet_13
+  - first:
+      213: 2287758987637693739
+    second: 20250315deathGripFX-Sheet_14
+  - first:
+      213: -147540970889744542
+    second: 20250315deathGripFX-Sheet_15
+  - first:
+      213: -1501412058125446314
+    second: 20250315deathGripFX-Sheet_16
+  - first:
+      213: 3667369831328194467
+    second: 20250315deathGripFX-Sheet_17
+  - first:
+      213: -8761963310829069604
+    second: 20250315deathGripFX-Sheet_18
+  - first:
+      213: 2736562757379503447
+    second: 20250315deathGripFX-Sheet_19
+  - first:
+      213: 1728330116540341007
+    second: 20250315deathGripFX-Sheet_20
+  - first:
+      213: 4883798276702049227
+    second: 20250315deathGripFX-Sheet_21
+  - first:
+      213: -7228727137223607577
+    second: 20250315deathGripFX-Sheet_22
+  - first:
+      213: -1262941779541082055
+    second: 20250315deathGripFX-Sheet_23
+  - first:
+      213: 4986211673297593136
+    second: 20250315deathGripFX-Sheet_24
+  - first:
+      213: 4863670430435615639
+    second: 20250315deathGripFX-Sheet_25
+  - first:
+      213: -1921934186658364769
+    second: 20250315deathGripFX-Sheet_26
+  - first:
+      213: 9078433494388686472
+    second: 20250315deathGripFX-Sheet_27
+  - first:
+      213: -3785568865599025963
+    second: 20250315deathGripFX-Sheet_28
+  - first:
+      213: 887300822579914069
+    second: 20250315deathGripFX-Sheet_29
+  - first:
+      213: 2695957625671359660
+    second: 20250315deathGripFX-Sheet_30
+  - first:
+      213: 6389968369297619050
+    second: 20250315deathGripFX-Sheet_31
+  - first:
+      213: -5904579629762898572
+    second: 20250315deathGripFX-Sheet_32
+  - first:
+      213: 338727546882468646
+    second: 20250315deathGripFX-Sheet_33
+  - first:
+      213: -3672270210184344676
+    second: 20250315deathGripFX-Sheet_34
+  - first:
+      213: 4742575004429481518
+    second: 20250315deathGripFX-Sheet_35
+  - first:
+      213: 2536483958234977492
+    second: 20250315deathGripFX-Sheet_36
+  - first:
+      213: 5762643765742146284
+    second: 20250315deathGripFX-Sheet_37
+  - first:
+      213: -3650233091696388843
+    second: 20250315deathGripFX-Sheet_38
+  - first:
+      213: 7354593865896269580
+    second: 20250315deathGripFX-Sheet_39
+  - first:
+      213: 2452585154634305423
+    second: 20250315deathGripFX-Sheet_40
+  - first:
+      213: -2324885459859006522
+    second: 20250315deathGripFX-Sheet_41
+  - first:
+      213: -2428382474394683375
+    second: 20250315deathGripFX-Sheet_42
+  - first:
+      213: -1792048803041382502
+    second: 20250315deathGripFX-Sheet_43
+  - first:
+      213: 8437405285159365890
+    second: 20250315deathGripFX-Sheet_44
+  - first:
+      213: -422998094942100555
+    second: 20250315deathGripFX-Sheet_45
+  - first:
+      213: -7888821356840346453
+    second: 20250315deathGripFX-Sheet_46
+  - first:
+      213: -9165670467383937667
+    second: 20250315deathGripFX-Sheet_47
+  - first:
+      213: -4671482697667525221
+    second: 20250315deathGripFX-Sheet_48
+  - first:
+      213: 1885318701982994331
+    second: 20250315deathGripFX-Sheet_49
+  - first:
+      213: 4968787333162053084
+    second: 20250315deathGripFX-Sheet_50
+  - first:
+      213: 4338633429523720411
+    second: 20250315deathGripFX-Sheet_51
+  - first:
+      213: -3752420999507264894
+    second: 20250315deathGripFX-Sheet_52
+  - first:
+      213: -8203761802442976847
+    second: 20250315deathGripFX-Sheet_53
+  - first:
+      213: -3468501229388062862
+    second: 20250315deathGripFX-Sheet_54
+  - first:
+      213: -94203395798516456
+    second: 20250315deathGripFX-Sheet_55
+  - first:
+      213: -6918148494975842500
+    second: 20250315deathGripFX-Sheet_56
+  - first:
+      213: 3267181500492687684
+    second: 20250315deathGripFX-Sheet_57
+  - first:
+      213: 1329769470982677334
+    second: 20250315deathGripFX-Sheet_58
+  - first:
+      213: 1352260751452914661
+    second: 20250315deathGripFX-Sheet_59
+  - first:
+      213: 7017408435117145930
+    second: 20250315deathGripFX-Sheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 798
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525386965ec828eb0800000000000000
+      internalID: -4719054542587022043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 795
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb95e87f9b64f970800000000000000
+      internalID: 8787767105578965997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 798
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7225d004aa95fe310800000000000000
+      internalID: 1436465393908404775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 798
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580d37e3d94b8ad0800000000000000
+      internalID: -2698982377212016554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 793
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74026001270fd5530800000000000000
+      internalID: 3845494029530046535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 794
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038d791e512725fa0800000000000000
+      internalID: -5813458730677184464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 795
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a9631b88dff580800000000000000
+      internalID: -8791069855766175732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 790
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763912befa57cdd0800000000000000
+      internalID: -2465902221005867400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 823
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934b3a85acd81b50800000000000000
+      internalID: 6564239060439352217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 798
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3f1cbae248dbe80800000000000000
+      internalID: -8161221613740493841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 814
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d570215c3d11e340800000000000000
+      internalID: 4891222815197394384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 795
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5198a146ec61f920800000000000000
+      internalID: 3022316561142157660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031c2c09ae0c47c0800000000000000
+      internalID: -4085874642715405553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 797
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77962d6798ad1b900800000000000000
+      internalID: 698579701158013303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 660
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d1add9da0cfbf10800000000000000
+      internalID: 2287758987637693739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 689
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fec48c444d3fdf0800000000000000
+      internalID: -147540970889744542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 689
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653d1fd10b9e92be0800000000000000
+      internalID: -1501412058125446314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 686
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1d485e6d15e230800000000000000
+      internalID: 3667369831328194467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 686
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda170baac0476680800000000000000
+      internalID: -8761963310829069604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 705
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7553b2334593af520800000000000000
+      internalID: 2736562757379503447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 686
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b1ffa75134cf710800000000000000
+      internalID: 1728330116540341007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 685
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc39d7d38acb6c340800000000000000
+      internalID: 4883798276702049227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 684
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea7f87d7f66eab90800000000000000
+      internalID: -7228727137223607577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 689
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93044729421297ee0800000000000000
+      internalID: -1262941779541082055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 660
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0332fc94915923540800000000000000
+      internalID: 4986211673297593136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 681
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793afa6dc7a3f7340800000000000000
+      internalID: 4863670430435615639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 664
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f928c824a0be355e0800000000000000
+      internalID: -1921934186658364769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 679
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ebb0ed9231dfd70800000000000000
+      internalID: 9078433494388686472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 658
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc013d6c25f67bc0800000000000000
+      internalID: -3785568865599025963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 671
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555a9c2a563505c00800000000000000
+      internalID: 887300822579914069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 535
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac95af3d27f96520800000000000000
+      internalID: 2695957625671359660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 551
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6877f9506abda850800000000000000
+      internalID: 6389968369297619050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 523
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47599fb4c18be0ea0800000000000000
+      internalID: -5904579629762898572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba193c8e663b400800000000000000
+      internalID: 338727546882468646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 555
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b86ba43b9790dc0800000000000000
+      internalID: -3672270210184344676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 520
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e267aabd6d201d140800000000000000
+      internalID: 4742575004429481518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 528
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4921d98b6633320800000000000000
+      internalID: 2536483958234977492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 392
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce21e2029f509ff40800000000000000
+      internalID: 5762643765742146284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 407
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159f06c754c75dc0800000000000000
+      internalID: -3650233091696388843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 407
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07930c9724c01660800000000000000
+      internalID: 7354593865896269580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 407
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fcf5b2435590220800000000000000
+      internalID: 2452585154634305423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 279
+        width: 36
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb12a5fdf85cbfd0800000000000000
+      internalID: -2324885459859006522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 279
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118bbe27107ac4ed0800000000000000
+      internalID: -2428382474394683375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 279
+        width: 35
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fed8abb1d5127e0800000000000000
+      internalID: -1792048803041382502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 279
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d6def476fa71570800000000000000
+      internalID: 8437405285159365890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 152
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32f4a4975312af0800000000000000
+      internalID: -422998094942100555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 154
+        width: 35
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac1401d5c6458290800000000000000
+      internalID: -7888821356840346453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 180
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75ba4f854ffcc080800000000000000
+      internalID: -9165670467383937667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 161
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95c42fac3f8b2fb0800000000000000
+      internalID: -4671482697667525221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 174
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc810ee5ff92a10800000000000000
+      internalID: 1885318701982994331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdda595f0cda4f440800000000000000
+      internalID: 4968787333162053084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd86569fd1ce53c30800000000000000
+      internalID: 4338633429523720411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 69
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a37ac6bf8bcebc0800000000000000
+      internalID: -3752420999507264894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 73
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1d7772b12662e80800000000000000
+      internalID: -8203761802442976847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 86
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f915f32886ddfc0800000000000000
+      internalID: -3468501229388062862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 75
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d3bc8b28251bef0800000000000000
+      internalID: -94203395798516456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 71
+        width: 12
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37cf85099ccdff90800000000000000
+      internalID: -6918148494975842500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 84
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4492891b34c575d20800000000000000
+      internalID: 3267181500492687684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653e417d94a447210800000000000000
+      internalID: 1329769470982677334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 74
+        width: 9
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3cd062df134c210800000000000000
+      internalID: 1352260751452914661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250315deathGripFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 91
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fbcfabac7d26160800000000000000
+      internalID: 7017408435117145930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250315deathGripFX-Sheet_0: -4719054542587022043
+      20250315deathGripFX-Sheet_1: 8787767105578965997
+      20250315deathGripFX-Sheet_10: 4891222815197394384
+      20250315deathGripFX-Sheet_11: 3022316561142157660
+      20250315deathGripFX-Sheet_12: -4085874642715405553
+      20250315deathGripFX-Sheet_13: 698579701158013303
+      20250315deathGripFX-Sheet_14: 2287758987637693739
+      20250315deathGripFX-Sheet_15: -147540970889744542
+      20250315deathGripFX-Sheet_16: -1501412058125446314
+      20250315deathGripFX-Sheet_17: 3667369831328194467
+      20250315deathGripFX-Sheet_18: -8761963310829069604
+      20250315deathGripFX-Sheet_19: 2736562757379503447
+      20250315deathGripFX-Sheet_2: 1436465393908404775
+      20250315deathGripFX-Sheet_20: 1728330116540341007
+      20250315deathGripFX-Sheet_21: 4883798276702049227
+      20250315deathGripFX-Sheet_22: -7228727137223607577
+      20250315deathGripFX-Sheet_23: -1262941779541082055
+      20250315deathGripFX-Sheet_24: 4986211673297593136
+      20250315deathGripFX-Sheet_25: 4863670430435615639
+      20250315deathGripFX-Sheet_26: -1921934186658364769
+      20250315deathGripFX-Sheet_27: 9078433494388686472
+      20250315deathGripFX-Sheet_28: -3785568865599025963
+      20250315deathGripFX-Sheet_29: 887300822579914069
+      20250315deathGripFX-Sheet_3: -2698982377212016554
+      20250315deathGripFX-Sheet_30: 2695957625671359660
+      20250315deathGripFX-Sheet_31: 6389968369297619050
+      20250315deathGripFX-Sheet_32: -5904579629762898572
+      20250315deathGripFX-Sheet_33: 338727546882468646
+      20250315deathGripFX-Sheet_34: -3672270210184344676
+      20250315deathGripFX-Sheet_35: 4742575004429481518
+      20250315deathGripFX-Sheet_36: 2536483958234977492
+      20250315deathGripFX-Sheet_37: 5762643765742146284
+      20250315deathGripFX-Sheet_38: -3650233091696388843
+      20250315deathGripFX-Sheet_39: 7354593865896269580
+      20250315deathGripFX-Sheet_4: 3845494029530046535
+      20250315deathGripFX-Sheet_40: 2452585154634305423
+      20250315deathGripFX-Sheet_41: -2324885459859006522
+      20250315deathGripFX-Sheet_42: -2428382474394683375
+      20250315deathGripFX-Sheet_43: -1792048803041382502
+      20250315deathGripFX-Sheet_44: 8437405285159365890
+      20250315deathGripFX-Sheet_45: -422998094942100555
+      20250315deathGripFX-Sheet_46: -7888821356840346453
+      20250315deathGripFX-Sheet_47: -9165670467383937667
+      20250315deathGripFX-Sheet_48: -4671482697667525221
+      20250315deathGripFX-Sheet_49: 1885318701982994331
+      20250315deathGripFX-Sheet_5: -5813458730677184464
+      20250315deathGripFX-Sheet_50: 4968787333162053084
+      20250315deathGripFX-Sheet_51: 4338633429523720411
+      20250315deathGripFX-Sheet_52: -3752420999507264894
+      20250315deathGripFX-Sheet_53: -8203761802442976847
+      20250315deathGripFX-Sheet_54: -3468501229388062862
+      20250315deathGripFX-Sheet_55: -94203395798516456
+      20250315deathGripFX-Sheet_56: -6918148494975842500
+      20250315deathGripFX-Sheet_57: 3267181500492687684
+      20250315deathGripFX-Sheet_58: 1329769470982677334
+      20250315deathGripFX-Sheet_59: 1352260751452914661
+      20250315deathGripFX-Sheet_6: -8791069855766175732
+      20250315deathGripFX-Sheet_60: 7017408435117145930
+      20250315deathGripFX-Sheet_7: -2465902221005867400
+      20250315deathGripFX-Sheet_8: 6564239060439352217
+      20250315deathGripFX-Sheet_9: -8161221613740493841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

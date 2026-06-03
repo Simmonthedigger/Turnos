@@ -1,0 +1,2262 @@
+fileFormatVersion: 2
+guid: 226b3b7799c22904eb42b26b7fda82f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8024823934618819107
+    second: 20250320knifeSalvoFX-Sheet_0
+  - first:
+      213: -8483773711088217622
+    second: 20250320knifeSalvoFX-Sheet_1
+  - first:
+      213: -8482406069367516237
+    second: 20250320knifeSalvoFX-Sheet_2
+  - first:
+      213: -8036880336668144643
+    second: 20250320knifeSalvoFX-Sheet_3
+  - first:
+      213: -2952183880501691565
+    second: 20250320knifeSalvoFX-Sheet_4
+  - first:
+      213: -5960865056504824142
+    second: 20250320knifeSalvoFX-Sheet_5
+  - first:
+      213: -6436085867906242827
+    second: 20250320knifeSalvoFX-Sheet_6
+  - first:
+      213: 7675644455526905362
+    second: 20250320knifeSalvoFX-Sheet_7
+  - first:
+      213: 4538526727143372117
+    second: 20250320knifeSalvoFX-Sheet_8
+  - first:
+      213: -3345133663446218912
+    second: 20250320knifeSalvoFX-Sheet_9
+  - first:
+      213: 227226141322217652
+    second: 20250320knifeSalvoFX-Sheet_10
+  - first:
+      213: -3915992366697246049
+    second: 20250320knifeSalvoFX-Sheet_11
+  - first:
+      213: -6165702961451494000
+    second: 20250320knifeSalvoFX-Sheet_12
+  - first:
+      213: 8903077048253132633
+    second: 20250320knifeSalvoFX-Sheet_13
+  - first:
+      213: 2741695285611272012
+    second: 20250320knifeSalvoFX-Sheet_14
+  - first:
+      213: 3899498467251970328
+    second: 20250320knifeSalvoFX-Sheet_15
+  - first:
+      213: 2423313636973704716
+    second: 20250320knifeSalvoFX-Sheet_16
+  - first:
+      213: 4739803671213794821
+    second: 20250320knifeSalvoFX-Sheet_17
+  - first:
+      213: -3047103181643224285
+    second: 20250320knifeSalvoFX-Sheet_18
+  - first:
+      213: -4216284383893311127
+    second: 20250320knifeSalvoFX-Sheet_19
+  - first:
+      213: 5887976338580348618
+    second: 20250320knifeSalvoFX-Sheet_20
+  - first:
+      213: 6962857004963126023
+    second: 20250320knifeSalvoFX-Sheet_21
+  - first:
+      213: 4168773132343898081
+    second: 20250320knifeSalvoFX-Sheet_22
+  - first:
+      213: -6663694554368147141
+    second: 20250320knifeSalvoFX-Sheet_23
+  - first:
+      213: 2437136875741868429
+    second: 20250320knifeSalvoFX-Sheet_24
+  - first:
+      213: 1588211105317000707
+    second: 20250320knifeSalvoFX-Sheet_25
+  - first:
+      213: 6160532045624389584
+    second: 20250320knifeSalvoFX-Sheet_26
+  - first:
+      213: -4768924388944872953
+    second: 20250320knifeSalvoFX-Sheet_27
+  - first:
+      213: -2907329957625389393
+    second: 20250320knifeSalvoFX-Sheet_28
+  - first:
+      213: 2461253493750776364
+    second: 20250320knifeSalvoFX-Sheet_29
+  - first:
+      213: 99575943245063926
+    second: 20250320knifeSalvoFX-Sheet_30
+  - first:
+      213: -3455503217014111550
+    second: 20250320knifeSalvoFX-Sheet_31
+  - first:
+      213: -5949534376381426868
+    second: 20250320knifeSalvoFX-Sheet_32
+  - first:
+      213: 3511295599163024573
+    second: 20250320knifeSalvoFX-Sheet_33
+  - first:
+      213: 5916300157392671509
+    second: 20250320knifeSalvoFX-Sheet_34
+  - first:
+      213: -8438682121632021791
+    second: 20250320knifeSalvoFX-Sheet_35
+  - first:
+      213: -8701200689800066846
+    second: 20250320knifeSalvoFX-Sheet_36
+  - first:
+      213: 6373512148621142810
+    second: 20250320knifeSalvoFX-Sheet_37
+  - first:
+      213: -3536288110135469781
+    second: 20250320knifeSalvoFX-Sheet_38
+  - first:
+      213: 7830565097727253619
+    second: 20250320knifeSalvoFX-Sheet_39
+  - first:
+      213: -7718438395977464363
+    second: 20250320knifeSalvoFX-Sheet_40
+  - first:
+      213: -4032226148337079860
+    second: 20250320knifeSalvoFX-Sheet_41
+  - first:
+      213: -3188790163367477264
+    second: 20250320knifeSalvoFX-Sheet_42
+  - first:
+      213: -4360544166609752727
+    second: 20250320knifeSalvoFX-Sheet_43
+  - first:
+      213: 2938667580768632797
+    second: 20250320knifeSalvoFX-Sheet_44
+  - first:
+      213: -3158501039529567400
+    second: 20250320knifeSalvoFX-Sheet_45
+  - first:
+      213: 3134876917805725009
+    second: 20250320knifeSalvoFX-Sheet_46
+  - first:
+      213: -4348290084565139801
+    second: 20250320knifeSalvoFX-Sheet_47
+  - first:
+      213: 1118654813605643142
+    second: 20250320knifeSalvoFX-Sheet_48
+  - first:
+      213: -1156275822976348431
+    second: 20250320knifeSalvoFX-Sheet_49
+  - first:
+      213: 171401049049644436
+    second: 20250320knifeSalvoFX-Sheet_50
+  - first:
+      213: 4863113253058091270
+    second: 20250320knifeSalvoFX-Sheet_51
+  - first:
+      213: -4882637301830814270
+    second: 20250320knifeSalvoFX-Sheet_52
+  - first:
+      213: -5879971836497465333
+    second: 20250320knifeSalvoFX-Sheet_53
+  - first:
+      213: -5874710131262207814
+    second: 20250320knifeSalvoFX-Sheet_54
+  - first:
+      213: 7822045252612615163
+    second: 20250320knifeSalvoFX-Sheet_55
+  - first:
+      213: 5016181884281499920
+    second: 20250320knifeSalvoFX-Sheet_56
+  - first:
+      213: 5649596736334695033
+    second: 20250320knifeSalvoFX-Sheet_57
+  - first:
+      213: 6518389599154293915
+    second: 20250320knifeSalvoFX-Sheet_58
+  - first:
+      213: 4889779781266359272
+    second: 20250320knifeSalvoFX-Sheet_59
+  - first:
+      213: 7681516736886210584
+    second: 20250320knifeSalvoFX-Sheet_60
+  - first:
+      213: 1948474907264957879
+    second: 20250320knifeSalvoFX-Sheet_61
+  - first:
+      213: 1072832184353998140
+    second: 20250320knifeSalvoFX-Sheet_62
+  - first:
+      213: -402421067254943350
+    second: 20250320knifeSalvoFX-Sheet_63
+  - first:
+      213: 6050650857561314600
+    second: 20250320knifeSalvoFX-Sheet_64
+  - first:
+      213: 715535976574699932
+    second: 20250320knifeSalvoFX-Sheet_65
+  - first:
+      213: -4734310355007408647
+    second: 20250320knifeSalvoFX-Sheet_66
+  - first:
+      213: 3994577021529046809
+    second: 20250320knifeSalvoFX-Sheet_67
+  - first:
+      213: -5764673917778016572
+    second: 20250320knifeSalvoFX-Sheet_68
+  - first:
+      213: -4282912769456000457
+    second: 20250320knifeSalvoFX-Sheet_69
+  - first:
+      213: -538868335854372907
+    second: 20250320knifeSalvoFX-Sheet_70
+  - first:
+      213: 6229626241176543822
+    second: 20250320knifeSalvoFX-Sheet_71
+  - first:
+      213: -1717821227140150810
+    second: 20250320knifeSalvoFX-Sheet_72
+  - first:
+      213: 7319343792445172852
+    second: 20250320knifeSalvoFX-Sheet_73
+  - first:
+      213: -6993897084039896524
+    second: 20250320knifeSalvoFX-Sheet_74
+  - first:
+      213: -8833390373572042668
+    second: 20250320knifeSalvoFX-Sheet_75
+  - first:
+      213: 3178457710234285953
+    second: 20250320knifeSalvoFX-Sheet_76
+  - first:
+      213: 2247698324780548209
+    second: 20250320knifeSalvoFX-Sheet_77
+  - first:
+      213: 737308703217635763
+    second: 20250320knifeSalvoFX-Sheet_78
+  - first:
+      213: -1944386844574684265
+    second: 20250320knifeSalvoFX-Sheet_79
+  - first:
+      213: 2842756086737255603
+    second: 20250320knifeSalvoFX-Sheet_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 701
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd52ef7162912a090800000000000000
+      internalID: -8024823934618819107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 700
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11acb32c4934a80800000000000000
+      internalID: -8483773711088217622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 700
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b35bb22f90784a80800000000000000
+      internalID: -8482406069367516237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 700
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbc29e3ae3477090800000000000000
+      internalID: -8036880336668144643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 693
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bff0be66cb707d0800000000000000
+      internalID: -2952183880501691565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 572
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bebdf820d0c64da0800000000000000
+      internalID: -5960865056504824142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 587
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f66983c00e6ea6a0800000000000000
+      internalID: -6436085867906242827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 575
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216b0e907fd558a60800000000000000
+      internalID: 7675644455526905362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 585
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5553ffe13061cfe30800000000000000
+      internalID: 4538526727143372117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 574
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067461808a2b391d0800000000000000
+      internalID: -3345133663446218912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 561
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8813db8f4472300800000000000000
+      internalID: 227226141322217652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 575
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f929ed7b0b997a9c0800000000000000
+      internalID: -3915992366697246049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 560
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0951c18e2d50f6aa0800000000000000
+      internalID: -6165702961451494000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 573
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95faf05a7651e8b70800000000000000
+      internalID: 8903077048253132633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 564
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47193d06557c0620800000000000000
+      internalID: 2741695285611272012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 569
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ebbe023dcd1630800000000000000
+      internalID: 3899498467251970328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 564
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c067d2fd9e651a120800000000000000
+      internalID: 2423313636973704716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 564
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5066acf835a27c140800000000000000
+      internalID: 4739803671213794821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 565
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b6130fcc386b5d0800000000000000
+      internalID: -3047103181643224285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 437
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961330211bfbc75c0800000000000000
+      internalID: -4216284383893311127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 470
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9cfab84b46b150800000000000000
+      internalID: 5887976338580348618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 449
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bdaa22e8901a060800000000000000
+      internalID: 6962857004963126023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 466
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efec86a3157ad930800000000000000
+      internalID: 4168773132343898081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 423
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318e2bcb1dc583a0800000000000000
+      internalID: -6663694554368147141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 458
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d817993731372d120800000000000000
+      internalID: 2437136875741868429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 432
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30610c8e5957a0610800000000000000
+      internalID: 1588211105317000707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df2ade614b9e7550800000000000000
+      internalID: 6160532045624389584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 438
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a7e3cf88061ddb0800000000000000
+      internalID: -4768924388944872953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 426
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae13e6aec617a7d0800000000000000
+      internalID: -2907329957625389393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 439
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2244352301282220800000000000000
+      internalID: 2461253493750776364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 447
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6eb45fac3c16100800000000000000
+      internalID: 99575943245063926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 424
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c287a5d1269b00d0800000000000000
+      internalID: -3455503217014111550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 442
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435fc4b1020f6da0800000000000000
+      internalID: -5949534376381426868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 422
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db421896eb0aab030800000000000000
+      internalID: 3511295599163024573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 421
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5135af1b5abea1250800000000000000
+      internalID: 5916300157392671509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 421
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e20fa70257c3ea80800000000000000
+      internalID: -8438682121632021791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 421
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84515d2102f3780800000000000000
+      internalID: -8701200689800066846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 307
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b2336e783437850800000000000000
+      internalID: 6373512148621142810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 295
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2910fb23b49ceec0800000000000000
+      internalID: -3536288110135469781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 344
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cda90e771cbac60800000000000000
+      internalID: 7830565097727253619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 331
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d507034c2992e490800000000000000
+      internalID: -7718438395977464363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 337
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9a3568ea7aa08c0800000000000000
+      internalID: -4032226148337079860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 321
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffb839cd342fb3d0800000000000000
+      internalID: -3188790163367477264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 314
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96de2d10f2c3c73c0800000000000000
+      internalID: -4360544166609752727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 316
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfbba0589e38c820800000000000000
+      internalID: 2938667580768632797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 327
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b532cf900ca24d0800000000000000
+      internalID: -3158501039529567400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 291
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155b16c82f1518b20800000000000000
+      internalID: 3134876917805725009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 311
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae3421d435c7a3c0800000000000000
+      internalID: -4348290084565139801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 297
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ce3740a2468f00800000000000000
+      internalID: 1118654813605643142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 315
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe4f15e34514ffe0800000000000000
+      internalID: -1156275822976348431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 296
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dbbb29850f06200800000000000000
+      internalID: 171401049049644436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 288
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609950fdcbf3d7340800000000000000
+      internalID: 4863113253058091270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 293
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c57d494e336d3cb0800000000000000
+      internalID: -4882637301830814270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 306
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b007444a4c4266ea0800000000000000
+      internalID: -5879971836497465333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 295
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab84abbd246d87ea0800000000000000
+      internalID: -5874710131262207814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 308
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb610bd6bc7d8c60800000000000000
+      internalID: 7822045252612615163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 295
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011395dc8de0d9540800000000000000
+      internalID: 5016181884281499920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 294
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a8f618c46676e40800000000000000
+      internalID: 5649596736334695033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 296
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4135fdc8f57a50800000000000000
+      internalID: 6518389599154293915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 177
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c44ccdccfbd340800000000000000
+      internalID: 4889779781266359272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 157
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810025616ca3a9a60800000000000000
+      internalID: 7681516736886210584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 169
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3a4dca9f5a0b10800000000000000
+      internalID: 1948474907264957879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 178
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c604003773ee00800000000000000
+      internalID: 1072832184353998140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 171
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81b224eb205a6af0800000000000000
+      internalID: -402421067254943350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 158
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825dad0b5ea38f350800000000000000
+      internalID: 6050650857561314600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c994fbbfd281ee900800000000000000
+      internalID: 715535976574699932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 173
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f57459c0d95c4eb0800000000000000
+      internalID: -4734310355007408647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 162
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3d2c03a69f6730800000000000000
+      internalID: 3994577021529046809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 171
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6c1e44d93cfffa0800000000000000
+      internalID: -5764673917778016572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 162
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732379c27890094c0800000000000000
+      internalID: -4282912769456000457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b1b48a1e8588f0800000000000000
+      internalID: -538868335854372907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 43
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42a7c47f04147650800000000000000
+      internalID: 6229626241176543822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 72
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e98fa002b21928e0800000000000000
+      internalID: -1717821227140150810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 80
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ca7a15668839560800000000000000
+      internalID: 7319343792445172852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 51
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432692648afa0fe90800000000000000
+      internalID: -6993897084039896524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 37
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45022eca14e796580800000000000000
+      internalID: -8833390373572042668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 54
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187bd1082762c1c20800000000000000
+      internalID: 3178457710234285953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 43
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17009c2b7bd613f10800000000000000
+      internalID: 2247698324780548209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 54
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15711fb527b3a00800000000000000
+      internalID: 737308703217635763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 31
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bee2777762405e0800000000000000
+      internalID: -1944386844574684265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320knifeSalvoFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbd0d699f737720800000000000000
+      internalID: 2842756086737255603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250320knifeSalvoFX-Sheet_0: -8024823934618819107
+      20250320knifeSalvoFX-Sheet_1: -8483773711088217622
+      20250320knifeSalvoFX-Sheet_10: 227226141322217652
+      20250320knifeSalvoFX-Sheet_11: -3915992366697246049
+      20250320knifeSalvoFX-Sheet_12: -6165702961451494000
+      20250320knifeSalvoFX-Sheet_13: 8903077048253132633
+      20250320knifeSalvoFX-Sheet_14: 2741695285611272012
+      20250320knifeSalvoFX-Sheet_15: 3899498467251970328
+      20250320knifeSalvoFX-Sheet_16: 2423313636973704716
+      20250320knifeSalvoFX-Sheet_17: 4739803671213794821
+      20250320knifeSalvoFX-Sheet_18: -3047103181643224285
+      20250320knifeSalvoFX-Sheet_19: -4216284383893311127
+      20250320knifeSalvoFX-Sheet_2: -8482406069367516237
+      20250320knifeSalvoFX-Sheet_20: 5887976338580348618
+      20250320knifeSalvoFX-Sheet_21: 6962857004963126023
+      20250320knifeSalvoFX-Sheet_22: 4168773132343898081
+      20250320knifeSalvoFX-Sheet_23: -6663694554368147141
+      20250320knifeSalvoFX-Sheet_24: 2437136875741868429
+      20250320knifeSalvoFX-Sheet_25: 1588211105317000707
+      20250320knifeSalvoFX-Sheet_26: 6160532045624389584
+      20250320knifeSalvoFX-Sheet_27: -4768924388944872953
+      20250320knifeSalvoFX-Sheet_28: -2907329957625389393
+      20250320knifeSalvoFX-Sheet_29: 2461253493750776364
+      20250320knifeSalvoFX-Sheet_3: -8036880336668144643
+      20250320knifeSalvoFX-Sheet_30: 99575943245063926
+      20250320knifeSalvoFX-Sheet_31: -3455503217014111550
+      20250320knifeSalvoFX-Sheet_32: -5949534376381426868
+      20250320knifeSalvoFX-Sheet_33: 3511295599163024573
+      20250320knifeSalvoFX-Sheet_34: 5916300157392671509
+      20250320knifeSalvoFX-Sheet_35: -8438682121632021791
+      20250320knifeSalvoFX-Sheet_36: -8701200689800066846
+      20250320knifeSalvoFX-Sheet_37: 6373512148621142810
+      20250320knifeSalvoFX-Sheet_38: -3536288110135469781
+      20250320knifeSalvoFX-Sheet_39: 7830565097727253619
+      20250320knifeSalvoFX-Sheet_4: -2952183880501691565
+      20250320knifeSalvoFX-Sheet_40: -7718438395977464363
+      20250320knifeSalvoFX-Sheet_41: -4032226148337079860
+      20250320knifeSalvoFX-Sheet_42: -3188790163367477264
+      20250320knifeSalvoFX-Sheet_43: -4360544166609752727
+      20250320knifeSalvoFX-Sheet_44: 2938667580768632797
+      20250320knifeSalvoFX-Sheet_45: -3158501039529567400
+      20250320knifeSalvoFX-Sheet_46: 3134876917805725009
+      20250320knifeSalvoFX-Sheet_47: -4348290084565139801
+      20250320knifeSalvoFX-Sheet_48: 1118654813605643142
+      20250320knifeSalvoFX-Sheet_49: -1156275822976348431
+      20250320knifeSalvoFX-Sheet_5: -5960865056504824142
+      20250320knifeSalvoFX-Sheet_50: 171401049049644436
+      20250320knifeSalvoFX-Sheet_51: 4863113253058091270
+      20250320knifeSalvoFX-Sheet_52: -4882637301830814270
+      20250320knifeSalvoFX-Sheet_53: -5879971836497465333
+      20250320knifeSalvoFX-Sheet_54: -5874710131262207814
+      20250320knifeSalvoFX-Sheet_55: 7822045252612615163
+      20250320knifeSalvoFX-Sheet_56: 5016181884281499920
+      20250320knifeSalvoFX-Sheet_57: 5649596736334695033
+      20250320knifeSalvoFX-Sheet_58: 6518389599154293915
+      20250320knifeSalvoFX-Sheet_59: 4889779781266359272
+      20250320knifeSalvoFX-Sheet_6: -6436085867906242827
+      20250320knifeSalvoFX-Sheet_60: 7681516736886210584
+      20250320knifeSalvoFX-Sheet_61: 1948474907264957879
+      20250320knifeSalvoFX-Sheet_62: 1072832184353998140
+      20250320knifeSalvoFX-Sheet_63: -402421067254943350
+      20250320knifeSalvoFX-Sheet_64: 6050650857561314600
+      20250320knifeSalvoFX-Sheet_65: 715535976574699932
+      20250320knifeSalvoFX-Sheet_66: -4734310355007408647
+      20250320knifeSalvoFX-Sheet_67: 3994577021529046809
+      20250320knifeSalvoFX-Sheet_68: -5764673917778016572
+      20250320knifeSalvoFX-Sheet_69: -4282912769456000457
+      20250320knifeSalvoFX-Sheet_7: 7675644455526905362
+      20250320knifeSalvoFX-Sheet_70: -538868335854372907
+      20250320knifeSalvoFX-Sheet_71: 6229626241176543822
+      20250320knifeSalvoFX-Sheet_72: -1717821227140150810
+      20250320knifeSalvoFX-Sheet_73: 7319343792445172852
+      20250320knifeSalvoFX-Sheet_74: -6993897084039896524
+      20250320knifeSalvoFX-Sheet_75: -8833390373572042668
+      20250320knifeSalvoFX-Sheet_76: 3178457710234285953
+      20250320knifeSalvoFX-Sheet_77: 2247698324780548209
+      20250320knifeSalvoFX-Sheet_78: 737308703217635763
+      20250320knifeSalvoFX-Sheet_79: -1944386844574684265
+      20250320knifeSalvoFX-Sheet_8: 4538526727143372117
+      20250320knifeSalvoFX-Sheet_80: 2842756086737255603
+      20250320knifeSalvoFX-Sheet_9: -3345133663446218912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

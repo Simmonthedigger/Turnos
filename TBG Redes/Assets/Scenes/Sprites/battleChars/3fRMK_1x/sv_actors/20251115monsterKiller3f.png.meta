@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 0db449f9148af1947a8f9099f5078294
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3364508054066358547
+    second: 20251115monsterKiller3f_0
+  - first:
+      213: -5343600719712288665
+    second: 20251115monsterKiller3f_1
+  - first:
+      213: 2912194551234389558
+    second: 20251115monsterKiller3f_2
+  - first:
+      213: 6064116282866356465
+    second: 20251115monsterKiller3f_3
+  - first:
+      213: 2410891134716496642
+    second: 20251115monsterKiller3f_4
+  - first:
+      213: 3798171287600045779
+    second: 20251115monsterKiller3f_5
+  - first:
+      213: 866168605782535181
+    second: 20251115monsterKiller3f_6
+  - first:
+      213: -3920616410759999683
+    second: 20251115monsterKiller3f_7
+  - first:
+      213: -707262213985860151
+    second: 20251115monsterKiller3f_8
+  - first:
+      213: 9003272303729293712
+    second: 20251115monsterKiller3f_9
+  - first:
+      213: 737391652712644640
+    second: 20251115monsterKiller3f_10
+  - first:
+      213: -3903600579968328144
+    second: 20251115monsterKiller3f_11
+  - first:
+      213: 906578782194682226
+    second: 20251115monsterKiller3f_12
+  - first:
+      213: -99762282510158773
+    second: 20251115monsterKiller3f_13
+  - first:
+      213: -8722228301408375227
+    second: 20251115monsterKiller3f_14
+  - first:
+      213: -7055202188137182266
+    second: 20251115monsterKiller3f_15
+  - first:
+      213: -2592384396107060936
+    second: 20251115monsterKiller3f_16
+  - first:
+      213: 8661671955092869800
+    second: 20251115monsterKiller3f_17
+  - first:
+      213: -2459735294883423290
+    second: 20251115monsterKiller3f_18
+  - first:
+      213: 6522723160828770983
+    second: 20251115monsterKiller3f_19
+  - first:
+      213: 5946808747061825495
+    second: 20251115monsterKiller3f_20
+  - first:
+      213: -6825495390179529209
+    second: 20251115monsterKiller3f_21
+  - first:
+      213: -3698317798675198541
+    second: 20251115monsterKiller3f_22
+  - first:
+      213: 4047691439430105421
+    second: 20251115monsterKiller3f_23
+  - first:
+      213: -1671612336356125669
+    second: 20251115monsterKiller3f_24
+  - first:
+      213: 7808519673816614947
+    second: 20251115monsterKiller3f_25
+  - first:
+      213: 1638516429390059207
+    second: 20251115monsterKiller3f_26
+  - first:
+      213: -994556721913088774
+    second: 20251115monsterKiller3f_27
+  - first:
+      213: -5458498674879229291
+    second: 20251115monsterKiller3f_28
+  - first:
+      213: 7756784721634645916
+    second: 20251115monsterKiller3f_29
+  - first:
+      213: -163833096522032759
+    second: 20251115monsterKiller3f_30
+  - first:
+      213: 496859830299562896
+    second: 20251115monsterKiller3f_31
+  - first:
+      213: 5616461318083461220
+    second: 20251115monsterKiller3f_32
+  - first:
+      213: 7262437405293689159
+    second: 20251115monsterKiller3f_33
+  - first:
+      213: 4783951308226282840
+    second: 20251115monsterKiller3f_34
+  - first:
+      213: 4104902465951563916
+    second: 20251115monsterKiller3f_35
+  - first:
+      213: 7684809800817534520
+    second: 20251115monsterKiller3f_36
+  - first:
+      213: -7667034853102494254
+    second: 20251115monsterKiller3f_37
+  - first:
+      213: -4121217391124915005
+    second: 20251115monsterKiller3f_38
+  - first:
+      213: -8683876765353879726
+    second: 20251115monsterKiller3f_39
+  - first:
+      213: -7998593231541155905
+    second: 20251115monsterKiller3f_40
+  - first:
+      213: -7322988843708500211
+    second: 20251115monsterKiller3f_41
+  - first:
+      213: -2156500704627598204
+    second: 20251115monsterKiller3f_42
+  - first:
+      213: -5684074683298689758
+    second: 20251115monsterKiller3f_43
+  - first:
+      213: 1019198389496924216
+    second: 20251115monsterKiller3f_44
+  - first:
+      213: 6870783713283484281
+    second: 20251115monsterKiller3f_45
+  - first:
+      213: -8370603619269660929
+    second: 20251115monsterKiller3f_46
+  - first:
+      213: -3862537184518342264
+    second: 20251115monsterKiller3f_47
+  - first:
+      213: 5820565912238951371
+    second: 20251115monsterKiller3f_48
+  - first:
+      213: -5138418751947643559
+    second: 20251115monsterKiller3f_49
+  - first:
+      213: 3434520470097028008
+    second: 20251115monsterKiller3f_50
+  - first:
+      213: 7030629011972049040
+    second: 20251115monsterKiller3f_51
+  - first:
+      213: 402260775497985010
+    second: 20251115monsterKiller3f_52
+  - first:
+      213: 6921934104766949206
+    second: 20251115monsterKiller3f_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 360
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de61f6130cdde41d0800000000000000
+      internalID: -3364508054066358547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 360
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76007000577b7d5b0800000000000000
+      internalID: -5343600719712288665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 360
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636672fc3813a6820800000000000000
+      internalID: 2912194551234389558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 360
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f059e451a1182450800000000000000
+      internalID: 6064116282866356465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 360
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b4aeca6b4357120800000000000000
+      internalID: 2410891134716496642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 360
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de1d7999a0d5b430800000000000000
+      internalID: 3798171287600045779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_6
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 360
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c634ff1cf350c00800000000000000
+      internalID: 866168605782535181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 360
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f4510952c2799c0800000000000000
+      internalID: -3920616410759999683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 360
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5015c73cc4f26f0800000000000000
+      internalID: -707262213985860151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 288
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099b5e7757c02fc70800000000000000
+      internalID: 9003272303729293712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02086402dcdbb3a00800000000000000
+      internalID: 737391652712644640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e9af564ff93d9c0800000000000000
+      internalID: -3903600579968328144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_12
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279ce916990d49c00800000000000000
+      internalID: 906578782194682226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 288
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44fffc8bb29d9ef0800000000000000
+      internalID: -99762282510158773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 288
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ee1bc729b64f680800000000000000
+      internalID: -8722228301408375227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 289
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb468d6df2e61e90800000000000000
+      internalID: -7055202188137182266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 292
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839e5c47020060cd0800000000000000
+      internalID: -2592384396107060936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_17
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 290
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2164c60c0743870800000000000000
+      internalID: 8661671955092869800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 216
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9bf218c34dddd0800000000000000
+      internalID: -2459735294883423290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 216
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa7969e72e558a50800000000000000
+      internalID: 6522723160828770983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 216
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4ec34c0f478250800000000000000
+      internalID: 5946808747061825495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 216
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e684c0b18f641a0800000000000000
+      internalID: -6825495390179529209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_22
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 216
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc57f7e8fecacc0800000000000000
+      internalID: -3698317798675198541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 216
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49fe972be94c2830800000000000000
+      internalID: 4047691439430105421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 215
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b141559cf6d3dc8e0800000000000000
+      internalID: -1671612336356125669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 215
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280d73a54f6d5c60800000000000000
+      internalID: 7808519673816614947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 215
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c69f64e20e2db610800000000000000
+      internalID: 1638516429390059207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 144
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b4694eef9232f0800000000000000
+      internalID: -994556721913088774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 144
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59212e420648f34b0800000000000000
+      internalID: -5458498674879229291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 144
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d53c6b92a5ab60800000000000000
+      internalID: 7756784721634645916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_30
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9891a5faaa2f9bdf0800000000000000
+      internalID: -163833096522032759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 144
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0939a28126335e600800000000000000
+      internalID: 496859830299562896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 144
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460461fbfcda1fd40800000000000000
+      internalID: 5616461318083461220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 143
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493a02975c59c460800000000000000
+      internalID: 7262437405293689159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 143
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c79d4e52046240800000000000000
+      internalID: 4783951308226282840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_35
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 143
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c800ba84b0b87f830800000000000000
+      internalID: 4104902465951563916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 72
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8366b284ccde5aa60800000000000000
+      internalID: 7684809800817534520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd594c3c68399590800000000000000
+      internalID: -7667034853102494254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 72
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc56df2e9e7ec6c0800000000000000
+      internalID: -4121217391124915005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_39
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25750df471cac7780800000000000000
+      internalID: -8683876765353879726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 72
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7452395d94ff090800000000000000
+      internalID: -7998593231541155905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_41
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 72
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073b9c02748f5a90800000000000000
+      internalID: -7322988843708500211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_42
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 71
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cdac6e8029212e0800000000000000
+      internalID: -2156500704627598204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_43
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 71
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dc039e03c1e11b0800000000000000
+      internalID: -5684074683298689758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_44
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 71
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8384d99098be42e00800000000000000
+      internalID: 1019198389496924216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2dce526de95f50800000000000000
+      internalID: 6870783713283484281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe25dd8b54a5db80800000000000000
+      internalID: -8370603619269660929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_47
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889fb0135e2856ac0800000000000000
+      internalID: -3862537184518342264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb00c6cbddc6c050800000000000000
+      internalID: 5820565912238951371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_49
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95564fe9e5ba0b8b0800000000000000
+      internalID: -5138418751947643559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3e0f1bb2ed9af20800000000000000
+      internalID: 3434520470097028008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098462626dfc19160800000000000000
+      internalID: 7030629011972049040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_52
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb61a64b0e159500800000000000000
+      internalID: 402260775497985010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115monsterKiller3f_53
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ab41f466af0060800000000000000
+      internalID: 6921934104766949206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115monsterKiller3f_0: -3364508054066358547
+      20251115monsterKiller3f_1: -5343600719712288665
+      20251115monsterKiller3f_10: 737391652712644640
+      20251115monsterKiller3f_11: -3903600579968328144
+      20251115monsterKiller3f_12: 906578782194682226
+      20251115monsterKiller3f_13: -99762282510158773
+      20251115monsterKiller3f_14: -8722228301408375227
+      20251115monsterKiller3f_15: -7055202188137182266
+      20251115monsterKiller3f_16: -2592384396107060936
+      20251115monsterKiller3f_17: 8661671955092869800
+      20251115monsterKiller3f_18: -2459735294883423290
+      20251115monsterKiller3f_19: 6522723160828770983
+      20251115monsterKiller3f_2: 2912194551234389558
+      20251115monsterKiller3f_20: 5946808747061825495
+      20251115monsterKiller3f_21: -6825495390179529209
+      20251115monsterKiller3f_22: -3698317798675198541
+      20251115monsterKiller3f_23: 4047691439430105421
+      20251115monsterKiller3f_24: -1671612336356125669
+      20251115monsterKiller3f_25: 7808519673816614947
+      20251115monsterKiller3f_26: 1638516429390059207
+      20251115monsterKiller3f_27: -994556721913088774
+      20251115monsterKiller3f_28: -5458498674879229291
+      20251115monsterKiller3f_29: 7756784721634645916
+      20251115monsterKiller3f_3: 6064116282866356465
+      20251115monsterKiller3f_30: -163833096522032759
+      20251115monsterKiller3f_31: 496859830299562896
+      20251115monsterKiller3f_32: 5616461318083461220
+      20251115monsterKiller3f_33: 7262437405293689159
+      20251115monsterKiller3f_34: 4783951308226282840
+      20251115monsterKiller3f_35: 4104902465951563916
+      20251115monsterKiller3f_36: 7684809800817534520
+      20251115monsterKiller3f_37: -7667034853102494254
+      20251115monsterKiller3f_38: -4121217391124915005
+      20251115monsterKiller3f_39: -8683876765353879726
+      20251115monsterKiller3f_4: 2410891134716496642
+      20251115monsterKiller3f_40: -7998593231541155905
+      20251115monsterKiller3f_41: -7322988843708500211
+      20251115monsterKiller3f_42: -2156500704627598204
+      20251115monsterKiller3f_43: -5684074683298689758
+      20251115monsterKiller3f_44: 1019198389496924216
+      20251115monsterKiller3f_45: 6870783713283484281
+      20251115monsterKiller3f_46: -8370603619269660929
+      20251115monsterKiller3f_47: -3862537184518342264
+      20251115monsterKiller3f_48: 5820565912238951371
+      20251115monsterKiller3f_49: -5138418751947643559
+      20251115monsterKiller3f_5: 3798171287600045779
+      20251115monsterKiller3f_50: 3434520470097028008
+      20251115monsterKiller3f_51: 7030629011972049040
+      20251115monsterKiller3f_52: 402260775497985010
+      20251115monsterKiller3f_53: 6921934104766949206
+      20251115monsterKiller3f_6: 866168605782535181
+      20251115monsterKiller3f_7: -3920616410759999683
+      20251115monsterKiller3f_8: -707262213985860151
+      20251115monsterKiller3f_9: 9003272303729293712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

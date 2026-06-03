@@ -1,0 +1,3926 @@
+fileFormatVersion: 2
+guid: e7c66107bae773242815334e29ff74c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2445560338043278788
+    second: 20241027necronomicongaFX-Sheet_0
+  - first:
+      213: -3767306980195243788
+    second: 20241027necronomicongaFX-Sheet_1
+  - first:
+      213: 117533867925380067
+    second: 20241027necronomicongaFX-Sheet_2
+  - first:
+      213: -8277122067066602502
+    second: 20241027necronomicongaFX-Sheet_3
+  - first:
+      213: 8989983650513114096
+    second: 20241027necronomicongaFX-Sheet_4
+  - first:
+      213: -5384220465034914519
+    second: 20241027necronomicongaFX-Sheet_5
+  - first:
+      213: 6361584845503975356
+    second: 20241027necronomicongaFX-Sheet_6
+  - first:
+      213: -8881870378735420397
+    second: 20241027necronomicongaFX-Sheet_7
+  - first:
+      213: 7645207584733725369
+    second: 20241027necronomicongaFX-Sheet_8
+  - first:
+      213: -5621760259556169814
+    second: 20241027necronomicongaFX-Sheet_9
+  - first:
+      213: 3674158271216093747
+    second: 20241027necronomicongaFX-Sheet_10
+  - first:
+      213: 3479571095270776725
+    second: 20241027necronomicongaFX-Sheet_11
+  - first:
+      213: -1446239615632568669
+    second: 20241027necronomicongaFX-Sheet_12
+  - first:
+      213: 772295709616522146
+    second: 20241027necronomicongaFX-Sheet_13
+  - first:
+      213: 7872170842924951189
+    second: 20241027necronomicongaFX-Sheet_14
+  - first:
+      213: -8929769097809084382
+    second: 20241027necronomicongaFX-Sheet_15
+  - first:
+      213: 705797728144334970
+    second: 20241027necronomicongaFX-Sheet_16
+  - first:
+      213: -2043895456236111327
+    second: 20241027necronomicongaFX-Sheet_17
+  - first:
+      213: -3795060881412434962
+    second: 20241027necronomicongaFX-Sheet_18
+  - first:
+      213: 7167919083973160701
+    second: 20241027necronomicongaFX-Sheet_19
+  - first:
+      213: -5110759571246229496
+    second: 20241027necronomicongaFX-Sheet_20
+  - first:
+      213: 730187070856480833
+    second: 20241027necronomicongaFX-Sheet_21
+  - first:
+      213: 3322769156794486643
+    second: 20241027necronomicongaFX-Sheet_22
+  - first:
+      213: -3307530649912848777
+    second: 20241027necronomicongaFX-Sheet_23
+  - first:
+      213: -7943797774332600947
+    second: 20241027necronomicongaFX-Sheet_24
+  - first:
+      213: -7197551921489618971
+    second: 20241027necronomicongaFX-Sheet_25
+  - first:
+      213: 5660955774756913714
+    second: 20241027necronomicongaFX-Sheet_26
+  - first:
+      213: -1514564797481825196
+    second: 20241027necronomicongaFX-Sheet_27
+  - first:
+      213: -886474769397604071
+    second: 20241027necronomicongaFX-Sheet_28
+  - first:
+      213: 144863038422780985
+    second: 20241027necronomicongaFX-Sheet_29
+  - first:
+      213: 5972998268804385666
+    second: 20241027necronomicongaFX-Sheet_30
+  - first:
+      213: -5120025016710695697
+    second: 20241027necronomicongaFX-Sheet_31
+  - first:
+      213: -1316387085127749656
+    second: 20241027necronomicongaFX-Sheet_32
+  - first:
+      213: -8632543536022439716
+    second: 20241027necronomicongaFX-Sheet_33
+  - first:
+      213: 7849692254267445431
+    second: 20241027necronomicongaFX-Sheet_34
+  - first:
+      213: -4891017044531405140
+    second: 20241027necronomicongaFX-Sheet_35
+  - first:
+      213: -5252269791566612261
+    second: 20241027necronomicongaFX-Sheet_36
+  - first:
+      213: 1294947357953211233
+    second: 20241027necronomicongaFX-Sheet_37
+  - first:
+      213: -1236932779204331937
+    second: 20241027necronomicongaFX-Sheet_38
+  - first:
+      213: 6836174046034111214
+    second: 20241027necronomicongaFX-Sheet_39
+  - first:
+      213: 7675703829083171953
+    second: 20241027necronomicongaFX-Sheet_40
+  - first:
+      213: -3391539573685130014
+    second: 20241027necronomicongaFX-Sheet_41
+  - first:
+      213: 3208146268458240086
+    second: 20241027necronomicongaFX-Sheet_42
+  - first:
+      213: -7081208224381942497
+    second: 20241027necronomicongaFX-Sheet_43
+  - first:
+      213: -4527283317871100318
+    second: 20241027necronomicongaFX-Sheet_44
+  - first:
+      213: -2950517774945995121
+    second: 20241027necronomicongaFX-Sheet_45
+  - first:
+      213: 8375982125023464004
+    second: 20241027necronomicongaFX-Sheet_46
+  - first:
+      213: 37259319173949945
+    second: 20241027necronomicongaFX-Sheet_47
+  - first:
+      213: -7281191129342185458
+    second: 20241027necronomicongaFX-Sheet_48
+  - first:
+      213: 5037212877293253670
+    second: 20241027necronomicongaFX-Sheet_49
+  - first:
+      213: 7508840875357254303
+    second: 20241027necronomicongaFX-Sheet_50
+  - first:
+      213: 1939072126953092672
+    second: 20241027necronomicongaFX-Sheet_51
+  - first:
+      213: -2656279316435929013
+    second: 20241027necronomicongaFX-Sheet_52
+  - first:
+      213: -5249020516653877340
+    second: 20241027necronomicongaFX-Sheet_53
+  - first:
+      213: 573749595111801036
+    second: 20241027necronomicongaFX-Sheet_54
+  - first:
+      213: -4020777092675252912
+    second: 20241027necronomicongaFX-Sheet_55
+  - first:
+      213: -1356134183714239830
+    second: 20241027necronomicongaFX-Sheet_56
+  - first:
+      213: 1815395531054858102
+    second: 20241027necronomicongaFX-Sheet_57
+  - first:
+      213: 3590993544973022623
+    second: 20241027necronomicongaFX-Sheet_58
+  - first:
+      213: 8647251546502689796
+    second: 20241027necronomicongaFX-Sheet_59
+  - first:
+      213: 7624664903311630546
+    second: 20241027necronomicongaFX-Sheet_60
+  - first:
+      213: 3305064604619452157
+    second: 20241027necronomicongaFX-Sheet_61
+  - first:
+      213: 5241639120474402335
+    second: 20241027necronomicongaFX-Sheet_62
+  - first:
+      213: -1276742097012383766
+    second: 20241027necronomicongaFX-Sheet_63
+  - first:
+      213: 338908281955431881
+    second: 20241027necronomicongaFX-Sheet_64
+  - first:
+      213: -5147835927219857399
+    second: 20241027necronomicongaFX-Sheet_65
+  - first:
+      213: 4281090186257237485
+    second: 20241027necronomicongaFX-Sheet_66
+  - first:
+      213: 6753523461936618499
+    second: 20241027necronomicongaFX-Sheet_67
+  - first:
+      213: 9055570035225493332
+    second: 20241027necronomicongaFX-Sheet_68
+  - first:
+      213: -385546591042066931
+    second: 20241027necronomicongaFX-Sheet_69
+  - first:
+      213: -842899992614419605
+    second: 20241027necronomicongaFX-Sheet_70
+  - first:
+      213: 705823317935281263
+    second: 20241027necronomicongaFX-Sheet_71
+  - first:
+      213: 2915962731794958564
+    second: 20241027necronomicongaFX-Sheet_72
+  - first:
+      213: -4316428172318704884
+    second: 20241027necronomicongaFX-Sheet_73
+  - first:
+      213: -7897477698692685740
+    second: 20241027necronomicongaFX-Sheet_74
+  - first:
+      213: 1597091188514943633
+    second: 20241027necronomicongaFX-Sheet_75
+  - first:
+      213: 5118878387578737746
+    second: 20241027necronomicongaFX-Sheet_76
+  - first:
+      213: 5738116028367692647
+    second: 20241027necronomicongaFX-Sheet_77
+  - first:
+      213: -807248455267152978
+    second: 20241027necronomicongaFX-Sheet_78
+  - first:
+      213: 1605534507848236953
+    second: 20241027necronomicongaFX-Sheet_79
+  - first:
+      213: -5234068857746437736
+    second: 20241027necronomicongaFX-Sheet_80
+  - first:
+      213: 1486321614401718327
+    second: 20241027necronomicongaFX-Sheet_81
+  - first:
+      213: 792376071106730784
+    second: 20241027necronomicongaFX-Sheet_82
+  - first:
+      213: -3579527240354777125
+    second: 20241027necronomicongaFX-Sheet_83
+  - first:
+      213: 1252129774112710193
+    second: 20241027necronomicongaFX-Sheet_84
+  - first:
+      213: 6513068798464889015
+    second: 20241027necronomicongaFX-Sheet_85
+  - first:
+      213: 5196607131104121411
+    second: 20241027necronomicongaFX-Sheet_86
+  - first:
+      213: 8489714714763520836
+    second: 20241027necronomicongaFX-Sheet_87
+  - first:
+      213: 4250339401907704188
+    second: 20241027necronomicongaFX-Sheet_88
+  - first:
+      213: 6090931367919773698
+    second: 20241027necronomicongaFX-Sheet_89
+  - first:
+      213: -6890522144335916325
+    second: 20241027necronomicongaFX-Sheet_90
+  - first:
+      213: -6729987970608479723
+    second: 20241027necronomicongaFX-Sheet_91
+  - first:
+      213: 7785701661897892863
+    second: 20241027necronomicongaFX-Sheet_92
+  - first:
+      213: 1539180476965811013
+    second: 20241027necronomicongaFX-Sheet_93
+  - first:
+      213: 8210501286835512910
+    second: 20241027necronomicongaFX-Sheet_94
+  - first:
+      213: -7538917624592125231
+    second: 20241027necronomicongaFX-Sheet_95
+  - first:
+      213: 5359508475824319715
+    second: 20241027necronomicongaFX-Sheet_96
+  - first:
+      213: 7022450253743325004
+    second: 20241027necronomicongaFX-Sheet_97
+  - first:
+      213: 8302262718672070853
+    second: 20241027necronomicongaFX-Sheet_98
+  - first:
+      213: 1594099588704146058
+    second: 20241027necronomicongaFX-Sheet_99
+  - first:
+      213: -4362605056423970501
+    second: 20241027necronomicongaFX-Sheet_100
+  - first:
+      213: -6236136526058301946
+    second: 20241027necronomicongaFX-Sheet_101
+  - first:
+      213: 3387087657374735618
+    second: 20241027necronomicongaFX-Sheet_102
+  - first:
+      213: -1342542035927574775
+    second: 20241027necronomicongaFX-Sheet_103
+  - first:
+      213: 3584148071749700411
+    second: 20241027necronomicongaFX-Sheet_104
+  - first:
+      213: 2470580351302922236
+    second: 20241027necronomicongaFX-Sheet_105
+  - first:
+      213: 316213451377076315
+    second: 20241027necronomicongaFX-Sheet_106
+  - first:
+      213: 981218786283043701
+    second: 20241027necronomicongaFX-Sheet_107
+  - first:
+      213: -2082766543496448408
+    second: 20241027necronomicongaFX-Sheet_108
+  - first:
+      213: -858356684911589801
+    second: 20241027necronomicongaFX-Sheet_109
+  - first:
+      213: 4756469406133749258
+    second: 20241027necronomicongaFX-Sheet_110
+  - first:
+      213: -6077280160048701935
+    second: 20241027necronomicongaFX-Sheet_111
+  - first:
+      213: 3906589651494879362
+    second: 20241027necronomicongaFX-Sheet_112
+  - first:
+      213: 4978643985331235629
+    second: 20241027necronomicongaFX-Sheet_113
+  - first:
+      213: -3595193033258282386
+    second: 20241027necronomicongaFX-Sheet_114
+  - first:
+      213: 7094089549935715001
+    second: 20241027necronomicongaFX-Sheet_115
+  - first:
+      213: 8498481097291814751
+    second: 20241027necronomicongaFX-Sheet_116
+  - first:
+      213: 1891623684917214158
+    second: 20241027necronomicongaFX-Sheet_117
+  - first:
+      213: 1445011982586035802
+    second: 20241027necronomicongaFX-Sheet_118
+  - first:
+      213: -3021273829140243238
+    second: 20241027necronomicongaFX-Sheet_119
+  - first:
+      213: 5168453005385587879
+    second: 20241027necronomicongaFX-Sheet_120
+  - first:
+      213: -2542740184938728193
+    second: 20241027necronomicongaFX-Sheet_121
+  - first:
+      213: -3766468234649000987
+    second: 20241027necronomicongaFX-Sheet_122
+  - first:
+      213: -9078012424451068749
+    second: 20241027necronomicongaFX-Sheet_123
+  - first:
+      213: -4876768576391536898
+    second: 20241027necronomicongaFX-Sheet_124
+  - first:
+      213: 8494463049619706955
+    second: 20241027necronomicongaFX-Sheet_125
+  - first:
+      213: 8555677591380427287
+    second: 20241027necronomicongaFX-Sheet_126
+  - first:
+      213: -707522758983773181
+    second: 20241027necronomicongaFX-Sheet_127
+  - first:
+      213: 969832415867209105
+    second: 20241027necronomicongaFX-Sheet_128
+  - first:
+      213: 7677015655318678279
+    second: 20241027necronomicongaFX-Sheet_129
+  - first:
+      213: -655238168952166729
+    second: 20241027necronomicongaFX-Sheet_130
+  - first:
+      213: 6864923891153572308
+    second: 20241027necronomicongaFX-Sheet_131
+  - first:
+      213: 7559519452759141392
+    second: 20241027necronomicongaFX-Sheet_132
+  - first:
+      213: 7331128775501295668
+    second: 20241027necronomicongaFX-Sheet_133
+  - first:
+      213: -4907886505894890998
+    second: 20241027necronomicongaFX-Sheet_134
+  - first:
+      213: -5445756699482430470
+    second: 20241027necronomicongaFX-Sheet_135
+  - first:
+      213: -8465731564638808927
+    second: 20241027necronomicongaFX-Sheet_136
+  - first:
+      213: -8477980050527724139
+    second: 20241027necronomicongaFX-Sheet_137
+  - first:
+      213: 1498623740879904592
+    second: 20241027necronomicongaFX-Sheet_138
+  - first:
+      213: -4216350431033685772
+    second: 20241027necronomicongaFX-Sheet_139
+  - first:
+      213: 102665238235593347
+    second: 20241027necronomicongaFX-Sheet_140
+  - first:
+      213: -8054585067365653315
+    second: 20241027necronomicongaFX-Sheet_141
+  - first:
+      213: 4188548886335177196
+    second: 20241027necronomicongaFX-Sheet_142
+  - first:
+      213: 8947368213887919145
+    second: 20241027necronomicongaFX-Sheet_143
+  - first:
+      213: -5380688340313400348
+    second: 20241027necronomicongaFX-Sheet_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1979
+        width: 31
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c59ad99b2060f120800000000000000
+      internalID: 2445560338043278788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2109
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ec95f246d7bbc0800000000000000
+      internalID: -3767306980195243788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2109
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb15ce1e6091a100800000000000000
+      internalID: 117533867925380067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2109
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb2f58551c12d80800000000000000
+      internalID: -8277122067066602502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2106
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35769cf76d2cc70800000000000000
+      internalID: 8989983650513114096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2107
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925943d83086745b0800000000000000
+      internalID: -5384220465034914519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1979
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc5cc36b3e84850800000000000000
+      internalID: 6361584845503975356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1979
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c396ed2f14db480800000000000000
+      internalID: -8881870378735420397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1979
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b20d22dacb391a60800000000000000
+      internalID: 7645207584733725369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1850
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa72fbc44de7bf1b0800000000000000
+      internalID: -5621760259556169814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1851
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a066c2b7b3df230800000000000000
+      internalID: 3674158271216093747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1851
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd450c97be94030800000000000000
+      internalID: 3479571095270776725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1850
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae8f1a6bbcedebe0800000000000000
+      internalID: -1446239615632568669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1826
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a340492bdeb7ba00800000000000000
+      internalID: 772295709616522146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1825
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596aabf4ca19f3d60800000000000000
+      internalID: 7872170842924951189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1823
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22044d64156131480800000000000000
+      internalID: -8929769097809084382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1810
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7022555b4f7bc900800000000000000
+      internalID: 705797728144334970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1822
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12af20d59ef92a3e0800000000000000
+      internalID: -2043895456236111327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1803
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee35e664c3c355bc0800000000000000
+      internalID: -3795060881412434962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1802
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfea6fafd60997360800000000000000
+      internalID: 7167919083973160701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1806
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d0777f3fe219b0800000000000000
+      internalID: -5110759571246229496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1813
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148cbf1b545222a00800000000000000
+      internalID: 730187070856480833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1808
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f0c5d71f8dc1e20800000000000000
+      internalID: 3322769156794486643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1798
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4a30e56a4912d0800000000000000
+      internalID: -3307530649912848777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1802
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ddd552306f1c190800000000000000
+      internalID: -7943797774332600947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1671
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e75e2369a82d1c90800000000000000
+      internalID: -7197551921489618971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1673
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232059bb841cf8e40800000000000000
+      internalID: 5660955774756913714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1676
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cc8c8575f2bfae0800000000000000
+      internalID: -1514564797481825196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1676
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911a5bbd4eb92b3f0800000000000000
+      internalID: -886474769397604071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1672
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c064a7a28a20200800000000000000
+      internalID: 144863038422780985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1672
+        width: 47
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bcb18774a54e250800000000000000
+      internalID: 5972998268804385666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1685
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe478d5df5402f8b0800000000000000
+      internalID: -5120025016710695697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1677
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef6c0cabe04bbde0800000000000000
+      internalID: -1316387085127749656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1675
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b943246b033880800000000000000
+      internalID: -8632543536022439716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1687
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01fbb0485bfec60800000000000000
+      internalID: 7849692254267445431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1546
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae135669ed9f1cb0800000000000000
+      internalID: -4891017044531405140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1542
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd83829c3703c17b0800000000000000
+      internalID: -5252269791566612261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1546
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb1a9d2c398f110800000000000000
+      internalID: 1294947357953211233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1542
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f563d7cd03885dee0800000000000000
+      internalID: -1236932779204331937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1595
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaab944318fede50800000000000000
+      internalID: 6836174046034111214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1554
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cab9507f3958a60800000000000000
+      internalID: 7675703829083171953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1550
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec61d41ab4dee0d0800000000000000
+      internalID: -3391539573685130014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1542
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658c2fe9800a58c20800000000000000
+      internalID: 3208146268458240086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1551
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c32543ae7abd90800000000000000
+      internalID: -7081208224381942497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1467
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ebdb81fcbdb21c0800000000000000
+      internalID: -4527283317871100318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1422
+        width: 71
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f863ed857b7ad07d0800000000000000
+      internalID: -2950517774945995121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1414
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a8b076d577d3470800000000000000
+      internalID: 8375982125023464004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1414
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9afe3472f548000800000000000000
+      internalID: 37259319173949945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1422
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0075d9ce3304fa90800000000000000
+      internalID: -7281191129342185458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62476117c66c7e540800000000000000
+      internalID: 5037212877293253670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1423
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f923a9a1ef2c43860800000000000000
+      internalID: 7508840875357254303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04676e863d7f8ea10800000000000000
+      internalID: 1939072126953092672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1423
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487e970900032bd0800000000000000
+      internalID: -2656279316435929013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1286
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7bb1e86abb727b0800000000000000
+      internalID: -5249020516653877340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1286
+        width: 110
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c9a6873e56f700800000000000000
+      internalID: 573749595111801036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1286
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d401689845338c0800000000000000
+      internalID: -4020777092675252912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1299
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac2ff152b0e2de0800000000000000
+      internalID: -1356134183714239830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1290
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f3b5bfd94913910800000000000000
+      internalID: 1815395531054858102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1158
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9576de6a95c5d130800000000000000
+      internalID: 3590993544973022623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1164
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4047db86775310870800000000000000
+      internalID: 8647251546502689796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1162
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d02745155040d960800000000000000
+      internalID: 7624664903311630546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1167
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2f063fb2fddd20800000000000000
+      internalID: 3305064604619452157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1158
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eeaa8320b0eb840800000000000000
+      internalID: 5241639120474402335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1162
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1ac5c3d9184ee0800000000000000
+      internalID: -1276742097012383766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1163
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5346d694b04b400800000000000000
+      internalID: 338908281955431881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1165
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9081114af763f88b0800000000000000
+      internalID: -5147835927219857399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1032
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5064b97dc796b30800000000000000
+      internalID: 4281090186257237485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1032
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c9ff29ec559bd50800000000000000
+      internalID: 6753523461936618499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1036
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f7944f7f8dbad70800000000000000
+      internalID: 9055570035225493332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1036
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06239c0b6346aaf0800000000000000
+      internalID: -385546591042066931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1049
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c90f2cea6d44f0800000000000000
+      internalID: -842899992614419605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1033
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6458bb61969bc900800000000000000
+      internalID: 705823317935281263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1031
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e88ae6b7a4977820800000000000000
+      internalID: 2915962731794958564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1044
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b747a5277f814c0800000000000000
+      internalID: -4316428172318704884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1038
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4506adb20e5866290800000000000000
+      internalID: -7897477698692685740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1034
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192f65569f10a2610800000000000000
+      internalID: 1597091188514943633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 902
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541e04c5c8e90740800000000000000
+      internalID: 5118878387578737746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 949
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e4de3022e1af40800000000000000
+      internalID: 5738116028367692647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 902
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab81529ec31cc4f0800000000000000
+      internalID: -807248455267152978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 909
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ffceed021084610800000000000000
+      internalID: 1605534507848236953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 954
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899c61cea1adc57b0800000000000000
+      internalID: -5234068857746437736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 909
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738466822a970a410800000000000000
+      internalID: 1486321614401718327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 911
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b16d6a6d51ffa00800000000000000
+      internalID: 792376071106730784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 908
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7b1d6a0f6f25ec0800000000000000
+      internalID: -3579527240354777125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 902
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e9dae3565706110800000000000000
+      internalID: 1252129774112710193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 911
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01e228091136a50800000000000000
+      internalID: 6513068798464889015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 902
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34219b627ae0e1840800000000000000
+      internalID: 5196607131104121411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 774
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be2e97d8681d570800000000000000
+      internalID: 8489714714763520836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 774
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711e81ba2d3cfa30800000000000000
+      internalID: 4250339401907704188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 774
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2086428dec5578450800000000000000
+      internalID: 6090931367919773698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 774
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd215e50e92ff50a0800000000000000
+      internalID: -6890522144335916325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 646
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512ca3509974a92a0800000000000000
+      internalID: -6729987970608479723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 661
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3a79c396e5c0c60800000000000000
+      internalID: 7785701661897892863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 650
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54373c62d744c5510800000000000000
+      internalID: 1539180476965811013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 658
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46e7b55b6f81f170800000000000000
+      internalID: 8210501286835512910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 646
+        width: 37
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d231430d52606790800000000000000
+      internalID: -7538917624592125231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 651
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec2438109cc06a40800000000000000
+      internalID: 5359508475824319715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 650
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff83b9c41c47160800000000000000
+      internalID: 7022450253743325004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 654
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ea6294ff873370800000000000000
+      internalID: 8302262718672070853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 519
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a829e4941216f1610800000000000000
+      internalID: 1594099588704146058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 524
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39b684b0d9e473c0800000000000000
+      internalID: -4362605056423970501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 520
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606d479bedac479a0800000000000000
+      internalID: -6236136526058301946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 579
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d5ee0674a510f20800000000000000
+      internalID: 3387087657374735618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 523
+        width: 32
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907d184a1255e5de0800000000000000
+      internalID: -1342542035927574775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 577
+        width: 6
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bca0f7ea37db130800000000000000
+      internalID: 3584148071749700411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 521
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff68746db3494220800000000000000
+      internalID: 2470580351302922236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 524
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e78a657a636400800000000000000
+      internalID: 316213451377076315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 520
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3753994dfd9d00800000000000000
+      internalID: 981218786283043701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 533
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86673d81dd68813e0800000000000000
+      internalID: -2082766543496448408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 525
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756434194218614f0800000000000000
+      internalID: -858356684911589801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 535
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068d9959bf520240800000000000000
+      internalID: 4756469406133749258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 394
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e94cba4e929aba0800000000000000
+      internalID: -6077280160048701935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 390
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280c19c079ef63630800000000000000
+      internalID: 3906589651494879362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 402
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2badc0a352b71540800000000000000
+      internalID: 4978643985331235629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 400
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e625ea10cfe4b1ec0800000000000000
+      internalID: -3595193033258282386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 394
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2aabc0cd4437260800000000000000
+      internalID: 7094089549935715001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 390
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575376f78ba0f570800000000000000
+      internalID: 8498481097291814751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 400
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbb43c18b5604a10800000000000000
+      internalID: 1891623684917214158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 398
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e393efdb6bd0410800000000000000
+      internalID: 1445011982586035802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 390
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc59e4b5774216d0800000000000000
+      internalID: -3021273829140243238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 399
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acde40ff980ab740800000000000000
+      internalID: 5168453005385587879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 270
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4bd98164f56bcd0800000000000000
+      internalID: -2542740184938728193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e324ff9811dabbc0800000000000000
+      internalID: -3766468234649000987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 271
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bce20e1ccb640280800000000000000
+      internalID: -9078012424451068749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 270
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe156861dc325cb0800000000000000
+      internalID: -4876768576391536898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b449346532562e570800000000000000
+      internalID: 8494463049619706955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712000f707fdbb670800000000000000
+      internalID: 8555677591380427287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 262
+        width: 116
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3049440accf5e26f0800000000000000
+      internalID: -707522758983773181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 262
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958c6f9179857d00800000000000000
+      internalID: 969832415867209105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 134
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70be16e501d3a8a60800000000000000
+      internalID: 7677015655318678279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 134
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b624506b5028e6f0800000000000000
+      internalID: -655238168952166729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 134
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11d4638eb154f50800000000000000
+      internalID: 6864923891153572308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 142
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c2d56e3eec8e860800000000000000
+      internalID: 7559519452759141392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 134
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430366287c66db560800000000000000
+      internalID: 7331128775501295668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 156
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02b33ad93fa3ebb0800000000000000
+      internalID: -4907886505894890998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 143
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3652a7229cc64b0800000000000000
+      internalID: -5445756699482430470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a454edcefda38a80800000000000000
+      internalID: -8465731564638808927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 28
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d5273ff0a285a80800000000000000
+      internalID: -8477980050527724139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 15
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f1d1f2a5e2cc410800000000000000
+      internalID: 1498623740879904592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f80ca54f938c75c0800000000000000
+      internalID: -4216350431033685772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 28
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a30df7d7dbc6100800000000000000
+      internalID: 102665238235593347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 6
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db421866e8d583090800000000000000
+      internalID: -8054585067365653315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1cd5e2507b02a30800000000000000
+      internalID: 4188548886335177196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 6
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924296f3cff6b2c70800000000000000
+      internalID: 8947368213887919145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241027necronomicongaFX-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb988c6674f355b0800000000000000
+      internalID: -5380688340313400348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241027necronomicongaFX-Sheet_0: 2445560338043278788
+      20241027necronomicongaFX-Sheet_1: -3767306980195243788
+      20241027necronomicongaFX-Sheet_10: 3674158271216093747
+      20241027necronomicongaFX-Sheet_100: -4362605056423970501
+      20241027necronomicongaFX-Sheet_101: -6236136526058301946
+      20241027necronomicongaFX-Sheet_102: 3387087657374735618
+      20241027necronomicongaFX-Sheet_103: -1342542035927574775
+      20241027necronomicongaFX-Sheet_104: 3584148071749700411
+      20241027necronomicongaFX-Sheet_105: 2470580351302922236
+      20241027necronomicongaFX-Sheet_106: 316213451377076315
+      20241027necronomicongaFX-Sheet_107: 981218786283043701
+      20241027necronomicongaFX-Sheet_108: -2082766543496448408
+      20241027necronomicongaFX-Sheet_109: -858356684911589801
+      20241027necronomicongaFX-Sheet_11: 3479571095270776725
+      20241027necronomicongaFX-Sheet_110: 4756469406133749258
+      20241027necronomicongaFX-Sheet_111: -6077280160048701935
+      20241027necronomicongaFX-Sheet_112: 3906589651494879362
+      20241027necronomicongaFX-Sheet_113: 4978643985331235629
+      20241027necronomicongaFX-Sheet_114: -3595193033258282386
+      20241027necronomicongaFX-Sheet_115: 7094089549935715001
+      20241027necronomicongaFX-Sheet_116: 8498481097291814751
+      20241027necronomicongaFX-Sheet_117: 1891623684917214158
+      20241027necronomicongaFX-Sheet_118: 1445011982586035802
+      20241027necronomicongaFX-Sheet_119: -3021273829140243238
+      20241027necronomicongaFX-Sheet_12: -1446239615632568669
+      20241027necronomicongaFX-Sheet_120: 5168453005385587879
+      20241027necronomicongaFX-Sheet_121: -2542740184938728193
+      20241027necronomicongaFX-Sheet_122: -3766468234649000987
+      20241027necronomicongaFX-Sheet_123: -9078012424451068749
+      20241027necronomicongaFX-Sheet_124: -4876768576391536898
+      20241027necronomicongaFX-Sheet_125: 8494463049619706955
+      20241027necronomicongaFX-Sheet_126: 8555677591380427287
+      20241027necronomicongaFX-Sheet_127: -707522758983773181
+      20241027necronomicongaFX-Sheet_128: 969832415867209105
+      20241027necronomicongaFX-Sheet_129: 7677015655318678279
+      20241027necronomicongaFX-Sheet_13: 772295709616522146
+      20241027necronomicongaFX-Sheet_130: -655238168952166729
+      20241027necronomicongaFX-Sheet_131: 6864923891153572308
+      20241027necronomicongaFX-Sheet_132: 7559519452759141392
+      20241027necronomicongaFX-Sheet_133: 7331128775501295668
+      20241027necronomicongaFX-Sheet_134: -4907886505894890998
+      20241027necronomicongaFX-Sheet_135: -5445756699482430470
+      20241027necronomicongaFX-Sheet_136: -8465731564638808927
+      20241027necronomicongaFX-Sheet_137: -8477980050527724139
+      20241027necronomicongaFX-Sheet_138: 1498623740879904592
+      20241027necronomicongaFX-Sheet_139: -4216350431033685772
+      20241027necronomicongaFX-Sheet_14: 7872170842924951189
+      20241027necronomicongaFX-Sheet_140: 102665238235593347
+      20241027necronomicongaFX-Sheet_141: -8054585067365653315
+      20241027necronomicongaFX-Sheet_142: 4188548886335177196
+      20241027necronomicongaFX-Sheet_143: 8947368213887919145
+      20241027necronomicongaFX-Sheet_144: -5380688340313400348
+      20241027necronomicongaFX-Sheet_15: -8929769097809084382
+      20241027necronomicongaFX-Sheet_16: 705797728144334970
+      20241027necronomicongaFX-Sheet_17: -2043895456236111327
+      20241027necronomicongaFX-Sheet_18: -3795060881412434962
+      20241027necronomicongaFX-Sheet_19: 7167919083973160701
+      20241027necronomicongaFX-Sheet_2: 117533867925380067
+      20241027necronomicongaFX-Sheet_20: -5110759571246229496
+      20241027necronomicongaFX-Sheet_21: 730187070856480833
+      20241027necronomicongaFX-Sheet_22: 3322769156794486643
+      20241027necronomicongaFX-Sheet_23: -3307530649912848777
+      20241027necronomicongaFX-Sheet_24: -7943797774332600947
+      20241027necronomicongaFX-Sheet_25: -7197551921489618971
+      20241027necronomicongaFX-Sheet_26: 5660955774756913714
+      20241027necronomicongaFX-Sheet_27: -1514564797481825196
+      20241027necronomicongaFX-Sheet_28: -886474769397604071
+      20241027necronomicongaFX-Sheet_29: 144863038422780985
+      20241027necronomicongaFX-Sheet_3: -8277122067066602502
+      20241027necronomicongaFX-Sheet_30: 5972998268804385666
+      20241027necronomicongaFX-Sheet_31: -5120025016710695697
+      20241027necronomicongaFX-Sheet_32: -1316387085127749656
+      20241027necronomicongaFX-Sheet_33: -8632543536022439716
+      20241027necronomicongaFX-Sheet_34: 7849692254267445431
+      20241027necronomicongaFX-Sheet_35: -4891017044531405140
+      20241027necronomicongaFX-Sheet_36: -5252269791566612261
+      20241027necronomicongaFX-Sheet_37: 1294947357953211233
+      20241027necronomicongaFX-Sheet_38: -1236932779204331937
+      20241027necronomicongaFX-Sheet_39: 6836174046034111214
+      20241027necronomicongaFX-Sheet_4: 8989983650513114096
+      20241027necronomicongaFX-Sheet_40: 7675703829083171953
+      20241027necronomicongaFX-Sheet_41: -3391539573685130014
+      20241027necronomicongaFX-Sheet_42: 3208146268458240086
+      20241027necronomicongaFX-Sheet_43: -7081208224381942497
+      20241027necronomicongaFX-Sheet_44: -4527283317871100318
+      20241027necronomicongaFX-Sheet_45: -2950517774945995121
+      20241027necronomicongaFX-Sheet_46: 8375982125023464004
+      20241027necronomicongaFX-Sheet_47: 37259319173949945
+      20241027necronomicongaFX-Sheet_48: -7281191129342185458
+      20241027necronomicongaFX-Sheet_49: 5037212877293253670
+      20241027necronomicongaFX-Sheet_5: -5384220465034914519
+      20241027necronomicongaFX-Sheet_50: 7508840875357254303
+      20241027necronomicongaFX-Sheet_51: 1939072126953092672
+      20241027necronomicongaFX-Sheet_52: -2656279316435929013
+      20241027necronomicongaFX-Sheet_53: -5249020516653877340
+      20241027necronomicongaFX-Sheet_54: 573749595111801036
+      20241027necronomicongaFX-Sheet_55: -4020777092675252912
+      20241027necronomicongaFX-Sheet_56: -1356134183714239830
+      20241027necronomicongaFX-Sheet_57: 1815395531054858102
+      20241027necronomicongaFX-Sheet_58: 3590993544973022623
+      20241027necronomicongaFX-Sheet_59: 8647251546502689796
+      20241027necronomicongaFX-Sheet_6: 6361584845503975356
+      20241027necronomicongaFX-Sheet_60: 7624664903311630546
+      20241027necronomicongaFX-Sheet_61: 3305064604619452157
+      20241027necronomicongaFX-Sheet_62: 5241639120474402335
+      20241027necronomicongaFX-Sheet_63: -1276742097012383766
+      20241027necronomicongaFX-Sheet_64: 338908281955431881
+      20241027necronomicongaFX-Sheet_65: -5147835927219857399
+      20241027necronomicongaFX-Sheet_66: 4281090186257237485
+      20241027necronomicongaFX-Sheet_67: 6753523461936618499
+      20241027necronomicongaFX-Sheet_68: 9055570035225493332
+      20241027necronomicongaFX-Sheet_69: -385546591042066931
+      20241027necronomicongaFX-Sheet_7: -8881870378735420397
+      20241027necronomicongaFX-Sheet_70: -842899992614419605
+      20241027necronomicongaFX-Sheet_71: 705823317935281263
+      20241027necronomicongaFX-Sheet_72: 2915962731794958564
+      20241027necronomicongaFX-Sheet_73: -4316428172318704884
+      20241027necronomicongaFX-Sheet_74: -7897477698692685740
+      20241027necronomicongaFX-Sheet_75: 1597091188514943633
+      20241027necronomicongaFX-Sheet_76: 5118878387578737746
+      20241027necronomicongaFX-Sheet_77: 5738116028367692647
+      20241027necronomicongaFX-Sheet_78: -807248455267152978
+      20241027necronomicongaFX-Sheet_79: 1605534507848236953
+      20241027necronomicongaFX-Sheet_8: 7645207584733725369
+      20241027necronomicongaFX-Sheet_80: -5234068857746437736
+      20241027necronomicongaFX-Sheet_81: 1486321614401718327
+      20241027necronomicongaFX-Sheet_82: 792376071106730784
+      20241027necronomicongaFX-Sheet_83: -3579527240354777125
+      20241027necronomicongaFX-Sheet_84: 1252129774112710193
+      20241027necronomicongaFX-Sheet_85: 6513068798464889015
+      20241027necronomicongaFX-Sheet_86: 5196607131104121411
+      20241027necronomicongaFX-Sheet_87: 8489714714763520836
+      20241027necronomicongaFX-Sheet_88: 4250339401907704188
+      20241027necronomicongaFX-Sheet_89: 6090931367919773698
+      20241027necronomicongaFX-Sheet_9: -5621760259556169814
+      20241027necronomicongaFX-Sheet_90: -6890522144335916325
+      20241027necronomicongaFX-Sheet_91: -6729987970608479723
+      20241027necronomicongaFX-Sheet_92: 7785701661897892863
+      20241027necronomicongaFX-Sheet_93: 1539180476965811013
+      20241027necronomicongaFX-Sheet_94: 8210501286835512910
+      20241027necronomicongaFX-Sheet_95: -7538917624592125231
+      20241027necronomicongaFX-Sheet_96: 5359508475824319715
+      20241027necronomicongaFX-Sheet_97: 7022450253743325004
+      20241027necronomicongaFX-Sheet_98: 8302262718672070853
+      20241027necronomicongaFX-Sheet_99: 1594099588704146058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

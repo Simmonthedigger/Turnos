@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: c32cbb2ebaeb884459cc9e7505b03727
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4859241581482453665
+    second: 20241209howl-Sheet_0
+  - first:
+      213: -2893812796666927316
+    second: 20241209howl-Sheet_1
+  - first:
+      213: -8875382734239991848
+    second: 20241209howl-Sheet_2
+  - first:
+      213: 8508854262962945677
+    second: 20241209howl-Sheet_3
+  - first:
+      213: -7311642307910566145
+    second: 20241209howl-Sheet_4
+  - first:
+      213: -7204191313390896083
+    second: 20241209howl-Sheet_5
+  - first:
+      213: -4342491769840778975
+    second: 20241209howl-Sheet_6
+  - first:
+      213: -5737716647355804211
+    second: 20241209howl-Sheet_7
+  - first:
+      213: -3198665040706545485
+    second: 20241209howl-Sheet_8
+  - first:
+      213: -246062521663077655
+    second: 20241209howl-Sheet_9
+  - first:
+      213: -8247729807606252002
+    second: 20241209howl-Sheet_10
+  - first:
+      213: 6120182028801426923
+    second: 20241209howl-Sheet_11
+  - first:
+      213: -3703511976985418060
+    second: 20241209howl-Sheet_12
+  - first:
+      213: 3703272318833363859
+    second: 20241209howl-Sheet_13
+  - first:
+      213: -3537974503846046781
+    second: 20241209howl-Sheet_14
+  - first:
+      213: 3763500519872344795
+    second: 20241209howl-Sheet_15
+  - first:
+      213: -3716437411850440264
+    second: 20241209howl-Sheet_16
+  - first:
+      213: -624157767486256683
+    second: 20241209howl-Sheet_17
+  - first:
+      213: -5739111437587343410
+    second: 20241209howl-Sheet_18
+  - first:
+      213: 2112709833959128236
+    second: 20241209howl-Sheet_19
+  - first:
+      213: 4738427229694347396
+    second: 20241209howl-Sheet_20
+  - first:
+      213: 6419720232636398603
+    second: 20241209howl-Sheet_21
+  - first:
+      213: 4877085757273865759
+    second: 20241209howl-Sheet_22
+  - first:
+      213: 2799865968082217215
+    second: 20241209howl-Sheet_23
+  - first:
+      213: 2384252294694019082
+    second: 20241209howl-Sheet_24
+  - first:
+      213: 4244677416744047689
+    second: 20241209howl-Sheet_25
+  - first:
+      213: 1694648958842867181
+    second: 20241209howl-Sheet_26
+  - first:
+      213: 4265524893186830045
+    second: 20241209howl-Sheet_27
+  - first:
+      213: 3196765705231212066
+    second: 20241209howl-Sheet_28
+  - first:
+      213: 8649019247580599359
+    second: 20241209howl-Sheet_29
+  - first:
+      213: -3925346881947460605
+    second: 20241209howl-Sheet_30
+  - first:
+      213: 3856717976314519105
+    second: 20241209howl-Sheet_31
+  - first:
+      213: 6224608017682711843
+    second: 20241209howl-Sheet_32
+  - first:
+      213: -8793473545228142693
+    second: 20241209howl-Sheet_33
+  - first:
+      213: 273963737025603209
+    second: 20241209howl-Sheet_34
+  - first:
+      213: -3799948964710116466
+    second: 20241209howl-Sheet_35
+  - first:
+      213: 7347514289412547859
+    second: 20241209howl-Sheet_36
+  - first:
+      213: 3862167129057229087
+    second: 20241209howl-Sheet_37
+  - first:
+      213: 6438659109612627913
+    second: 20241209howl-Sheet_38
+  - first:
+      213: 8185801236327448928
+    second: 20241209howl-Sheet_39
+  - first:
+      213: -6317632055258434784
+    second: 20241209howl-Sheet_40
+  - first:
+      213: -4435218892683533915
+    second: 20241209howl-Sheet_41
+  - first:
+      213: 7352909370752410823
+    second: 20241209howl-Sheet_42
+  - first:
+      213: -3637725802452859544
+    second: 20241209howl-Sheet_43
+  - first:
+      213: 6165139514839455895
+    second: 20241209howl-Sheet_44
+  - first:
+      213: -7729691984723823962
+    second: 20241209howl-Sheet_45
+  - first:
+      213: -1894915946305920671
+    second: 20241209howl-Sheet_46
+  - first:
+      213: -3143301945622270703
+    second: 20241209howl-Sheet_47
+  - first:
+      213: -7382319500342455
+    second: 20241209howl-Sheet_48
+  - first:
+      213: 8921963957531559456
+    second: 20241209howl-Sheet_49
+  - first:
+      213: -1557238142915258868
+    second: 20241209howl-Sheet_50
+  - first:
+      213: -5741999591613837405
+    second: 20241209howl-Sheet_51
+  - first:
+      213: -1837063098653658768
+    second: 20241209howl-Sheet_52
+  - first:
+      213: 953146875079858671
+    second: 20241209howl-Sheet_53
+  - first:
+      213: 3311662894497765718
+    second: 20241209howl-Sheet_54
+  - first:
+      213: -1474576284404038827
+    second: 20241209howl-Sheet_55
+  - first:
+      213: 8682704385917268090
+    second: 20241209howl-Sheet_56
+  - first:
+      213: 4019689590346114854
+    second: 20241209howl-Sheet_57
+  - first:
+      213: 629618348222177018
+    second: 20241209howl-Sheet_58
+  - first:
+      213: 8744805850399406026
+    second: 20241209howl-Sheet_59
+  - first:
+      213: 3621510610518705178
+    second: 20241209howl-Sheet_60
+  - first:
+      213: -102646720820495050
+    second: 20241209howl-Sheet_61
+  - first:
+      213: -371672196234357639
+    second: 20241209howl-Sheet_62
+  - first:
+      213: -6616430132508126197
+    second: 20241209howl-Sheet_63
+  - first:
+      213: -110278286603411699
+    second: 20241209howl-Sheet_64
+  - first:
+      213: 1574067172017560670
+    second: 20241209howl-Sheet_65
+  - first:
+      213: -5472545139429998455
+    second: 20241209howl-Sheet_66
+  - first:
+      213: 7734498059731935919
+    second: 20241209howl-Sheet_67
+  - first:
+      213: -6798696608673694425
+    second: 20241209howl-Sheet_68
+  - first:
+      213: -7808196644503519421
+    second: 20241209howl-Sheet_69
+  - first:
+      213: -5627116877136886948
+    second: 20241209howl-Sheet_70
+  - first:
+      213: -2036623217295586419
+    second: 20241209howl-Sheet_71
+  - first:
+      213: -3824148505374229904
+    second: 20241209howl-Sheet_72
+  - first:
+      213: -522738464318214780
+    second: 20241209howl-Sheet_73
+  - first:
+      213: -1138447838221299312
+    second: 20241209howl-Sheet_74
+  - first:
+      213: 668371595107319441
+    second: 20241209howl-Sheet_75
+  - first:
+      213: -8877823500877043261
+    second: 20241209howl-Sheet_76
+  - first:
+      213: 1328710276296629837
+    second: 20241209howl-Sheet_77
+  - first:
+      213: 8688035153892739848
+    second: 20241209howl-Sheet_78
+  - first:
+      213: -1496080728593236062
+    second: 20241209howl-Sheet_79
+  - first:
+      213: -578827117162505391
+    second: 20241209howl-Sheet_80
+  - first:
+      213: 6778166219526650201
+    second: 20241209howl-Sheet_81
+  - first:
+      213: -3280578566308512080
+    second: 20241209howl-Sheet_82
+  - first:
+      213: -7716440879014527601
+    second: 20241209howl-Sheet_83
+  - first:
+      213: 8927956476896762758
+    second: 20241209howl-Sheet_84
+  - first:
+      213: -4755612940190731487
+    second: 20241209howl-Sheet_85
+  - first:
+      213: -7393103323668943422
+    second: 20241209howl-Sheet_86
+  - first:
+      213: 1746325015619945384
+    second: 20241209howl-Sheet_87
+  - first:
+      213: 4154861952879157706
+    second: 20241209howl-Sheet_88
+  - first:
+      213: -6556017028858046756
+    second: 20241209howl-Sheet_89
+  - first:
+      213: -7572602069549091369
+    second: 20241209howl-Sheet_90
+  - first:
+      213: 8435182171016788505
+    second: 20241209howl-Sheet_91
+  - first:
+      213: 833242677815673366
+    second: 20241209howl-Sheet_92
+  - first:
+      213: 3628796323549509703
+    second: 20241209howl-Sheet_93
+  - first:
+      213: 3128982020237572510
+    second: 20241209howl-Sheet_94
+  - first:
+      213: 4906113875705082623
+    second: 20241209howl-Sheet_95
+  - first:
+      213: 6891881960034308669
+    second: 20241209howl-Sheet_96
+  - first:
+      213: -5311108180788120847
+    second: 20241209howl-Sheet_97
+  - first:
+      213: 8590012157281958779
+    second: 20241209howl-Sheet_98
+  - first:
+      213: 1905058512960966444
+    second: 20241209howl-Sheet_99
+  - first:
+      213: -3247409794079345651
+    second: 20241209howl-Sheet_100
+  - first:
+      213: 8207235548425024401
+    second: 20241209howl-Sheet_101
+  - first:
+      213: 8392142770732852429
+    second: 20241209howl-Sheet_102
+  - first:
+      213: 8133662125554033824
+    second: 20241209howl-Sheet_103
+  - first:
+      213: -823242769517703156
+    second: 20241209howl-Sheet_104
+  - first:
+      213: -1683303837192694284
+    second: 20241209howl-Sheet_105
+  - first:
+      213: -8010720603018520003
+    second: 20241209howl-Sheet_106
+  - first:
+      213: -4228369795670327954
+    second: 20241209howl-Sheet_107
+  - first:
+      213: 5502191357151872114
+    second: 20241209howl-Sheet_108
+  - first:
+      213: 1985580199623691221
+    second: 20241209howl-Sheet_109
+  - first:
+      213: -1322539923512532441
+    second: 20241209howl-Sheet_110
+  - first:
+      213: 3093957178684358706
+    second: 20241209howl-Sheet_111
+  - first:
+      213: 190525006891013849
+    second: 20241209howl-Sheet_112
+  - first:
+      213: -4224176005739673279
+    second: 20241209howl-Sheet_113
+  - first:
+      213: 3521595969935360914
+    second: 20241209howl-Sheet_114
+  - first:
+      213: -8290381835731310798
+    second: 20241209howl-Sheet_115
+  - first:
+      213: -5796025119434345870
+    second: 20241209howl-Sheet_116
+  - first:
+      213: 3827170694849016625
+    second: 20241209howl-Sheet_117
+  - first:
+      213: 5277589229250446815
+    second: 20241209howl-Sheet_118
+  - first:
+      213: -2333881347422605899
+    second: 20241209howl-Sheet_119
+  - first:
+      213: -7357739684298946531
+    second: 20241209howl-Sheet_120
+  - first:
+      213: -9219242799728670293
+    second: 20241209howl-Sheet_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1278
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa116197e7f6340800000000000000
+      internalID: 4859241581482453665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272030f79c17d7d0800000000000000
+      internalID: -2893812796666927316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d77dff4d6e44d480800000000000000
+      internalID: -8875382734239991848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1246
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e797dced5851670800000000000000
+      internalID: 8508854262962945677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1246
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef5484f04d78a90800000000000000
+      internalID: -7311642307910566145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c716f7b22950c90800000000000000
+      internalID: -7204191313390896083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1286
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121459a2ebe5cb3c0800000000000000
+      internalID: -4342491769840778975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc51384eb198f50b0800000000000000
+      internalID: -5737716647355804211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d93db71f0c93d0800000000000000
+      internalID: -3198665040706545485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24cb3b07fc59cf0800000000000000
+      internalID: -246062521663077655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1264
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e7a36307d2a8d80800000000000000
+      internalID: -8247729807606252002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1256
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5407b01214fe450800000000000000
+      internalID: 6120182028801426923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1244
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6216e9a7b7a9cc0800000000000000
+      internalID: -3703511976985418060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b899e9d8aa46330800000000000000
+      internalID: 3703272318833363859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c31ed90fe696eec0800000000000000
+      internalID: -3537974503846046781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1042
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd23dfe68c3aa3430800000000000000
+      internalID: 3763500519872344795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1040
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1beac4ddf8c6cc0800000000000000
+      internalID: -3716437411850440264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 986
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94e2141db8657f0800000000000000
+      internalID: -624157767486256683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 984
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7993cfd849a50b0800000000000000
+      internalID: -5739111437587343410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 984
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacbb9e766ad15d10800000000000000
+      internalID: 2112709833959128236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1030
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48848fbc57642c140800000000000000
+      internalID: 4738427229694347396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1038
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3ea7d98d671950800000000000000
+      internalID: 6419720232636398603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1032
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1efc6508a3eea340800000000000000
+      internalID: 4877085757273865759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1030
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ee3e734f1bd620800000000000000
+      internalID: 2799865968082217215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1020
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a52864d0961120800000000000000
+      internalID: 2384252294694019082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1024
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d62b0f9f18ea30800000000000000
+      internalID: 4244677416744047689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1026
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded80dadf3a948710800000000000000
+      internalID: 1694648958842867181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1022
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddeacf66a40323b30800000000000000
+      internalID: 4265524893186830045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1016
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e1572c8713d5c20800000000000000
+      internalID: 3196765705231212066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1024
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34de836e2d770870800000000000000
+      internalID: 8649019247580599359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1022
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c9559eecd5689c0800000000000000
+      internalID: -3925346881947460605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1026
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e1711d090d58530800000000000000
+      internalID: 3856717976314519105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1008
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325c6004300426650800000000000000
+      internalID: 6224608017682711843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1020
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b1e2866e47f580800000000000000
+      internalID: -8793473545228142693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1002
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986efba31905dc300800000000000000
+      internalID: 273963737025603209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1014
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8317d1bc8ed34bc0800000000000000
+      internalID: -3799948964710116466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1010
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315aa82415d97f560800000000000000
+      internalID: 7347514289412547859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1008
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1975ae8a8c299530800000000000000
+      internalID: 3862167129057229087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1016
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72b42c856ba5950800000000000000
+      internalID: 6438659109612627913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1002
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061404daadec99170800000000000000
+      internalID: 8185801236327448928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1008
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02333b43e134358a0800000000000000
+      internalID: -6317632055258434784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1016
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a12f787aefe272c0800000000000000
+      internalID: -4435218892683533915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a6558d18ca0660800000000000000
+      internalID: 7352909370752410823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865468af7a3348dc0800000000000000
+      internalID: -3637725802452859544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798dab479b9fe8550800000000000000
+      internalID: 6165139514839455895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23a53f71e9ab490800000000000000
+      internalID: -7729691984723823962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161663d8cf7e3b5e0800000000000000
+      internalID: -1894915946305920671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 790
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de36dc88fb064d0800000000000000
+      internalID: -3143301945622270703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 788
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b409cc1d5c5eff0800000000000000
+      internalID: -7382319500342455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 784
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026c183e2fe21db70800000000000000
+      internalID: 8921963957531559456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 774
+        width: 118
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06d8dcd824936ae0800000000000000
+      internalID: -1557238142915258868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 612
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af4b693bc15050b0800000000000000
+      internalID: -5741999591613837405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07135ce48d07186e0800000000000000
+      internalID: -1837063098653658768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 604
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe998eb68024a3d00800000000000000
+      internalID: 953146875079858671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659916a4bd365fd20800000000000000
+      internalID: 3311662894497765718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 600
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c1e59ea0498be0800000000000000
+      internalID: -1474576284404038827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a703354d2a92f7870800000000000000
+      internalID: 8682704385917268090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 596
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6276aeb926ec8c730800000000000000
+      internalID: 4019689590346114854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 594
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afed9d54d8adcb800800000000000000
+      internalID: 629618348222177018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 402
+        width: 146
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac770d6c69acb5970800000000000000
+      internalID: 8744805850399406026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 470
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14864276b0324230800000000000000
+      internalID: 3621510610518705178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 522
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63db22ce953539ef0800000000000000
+      internalID: -102646720820495050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 530
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974df825b1e87daf0800000000000000
+      internalID: -371672196234357639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 526
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0499ae89d7bd24a0800000000000000
+      internalID: -6616430132508126197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 402
+        width: 138
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f909c8b76387ef0800000000000000
+      internalID: -110278286603411699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 402
+        width: 142
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd5b0d0c538d510800000000000000
+      internalID: 1574067172017560670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800cf2c03d9d04b0800000000000000
+      internalID: -5472545139429998455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 522
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa225469105765b60800000000000000
+      internalID: 7734498059731935919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 520
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72df958947d26a1a0800000000000000
+      internalID: -6798696608673694425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 402
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f78fb7586b3a390800000000000000
+      internalID: -7808196644503519421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 504
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5386a4930778e1b0800000000000000
+      internalID: -5627116877136886948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 402
+        width: 86
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b88cf69f57cb3e0800000000000000
+      internalID: -2036623217295586419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 482
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07af3d01235edeac0800000000000000
+      internalID: -3824148505374229904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 464
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d21e3e22cdeb8f0800000000000000
+      internalID: -522738464318214780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091128f09bb6330f0800000000000000
+      internalID: -1138447838221299312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 450
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e3550bc68864900800000000000000
+      internalID: 668371595107319441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 462
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9eb9b0092abc480800000000000000
+      internalID: -8877823500877043261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 462
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e521cd4f6807210800000000000000
+      internalID: 1328710276296629837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 210
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b02e7f0f9129870800000000000000
+      internalID: 8688035153892739848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 290
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af74e0018adc3be0800000000000000
+      internalID: -1496080728593236062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 284
+        width: 10
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b5a2fbdc797f7f0800000000000000
+      internalID: -578827117162505391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 282
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959307fa342e01e50800000000000000
+      internalID: 6778166219526650201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 282
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bebb69dc2b0972d0800000000000000
+      internalID: -3280578566308512080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 106
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d390c67e1b9e490800000000000000
+      internalID: -7716440879014527601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 290
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b54970d1976eb70800000000000000
+      internalID: 8927956476896762758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 284
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1233eaa2a3ba00eb0800000000000000
+      internalID: -4755612940190731487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 322
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde3fc82bb666990800000000000000
+      internalID: -7393103323668943422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 210
+        width: 74
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3c76a69513c3810800000000000000
+      internalID: 1746325015619945384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 324
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e528cee809a930800000000000000
+      internalID: 4154861952879157706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 300
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6118d5f395405a0800000000000000
+      internalID: -6556017028858046756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 298
+        width: 10
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d573230a86b8e690800000000000000
+      internalID: -7572602069549091369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 312
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91af9273e79cf0570800000000000000
+      internalID: 8435182171016788505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 210
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61206eefcc5409b00800000000000000
+      internalID: 833242677815673366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 314
+        width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7487963b7031c5230800000000000000
+      internalID: 3628796323549509703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 216
+        width: 10
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9938d0c1906c6b20800000000000000
+      internalID: 3128982020237572510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 216
+        width: 20
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff234058394061440800000000000000
+      internalID: 4906113875705082623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 286
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3294cdb022e4af50800000000000000
+      internalID: 6891881960034308669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 274
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2f370cf372b46b0800000000000000
+      internalID: -5311108180788120847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 218
+        width: 20
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bf3139b8ad53770800000000000000
+      internalID: 8590012157281958779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 230
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f4f55cf90207a10800000000000000
+      internalID: 1905058512960966444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 264
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b6cf6ff1eee2d0800000000000000
+      internalID: -3247409794079345651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 264
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193f4db5f35f5e170800000000000000
+      internalID: 8207235548425024401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 254
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e4e1f261e67470800000000000000
+      internalID: 8392142770732852429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 34
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a462b4fb9290e070800000000000000
+      internalID: 8133662125554033824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 34
+        width: 6
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001df610114394f0800000000000000
+      internalID: -823242769517703156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 30
+        width: 6
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5d31f1414b3a8e0800000000000000
+      internalID: -1683303837192694284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 26
+        width: 14
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9d2edd0434d090800000000000000
+      internalID: -8010720603018520003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d341ed210d155c0800000000000000
+      internalID: -4228369795670327954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274034133e5bb5c40800000000000000
+      internalID: 5502191357151872114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8e97eba23e8b10800000000000000
+      internalID: 1985580199623691221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 36
+        width: 18
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72263c952f465ade0800000000000000
+      internalID: -1322539923512532441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 54
+        width: 6
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23040c959a1ffea20800000000000000
+      internalID: 3093957178684358706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 52
+        width: 18
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6519cfb71e4a200800000000000000
+      internalID: 190525006891013849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 76
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149882dad46b065c0800000000000000
+      internalID: -4224176005739673279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 60
+        width: 16
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293c17e50e83fd030800000000000000
+      internalID: 3521595969935360914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 70
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23762ec05a5a2fc80800000000000000
+      internalID: -8290381835731310798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 112
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272ffdeccd1609fa0800000000000000
+      internalID: -5796025119434345870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b2414877dc1530800000000000000
+      internalID: 3827170694849016625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 72
+        width: 10
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd586ef2173cd3940800000000000000
+      internalID: 5277589229250446815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 82
+        width: 14
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd27faa7436c9fd0800000000000000
+      internalID: -2333881347422605899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 84
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1801977dbe04e990800000000000000
+      internalID: -7357739684298946531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241209howl-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba94810f48bae0080800000000000000
+      internalID: -9219242799728670293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241209howl-Sheet_0: 4859241581482453665
+      20241209howl-Sheet_1: -2893812796666927316
+      20241209howl-Sheet_10: -8247729807606252002
+      20241209howl-Sheet_100: -3247409794079345651
+      20241209howl-Sheet_101: 8207235548425024401
+      20241209howl-Sheet_102: 8392142770732852429
+      20241209howl-Sheet_103: 8133662125554033824
+      20241209howl-Sheet_104: -823242769517703156
+      20241209howl-Sheet_105: -1683303837192694284
+      20241209howl-Sheet_106: -8010720603018520003
+      20241209howl-Sheet_107: -4228369795670327954
+      20241209howl-Sheet_108: 5502191357151872114
+      20241209howl-Sheet_109: 1985580199623691221
+      20241209howl-Sheet_11: 6120182028801426923
+      20241209howl-Sheet_110: -1322539923512532441
+      20241209howl-Sheet_111: 3093957178684358706
+      20241209howl-Sheet_112: 190525006891013849
+      20241209howl-Sheet_113: -4224176005739673279
+      20241209howl-Sheet_114: 3521595969935360914
+      20241209howl-Sheet_115: -8290381835731310798
+      20241209howl-Sheet_116: -5796025119434345870
+      20241209howl-Sheet_117: 3827170694849016625
+      20241209howl-Sheet_118: 5277589229250446815
+      20241209howl-Sheet_119: -2333881347422605899
+      20241209howl-Sheet_12: -3703511976985418060
+      20241209howl-Sheet_120: -7357739684298946531
+      20241209howl-Sheet_121: -9219242799728670293
+      20241209howl-Sheet_13: 3703272318833363859
+      20241209howl-Sheet_14: -3537974503846046781
+      20241209howl-Sheet_15: 3763500519872344795
+      20241209howl-Sheet_16: -3716437411850440264
+      20241209howl-Sheet_17: -624157767486256683
+      20241209howl-Sheet_18: -5739111437587343410
+      20241209howl-Sheet_19: 2112709833959128236
+      20241209howl-Sheet_2: -8875382734239991848
+      20241209howl-Sheet_20: 4738427229694347396
+      20241209howl-Sheet_21: 6419720232636398603
+      20241209howl-Sheet_22: 4877085757273865759
+      20241209howl-Sheet_23: 2799865968082217215
+      20241209howl-Sheet_24: 2384252294694019082
+      20241209howl-Sheet_25: 4244677416744047689
+      20241209howl-Sheet_26: 1694648958842867181
+      20241209howl-Sheet_27: 4265524893186830045
+      20241209howl-Sheet_28: 3196765705231212066
+      20241209howl-Sheet_29: 8649019247580599359
+      20241209howl-Sheet_3: 8508854262962945677
+      20241209howl-Sheet_30: -3925346881947460605
+      20241209howl-Sheet_31: 3856717976314519105
+      20241209howl-Sheet_32: 6224608017682711843
+      20241209howl-Sheet_33: -8793473545228142693
+      20241209howl-Sheet_34: 273963737025603209
+      20241209howl-Sheet_35: -3799948964710116466
+      20241209howl-Sheet_36: 7347514289412547859
+      20241209howl-Sheet_37: 3862167129057229087
+      20241209howl-Sheet_38: 6438659109612627913
+      20241209howl-Sheet_39: 8185801236327448928
+      20241209howl-Sheet_4: -7311642307910566145
+      20241209howl-Sheet_40: -6317632055258434784
+      20241209howl-Sheet_41: -4435218892683533915
+      20241209howl-Sheet_42: 7352909370752410823
+      20241209howl-Sheet_43: -3637725802452859544
+      20241209howl-Sheet_44: 6165139514839455895
+      20241209howl-Sheet_45: -7729691984723823962
+      20241209howl-Sheet_46: -1894915946305920671
+      20241209howl-Sheet_47: -3143301945622270703
+      20241209howl-Sheet_48: -7382319500342455
+      20241209howl-Sheet_49: 8921963957531559456
+      20241209howl-Sheet_5: -7204191313390896083
+      20241209howl-Sheet_50: -1557238142915258868
+      20241209howl-Sheet_51: -5741999591613837405
+      20241209howl-Sheet_52: -1837063098653658768
+      20241209howl-Sheet_53: 953146875079858671
+      20241209howl-Sheet_54: 3311662894497765718
+      20241209howl-Sheet_55: -1474576284404038827
+      20241209howl-Sheet_56: 8682704385917268090
+      20241209howl-Sheet_57: 4019689590346114854
+      20241209howl-Sheet_58: 629618348222177018
+      20241209howl-Sheet_59: 8744805850399406026
+      20241209howl-Sheet_6: -4342491769840778975
+      20241209howl-Sheet_60: 3621510610518705178
+      20241209howl-Sheet_61: -102646720820495050
+      20241209howl-Sheet_62: -371672196234357639
+      20241209howl-Sheet_63: -6616430132508126197
+      20241209howl-Sheet_64: -110278286603411699
+      20241209howl-Sheet_65: 1574067172017560670
+      20241209howl-Sheet_66: -5472545139429998455
+      20241209howl-Sheet_67: 7734498059731935919
+      20241209howl-Sheet_68: -6798696608673694425
+      20241209howl-Sheet_69: -7808196644503519421
+      20241209howl-Sheet_7: -5737716647355804211
+      20241209howl-Sheet_70: -5627116877136886948
+      20241209howl-Sheet_71: -2036623217295586419
+      20241209howl-Sheet_72: -3824148505374229904
+      20241209howl-Sheet_73: -522738464318214780
+      20241209howl-Sheet_74: -1138447838221299312
+      20241209howl-Sheet_75: 668371595107319441
+      20241209howl-Sheet_76: -8877823500877043261
+      20241209howl-Sheet_77: 1328710276296629837
+      20241209howl-Sheet_78: 8688035153892739848
+      20241209howl-Sheet_79: -1496080728593236062
+      20241209howl-Sheet_8: -3198665040706545485
+      20241209howl-Sheet_80: -578827117162505391
+      20241209howl-Sheet_81: 6778166219526650201
+      20241209howl-Sheet_82: -3280578566308512080
+      20241209howl-Sheet_83: -7716440879014527601
+      20241209howl-Sheet_84: 8927956476896762758
+      20241209howl-Sheet_85: -4755612940190731487
+      20241209howl-Sheet_86: -7393103323668943422
+      20241209howl-Sheet_87: 1746325015619945384
+      20241209howl-Sheet_88: 4154861952879157706
+      20241209howl-Sheet_89: -6556017028858046756
+      20241209howl-Sheet_9: -246062521663077655
+      20241209howl-Sheet_90: -7572602069549091369
+      20241209howl-Sheet_91: 8435182171016788505
+      20241209howl-Sheet_92: 833242677815673366
+      20241209howl-Sheet_93: 3628796323549509703
+      20241209howl-Sheet_94: 3128982020237572510
+      20241209howl-Sheet_95: 4906113875705082623
+      20241209howl-Sheet_96: 6891881960034308669
+      20241209howl-Sheet_97: -5311108180788120847
+      20241209howl-Sheet_98: 8590012157281958779
+      20241209howl-Sheet_99: 1905058512960966444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

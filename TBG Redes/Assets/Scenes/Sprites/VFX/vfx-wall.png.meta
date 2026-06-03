@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 82cdc04ad7de43b4ea7dbddb6a1d6cad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5848398915268678172
+    second: vfx-wall_0
+  - first:
+      213: 7235792168948811287
+    second: vfx-wall_1
+  - first:
+      213: -1065021996624740952
+    second: vfx-wall_2
+  - first:
+      213: 2324136364730209640
+    second: vfx-wall_3
+  - first:
+      213: 8071002991589367121
+    second: vfx-wall_4
+  - first:
+      213: 5666899426965494900
+    second: vfx-wall_5
+  - first:
+      213: -759429076595580293
+    second: vfx-wall_6
+  - first:
+      213: 1116530420631711561
+    second: vfx-wall_7
+  - first:
+      213: -3839491633341052068
+    second: vfx-wall_8
+  - first:
+      213: 117075289629996357
+    second: vfx-wall_9
+  - first:
+      213: -4595359944709778710
+    second: vfx-wall_10
+  - first:
+      213: 2395706219972158416
+    second: vfx-wall_11
+  - first:
+      213: -5914774275829399985
+    second: vfx-wall_12
+  - first:
+      213: 5468554373679749124
+    second: vfx-wall_13
+  - first:
+      213: -5705136723777488247
+    second: vfx-wall_14
+  - first:
+      213: 6666134209756912946
+    second: vfx-wall_15
+  - first:
+      213: -6115950624483882891
+    second: vfx-wall_16
+  - first:
+      213: -9027115949591896428
+    second: vfx-wall_17
+  - first:
+      213: -3271016036000351754
+    second: vfx-wall_18
+  - first:
+      213: 2497611596304605891
+    second: vfx-wall_19
+  - first:
+      213: -6306562638681073576
+    second: vfx-wall_20
+  - first:
+      213: -5873303274279049363
+    second: vfx-wall_21
+  - first:
+      213: -551655312823300395
+    second: vfx-wall_22
+  - first:
+      213: -8527884422283749954
+    second: vfx-wall_23
+  - first:
+      213: 4600614435921417482
+    second: vfx-wall_24
+  - first:
+      213: 6298290225594980385
+    second: vfx-wall_25
+  - first:
+      213: -9149651490980676947
+    second: vfx-wall_26
+  - first:
+      213: 7636419847188308746
+    second: vfx-wall_27
+  - first:
+      213: -557100172979558976
+    second: vfx-wall_28
+  - first:
+      213: -8023312392485620790
+    second: vfx-wall_29
+  - first:
+      213: -8779429249078916486
+    second: vfx-wall_30
+  - first:
+      213: 4361411468457689302
+    second: vfx-wall_31
+  - first:
+      213: 4336335284767907216
+    second: vfx-wall_32
+  - first:
+      213: -711676704753577595
+    second: vfx-wall_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-wall_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 315
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c129e59c3dfa92150800000000000000
+      internalID: 5848398915268678172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7164fba04a2ba6460800000000000000
+      internalID: 7235792168948811287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 306
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad743503284831f0800000000000000
+      internalID: -1065021996624740952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865df4db5bdf04020800000000000000
+      internalID: 2324136364730209640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9cc67576f10070800000000000000
+      internalID: 8071002991589367121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 218
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c942a110fd4ae40800000000000000
+      internalID: 5666899426965494900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 223
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72ea694747f575f0800000000000000
+      internalID: -759429076595580293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 212
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fabae7086be7f00800000000000000
+      internalID: 1116530420631711561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b4f94b3b267bac0800000000000000
+      internalID: -3839491633341052068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453f5a0b5fef9100800000000000000
+      internalID: 117075289629996357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_10
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 171
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2d3804a700a30c0800000000000000
+      internalID: -4595359944709778710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 163
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d362a33d124f3120800000000000000
+      internalID: 2395706219972158416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_12
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 181
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ef19a42208aeda0800000000000000
+      internalID: -5914774275829399985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 155
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408171eaa3534eb40800000000000000
+      internalID: 5468554373679749124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 156
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98af438706843d0b0800000000000000
+      internalID: -5705136723777488247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dd3adbebdd28c50800000000000000
+      internalID: 6666134209756912946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5784fcb8f47cf1ba0800000000000000
+      internalID: -6115950624483882891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 23
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49edf4e1fdd39b280800000000000000
+      internalID: -9027115949591896428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 35
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9b79fee340b92d0800000000000000
+      internalID: -3271016036000351754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e1a0938c49a220800000000000000
+      internalID: 2497611596304605891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 70
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8581aa791b69a78a0800000000000000
+      internalID: -6306562638681073576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 46
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6765764ac5dd7ea0800000000000000
+      internalID: -5873303274279049363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 68
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec5b07a602858f0800000000000000
+      internalID: -551655312823300395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb59034fc4ed6a980800000000000000
+      internalID: -8527884422283749954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0551a1547aa8df30800000000000000
+      internalID: 4600614435921417482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12857e42795086750800000000000000
+      internalID: 6298290225594980385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 46
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa39752278e50180800000000000000
+      internalID: -9149651490980676947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03e66b34630af960800000000000000
+      internalID: 7636419847188308746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 40
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5ae352858c448f0800000000000000
+      internalID: -557100172979558976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 42
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3b7eb63e777a090800000000000000
+      internalID: -8023312392485620790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 46
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0af50d93392680800000000000000
+      internalID: -8779429249078916486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 27
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04cb07f98d68c30800000000000000
+      internalID: 4361411468457689302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d559377f1cd2c30800000000000000
+      internalID: 4336335284767907216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-wall_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811e32cecd9f16f0800000000000000
+      internalID: -711676704753577595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-wall_0: 5848398915268678172
+      vfx-wall_1: 7235792168948811287
+      vfx-wall_10: -4595359944709778710
+      vfx-wall_11: 2395706219972158416
+      vfx-wall_12: -5914774275829399985
+      vfx-wall_13: 5468554373679749124
+      vfx-wall_14: -5705136723777488247
+      vfx-wall_15: 6666134209756912946
+      vfx-wall_16: -6115950624483882891
+      vfx-wall_17: -9027115949591896428
+      vfx-wall_18: -3271016036000351754
+      vfx-wall_19: 2497611596304605891
+      vfx-wall_2: -1065021996624740952
+      vfx-wall_20: -6306562638681073576
+      vfx-wall_21: -5873303274279049363
+      vfx-wall_22: -551655312823300395
+      vfx-wall_23: -8527884422283749954
+      vfx-wall_24: 4600614435921417482
+      vfx-wall_25: 6298290225594980385
+      vfx-wall_26: -9149651490980676947
+      vfx-wall_27: 7636419847188308746
+      vfx-wall_28: -557100172979558976
+      vfx-wall_29: -8023312392485620790
+      vfx-wall_3: 2324136364730209640
+      vfx-wall_30: -8779429249078916486
+      vfx-wall_31: 4361411468457689302
+      vfx-wall_32: 4336335284767907216
+      vfx-wall_33: -711676704753577595
+      vfx-wall_4: 8071002991589367121
+      vfx-wall_5: 5666899426965494900
+      vfx-wall_6: -759429076595580293
+      vfx-wall_7: 1116530420631711561
+      vfx-wall_8: -3839491633341052068
+      vfx-wall_9: 117075289629996357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

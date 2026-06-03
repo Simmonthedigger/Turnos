@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: f23298c60e47ca042886049f74d51a25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6531607072558606523
+    second: vfx-barrier_0
+  - first:
+      213: 3429131889913704897
+    second: vfx-barrier_1
+  - first:
+      213: 3782662886649524522
+    second: vfx-barrier_2
+  - first:
+      213: 5177643668719734929
+    second: vfx-barrier_3
+  - first:
+      213: 7123183869647420230
+    second: vfx-barrier_4
+  - first:
+      213: -6173445316967593928
+    second: vfx-barrier_5
+  - first:
+      213: -2291051317569108482
+    second: vfx-barrier_6
+  - first:
+      213: -8946513885192625733
+    second: vfx-barrier_7
+  - first:
+      213: -710670626939225877
+    second: vfx-barrier_8
+  - first:
+      213: 8167187758713151536
+    second: vfx-barrier_9
+  - first:
+      213: 1156251884801596842
+    second: vfx-barrier_10
+  - first:
+      213: 392631734507347337
+    second: vfx-barrier_11
+  - first:
+      213: -4366896553007786534
+    second: vfx-barrier_12
+  - first:
+      213: 2709654840753485967
+    second: vfx-barrier_13
+  - first:
+      213: 4847198818547432340
+    second: vfx-barrier_14
+  - first:
+      213: 1033106167758023521
+    second: vfx-barrier_15
+  - first:
+      213: 6503330237019471288
+    second: vfx-barrier_16
+  - first:
+      213: 6594776265398730506
+    second: vfx-barrier_17
+  - first:
+      213: -1809683657661545690
+    second: vfx-barrier_18
+  - first:
+      213: 1145493507975645265
+    second: vfx-barrier_19
+  - first:
+      213: 7437573626855398936
+    second: vfx-barrier_20
+  - first:
+      213: 7598363742390331644
+    second: vfx-barrier_21
+  - first:
+      213: -4717969291205756642
+    second: vfx-barrier_22
+  - first:
+      213: -7058834452522570891
+    second: vfx-barrier_23
+  - first:
+      213: 2390103425584391897
+    second: vfx-barrier_24
+  - first:
+      213: -6204560545266420203
+    second: vfx-barrier_25
+  - first:
+      213: -7935744198113532851
+    second: vfx-barrier_26
+  - first:
+      213: 6874382848770075654
+    second: vfx-barrier_27
+  - first:
+      213: -4295987957762654214
+    second: vfx-barrier_28
+  - first:
+      213: -2932792818396392509
+    second: vfx-barrier_29
+  - first:
+      213: 3769876514079729152
+    second: vfx-barrier_30
+  - first:
+      213: -8852290933276868403
+    second: vfx-barrier_31
+  - first:
+      213: 2707051484837204786
+    second: vfx-barrier_32
+  - first:
+      213: -2987049009824988624
+    second: vfx-barrier_33
+  - first:
+      213: -8501511407645889362
+    second: vfx-barrier_34
+  - first:
+      213: -1859833781223220905
+    second: vfx-barrier_35
+  - first:
+      213: 7092332623817901315
+    second: vfx-barrier_36
+  - first:
+      213: 2351557534618562132
+    second: vfx-barrier_37
+  - first:
+      213: -6868345496636638365
+    second: vfx-barrier_38
+  - first:
+      213: -6598289416617957271
+    second: vfx-barrier_39
+  - first:
+      213: 2147248407994650944
+    second: vfx-barrier_40
+  - first:
+      213: 3060078204571996477
+    second: vfx-barrier_41
+  - first:
+      213: -8193723541986767949
+    second: vfx-barrier_42
+  - first:
+      213: 66296749160234537
+    second: vfx-barrier_43
+  - first:
+      213: 3446005699382849056
+    second: vfx-barrier_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-barrier_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 556
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54717b339f11b55a0800000000000000
+      internalID: -6531607072558606523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 556
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1354a1949b69f20800000000000000
+      internalID: 3429131889913704897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 555
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a217ccf9ad7be7430800000000000000
+      internalID: 3782662886649524522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 567
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190179ffb7faad740800000000000000
+      internalID: 5177643668719734929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 556
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b702c3df1aad260800000000000000
+      internalID: 7123183869647420230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 557
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83809d94134835aa0800000000000000
+      internalID: -6173445316967593928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 556
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef54a1617fc8430e0800000000000000
+      internalID: -2291051317569108482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb16ef6a50997d380800000000000000
+      internalID: -8946513885192625733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 560
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8bbf084d03326f0800000000000000
+      internalID: -710670626939225877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 573
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0302404befda75170800000000000000
+      internalID: 8167187758713151536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 555
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad997096f4db0010800000000000000
+      internalID: 1156251884801596842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 455
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1bd67b78e27500800000000000000
+      internalID: 392631734507347337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 445
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d71bc8baa563c0800000000000000
+      internalID: -4366896553007786534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 427
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f887707a8b0aa9520800000000000000
+      internalID: 2709654840753485967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 431
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7637d4a5b44340800000000000000
+      internalID: 4847198818547432340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 427
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b6b700694565e00800000000000000
+      internalID: 1033106167758023521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 428
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd3a9af468704a50800000000000000
+      internalID: 6503330237019471288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 317
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fb440a21a558b50800000000000000
+      internalID: 6594776265398730506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 311
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623014d2d46b2e6e0800000000000000
+      internalID: -1809683657661545690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 299
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588763c64c95ef00800000000000000
+      internalID: 1145493507975645265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 317
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e9783cec1973760800000000000000
+      internalID: 7437573626855398936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 314
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8226bd09fc27960800000000000000
+      internalID: 7598363742390331644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 316
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19ba703de7668eb0800000000000000
+      internalID: -4717969291205756642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 299
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b6a19f67bf90e90800000000000000
+      internalID: -7058834452522570891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 189
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e66af66a5b2120800000000000000
+      internalID: 2390103425584391897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 191
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516bdf7ae09f4e9a0800000000000000
+      internalID: -6204560545266420203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 184
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44631b72b29ed190800000000000000
+      internalID: -7935744198113532851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 200
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c6af667c6b66f50800000000000000
+      internalID: 6874382848770075654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 179
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff733aa6b59164c0800000000000000
+      internalID: -4295987957762654214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 201
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39aa36870ac47d0800000000000000
+      internalID: -2932792818396392509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_30
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 182
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066fc447ba415430800000000000000
+      internalID: 3769876514079729152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00f913c48562580800000000000000
+      internalID: -8852290933276868403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_32
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 189
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2335a6e9bf0619520800000000000000
+      internalID: 2707051484837204786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 173
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03203ba60cedb86d0800000000000000
+      internalID: -2987049009824988624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 171
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace55dea60940a80800000000000000
+      internalID: -8501511407645889362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7591be0a70b8036e0800000000000000
+      internalID: -1859833781223220905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_36
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 172
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305849fc1f60d6260800000000000000
+      internalID: 7092332623817901315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_37
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e25df5e1962a020800000000000000
+      internalID: 2351557534618562132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_38
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 171
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb15e292cbea0a0800000000000000
+      internalID: -6868345496636638365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_39
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 49
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968644d1cba2e64a0800000000000000
+      internalID: -6598289416617957271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0415b0bec0f8ccd10800000000000000
+      internalID: 2147248407994650944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31dd600ae4977a20800000000000000
+      internalID: 3060078204571996477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_42
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 44
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb8f1cc9db0a4e80800000000000000
+      internalID: -8193723541986767949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_43
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 70
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e7577ca888be000800000000000000
+      internalID: 66296749160234537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-barrier_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 43
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eafa50deba2df20800000000000000
+      internalID: 3446005699382849056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-barrier_0: -6531607072558606523
+      vfx-barrier_1: 3429131889913704897
+      vfx-barrier_10: 1156251884801596842
+      vfx-barrier_11: 392631734507347337
+      vfx-barrier_12: -4366896553007786534
+      vfx-barrier_13: 2709654840753485967
+      vfx-barrier_14: 4847198818547432340
+      vfx-barrier_15: 1033106167758023521
+      vfx-barrier_16: 6503330237019471288
+      vfx-barrier_17: 6594776265398730506
+      vfx-barrier_18: -1809683657661545690
+      vfx-barrier_19: 1145493507975645265
+      vfx-barrier_2: 3782662886649524522
+      vfx-barrier_20: 7437573626855398936
+      vfx-barrier_21: 7598363742390331644
+      vfx-barrier_22: -4717969291205756642
+      vfx-barrier_23: -7058834452522570891
+      vfx-barrier_24: 2390103425584391897
+      vfx-barrier_25: -6204560545266420203
+      vfx-barrier_26: -7935744198113532851
+      vfx-barrier_27: 6874382848770075654
+      vfx-barrier_28: -4295987957762654214
+      vfx-barrier_29: -2932792818396392509
+      vfx-barrier_3: 5177643668719734929
+      vfx-barrier_30: 3769876514079729152
+      vfx-barrier_31: -8852290933276868403
+      vfx-barrier_32: 2707051484837204786
+      vfx-barrier_33: -2987049009824988624
+      vfx-barrier_34: -8501511407645889362
+      vfx-barrier_35: -1859833781223220905
+      vfx-barrier_36: 7092332623817901315
+      vfx-barrier_37: 2351557534618562132
+      vfx-barrier_38: -6868345496636638365
+      vfx-barrier_39: -6598289416617957271
+      vfx-barrier_4: 7123183869647420230
+      vfx-barrier_40: 2147248407994650944
+      vfx-barrier_41: 3060078204571996477
+      vfx-barrier_42: -8193723541986767949
+      vfx-barrier_43: 66296749160234537
+      vfx-barrier_44: 3446005699382849056
+      vfx-barrier_5: -6173445316967593928
+      vfx-barrier_6: -2291051317569108482
+      vfx-barrier_7: -8946513885192625733
+      vfx-barrier_8: -710670626939225877
+      vfx-barrier_9: 8167187758713151536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

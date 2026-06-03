@@ -1,0 +1,3822 @@
+fileFormatVersion: 2
+guid: 58281ff9ce1d53a428f1999df9fb7673
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -610253909738631536
+    second: 20241021poisonCloudFX-Sheet_0
+  - first:
+      213: 3501283770503673989
+    second: 20241021poisonCloudFX-Sheet_1
+  - first:
+      213: -8236980059718525496
+    second: 20241021poisonCloudFX-Sheet_2
+  - first:
+      213: -6099444671270677700
+    second: 20241021poisonCloudFX-Sheet_3
+  - first:
+      213: -7034759856687153171
+    second: 20241021poisonCloudFX-Sheet_4
+  - first:
+      213: 8757052768262515932
+    second: 20241021poisonCloudFX-Sheet_5
+  - first:
+      213: 7359527241692607144
+    second: 20241021poisonCloudFX-Sheet_6
+  - first:
+      213: -7566351897102918945
+    second: 20241021poisonCloudFX-Sheet_7
+  - first:
+      213: -4377021099116924479
+    second: 20241021poisonCloudFX-Sheet_8
+  - first:
+      213: -7969905656469905618
+    second: 20241021poisonCloudFX-Sheet_9
+  - first:
+      213: 6333935562355385122
+    second: 20241021poisonCloudFX-Sheet_10
+  - first:
+      213: 8197367430827104979
+    second: 20241021poisonCloudFX-Sheet_11
+  - first:
+      213: 6007608787476005442
+    second: 20241021poisonCloudFX-Sheet_12
+  - first:
+      213: 8550921285207820231
+    second: 20241021poisonCloudFX-Sheet_13
+  - first:
+      213: 8578840210373435914
+    second: 20241021poisonCloudFX-Sheet_14
+  - first:
+      213: 7059305000502216729
+    second: 20241021poisonCloudFX-Sheet_15
+  - first:
+      213: -4937607086940146563
+    second: 20241021poisonCloudFX-Sheet_16
+  - first:
+      213: -4258889769551962520
+    second: 20241021poisonCloudFX-Sheet_17
+  - first:
+      213: -1772218339869892034
+    second: 20241021poisonCloudFX-Sheet_18
+  - first:
+      213: -6778068990250543456
+    second: 20241021poisonCloudFX-Sheet_19
+  - first:
+      213: -5764636334635631222
+    second: 20241021poisonCloudFX-Sheet_20
+  - first:
+      213: 8498789585136610262
+    second: 20241021poisonCloudFX-Sheet_21
+  - first:
+      213: 7291596235852649699
+    second: 20241021poisonCloudFX-Sheet_22
+  - first:
+      213: 2049587632082943508
+    second: 20241021poisonCloudFX-Sheet_23
+  - first:
+      213: 2980459289137629900
+    second: 20241021poisonCloudFX-Sheet_24
+  - first:
+      213: 321556987922984415
+    second: 20241021poisonCloudFX-Sheet_25
+  - first:
+      213: 4397585788771951562
+    second: 20241021poisonCloudFX-Sheet_26
+  - first:
+      213: -2809553029149836505
+    second: 20241021poisonCloudFX-Sheet_27
+  - first:
+      213: -4433262239643786296
+    second: 20241021poisonCloudFX-Sheet_28
+  - first:
+      213: 658664988754297676
+    second: 20241021poisonCloudFX-Sheet_29
+  - first:
+      213: -2552310990812351682
+    second: 20241021poisonCloudFX-Sheet_30
+  - first:
+      213: 5547960742997717623
+    second: 20241021poisonCloudFX-Sheet_31
+  - first:
+      213: -388696486885315014
+    second: 20241021poisonCloudFX-Sheet_32
+  - first:
+      213: 3937224157123406305
+    second: 20241021poisonCloudFX-Sheet_33
+  - first:
+      213: 2611366566718064741
+    second: 20241021poisonCloudFX-Sheet_34
+  - first:
+      213: 3116210958615952268
+    second: 20241021poisonCloudFX-Sheet_35
+  - first:
+      213: 4598146067302830066
+    second: 20241021poisonCloudFX-Sheet_36
+  - first:
+      213: 1524721442578097238
+    second: 20241021poisonCloudFX-Sheet_37
+  - first:
+      213: 5689715925396281958
+    second: 20241021poisonCloudFX-Sheet_38
+  - first:
+      213: 1474891662179764126
+    second: 20241021poisonCloudFX-Sheet_39
+  - first:
+      213: 766025619453414365
+    second: 20241021poisonCloudFX-Sheet_40
+  - first:
+      213: -5777274180493576916
+    second: 20241021poisonCloudFX-Sheet_41
+  - first:
+      213: -5721064689298357693
+    second: 20241021poisonCloudFX-Sheet_42
+  - first:
+      213: -3652025981708659504
+    second: 20241021poisonCloudFX-Sheet_43
+  - first:
+      213: -2181851010021046245
+    second: 20241021poisonCloudFX-Sheet_44
+  - first:
+      213: 4125998564831127572
+    second: 20241021poisonCloudFX-Sheet_45
+  - first:
+      213: 5368760041106777509
+    second: 20241021poisonCloudFX-Sheet_46
+  - first:
+      213: -7190120264384617573
+    second: 20241021poisonCloudFX-Sheet_47
+  - first:
+      213: 7744530694827223422
+    second: 20241021poisonCloudFX-Sheet_48
+  - first:
+      213: -755996614744367443
+    second: 20241021poisonCloudFX-Sheet_49
+  - first:
+      213: -3218255671081752215
+    second: 20241021poisonCloudFX-Sheet_50
+  - first:
+      213: 8159251146240126856
+    second: 20241021poisonCloudFX-Sheet_51
+  - first:
+      213: -9018602622652511237
+    second: 20241021poisonCloudFX-Sheet_52
+  - first:
+      213: 5698920673118710975
+    second: 20241021poisonCloudFX-Sheet_53
+  - first:
+      213: 7410347276321750412
+    second: 20241021poisonCloudFX-Sheet_54
+  - first:
+      213: -8173313627658351627
+    second: 20241021poisonCloudFX-Sheet_55
+  - first:
+      213: 3289949128097891833
+    second: 20241021poisonCloudFX-Sheet_56
+  - first:
+      213: 1423813944753361822
+    second: 20241021poisonCloudFX-Sheet_57
+  - first:
+      213: 2286721353154500459
+    second: 20241021poisonCloudFX-Sheet_58
+  - first:
+      213: -6313956244531640359
+    second: 20241021poisonCloudFX-Sheet_59
+  - first:
+      213: -1243829297839562426
+    second: 20241021poisonCloudFX-Sheet_60
+  - first:
+      213: 1630604208867205722
+    second: 20241021poisonCloudFX-Sheet_61
+  - first:
+      213: -9082037435780321293
+    second: 20241021poisonCloudFX-Sheet_62
+  - first:
+      213: -7533272444690918499
+    second: 20241021poisonCloudFX-Sheet_63
+  - first:
+      213: -3838482546601778928
+    second: 20241021poisonCloudFX-Sheet_64
+  - first:
+      213: -5860966249383842351
+    second: 20241021poisonCloudFX-Sheet_65
+  - first:
+      213: -7357381654494572366
+    second: 20241021poisonCloudFX-Sheet_66
+  - first:
+      213: 1646714479946863270
+    second: 20241021poisonCloudFX-Sheet_67
+  - first:
+      213: -2264584496584591463
+    second: 20241021poisonCloudFX-Sheet_68
+  - first:
+      213: 7666650503172658510
+    second: 20241021poisonCloudFX-Sheet_69
+  - first:
+      213: -7174724268989212596
+    second: 20241021poisonCloudFX-Sheet_70
+  - first:
+      213: -412087922943445502
+    second: 20241021poisonCloudFX-Sheet_71
+  - first:
+      213: 3008118028819908027
+    second: 20241021poisonCloudFX-Sheet_72
+  - first:
+      213: -846198686421512300
+    second: 20241021poisonCloudFX-Sheet_73
+  - first:
+      213: 7170344139434072548
+    second: 20241021poisonCloudFX-Sheet_74
+  - first:
+      213: 2437026416951495944
+    second: 20241021poisonCloudFX-Sheet_75
+  - first:
+      213: 2778392066005529872
+    second: 20241021poisonCloudFX-Sheet_76
+  - first:
+      213: 5813745909292484450
+    second: 20241021poisonCloudFX-Sheet_77
+  - first:
+      213: -7844753418967996571
+    second: 20241021poisonCloudFX-Sheet_78
+  - first:
+      213: -7613706897677191344
+    second: 20241021poisonCloudFX-Sheet_79
+  - first:
+      213: -1357665550245273271
+    second: 20241021poisonCloudFX-Sheet_80
+  - first:
+      213: 7759357750741786832
+    second: 20241021poisonCloudFX-Sheet_81
+  - first:
+      213: 1695991900346086477
+    second: 20241021poisonCloudFX-Sheet_82
+  - first:
+      213: 1023165519430324200
+    second: 20241021poisonCloudFX-Sheet_83
+  - first:
+      213: -3602747669830006326
+    second: 20241021poisonCloudFX-Sheet_84
+  - first:
+      213: -8808126288692475621
+    second: 20241021poisonCloudFX-Sheet_85
+  - first:
+      213: -4881180601092470398
+    second: 20241021poisonCloudFX-Sheet_86
+  - first:
+      213: -5390554224022265539
+    second: 20241021poisonCloudFX-Sheet_87
+  - first:
+      213: -7852551151658809904
+    second: 20241021poisonCloudFX-Sheet_88
+  - first:
+      213: -3211963528054990317
+    second: 20241021poisonCloudFX-Sheet_89
+  - first:
+      213: -1371386699512944945
+    second: 20241021poisonCloudFX-Sheet_90
+  - first:
+      213: -5534183947885657836
+    second: 20241021poisonCloudFX-Sheet_91
+  - first:
+      213: -3612950267353082920
+    second: 20241021poisonCloudFX-Sheet_92
+  - first:
+      213: 4509452625208581379
+    second: 20241021poisonCloudFX-Sheet_93
+  - first:
+      213: 2778297656003393877
+    second: 20241021poisonCloudFX-Sheet_94
+  - first:
+      213: 7816376074022538287
+    second: 20241021poisonCloudFX-Sheet_95
+  - first:
+      213: -2384137091063676694
+    second: 20241021poisonCloudFX-Sheet_96
+  - first:
+      213: 3583965160589835613
+    second: 20241021poisonCloudFX-Sheet_97
+  - first:
+      213: 2397477286236672300
+    second: 20241021poisonCloudFX-Sheet_98
+  - first:
+      213: -3764577024570436374
+    second: 20241021poisonCloudFX-Sheet_99
+  - first:
+      213: 4485047929591963258
+    second: 20241021poisonCloudFX-Sheet_100
+  - first:
+      213: -5688660984600199308
+    second: 20241021poisonCloudFX-Sheet_101
+  - first:
+      213: 7981526661838483935
+    second: 20241021poisonCloudFX-Sheet_102
+  - first:
+      213: -7545423397143004343
+    second: 20241021poisonCloudFX-Sheet_103
+  - first:
+      213: -6967049127525522739
+    second: 20241021poisonCloudFX-Sheet_104
+  - first:
+      213: 5195088920450472177
+    second: 20241021poisonCloudFX-Sheet_105
+  - first:
+      213: -4616307220248239990
+    second: 20241021poisonCloudFX-Sheet_106
+  - first:
+      213: -7145196824216794110
+    second: 20241021poisonCloudFX-Sheet_107
+  - first:
+      213: -7008348854191121296
+    second: 20241021poisonCloudFX-Sheet_108
+  - first:
+      213: -4117183237370106429
+    second: 20241021poisonCloudFX-Sheet_109
+  - first:
+      213: -3522761758730378572
+    second: 20241021poisonCloudFX-Sheet_110
+  - first:
+      213: 1757410616842855265
+    second: 20241021poisonCloudFX-Sheet_111
+  - first:
+      213: 6217689073726774325
+    second: 20241021poisonCloudFX-Sheet_112
+  - first:
+      213: -5197025613058212634
+    second: 20241021poisonCloudFX-Sheet_113
+  - first:
+      213: -5892509561286593787
+    second: 20241021poisonCloudFX-Sheet_114
+  - first:
+      213: 6990550634183748010
+    second: 20241021poisonCloudFX-Sheet_115
+  - first:
+      213: 5884395235004841974
+    second: 20241021poisonCloudFX-Sheet_116
+  - first:
+      213: 881562432490503843
+    second: 20241021poisonCloudFX-Sheet_117
+  - first:
+      213: 8875065424294408990
+    second: 20241021poisonCloudFX-Sheet_118
+  - first:
+      213: -1281204932930974509
+    second: 20241021poisonCloudFX-Sheet_119
+  - first:
+      213: 5477777994762537448
+    second: 20241021poisonCloudFX-Sheet_120
+  - first:
+      213: -2305572221147724619
+    second: 20241021poisonCloudFX-Sheet_121
+  - first:
+      213: -4317030685357987372
+    second: 20241021poisonCloudFX-Sheet_122
+  - first:
+      213: -2024162692918311183
+    second: 20241021poisonCloudFX-Sheet_123
+  - first:
+      213: -4369326720241069143
+    second: 20241021poisonCloudFX-Sheet_124
+  - first:
+      213: 725181150524942963
+    second: 20241021poisonCloudFX-Sheet_125
+  - first:
+      213: 279780010625597004
+    second: 20241021poisonCloudFX-Sheet_126
+  - first:
+      213: -6284525650462982104
+    second: 20241021poisonCloudFX-Sheet_127
+  - first:
+      213: 524013140494001578
+    second: 20241021poisonCloudFX-Sheet_128
+  - first:
+      213: 6396122477708745420
+    second: 20241021poisonCloudFX-Sheet_129
+  - first:
+      213: 7748462169754447568
+    second: 20241021poisonCloudFX-Sheet_130
+  - first:
+      213: 3304283621972922494
+    second: 20241021poisonCloudFX-Sheet_131
+  - first:
+      213: 5636446201311138698
+    second: 20241021poisonCloudFX-Sheet_132
+  - first:
+      213: -6488611572479750222
+    second: 20241021poisonCloudFX-Sheet_133
+  - first:
+      213: 2891949541352017997
+    second: 20241021poisonCloudFX-Sheet_134
+  - first:
+      213: 97136370552574064
+    second: 20241021poisonCloudFX-Sheet_135
+  - first:
+      213: -1425640678048187993
+    second: 20241021poisonCloudFX-Sheet_136
+  - first:
+      213: 174386782288572324
+    second: 20241021poisonCloudFX-Sheet_137
+  - first:
+      213: 2880475431791534119
+    second: 20241021poisonCloudFX-Sheet_138
+  - first:
+      213: -3921235625893056962
+    second: 20241021poisonCloudFX-Sheet_139
+  - first:
+      213: -2423347093390257445
+    second: 20241021poisonCloudFX-Sheet_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 931
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e4c376d41f787f0800000000000000
+      internalID: -610253909738631536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 931
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58836b6e90f079030800000000000000
+      internalID: 3501283770503673989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 927
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd508ee64e50bd80800000000000000
+      internalID: -8236980059718525496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 800
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3313c1436b6a5ba0800000000000000
+      internalID: -6099444671270677700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 851
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deffbfd9e238f5e90800000000000000
+      internalID: -7034759856687153171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 841
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc63ab881d478970800000000000000
+      internalID: 8757052768262515932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 847
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f5eba80b422660800000000000000
+      internalID: 7359527241692607144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 848
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdad39fa90beef690800000000000000
+      internalID: -7566351897102918945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 856
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1feb43082b143c0800000000000000
+      internalID: -4377021099116924479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 850
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f1cb42805356190800000000000000
+      internalID: -7969905656469905618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 790
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2232868d5d8a6e750800000000000000
+      internalID: 6333935562355385122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da5ecf2f36e2c170800000000000000
+      internalID: 8197367430827104979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 843
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242c50fcc505f5350800000000000000
+      internalID: 6007608787476005442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 802
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7832baa99faa670800000000000000
+      internalID: 8550921285207820231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 794
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02652cf7b92e0770800000000000000
+      internalID: 8578840210373435914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 804
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918c2140f70b7f160800000000000000
+      internalID: 7059305000502216729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 790
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d743b76d3881a7bb0800000000000000
+      internalID: -4937607086940146563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 804
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5f44b15265e4c0800000000000000
+      internalID: -4258889769551962520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 798
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326f9b3fc0d767e0800000000000000
+      internalID: -1772218339869892034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 726
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a696054a267fe1a0800000000000000
+      internalID: -6778068990250543456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 724
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dbbb6cbc5efffa0800000000000000
+      internalID: -5764636334635631222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 711
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db6bd26914c1f570800000000000000
+      internalID: 8498789585136610262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 725
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4929bd424f03560800000000000000
+      internalID: 7291596235852649699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 727
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e765a9719917c10800000000000000
+      internalID: 2049587632082943508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 721
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccacf8caee7bc5920800000000000000
+      internalID: 2980459289137629900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 730
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda1387066667400800000000000000
+      internalID: 321556987922984415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 719
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3ee09b9fc570d30800000000000000
+      internalID: 4397585788771951562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 718
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bb6e7d7667209d0800000000000000
+      internalID: -2809553029149836505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 662
+        width: 104
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c321e14b73e972c0800000000000000
+      internalID: -4433262239643786296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 723
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43cfa8415c042900800000000000000
+      internalID: 658664988754297676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 728
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33fd443dae549cd0800000000000000
+      internalID: -2552310990812351682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 723
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f032c6e05efc40800000000000000
+      internalID: 5547960742997717623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 728
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e22c5ca921b9af0800000000000000
+      internalID: -388696486885315014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 723
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e96d66b284d3a630800000000000000
+      internalID: 3937224157123406305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 726
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568cf8b8e007d3420800000000000000
+      internalID: 2611366566718064741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 655
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bbb714b510f3b20800000000000000
+      internalID: 3116210958615952268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 730
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffc1f67c75efcf30800000000000000
+      internalID: 4598146067302830066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 727
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654e94ed216e82510800000000000000
+      internalID: 1524721442578097238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 724
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad02e1d7ee5fe40800000000000000
+      internalID: 5689715925396281958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 661
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e970966072ed77410800000000000000
+      internalID: 1474891662179764126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 713
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb8e580e3871aa00800000000000000
+      internalID: 766025619453414365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 675
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f4adfdbff2dfa0800000000000000
+      internalID: -5777274180493576916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 720
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34247510af1ba90b0800000000000000
+      internalID: -5721064689298357693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 710
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d412c908b5615dc0800000000000000
+      internalID: -3652025981708659504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 706
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184edaf01288b1e0800000000000000
+      internalID: -2181851010021046245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 666
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418e78095dd724930800000000000000
+      internalID: 4125998564831127572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 666
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52b7effcaa18a40800000000000000
+      internalID: 5368760041106777509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 671
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b936405e6bf873c90800000000000000
+      internalID: -7190120264384617573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 672
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79294972a91a7b60800000000000000
+      internalID: 7744530694827223422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 676
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae93c695192285f0800000000000000
+      internalID: -755996614744367443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 660
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96929c8a4857653d0800000000000000
+      internalID: -3218255671081752215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 665
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f67dc10bb7b3170800000000000000
+      internalID: 8159251146240126856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 667
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb046282bc77d280800000000000000
+      internalID: -9018602622652511237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 660
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcee547822a61f40800000000000000
+      internalID: 5698920673118710975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 658
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df07b0697d6d660800000000000000
+      internalID: 7410347276321750412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 665
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb80994f8e829e80800000000000000
+      internalID: -8173313627658351627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 665
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f581651d4f38ad20800000000000000
+      internalID: 3289949128097891833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 656
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9395433d3762c310800000000000000
+      internalID: 1423813944753361822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 654
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67131384f01cbf10800000000000000
+      internalID: 2286721353154500459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 524
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d705559f325068a0800000000000000
+      internalID: -6313956244531640359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 599
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641ac0df7d70dbee0800000000000000
+      internalID: -1243829297839562426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 590
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5269ce73e111a610800000000000000
+      internalID: 1630604208867205722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 521
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa383221f16f180800000000000000
+      internalID: -9082037435780321293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 518
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9395f1ef90747790800000000000000
+      internalID: -7533272444690918499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 526
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a3450678fabac0800000000000000
+      internalID: -3838482546601778928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 577
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2ce8bf3aa9aea0800000000000000
+      internalID: -5860966249383842351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 574
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b010e6cd5455e990800000000000000
+      internalID: -7357381654494572366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 573
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a299b7481e4ad610800000000000000
+      internalID: 1646714479946863270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 563
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f73d06649290e0800000000000000
+      internalID: -2264584496584591463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 558
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e451da2530a656a60800000000000000
+      internalID: 7666650503172658510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 527
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4816896a424e6c90800000000000000
+      internalID: -7174724268989212596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 531
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063ab8a738f74af0800000000000000
+      internalID: -412087922943445502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 529
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54246d86bfeb920800000000000000
+      internalID: 3008118028819908027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 534
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f817e27c2b144f0800000000000000
+      internalID: -846198686421512300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 532
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e99544310e228360800000000000000
+      internalID: 7170344139434072548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 531
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d03a24d9e02d120800000000000000
+      internalID: 2437026416951495944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 532
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015f50d0dd4de8620800000000000000
+      internalID: 2778392066005529872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 525
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26742c91a139ea050800000000000000
+      internalID: 5813745909292484450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 396
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567a1e72456d12390800000000000000
+      internalID: -7844753418967996571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 404
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057720c6aeda65690800000000000000
+      internalID: -7613706897677191344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 402
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94168d1106a982de0800000000000000
+      internalID: -1357665550245273271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0632273c6ceab60800000000000000
+      internalID: 7759357750741786832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 393
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44711ac5af598710800000000000000
+      internalID: 1695991900346086477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 405
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef82147e93033e00800000000000000
+      internalID: 1023165519430324200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 390
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac98a6c1518700ec0800000000000000
+      internalID: -3602747669830006326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 404
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1984b1decf33c580800000000000000
+      internalID: -8808126288692475621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2890b5bda10924cb0800000000000000
+      internalID: -4881180601092470398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31ebae5e77e035b0800000000000000
+      internalID: -5390554224022265539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 270
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5cac80552260390800000000000000
+      internalID: -7852551151658809904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 269
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a95ce5030dc63d0800000000000000
+      internalID: -3211963528054990317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 351
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e5dd001bd7fce0800000000000000
+      internalID: -1371386699512944945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 280
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4114b905501a233b0800000000000000
+      internalID: -5534183947885657836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 360
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d35443cfd83cddc0800000000000000
+      internalID: -3612950267353082920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 316
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d9201454bc49e30800000000000000
+      internalID: 4509452625208581379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 322
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f1628ffe7e8620800000000000000
+      internalID: 2778297656003393877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 319
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cc9fa50a8597c60800000000000000
+      internalID: 7816376074022538287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 312
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0015782f7d9eed0800000000000000
+      internalID: -2384137091063676694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 292
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d355c235dccb130800000000000000
+      internalID: 3583965160589835613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 292
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c215433b3ec854120800000000000000
+      internalID: 2397477286236672300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 232
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d1e8442981cbc0800000000000000
+      internalID: -3764577024570436374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 180
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e1ee344571e3e30800000000000000
+      internalID: 4485047929591963258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 229
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ff74d69f0dd01b0800000000000000
+      internalID: -5688660984600199308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 231
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd13134063414ce60800000000000000
+      internalID: 7981526661838483935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 225
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bbe5dc565494790800000000000000
+      internalID: -7545423397143004343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 237
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc265254bb1105f90800000000000000
+      internalID: -6967049127525522739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 186
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8940039d9a81840800000000000000
+      internalID: 5195088920450472177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 181
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80680b9a059fefb0800000000000000
+      internalID: -4616307220248239990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 198
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c0f42685927dc90800000000000000
+      internalID: -7145196824216794110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c1ce359d75dbe90800000000000000
+      internalID: -7008348854191121296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 207
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdac5dc8a3dcd6c0800000000000000
+      internalID: -4117183237370106429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 204
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2ab8648d2ac1fc0800000000000000
+      internalID: -3522761758730378572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 206
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632b6515a3936810800000000000000
+      internalID: 1757410616842855265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 207
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cdf43154ba94650800000000000000
+      internalID: 6217689073726774325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 209
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecfe0d6db470e7b0800000000000000
+      internalID: -5197025613058212634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 193
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5037beb16c9993ea0800000000000000
+      internalID: -5892509561286593787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 196
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa967e6a3cc630160800000000000000
+      internalID: 6990550634183748010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 200
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fff6741a4299a150800000000000000
+      internalID: 5884395235004841974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aefce39c50fb3c00800000000000000
+      internalID: 881562432490503843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137b653bf09a2b70800000000000000
+      internalID: 8875065424294408990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 152
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dccb20d6ee383ee0800000000000000
+      internalID: -1281204932930974509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 184
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c540501af40c40800000000000000
+      internalID: 5477777994762537448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 173
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b44b72c746f000e0800000000000000
+      internalID: -2305572221147724619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 165
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9a6cad673d614c0800000000000000
+      internalID: -4317030685357987372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 176
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6810951cab8e3e0800000000000000
+      internalID: -2024162692918311183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 164
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a398646f780d53c0800000000000000
+      internalID: -4369326720241069143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 164
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a29da0a6c501a00800000000000000
+      internalID: 725181150524942963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 165
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ef794ff6af1e300800000000000000
+      internalID: 279780010625597004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 173
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c25eb731e8c8a0800000000000000
+      internalID: -6284525650462982104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 79
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa528c8cc2ba54700800000000000000
+      internalID: 524013140494001578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 90
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca98bf518793c850800000000000000
+      internalID: 6396122477708745420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 83
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de24cf4a41188b60800000000000000
+      internalID: 7748462169754447568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 80
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7056d4827c2bdd20800000000000000
+      internalID: 3304283621972922494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8310c8f4fda83e40800000000000000
+      internalID: 5636446201311138698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 77
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf0bd82722d3f5a0800000000000000
+      internalID: -6488611572479750222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 50
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4014a029c4422820800000000000000
+      internalID: 2891949541352017997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 87
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709e8da309195100800000000000000
+      internalID: 97136370552574064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 87
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9379f4b5b173ce0800000000000000
+      internalID: -1425640678048187993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af65d3cadb8b6200800000000000000
+      internalID: 174386782288572324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ac20d42189f720800000000000000
+      internalID: 2880475431791534119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea90e49f8f499c0800000000000000
+      internalID: -3921235625893056962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241021poisonCloudFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 39
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd29ff278aa8e5ed0800000000000000
+      internalID: -2423347093390257445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241021poisonCloudFX-Sheet_0: -610253909738631536
+      20241021poisonCloudFX-Sheet_1: 3501283770503673989
+      20241021poisonCloudFX-Sheet_10: 6333935562355385122
+      20241021poisonCloudFX-Sheet_100: 4485047929591963258
+      20241021poisonCloudFX-Sheet_101: -5688660984600199308
+      20241021poisonCloudFX-Sheet_102: 7981526661838483935
+      20241021poisonCloudFX-Sheet_103: -7545423397143004343
+      20241021poisonCloudFX-Sheet_104: -6967049127525522739
+      20241021poisonCloudFX-Sheet_105: 5195088920450472177
+      20241021poisonCloudFX-Sheet_106: -4616307220248239990
+      20241021poisonCloudFX-Sheet_107: -7145196824216794110
+      20241021poisonCloudFX-Sheet_108: -7008348854191121296
+      20241021poisonCloudFX-Sheet_109: -4117183237370106429
+      20241021poisonCloudFX-Sheet_11: 8197367430827104979
+      20241021poisonCloudFX-Sheet_110: -3522761758730378572
+      20241021poisonCloudFX-Sheet_111: 1757410616842855265
+      20241021poisonCloudFX-Sheet_112: 6217689073726774325
+      20241021poisonCloudFX-Sheet_113: -5197025613058212634
+      20241021poisonCloudFX-Sheet_114: -5892509561286593787
+      20241021poisonCloudFX-Sheet_115: 6990550634183748010
+      20241021poisonCloudFX-Sheet_116: 5884395235004841974
+      20241021poisonCloudFX-Sheet_117: 881562432490503843
+      20241021poisonCloudFX-Sheet_118: 8875065424294408990
+      20241021poisonCloudFX-Sheet_119: -1281204932930974509
+      20241021poisonCloudFX-Sheet_12: 6007608787476005442
+      20241021poisonCloudFX-Sheet_120: 5477777994762537448
+      20241021poisonCloudFX-Sheet_121: -2305572221147724619
+      20241021poisonCloudFX-Sheet_122: -4317030685357987372
+      20241021poisonCloudFX-Sheet_123: -2024162692918311183
+      20241021poisonCloudFX-Sheet_124: -4369326720241069143
+      20241021poisonCloudFX-Sheet_125: 725181150524942963
+      20241021poisonCloudFX-Sheet_126: 279780010625597004
+      20241021poisonCloudFX-Sheet_127: -6284525650462982104
+      20241021poisonCloudFX-Sheet_128: 524013140494001578
+      20241021poisonCloudFX-Sheet_129: 6396122477708745420
+      20241021poisonCloudFX-Sheet_13: 8550921285207820231
+      20241021poisonCloudFX-Sheet_130: 7748462169754447568
+      20241021poisonCloudFX-Sheet_131: 3304283621972922494
+      20241021poisonCloudFX-Sheet_132: 5636446201311138698
+      20241021poisonCloudFX-Sheet_133: -6488611572479750222
+      20241021poisonCloudFX-Sheet_134: 2891949541352017997
+      20241021poisonCloudFX-Sheet_135: 97136370552574064
+      20241021poisonCloudFX-Sheet_136: -1425640678048187993
+      20241021poisonCloudFX-Sheet_137: 174386782288572324
+      20241021poisonCloudFX-Sheet_138: 2880475431791534119
+      20241021poisonCloudFX-Sheet_139: -3921235625893056962
+      20241021poisonCloudFX-Sheet_14: 8578840210373435914
+      20241021poisonCloudFX-Sheet_140: -2423347093390257445
+      20241021poisonCloudFX-Sheet_15: 7059305000502216729
+      20241021poisonCloudFX-Sheet_16: -4937607086940146563
+      20241021poisonCloudFX-Sheet_17: -4258889769551962520
+      20241021poisonCloudFX-Sheet_18: -1772218339869892034
+      20241021poisonCloudFX-Sheet_19: -6778068990250543456
+      20241021poisonCloudFX-Sheet_2: -8236980059718525496
+      20241021poisonCloudFX-Sheet_20: -5764636334635631222
+      20241021poisonCloudFX-Sheet_21: 8498789585136610262
+      20241021poisonCloudFX-Sheet_22: 7291596235852649699
+      20241021poisonCloudFX-Sheet_23: 2049587632082943508
+      20241021poisonCloudFX-Sheet_24: 2980459289137629900
+      20241021poisonCloudFX-Sheet_25: 321556987922984415
+      20241021poisonCloudFX-Sheet_26: 4397585788771951562
+      20241021poisonCloudFX-Sheet_27: -2809553029149836505
+      20241021poisonCloudFX-Sheet_28: -4433262239643786296
+      20241021poisonCloudFX-Sheet_29: 658664988754297676
+      20241021poisonCloudFX-Sheet_3: -6099444671270677700
+      20241021poisonCloudFX-Sheet_30: -2552310990812351682
+      20241021poisonCloudFX-Sheet_31: 5547960742997717623
+      20241021poisonCloudFX-Sheet_32: -388696486885315014
+      20241021poisonCloudFX-Sheet_33: 3937224157123406305
+      20241021poisonCloudFX-Sheet_34: 2611366566718064741
+      20241021poisonCloudFX-Sheet_35: 3116210958615952268
+      20241021poisonCloudFX-Sheet_36: 4598146067302830066
+      20241021poisonCloudFX-Sheet_37: 1524721442578097238
+      20241021poisonCloudFX-Sheet_38: 5689715925396281958
+      20241021poisonCloudFX-Sheet_39: 1474891662179764126
+      20241021poisonCloudFX-Sheet_4: -7034759856687153171
+      20241021poisonCloudFX-Sheet_40: 766025619453414365
+      20241021poisonCloudFX-Sheet_41: -5777274180493576916
+      20241021poisonCloudFX-Sheet_42: -5721064689298357693
+      20241021poisonCloudFX-Sheet_43: -3652025981708659504
+      20241021poisonCloudFX-Sheet_44: -2181851010021046245
+      20241021poisonCloudFX-Sheet_45: 4125998564831127572
+      20241021poisonCloudFX-Sheet_46: 5368760041106777509
+      20241021poisonCloudFX-Sheet_47: -7190120264384617573
+      20241021poisonCloudFX-Sheet_48: 7744530694827223422
+      20241021poisonCloudFX-Sheet_49: -755996614744367443
+      20241021poisonCloudFX-Sheet_5: 8757052768262515932
+      20241021poisonCloudFX-Sheet_50: -3218255671081752215
+      20241021poisonCloudFX-Sheet_51: 8159251146240126856
+      20241021poisonCloudFX-Sheet_52: -9018602622652511237
+      20241021poisonCloudFX-Sheet_53: 5698920673118710975
+      20241021poisonCloudFX-Sheet_54: 7410347276321750412
+      20241021poisonCloudFX-Sheet_55: -8173313627658351627
+      20241021poisonCloudFX-Sheet_56: 3289949128097891833
+      20241021poisonCloudFX-Sheet_57: 1423813944753361822
+      20241021poisonCloudFX-Sheet_58: 2286721353154500459
+      20241021poisonCloudFX-Sheet_59: -6313956244531640359
+      20241021poisonCloudFX-Sheet_6: 7359527241692607144
+      20241021poisonCloudFX-Sheet_60: -1243829297839562426
+      20241021poisonCloudFX-Sheet_61: 1630604208867205722
+      20241021poisonCloudFX-Sheet_62: -9082037435780321293
+      20241021poisonCloudFX-Sheet_63: -7533272444690918499
+      20241021poisonCloudFX-Sheet_64: -3838482546601778928
+      20241021poisonCloudFX-Sheet_65: -5860966249383842351
+      20241021poisonCloudFX-Sheet_66: -7357381654494572366
+      20241021poisonCloudFX-Sheet_67: 1646714479946863270
+      20241021poisonCloudFX-Sheet_68: -2264584496584591463
+      20241021poisonCloudFX-Sheet_69: 7666650503172658510
+      20241021poisonCloudFX-Sheet_7: -7566351897102918945
+      20241021poisonCloudFX-Sheet_70: -7174724268989212596
+      20241021poisonCloudFX-Sheet_71: -412087922943445502
+      20241021poisonCloudFX-Sheet_72: 3008118028819908027
+      20241021poisonCloudFX-Sheet_73: -846198686421512300
+      20241021poisonCloudFX-Sheet_74: 7170344139434072548
+      20241021poisonCloudFX-Sheet_75: 2437026416951495944
+      20241021poisonCloudFX-Sheet_76: 2778392066005529872
+      20241021poisonCloudFX-Sheet_77: 5813745909292484450
+      20241021poisonCloudFX-Sheet_78: -7844753418967996571
+      20241021poisonCloudFX-Sheet_79: -7613706897677191344
+      20241021poisonCloudFX-Sheet_8: -4377021099116924479
+      20241021poisonCloudFX-Sheet_80: -1357665550245273271
+      20241021poisonCloudFX-Sheet_81: 7759357750741786832
+      20241021poisonCloudFX-Sheet_82: 1695991900346086477
+      20241021poisonCloudFX-Sheet_83: 1023165519430324200
+      20241021poisonCloudFX-Sheet_84: -3602747669830006326
+      20241021poisonCloudFX-Sheet_85: -8808126288692475621
+      20241021poisonCloudFX-Sheet_86: -4881180601092470398
+      20241021poisonCloudFX-Sheet_87: -5390554224022265539
+      20241021poisonCloudFX-Sheet_88: -7852551151658809904
+      20241021poisonCloudFX-Sheet_89: -3211963528054990317
+      20241021poisonCloudFX-Sheet_9: -7969905656469905618
+      20241021poisonCloudFX-Sheet_90: -1371386699512944945
+      20241021poisonCloudFX-Sheet_91: -5534183947885657836
+      20241021poisonCloudFX-Sheet_92: -3612950267353082920
+      20241021poisonCloudFX-Sheet_93: 4509452625208581379
+      20241021poisonCloudFX-Sheet_94: 2778297656003393877
+      20241021poisonCloudFX-Sheet_95: 7816376074022538287
+      20241021poisonCloudFX-Sheet_96: -2384137091063676694
+      20241021poisonCloudFX-Sheet_97: 3583965160589835613
+      20241021poisonCloudFX-Sheet_98: 2397477286236672300
+      20241021poisonCloudFX-Sheet_99: -3764577024570436374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

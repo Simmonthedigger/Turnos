@@ -1,0 +1,2756 @@
+fileFormatVersion: 2
+guid: 0328072fe66e7594185489e01de8a282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1110527376872359387
+    second: 20241225lupineStrike-Sheet_0
+  - first:
+      213: -915452466942998587
+    second: 20241225lupineStrike-Sheet_1
+  - first:
+      213: -1942859176937996883
+    second: 20241225lupineStrike-Sheet_2
+  - first:
+      213: -9025087748083289707
+    second: 20241225lupineStrike-Sheet_3
+  - first:
+      213: -8494080164205196038
+    second: 20241225lupineStrike-Sheet_4
+  - first:
+      213: 4942605635727006004
+    second: 20241225lupineStrike-Sheet_5
+  - first:
+      213: -2233865865083170075
+    second: 20241225lupineStrike-Sheet_6
+  - first:
+      213: -1812392858076852773
+    second: 20241225lupineStrike-Sheet_7
+  - first:
+      213: -362143331971576175
+    second: 20241225lupineStrike-Sheet_8
+  - first:
+      213: 3488961073150957459
+    second: 20241225lupineStrike-Sheet_9
+  - first:
+      213: 6986325402763703564
+    second: 20241225lupineStrike-Sheet_10
+  - first:
+      213: 1059237338623148072
+    second: 20241225lupineStrike-Sheet_11
+  - first:
+      213: 9097082881723489846
+    second: 20241225lupineStrike-Sheet_12
+  - first:
+      213: -7347484848731162791
+    second: 20241225lupineStrike-Sheet_13
+  - first:
+      213: -1451920231697222765
+    second: 20241225lupineStrike-Sheet_14
+  - first:
+      213: 4548742507367641402
+    second: 20241225lupineStrike-Sheet_15
+  - first:
+      213: 1222977450832364786
+    second: 20241225lupineStrike-Sheet_16
+  - first:
+      213: 1963224085696295684
+    second: 20241225lupineStrike-Sheet_17
+  - first:
+      213: 3382632723202865627
+    second: 20241225lupineStrike-Sheet_18
+  - first:
+      213: -2489485850087922208
+    second: 20241225lupineStrike-Sheet_19
+  - first:
+      213: 4933532024222571320
+    second: 20241225lupineStrike-Sheet_20
+  - first:
+      213: 7119196903354314566
+    second: 20241225lupineStrike-Sheet_21
+  - first:
+      213: 8667328293030895043
+    second: 20241225lupineStrike-Sheet_22
+  - first:
+      213: -4749331179444111039
+    second: 20241225lupineStrike-Sheet_23
+  - first:
+      213: -5215785224744262628
+    second: 20241225lupineStrike-Sheet_24
+  - first:
+      213: 4674923971401425163
+    second: 20241225lupineStrike-Sheet_25
+  - first:
+      213: -5248233496816663028
+    second: 20241225lupineStrike-Sheet_26
+  - first:
+      213: 7997485299358906784
+    second: 20241225lupineStrike-Sheet_27
+  - first:
+      213: -5132250217546687860
+    second: 20241225lupineStrike-Sheet_28
+  - first:
+      213: 8087884124366221582
+    second: 20241225lupineStrike-Sheet_29
+  - first:
+      213: -5766023458193819897
+    second: 20241225lupineStrike-Sheet_30
+  - first:
+      213: -7743525288424957901
+    second: 20241225lupineStrike-Sheet_31
+  - first:
+      213: -3502674704061306820
+    second: 20241225lupineStrike-Sheet_32
+  - first:
+      213: -1296298439524756224
+    second: 20241225lupineStrike-Sheet_33
+  - first:
+      213: -3500497760057416372
+    second: 20241225lupineStrike-Sheet_34
+  - first:
+      213: 7175726691422891841
+    second: 20241225lupineStrike-Sheet_35
+  - first:
+      213: 4876386604982952989
+    second: 20241225lupineStrike-Sheet_36
+  - first:
+      213: -4687292808308149428
+    second: 20241225lupineStrike-Sheet_37
+  - first:
+      213: 3754366082473219700
+    second: 20241225lupineStrike-Sheet_38
+  - first:
+      213: 7653506585032328250
+    second: 20241225lupineStrike-Sheet_39
+  - first:
+      213: 4470910076327591770
+    second: 20241225lupineStrike-Sheet_40
+  - first:
+      213: 6485249414260359492
+    second: 20241225lupineStrike-Sheet_41
+  - first:
+      213: -7856263705638942741
+    second: 20241225lupineStrike-Sheet_42
+  - first:
+      213: 1144247268466853623
+    second: 20241225lupineStrike-Sheet_43
+  - first:
+      213: 8772733417841004683
+    second: 20241225lupineStrike-Sheet_44
+  - first:
+      213: 6369266666826316282
+    second: 20241225lupineStrike-Sheet_45
+  - first:
+      213: -6199702121674369490
+    second: 20241225lupineStrike-Sheet_46
+  - first:
+      213: 7007183757985569907
+    second: 20241225lupineStrike-Sheet_47
+  - first:
+      213: 8753606491731840512
+    second: 20241225lupineStrike-Sheet_48
+  - first:
+      213: -9038122479228800215
+    second: 20241225lupineStrike-Sheet_49
+  - first:
+      213: -2880301216972783489
+    second: 20241225lupineStrike-Sheet_50
+  - first:
+      213: -4739682511397963110
+    second: 20241225lupineStrike-Sheet_51
+  - first:
+      213: 7347465992466251888
+    second: 20241225lupineStrike-Sheet_52
+  - first:
+      213: 5244823365954962201
+    second: 20241225lupineStrike-Sheet_53
+  - first:
+      213: 8203558778112207106
+    second: 20241225lupineStrike-Sheet_54
+  - first:
+      213: 3234753588787178838
+    second: 20241225lupineStrike-Sheet_55
+  - first:
+      213: -7362205571131613606
+    second: 20241225lupineStrike-Sheet_56
+  - first:
+      213: -7565051349687962341
+    second: 20241225lupineStrike-Sheet_57
+  - first:
+      213: -5727383539882201166
+    second: 20241225lupineStrike-Sheet_58
+  - first:
+      213: 8197736869314282765
+    second: 20241225lupineStrike-Sheet_59
+  - first:
+      213: 3319252412883339401
+    second: 20241225lupineStrike-Sheet_60
+  - first:
+      213: -3201130746652014796
+    second: 20241225lupineStrike-Sheet_61
+  - first:
+      213: 7606129520984915751
+    second: 20241225lupineStrike-Sheet_62
+  - first:
+      213: 8059409740284681513
+    second: 20241225lupineStrike-Sheet_63
+  - first:
+      213: -993038842534382979
+    second: 20241225lupineStrike-Sheet_64
+  - first:
+      213: 3714704368256323996
+    second: 20241225lupineStrike-Sheet_65
+  - first:
+      213: -5298913776416081918
+    second: 20241225lupineStrike-Sheet_66
+  - first:
+      213: 4605374121211062777
+    second: 20241225lupineStrike-Sheet_67
+  - first:
+      213: 5041436016603947122
+    second: 20241225lupineStrike-Sheet_68
+  - first:
+      213: -6362762947616187315
+    second: 20241225lupineStrike-Sheet_69
+  - first:
+      213: 8664797368043431850
+    second: 20241225lupineStrike-Sheet_70
+  - first:
+      213: -5362242277288514864
+    second: 20241225lupineStrike-Sheet_71
+  - first:
+      213: -4577904429555261359
+    second: 20241225lupineStrike-Sheet_72
+  - first:
+      213: 1451496166457405030
+    second: 20241225lupineStrike-Sheet_73
+  - first:
+      213: 227036229345609709
+    second: 20241225lupineStrike-Sheet_74
+  - first:
+      213: -9065633919532681423
+    second: 20241225lupineStrike-Sheet_75
+  - first:
+      213: -383737002260605200
+    second: 20241225lupineStrike-Sheet_76
+  - first:
+      213: -5622198603295814996
+    second: 20241225lupineStrike-Sheet_77
+  - first:
+      213: 2252102056183769235
+    second: 20241225lupineStrike-Sheet_78
+  - first:
+      213: 4880098596004710567
+    second: 20241225lupineStrike-Sheet_79
+  - first:
+      213: -4533519456643418903
+    second: 20241225lupineStrike-Sheet_80
+  - first:
+      213: -517184380051101049
+    second: 20241225lupineStrike-Sheet_81
+  - first:
+      213: -4224449609635150100
+    second: 20241225lupineStrike-Sheet_82
+  - first:
+      213: 1106031468685545245
+    second: 20241225lupineStrike-Sheet_83
+  - first:
+      213: -8160591583022416468
+    second: 20241225lupineStrike-Sheet_84
+  - first:
+      213: -625854434070540083
+    second: 20241225lupineStrike-Sheet_85
+  - first:
+      213: 685610182673343141
+    second: 20241225lupineStrike-Sheet_86
+  - first:
+      213: -6548648412215206252
+    second: 20241225lupineStrike-Sheet_87
+  - first:
+      213: -3421211433251235791
+    second: 20241225lupineStrike-Sheet_88
+  - first:
+      213: -2208206554020400196
+    second: 20241225lupineStrike-Sheet_89
+  - first:
+      213: -6916731722852381658
+    second: 20241225lupineStrike-Sheet_90
+  - first:
+      213: -2820583539964737897
+    second: 20241225lupineStrike-Sheet_91
+  - first:
+      213: 2070815880487124232
+    second: 20241225lupineStrike-Sheet_92
+  - first:
+      213: 1232613618394803151
+    second: 20241225lupineStrike-Sheet_93
+  - first:
+      213: 2649056990318268095
+    second: 20241225lupineStrike-Sheet_94
+  - first:
+      213: -5709013863283700298
+    second: 20241225lupineStrike-Sheet_95
+  - first:
+      213: 6485854084650638748
+    second: 20241225lupineStrike-Sheet_96
+  - first:
+      213: -1024515562387085574
+    second: 20241225lupineStrike-Sheet_97
+  - first:
+      213: -7503745783197945716
+    second: 20241225lupineStrike-Sheet_98
+  - first:
+      213: 695052543466813010
+    second: 20241225lupineStrike-Sheet_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 695
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a3d2c0c3d9690f0800000000000000
+      internalID: -1110527376872359387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 701
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c78b13e4d8ab43f0800000000000000
+      internalID: -915452466942998587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 705
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadb00e4fd39905e0800000000000000
+      internalID: -1942859176937996883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 687
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591f3c4928270c280800000000000000
+      internalID: -9025087748083289707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 703
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc8bde1817fe1a80800000000000000
+      internalID: -8494080164205196038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 649
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4391a5e73a9a79440800000000000000
+      internalID: 4942605635727006004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 647
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d8dbc4d6bff0e0800000000000000
+      internalID: -2233865865083170075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 645
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddcfdc4c4619d6e0800000000000000
+      internalID: -1812392858076852773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 689
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ece0cee8869faf0800000000000000
+      internalID: -362143331971576175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 693
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39714585c974b6030800000000000000
+      internalID: 3488961073150957459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 687
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b40d40f964f060800000000000000
+      internalID: 6986325402763703564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 693
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82086755fba23be00800000000000000
+      internalID: 1059237338623148072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 685
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e5a69bea45f3e70800000000000000
+      internalID: 9097082881723489846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 689
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95770de657d780a90800000000000000
+      internalID: -7347484848731162791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 683
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393fb7bed3eb9dbe0800000000000000
+      internalID: -1451920231697222765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 685
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a313e5ec531602f30800000000000000
+      internalID: 4548742507367641402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 679
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f40d2d0383e8f010800000000000000
+      internalID: 1222977450832364786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 677
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4033b6287e5ce3b10800000000000000
+      internalID: 1963224085696295684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 679
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97e103a8681fe20800000000000000
+      internalID: 3382632723202865627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 683
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e5282fc1937dd0800000000000000
+      internalID: -2489485850087922208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 679
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bdccfac3d677440800000000000000
+      internalID: 4933532024222571320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 671
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fae7e4dd77cc260800000000000000
+      internalID: 7119196903354314566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 671
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd9cc93929884870800000000000000
+      internalID: 8667328293030895043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 673
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149fb80947cf61eb0800000000000000
+      internalID: -4749331179444111039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 665
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c142366f8fecd97b0800000000000000
+      internalID: -5215785224744262628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 671
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01275b459aa0e040800000000000000
+      internalID: 4674923971401425163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 665
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06cfe3e0778a27b0800000000000000
+      internalID: -5248233496816663028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 530
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a932bcd186ccfe60800000000000000
+      internalID: 7997485299358906784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 538
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a55b47e9596c8b0800000000000000
+      internalID: -5132250217546687860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 398
+        width: 94
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01be5972cfed3070800000000000000
+      internalID: 8087884124366221582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 370
+        width: 148
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b9c7e638faffa0800000000000000
+      internalID: -5766023458193819897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 551
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3381d22f6c8798490800000000000000
+      internalID: -7743525288424957901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 553
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38eda42aeff36fc0800000000000000
+      internalID: -3502674704061306820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 388
+        width: 186
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005db35ff6f920ee0800000000000000
+      internalID: -1296298439524756224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 384
+        width: 189
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c452aba65dbbb6fc0800000000000000
+      internalID: -3500497760057416372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 116
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fec8f386d459360800000000000000
+      internalID: 7175726691422891841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 527
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d146b71f7c76ca340800000000000000
+      internalID: 4876386604982952989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 503
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43bc82760463feb0800000000000000
+      internalID: -4687292808308149428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 388
+        width: 58
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476579e7f003a1430800000000000000
+      internalID: 3754366082473219700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 511
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3407f660b7b63a60800000000000000
+      internalID: 7653506585032328250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 508
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f783ac60ddb0e30800000000000000
+      internalID: 4470910076327591770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 448
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4418cc06bfb300a50800000000000000
+      internalID: 6485249414260359492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 442
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c893b8c1f8f290800000000000000
+      internalID: -7856263705638942741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 430
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68d2404de21ef00800000000000000
+      internalID: 1144247268466853623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 426
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b809c9740920fb970800000000000000
+      internalID: 8772733417841004683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 420
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93be3a94e246850800000000000000
+      internalID: 6369266666826316282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 433
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e261d5c84cb36f9a0800000000000000
+      internalID: -6199702121674369490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cdd9290848e3160800000000000000
+      internalID: 7007183757985569907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 390
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eca33c9be0b7970800000000000000
+      internalID: 8753606491731840512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 390
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923381dbd73229280800000000000000
+      internalID: -9038122479228800215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 198
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70463cbd4d1708d0800000000000000
+      internalID: -2880301216972783489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 198
+        width: 139
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a3ef72ed3493eb0800000000000000
+      internalID: -4739682511397963110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 243
+        width: 145
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070c630446177f560800000000000000
+      internalID: 7347465992466251888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 342
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130a65201b59c840800000000000000
+      internalID: 5244823365954962201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 338
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2096a6f8e35e8d170800000000000000
+      internalID: 8203558778112207106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 338
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6493204724ec20800000000000000
+      internalID: 3234753588787178838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 311
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e5c492a0134d990800000000000000
+      internalID: -7362205571131613606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 311
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15724af0e9830790800000000000000
+      internalID: -7565051349687962341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 283
+        width: 149
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfe6e4f30f3480b0800000000000000
+      internalID: -5727383539882201166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 303
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05c999cf3634c170800000000000000
+      internalID: 8197736869314282765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 279
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98805cdbb7a501e20800000000000000
+      internalID: 3319252412883339401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 299
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c936db8c4393d0800000000000000
+      internalID: -3201130746652014796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 287
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ffae510866e8960800000000000000
+      internalID: 7606129520984915751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 289
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dddfc4576c8df60800000000000000
+      internalID: 8059409740284681513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72b29e1f640832f0800000000000000
+      internalID: -993038842534382979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 293
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91928b01f74d8330800000000000000
+      internalID: 3714704368256323996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 277
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208bb45cef97676b0800000000000000
+      internalID: -5298913776416081918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 265
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9ef88ec5399ef30800000000000000
+      internalID: 4605374121211062777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 281
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270e98fa857c6f540800000000000000
+      internalID: 5041436016603947122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 283
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd15d7fcce2b7a0800000000000000
+      internalID: -6362762947616187315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 277
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e7f45c4b8f3870800000000000000
+      internalID: 8664797368043431850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 279
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dae2a62f0d7595b0800000000000000
+      internalID: -5362242277288514864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 271
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150eba41d240870c0800000000000000
+      internalID: -4577904429555261359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 271
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee882b210c42410800000000000000
+      internalID: 1451496166457405030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 267
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70a496f38962300800000000000000
+      internalID: 227036229345609709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 257
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137b5826bf5603280800000000000000
+      internalID: -9065633919532681423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 257
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f65515ca31bcaaf0800000000000000
+      internalID: -383737002260605200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 227
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0bd17820f9f1b0800000000000000
+      internalID: -5622198603295814996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 261
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a2c053e2114f10800000000000000
+      internalID: 2252102056183769235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 261
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a84eb331d799b340800000000000000
+      internalID: 4880098596004710567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 245
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e47274e214b511c0800000000000000
+      internalID: -4533519456643418903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 198
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a6ca7eb8792d8f0800000000000000
+      internalID: -517184380051101049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 222
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6c82e467dbf55c0800000000000000
+      internalID: -4224449609635150100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 210
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fc761c2c9695f00800000000000000
+      internalID: 1106031468685545245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadf7e02131cfbe80800000000000000
+      internalID: -8160591583022416468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc05f1845b48057f0800000000000000
+      internalID: -625854434070540083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 191
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a2a024d6c38900800000000000000
+      internalID: 685610182673343141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 198
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e9cfe17f68e15a0800000000000000
+      internalID: -6548648412215206252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 196
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1381e8be35a6580d0800000000000000
+      internalID: -3421211433251235791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 113
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bce4b6dfda51e0800000000000000
+      internalID: -2208206554020400196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 117
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c45bcf425d200a0800000000000000
+      internalID: -6916731722852381658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 105
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968619e6364bd8d0800000000000000
+      internalID: -2820583539964737897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d3ca752140dbc10800000000000000
+      internalID: 2070815880487124232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 101
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb2bb52e8f1b1110800000000000000
+      internalID: 1232613618394803151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 103
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe8fa12c4753c420800000000000000
+      internalID: 2649056990318268095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc135932285c0b0800000000000000
+      internalID: -5709013863283700298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d1e9c2de1620a50800000000000000
+      internalID: 6485854084650638748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 105
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ee0d268038c1f0800000000000000
+      internalID: -1024515562387085574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b6ab77f65dd790800000000000000
+      internalID: -7503745783197945716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241225lupineStrike-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 97
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25632911b9255a900800000000000000
+      internalID: 695052543466813010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241225lupineStrike-Sheet_0: -1110527376872359387
+      20241225lupineStrike-Sheet_1: -915452466942998587
+      20241225lupineStrike-Sheet_10: 6986325402763703564
+      20241225lupineStrike-Sheet_11: 1059237338623148072
+      20241225lupineStrike-Sheet_12: 9097082881723489846
+      20241225lupineStrike-Sheet_13: -7347484848731162791
+      20241225lupineStrike-Sheet_14: -1451920231697222765
+      20241225lupineStrike-Sheet_15: 4548742507367641402
+      20241225lupineStrike-Sheet_16: 1222977450832364786
+      20241225lupineStrike-Sheet_17: 1963224085696295684
+      20241225lupineStrike-Sheet_18: 3382632723202865627
+      20241225lupineStrike-Sheet_19: -2489485850087922208
+      20241225lupineStrike-Sheet_2: -1942859176937996883
+      20241225lupineStrike-Sheet_20: 4933532024222571320
+      20241225lupineStrike-Sheet_21: 7119196903354314566
+      20241225lupineStrike-Sheet_22: 8667328293030895043
+      20241225lupineStrike-Sheet_23: -4749331179444111039
+      20241225lupineStrike-Sheet_24: -5215785224744262628
+      20241225lupineStrike-Sheet_25: 4674923971401425163
+      20241225lupineStrike-Sheet_26: -5248233496816663028
+      20241225lupineStrike-Sheet_27: 7997485299358906784
+      20241225lupineStrike-Sheet_28: -5132250217546687860
+      20241225lupineStrike-Sheet_29: 8087884124366221582
+      20241225lupineStrike-Sheet_3: -9025087748083289707
+      20241225lupineStrike-Sheet_30: -5766023458193819897
+      20241225lupineStrike-Sheet_31: -7743525288424957901
+      20241225lupineStrike-Sheet_32: -3502674704061306820
+      20241225lupineStrike-Sheet_33: -1296298439524756224
+      20241225lupineStrike-Sheet_34: -3500497760057416372
+      20241225lupineStrike-Sheet_35: 7175726691422891841
+      20241225lupineStrike-Sheet_36: 4876386604982952989
+      20241225lupineStrike-Sheet_37: -4687292808308149428
+      20241225lupineStrike-Sheet_38: 3754366082473219700
+      20241225lupineStrike-Sheet_39: 7653506585032328250
+      20241225lupineStrike-Sheet_4: -8494080164205196038
+      20241225lupineStrike-Sheet_40: 4470910076327591770
+      20241225lupineStrike-Sheet_41: 6485249414260359492
+      20241225lupineStrike-Sheet_42: -7856263705638942741
+      20241225lupineStrike-Sheet_43: 1144247268466853623
+      20241225lupineStrike-Sheet_44: 8772733417841004683
+      20241225lupineStrike-Sheet_45: 6369266666826316282
+      20241225lupineStrike-Sheet_46: -6199702121674369490
+      20241225lupineStrike-Sheet_47: 7007183757985569907
+      20241225lupineStrike-Sheet_48: 8753606491731840512
+      20241225lupineStrike-Sheet_49: -9038122479228800215
+      20241225lupineStrike-Sheet_5: 4942605635727006004
+      20241225lupineStrike-Sheet_50: -2880301216972783489
+      20241225lupineStrike-Sheet_51: -4739682511397963110
+      20241225lupineStrike-Sheet_52: 7347465992466251888
+      20241225lupineStrike-Sheet_53: 5244823365954962201
+      20241225lupineStrike-Sheet_54: 8203558778112207106
+      20241225lupineStrike-Sheet_55: 3234753588787178838
+      20241225lupineStrike-Sheet_56: -7362205571131613606
+      20241225lupineStrike-Sheet_57: -7565051349687962341
+      20241225lupineStrike-Sheet_58: -5727383539882201166
+      20241225lupineStrike-Sheet_59: 8197736869314282765
+      20241225lupineStrike-Sheet_6: -2233865865083170075
+      20241225lupineStrike-Sheet_60: 3319252412883339401
+      20241225lupineStrike-Sheet_61: -3201130746652014796
+      20241225lupineStrike-Sheet_62: 7606129520984915751
+      20241225lupineStrike-Sheet_63: 8059409740284681513
+      20241225lupineStrike-Sheet_64: -993038842534382979
+      20241225lupineStrike-Sheet_65: 3714704368256323996
+      20241225lupineStrike-Sheet_66: -5298913776416081918
+      20241225lupineStrike-Sheet_67: 4605374121211062777
+      20241225lupineStrike-Sheet_68: 5041436016603947122
+      20241225lupineStrike-Sheet_69: -6362762947616187315
+      20241225lupineStrike-Sheet_7: -1812392858076852773
+      20241225lupineStrike-Sheet_70: 8664797368043431850
+      20241225lupineStrike-Sheet_71: -5362242277288514864
+      20241225lupineStrike-Sheet_72: -4577904429555261359
+      20241225lupineStrike-Sheet_73: 1451496166457405030
+      20241225lupineStrike-Sheet_74: 227036229345609709
+      20241225lupineStrike-Sheet_75: -9065633919532681423
+      20241225lupineStrike-Sheet_76: -383737002260605200
+      20241225lupineStrike-Sheet_77: -5622198603295814996
+      20241225lupineStrike-Sheet_78: 2252102056183769235
+      20241225lupineStrike-Sheet_79: 4880098596004710567
+      20241225lupineStrike-Sheet_8: -362143331971576175
+      20241225lupineStrike-Sheet_80: -4533519456643418903
+      20241225lupineStrike-Sheet_81: -517184380051101049
+      20241225lupineStrike-Sheet_82: -4224449609635150100
+      20241225lupineStrike-Sheet_83: 1106031468685545245
+      20241225lupineStrike-Sheet_84: -8160591583022416468
+      20241225lupineStrike-Sheet_85: -625854434070540083
+      20241225lupineStrike-Sheet_86: 685610182673343141
+      20241225lupineStrike-Sheet_87: -6548648412215206252
+      20241225lupineStrike-Sheet_88: -3421211433251235791
+      20241225lupineStrike-Sheet_89: -2208206554020400196
+      20241225lupineStrike-Sheet_9: 3488961073150957459
+      20241225lupineStrike-Sheet_90: -6916731722852381658
+      20241225lupineStrike-Sheet_91: -2820583539964737897
+      20241225lupineStrike-Sheet_92: 2070815880487124232
+      20241225lupineStrike-Sheet_93: 1232613618394803151
+      20241225lupineStrike-Sheet_94: 2649056990318268095
+      20241225lupineStrike-Sheet_95: -5709013863283700298
+      20241225lupineStrike-Sheet_96: 6485854084650638748
+      20241225lupineStrike-Sheet_97: -1024515562387085574
+      20241225lupineStrike-Sheet_98: -7503745783197945716
+      20241225lupineStrike-Sheet_99: 695052543466813010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

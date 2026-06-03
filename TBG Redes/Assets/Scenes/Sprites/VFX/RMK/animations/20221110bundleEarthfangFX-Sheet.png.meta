@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: a0b8a698ad4f6324f8975e0ca2121ba9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6641275323665681666
+    second: 20221110bundleEarthfangFX-Sheet_0
+  - first:
+      213: -9035062897738301934
+    second: 20221110bundleEarthfangFX-Sheet_1
+  - first:
+      213: 1643097045437089075
+    second: 20221110bundleEarthfangFX-Sheet_2
+  - first:
+      213: -5900135867027033679
+    second: 20221110bundleEarthfangFX-Sheet_3
+  - first:
+      213: 9093395639536014302
+    second: 20221110bundleEarthfangFX-Sheet_4
+  - first:
+      213: 1244766852786307465
+    second: 20221110bundleEarthfangFX-Sheet_5
+  - first:
+      213: -7596574475357268438
+    second: 20221110bundleEarthfangFX-Sheet_6
+  - first:
+      213: -2066328504452376297
+    second: 20221110bundleEarthfangFX-Sheet_7
+  - first:
+      213: -5889491354941943866
+    second: 20221110bundleEarthfangFX-Sheet_8
+  - first:
+      213: -6471044556808862106
+    second: 20221110bundleEarthfangFX-Sheet_9
+  - first:
+      213: 5007824850538059431
+    second: 20221110bundleEarthfangFX-Sheet_10
+  - first:
+      213: 7303180373171439237
+    second: 20221110bundleEarthfangFX-Sheet_11
+  - first:
+      213: -3295826660975682538
+    second: 20221110bundleEarthfangFX-Sheet_12
+  - first:
+      213: -7163362153131270274
+    second: 20221110bundleEarthfangFX-Sheet_13
+  - first:
+      213: 3673416555453535172
+    second: 20221110bundleEarthfangFX-Sheet_14
+  - first:
+      213: -5218302321261374327
+    second: 20221110bundleEarthfangFX-Sheet_15
+  - first:
+      213: -8397493724804428728
+    second: 20221110bundleEarthfangFX-Sheet_16
+  - first:
+      213: -4154336773262337524
+    second: 20221110bundleEarthfangFX-Sheet_17
+  - first:
+      213: -2531926492038006411
+    second: 20221110bundleEarthfangFX-Sheet_18
+  - first:
+      213: 2837932760943959494
+    second: 20221110bundleEarthfangFX-Sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 430
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f655b74375d3a0800000000000000
+      internalID: -6641275323665681666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 428
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e3ff01a220d9280800000000000000
+      internalID: -9035062897738301934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 426
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33585ccae047dc610800000000000000
+      internalID: 1643097045437089075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 424
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ff4f60b18e1ea0800000000000000
+      internalID: -5900135867027033679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 424
+        width: 52
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed351a0c72b323e70800000000000000
+      internalID: 9093395639536014302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 232
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98142888bdc464110800000000000000
+      internalID: 1244766852786307465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 232
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d78653cb839690800000000000000
+      internalID: -7596574475357268438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 304
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7191ade4c2de253e0800000000000000
+      internalID: -2066328504452376297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 232
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf83f801d2544ea0800000000000000
+      internalID: -5889491354941943866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 296
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666cea9b24b3236a0800000000000000
+      internalID: -6471044556808862106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 298
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d1b14b2e5f7540800000000000000
+      internalID: 5007824850538059431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 232
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860d710bdb1a5560800000000000000
+      internalID: 7303180373171439237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 232
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c58472d1fd242d0800000000000000
+      internalID: -3295826660975682538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 286
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f12292310a69c90800000000000000
+      internalID: -7163362153131270274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 286
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3d8d305e89af230800000000000000
+      internalID: 3673416555453535172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 262
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9849e92cfadd497b0800000000000000
+      internalID: -5218302321261374327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 258
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cc579f2fb167b80800000000000000
+      internalID: -8397493724804428728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 42
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a1b5027b4d856c0800000000000000
+      internalID: -4154336773262337524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 44
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5797cac254accdcd0800000000000000
+      internalID: -2531926492038006411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20221110bundleEarthfangFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 46
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd12806fcc526720800000000000000
+      internalID: 2837932760943959494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20221110bundleEarthfangFX-Sheet_0: -6641275323665681666
+      20221110bundleEarthfangFX-Sheet_1: -9035062897738301934
+      20221110bundleEarthfangFX-Sheet_10: 5007824850538059431
+      20221110bundleEarthfangFX-Sheet_11: 7303180373171439237
+      20221110bundleEarthfangFX-Sheet_12: -3295826660975682538
+      20221110bundleEarthfangFX-Sheet_13: -7163362153131270274
+      20221110bundleEarthfangFX-Sheet_14: 3673416555453535172
+      20221110bundleEarthfangFX-Sheet_15: -5218302321261374327
+      20221110bundleEarthfangFX-Sheet_16: -8397493724804428728
+      20221110bundleEarthfangFX-Sheet_17: -4154336773262337524
+      20221110bundleEarthfangFX-Sheet_18: -2531926492038006411
+      20221110bundleEarthfangFX-Sheet_19: 2837932760943959494
+      20221110bundleEarthfangFX-Sheet_2: 1643097045437089075
+      20221110bundleEarthfangFX-Sheet_3: -5900135867027033679
+      20221110bundleEarthfangFX-Sheet_4: 9093395639536014302
+      20221110bundleEarthfangFX-Sheet_5: 1244766852786307465
+      20221110bundleEarthfangFX-Sheet_6: -7596574475357268438
+      20221110bundleEarthfangFX-Sheet_7: -2066328504452376297
+      20221110bundleEarthfangFX-Sheet_8: -5889491354941943866
+      20221110bundleEarthfangFX-Sheet_9: -6471044556808862106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: e5a6455776b131d4798a2581caf0c633
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8482370140259082068
+    second: 20241205blessedWater-Sheet_0
+  - first:
+      213: -7736558050717090892
+    second: 20241205blessedWater-Sheet_1
+  - first:
+      213: 4475092087892918648
+    second: 20241205blessedWater-Sheet_2
+  - first:
+      213: 1135765152966530776
+    second: 20241205blessedWater-Sheet_3
+  - first:
+      213: -7000119121072259155
+    second: 20241205blessedWater-Sheet_4
+  - first:
+      213: -5131248226431204019
+    second: 20241205blessedWater-Sheet_5
+  - first:
+      213: 3950122294095269923
+    second: 20241205blessedWater-Sheet_6
+  - first:
+      213: 7089067239793099734
+    second: 20241205blessedWater-Sheet_7
+  - first:
+      213: -7557166091200541471
+    second: 20241205blessedWater-Sheet_8
+  - first:
+      213: -1848489591436041896
+    second: 20241205blessedWater-Sheet_9
+  - first:
+      213: -771705191652318984
+    second: 20241205blessedWater-Sheet_10
+  - first:
+      213: 6944081754522587670
+    second: 20241205blessedWater-Sheet_11
+  - first:
+      213: 9170304432242569137
+    second: 20241205blessedWater-Sheet_12
+  - first:
+      213: -109052932577250606
+    second: 20241205blessedWater-Sheet_13
+  - first:
+      213: -9077455651619892717
+    second: 20241205blessedWater-Sheet_14
+  - first:
+      213: -3460367525445755509
+    second: 20241205blessedWater-Sheet_15
+  - first:
+      213: 3450153450254354878
+    second: 20241205blessedWater-Sheet_16
+  - first:
+      213: 4322284594929374019
+    second: 20241205blessedWater-Sheet_17
+  - first:
+      213: -8479675676424114584
+    second: 20241205blessedWater-Sheet_18
+  - first:
+      213: 906253130847323291
+    second: 20241205blessedWater-Sheet_19
+  - first:
+      213: -4225684074419335022
+    second: 20241205blessedWater-Sheet_20
+  - first:
+      213: 762323682550806265
+    second: 20241205blessedWater-Sheet_21
+  - first:
+      213: -52605041144851117
+    second: 20241205blessedWater-Sheet_22
+  - first:
+      213: 7390324754348048523
+    second: 20241205blessedWater-Sheet_23
+  - first:
+      213: -251366688234140633
+    second: 20241205blessedWater-Sheet_24
+  - first:
+      213: 1042292925863467077
+    second: 20241205blessedWater-Sheet_25
+  - first:
+      213: -4993636644998233964
+    second: 20241205blessedWater-Sheet_26
+  - first:
+      213: 5960527893091496279
+    second: 20241205blessedWater-Sheet_27
+  - first:
+      213: -5438223223412193589
+    second: 20241205blessedWater-Sheet_28
+  - first:
+      213: -4238958802843795711
+    second: 20241205blessedWater-Sheet_29
+  - first:
+      213: 2243382204029408212
+    second: 20241205blessedWater-Sheet_30
+  - first:
+      213: -8812201545498439499
+    second: 20241205blessedWater-Sheet_31
+  - first:
+      213: -1868954499445486824
+    second: 20241205blessedWater-Sheet_32
+  - first:
+      213: -1272291641374332420
+    second: 20241205blessedWater-Sheet_33
+  - first:
+      213: 6144303392439760014
+    second: 20241205blessedWater-Sheet_34
+  - first:
+      213: -7347960795838463413
+    second: 20241205blessedWater-Sheet_35
+  - first:
+      213: 2050681660041760889
+    second: 20241205blessedWater-Sheet_36
+  - first:
+      213: 5938871488708148112
+    second: 20241205blessedWater-Sheet_37
+  - first:
+      213: 2362277222826047656
+    second: 20241205blessedWater-Sheet_38
+  - first:
+      213: -3972350990362879739
+    second: 20241205blessedWater-Sheet_39
+  - first:
+      213: 6549787476715626742
+    second: 20241205blessedWater-Sheet_40
+  - first:
+      213: 7285480205039640076
+    second: 20241205blessedWater-Sheet_41
+  - first:
+      213: 1363322907249544291
+    second: 20241205blessedWater-Sheet_42
+  - first:
+      213: -7707170637783737200
+    second: 20241205blessedWater-Sheet_43
+  - first:
+      213: 7605433963485099531
+    second: 20241205blessedWater-Sheet_44
+  - first:
+      213: -4613773994385209882
+    second: 20241205blessedWater-Sheet_45
+  - first:
+      213: 3239374004792779033
+    second: 20241205blessedWater-Sheet_46
+  - first:
+      213: 805154193493974927
+    second: 20241205blessedWater-Sheet_47
+  - first:
+      213: 1433500366586692698
+    second: 20241205blessedWater-Sheet_48
+  - first:
+      213: 578214259901202535
+    second: 20241205blessedWater-Sheet_49
+  - first:
+      213: -4208848670306468179
+    second: 20241205blessedWater-Sheet_50
+  - first:
+      213: 7039420409410892025
+    second: 20241205blessedWater-Sheet_51
+  - first:
+      213: 2432175345367419480
+    second: 20241205blessedWater-Sheet_52
+  - first:
+      213: -9153116089897481526
+    second: 20241205blessedWater-Sheet_53
+  - first:
+      213: 7536250295676953875
+    second: 20241205blessedWater-Sheet_54
+  - first:
+      213: -5120298536900128853
+    second: 20241205blessedWater-Sheet_55
+  - first:
+      213: -3165860794312507083
+    second: 20241205blessedWater-Sheet_56
+  - first:
+      213: 4732825303617016319
+    second: 20241205blessedWater-Sheet_57
+  - first:
+      213: -3597539343296692758
+    second: 20241205blessedWater-Sheet_58
+  - first:
+      213: 2977257941381297000
+    second: 20241205blessedWater-Sheet_59
+  - first:
+      213: 8902714184565412569
+    second: 20241205blessedWater-Sheet_60
+  - first:
+      213: 3907261079076731981
+    second: 20241205blessedWater-Sheet_61
+  - first:
+      213: -7435156737140926629
+    second: 20241205blessedWater-Sheet_62
+  - first:
+      213: 630712854578549387
+    second: 20241205blessedWater-Sheet_63
+  - first:
+      213: 4825419001903764472
+    second: 20241205blessedWater-Sheet_64
+  - first:
+      213: -4252145741997575948
+    second: 20241205blessedWater-Sheet_65
+  - first:
+      213: 2872636663300676581
+    second: 20241205blessedWater-Sheet_66
+  - first:
+      213: -429929770103825492
+    second: 20241205blessedWater-Sheet_67
+  - first:
+      213: 6527029466552414032
+    second: 20241205blessedWater-Sheet_68
+  - first:
+      213: 7585907780723548799
+    second: 20241205blessedWater-Sheet_69
+  - first:
+      213: 2986786071760026928
+    second: 20241205blessedWater-Sheet_70
+  - first:
+      213: 9098620768783477407
+    second: 20241205blessedWater-Sheet_71
+  - first:
+      213: 2751245455640130747
+    second: 20241205blessedWater-Sheet_72
+  - first:
+      213: 1248846023886962306
+    second: 20241205blessedWater-Sheet_73
+  - first:
+      213: 249477455507860000
+    second: 20241205blessedWater-Sheet_74
+  - first:
+      213: -8293043694834701468
+    second: 20241205blessedWater-Sheet_75
+  - first:
+      213: -3483230017258764955
+    second: 20241205blessedWater-Sheet_76
+  - first:
+      213: -9188715822896805621
+    second: 20241205blessedWater-Sheet_77
+  - first:
+      213: 2341545737145640562
+    second: 20241205blessedWater-Sheet_78
+  - first:
+      213: 9193860833109276470
+    second: 20241205blessedWater-Sheet_79
+  - first:
+      213: 2909636832563037424
+    second: 20241205blessedWater-Sheet_80
+  - first:
+      213: -3261242481710227494
+    second: 20241205blessedWater-Sheet_81
+  - first:
+      213: 6903652200756795073
+    second: 20241205blessedWater-Sheet_82
+  - first:
+      213: 1996413337460163472
+    second: 20241205blessedWater-Sheet_83
+  - first:
+      213: -2762373092699176074
+    second: 20241205blessedWater-Sheet_84
+  - first:
+      213: 1389398829938472507
+    second: 20241205blessedWater-Sheet_85
+  - first:
+      213: -4466057633717803194
+    second: 20241205blessedWater-Sheet_86
+  - first:
+      213: 6537123665675109910
+    second: 20241205blessedWater-Sheet_87
+  - first:
+      213: 2561471153866598010
+    second: 20241205blessedWater-Sheet_88
+  - first:
+      213: -1330116988579546189
+    second: 20241205blessedWater-Sheet_89
+  - first:
+      213: -8331132204065402482
+    second: 20241205blessedWater-Sheet_90
+  - first:
+      213: 1591310355336866206
+    second: 20241205blessedWater-Sheet_91
+  - first:
+      213: -4235442408327590243
+    second: 20241205blessedWater-Sheet_92
+  - first:
+      213: -2998402678601379520
+    second: 20241205blessedWater-Sheet_93
+  - first:
+      213: 8705448005956047344
+    second: 20241205blessedWater-Sheet_94
+  - first:
+      213: -375532728044171303
+    second: 20241205blessedWater-Sheet_95
+  - first:
+      213: 7798150556212666976
+    second: 20241205blessedWater-Sheet_96
+  - first:
+      213: 3493530634015855356
+    second: 20241205blessedWater-Sheet_97
+  - first:
+      213: 8215613501513040569
+    second: 20241205blessedWater-Sheet_98
+  - first:
+      213: -5792277771490587164
+    second: 20241205blessedWater-Sheet_99
+  - first:
+      213: -2776498367733959275
+    second: 20241205blessedWater-Sheet_100
+  - first:
+      213: -2301550432934288401
+    second: 20241205blessedWater-Sheet_101
+  - first:
+      213: 1780194987407261493
+    second: 20241205blessedWater-Sheet_102
+  - first:
+      213: -7725435604289758263
+    second: 20241205blessedWater-Sheet_103
+  - first:
+      213: -5028533959847551970
+    second: 20241205blessedWater-Sheet_104
+  - first:
+      213: 5385749036965939110
+    second: 20241205blessedWater-Sheet_105
+  - first:
+      213: -8491773401766171121
+    second: 20241205blessedWater-Sheet_106
+  - first:
+      213: 1136554244330026167
+    second: 20241205blessedWater-Sheet_107
+  - first:
+      213: 554153826607135844
+    second: 20241205blessedWater-Sheet_108
+  - first:
+      213: -1449800664291655354
+    second: 20241205blessedWater-Sheet_109
+  - first:
+      213: 1590877252266751478
+    second: 20241205blessedWater-Sheet_110
+  - first:
+      213: -297156984640046393
+    second: 20241205blessedWater-Sheet_111
+  - first:
+      213: 2893228058180692658
+    second: 20241205blessedWater-Sheet_112
+  - first:
+      213: -8702492116082520803
+    second: 20241205blessedWater-Sheet_113
+  - first:
+      213: -3399359890383217493
+    second: 20241205blessedWater-Sheet_114
+  - first:
+      213: -5849746768925392589
+    second: 20241205blessedWater-Sheet_115
+  - first:
+      213: 855210350127774359
+    second: 20241205blessedWater-Sheet_116
+  - first:
+      213: -3214471764599004983
+    second: 20241205blessedWater-Sheet_117
+  - first:
+      213: -8449950207579169679
+    second: 20241205blessedWater-Sheet_118
+  - first:
+      213: 7490266801647578432
+    second: 20241205blessedWater-Sheet_119
+  - first:
+      213: -1510060084361963074
+    second: 20241205blessedWater-Sheet_120
+  - first:
+      213: -5605867798263562316
+    second: 20241205blessedWater-Sheet_121
+  - first:
+      213: 437485631056531783
+    second: 20241205blessedWater-Sheet_122
+  - first:
+      213: 4979189244479010956
+    second: 20241205blessedWater-Sheet_123
+  - first:
+      213: 5994798251413117201
+    second: 20241205blessedWater-Sheet_124
+  - first:
+      213: 3351583797524276383
+    second: 20241205blessedWater-Sheet_125
+  - first:
+      213: 4842410565909114270
+    second: 20241205blessedWater-Sheet_126
+  - first:
+      213: 4873718786387601507
+    second: 20241205blessedWater-Sheet_127
+  - first:
+      213: -6680305679810764166
+    second: 20241205blessedWater-Sheet_128
+  - first:
+      213: 5481463391831532787
+    second: 20241205blessedWater-Sheet_129
+  - first:
+      213: -5800648837890908536
+    second: 20241205blessedWater-Sheet_130
+  - first:
+      213: 2209014598249792689
+    second: 20241205blessedWater-Sheet_131
+  - first:
+      213: -4174760712976229627
+    second: 20241205blessedWater-Sheet_132
+  - first:
+      213: -4983422138264730032
+    second: 20241205blessedWater-Sheet_133
+  - first:
+      213: -2049334785360049938
+    second: 20241205blessedWater-Sheet_134
+  - first:
+      213: -4090006667865172264
+    second: 20241205blessedWater-Sheet_135
+  - first:
+      213: 7533325190495394443
+    second: 20241205blessedWater-Sheet_136
+  - first:
+      213: 3720617357508554306
+    second: 20241205blessedWater-Sheet_137
+  - first:
+      213: -4338852134279485571
+    second: 20241205blessedWater-Sheet_138
+  - first:
+      213: -3393437696160617222
+    second: 20241205blessedWater-Sheet_139
+  - first:
+      213: 1370703375542586906
+    second: 20241205blessedWater-Sheet_140
+  - first:
+      213: 558312376186586241
+    second: 20241205blessedWater-Sheet_141
+  - first:
+      213: 4074560750048769791
+    second: 20241205blessedWater-Sheet_142
+  - first:
+      213: -8473561326222649099
+    second: 20241205blessedWater-Sheet_143
+  - first:
+      213: 8721767551194023796
+    second: 20241205blessedWater-Sheet_144
+  - first:
+      213: -3952171935745587954
+    second: 20241205blessedWater-Sheet_145
+  - first:
+      213: 945017080323724518
+    second: 20241205blessedWater-Sheet_146
+  - first:
+      213: 6070359495382243437
+    second: 20241205blessedWater-Sheet_147
+  - first:
+      213: 7479304407898789721
+    second: 20241205blessedWater-Sheet_148
+  - first:
+      213: 3985271051486254852
+    second: 20241205blessedWater-Sheet_149
+  - first:
+      213: -8049923440198501257
+    second: 20241205blessedWater-Sheet_150
+  - first:
+      213: -32735273825089171
+    second: 20241205blessedWater-Sheet_151
+  - first:
+      213: 5043264885855055250
+    second: 20241205blessedWater-Sheet_152
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1210
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca02a788c41984a80800000000000000
+      internalID: -8482370140259082068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb1d2617932a490800000000000000
+      internalID: -7736558050717090892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871c40c3b88ba1e30800000000000000
+      internalID: 4475092087892918648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1219
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d656da936c03cf00800000000000000
+      internalID: 1135765152966530776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1081
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf71136fb49ade90800000000000000
+      internalID: -7000119121072259155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1068
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d450731bce42ac8b0800000000000000
+      internalID: -5131248226431204019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1052
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32056ee3c47a1d630800000000000000
+      internalID: 3950122294095269923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1047
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d30ab8581d616260800000000000000
+      internalID: 7089067239793099734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 918
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4d59ca7d8f1790800000000000000
+      internalID: -7557166091200541471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 916
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851a273a288d856e0800000000000000
+      internalID: -1848489591436041896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 915
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02d34873a5a45f0800000000000000
+      internalID: -771705191652318984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 917
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612179d70955e5060800000000000000
+      internalID: 6944081754522587670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 915
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf22067b47734f70800000000000000
+      internalID: 9170304432242569137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 796
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2b4048fe09c7ef0800000000000000
+      internalID: -109052932577250606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 790
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31295d4ed26660280800000000000000
+      internalID: -9077455651619892717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 800
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d1285c11e4affc0800000000000000
+      internalID: -3460367525445755509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 862
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9cff6884861ef20800000000000000
+      internalID: 3450153450254354878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 857
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34398ea40f6dbfb30800000000000000
+      internalID: 4322284594929374019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 794
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e683846e3225a80800000000000000
+      internalID: -8479675676424114584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 855
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b948db4cb68a39c00800000000000000
+      internalID: 906253130847323291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 788
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d53319ba5b55c0800000000000000
+      internalID: -4225684074419335022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 840
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6fe4ea951549a00800000000000000
+      internalID: 762323682550806265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 794
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3559a296efb154ff0800000000000000
+      internalID: -52605041144851117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 818
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8001bd5535bf8660800000000000000
+      internalID: 7390324754348048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 792
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c007f2457f28cf0800000000000000
+      internalID: -251366688234140633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 790
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5489efdc4e7f67e00800000000000000
+      internalID: 1042292925863467077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 796
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490c185cde903bab0800000000000000
+      internalID: -4993636644998233964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 680
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751b68dd98c08b250800000000000000
+      internalID: 5960527893091496279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 737
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc68c3f8acc8784b0800000000000000
+      internalID: -5438223223412193589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 732
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffaf28d613c25c0800000000000000
+      internalID: -4238958802843795711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 722
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d31b968a38122f10800000000000000
+      internalID: 2243382204029408212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 727
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0da672265c4b580800000000000000
+      internalID: -8812201545498439499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 709
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b0f2fe8c32016e0800000000000000
+      internalID: -1868954499445486824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 721
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf92f293e79e75ee0800000000000000
+      internalID: -1272291641374332420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 659
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84799aa163f44550800000000000000
+      internalID: 6144303392439760014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 713
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424d8c569cc60a90800000000000000
+      internalID: -7347960795838463413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 715
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9709236da1c757c10800000000000000
+      internalID: 2050681660041760889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 681
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bf42b472c1b6250800000000000000
+      internalID: 5938871488708148112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 657
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8fa874e9e78c020800000000000000
+      internalID: 2362277222826047656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 716
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509df3812df5fd8c0800000000000000
+      internalID: -3972350990362879739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 702
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0efeff10585ea50800000000000000
+      internalID: 6549787476715626742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 716
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e178775a93b1560800000000000000
+      internalID: 7285480205039640076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 662
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c03c006fe7be210800000000000000
+      internalID: 1363322907249544291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 717
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c5497a321aa0590800000000000000
+      internalID: -7707170637783737200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 656
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06783cf4edeb8960800000000000000
+      internalID: 7605433963485099531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 694
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e50cb63ff498ffb0800000000000000
+      internalID: -4613773994385209882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911ee429e7194fc20800000000000000
+      internalID: 3239374004792779033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 697
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fdf9c197b7c2b00800000000000000
+      internalID: 805154193493974927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54cac70df0d4e310800000000000000
+      internalID: 1433500366586692698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 684
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7600a7d4eca360800800000000000000
+      internalID: 578214259901202535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 700
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef10d0f6a2795c0800000000000000
+      internalID: -4208848670306468179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 702
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0329fd09b01b160800000000000000
+      internalID: 7039420409410892025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 695
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a86142792d0c120800000000000000
+      internalID: 2432175345367419480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 692
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca8fb9596999f080800000000000000
+      internalID: -9153116089897481526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 650
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315e14417b3269860800000000000000
+      internalID: 7536250295676953875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 667
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf8d14fb9b01f8b0800000000000000
+      internalID: -5120298536900128853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 653
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531caaa816a9014d0800000000000000
+      internalID: -3165860794312507083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 652
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1921eb98f5ea140800000000000000
+      internalID: 4732825303617016319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 662
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedfe412709f21ec0800000000000000
+      internalID: -3597539343296692758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 656
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8633eb0d258515920800000000000000
+      internalID: 2977257941381297000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 582
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d25adbd16bcc8b70800000000000000
+      internalID: 8902714184565412569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cf317ff31693630800000000000000
+      internalID: 3907261079076731981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 595
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57dc59375401d890800000000000000
+      internalID: -7435156737140926629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 598
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b825d64effdb0c800800000000000000
+      internalID: 630712854578549387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 578
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3d4ec140557f240800000000000000
+      internalID: 4825419001903764472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 589
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f07b0bf9f75df4c0800000000000000
+      internalID: -4252145741997575948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 590
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebdccc43d7add720800000000000000
+      internalID: 2872636663300676581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 573
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab9896e625980af0800000000000000
+      internalID: -429929770103825492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 568
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f2d58d7baa49a50800000000000000
+      internalID: 6527029466552414032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 572
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7226e84fee864960800000000000000
+      internalID: 7585907780723548799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 543
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d375b8b12337920800000000000000
+      internalID: 2986786071760026928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 574
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aa455f16bc44e70800000000000000
+      internalID: 9098620768783477407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 521
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb476594a236e2620800000000000000
+      internalID: 2751245455640130747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 574
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef0f097dac45110800000000000000
+      internalID: 1248846023886962306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 541
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aa30b8c62567300800000000000000
+      internalID: 249477455507860000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 536
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ba59ea2b039ec80800000000000000
+      internalID: -8293043694834701468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 536
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565405611c419afc0800000000000000
+      internalID: -3483230017258764955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 575
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09893a94af1b7080800000000000000
+      internalID: -9188715822896805621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 568
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27665ef1177de7020800000000000000
+      internalID: 2341545737145640562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 530
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637fadf67b7279f70800000000000000
+      internalID: 9193860833109276470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 571
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f40056884b116820800000000000000
+      internalID: 2909636832563037424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 527
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9f3fdd3dbdb2d0800000000000000
+      internalID: -3261242481710227494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 523
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d3f67913becf50800000000000000
+      internalID: 6903652200756795073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 560
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0934a2c5a5fa4bb10800000000000000
+      internalID: 1996413337460163472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 544
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6738190de441aa9d0800000000000000
+      internalID: -2762373092699176074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 555
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3673dddfd2284310800000000000000
+      internalID: 1389398829938472507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 533
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64724db8e306502c0800000000000000
+      internalID: -4466057633717803194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 547
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6164d59b65788ba50800000000000000
+      internalID: 6537123665675109910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76e0a4717c2c8320800000000000000
+      internalID: 2561471153866598010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 548
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf00a65a97a8de0800000000000000
+      internalID: -1330116988579546189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e815ddf866fd16c80800000000000000
+      internalID: -8331132204065402482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 531
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9921494658751610800000000000000
+      internalID: 1591310355336866206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 532
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e4209e19fa835c0800000000000000
+      internalID: -4235442408327590243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 530
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041926866a88366d0800000000000000
+      internalID: -2998402678601379520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 533
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f194a586d6ffc870800000000000000
+      internalID: 8705448005956047344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 535
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc46739f6d9caf0800000000000000
+      internalID: -375532728044171303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 523
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06222105d98983c60800000000000000
+      internalID: 7798150556212666976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 521
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2d5742a938b7030800000000000000
+      internalID: 3493530634015855356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 464
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2869193f8b30270800000000000000
+      internalID: 8215613501513040569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 472
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed89ed3e02bd9fa0800000000000000
+      internalID: -5792277771490587164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 443
+        width: 59
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f3cfe175e779d0800000000000000
+      internalID: -2776498367733959275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 437
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe32e4c43104f00e0800000000000000
+      internalID: -2301550432934288401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 413
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f375fb8e584b810800000000000000
+      internalID: 1780194987407261493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 442
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb572fbf3db9c490800000000000000
+      internalID: -7725435604289758263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 436
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c5c4e710f073ab0800000000000000
+      internalID: -5028533959847551970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7c1c5d6360eba40800000000000000
+      internalID: 5385749036965939110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 415
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eed9a1519272a80800000000000000
+      internalID: -8491773401766171121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 442
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4f041401ad5cf00800000000000000
+      internalID: 1136554244330026167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c77d128ffb0b700800000000000000
+      internalID: 554153826607135844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 414
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64145c92af541ebe0800000000000000
+      internalID: -1449800664291655354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 438
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5fb9e9e6ee31610800000000000000
+      internalID: 1590877252266751478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 422
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf0000c4940ebf0800000000000000
+      internalID: -297156984640046393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 445
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baad06079fc62820800000000000000
+      internalID: 2893228058180692658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 440
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d834837898a3780800000000000000
+      internalID: -8702492116082520803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 418
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac5ff5b03c03d0d0800000000000000
+      internalID: -3399359890383217493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 441
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33186349e4681dea0800000000000000
+      internalID: -5849746768925392589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 425
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7a9748415edb00800000000000000
+      internalID: 855210350127774359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 444
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0ad8a06f6e363d0800000000000000
+      internalID: -3214471764599004983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 442
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c51835e0fbbba80800000000000000
+      internalID: -8449950207579169679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 424
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dea1198f5c2f760800000000000000
+      internalID: 7490266801647578432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 428
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9db1a9a503b0be0800000000000000
+      internalID: -1510060084361963074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 425
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bff2ba40f4f332b0800000000000000
+      internalID: -5605867798263562316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 416
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74156711dd2421600800000000000000
+      internalID: 437485631056531783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 428
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88fd9aac32a91540800000000000000
+      internalID: 4979189244479010956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 424
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1199c937f3dc13350800000000000000
+      internalID: 5994798251413117201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94a366d4b7338e20800000000000000
+      internalID: 3351583797524276383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 430
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d6c95e0c2b33340800000000000000
+      internalID: 4842410565909114270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 429
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e7c50a6de2a340800000000000000
+      internalID: 4873718786387601507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 430
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ead3c069ca43a0800000000000000
+      internalID: -6680305679810764166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 409
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42d6fa9e1121c40800000000000000
+      internalID: 5481463391831532787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 413
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88edab67d94ff7fa0800000000000000
+      internalID: -5800648837890908536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 414
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4c450c21ff7ae10800000000000000
+      internalID: 2209014598249792689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b9bc810454016c0800000000000000
+      internalID: -4174760712976229627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 323
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056c9e2f7f357dab0800000000000000
+      internalID: -4983422138264730032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 316
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee843ccdedc4f83e0800000000000000
+      internalID: -2049334785360049938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6dae8fa906d37c0800000000000000
+      internalID: -4090006667865172264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8adaf4f85fbb8860800000000000000
+      internalID: 7533325190495394443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 320
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e237326c942a330800000000000000
+      internalID: 3720617357508554306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77635bd8fc49c3c0800000000000000
+      internalID: -4338852134279485571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc2de0056618e0d0800000000000000
+      internalID: -3393437696160617222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e05af2577b50310800000000000000
+      internalID: 1370703375542586906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 317
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844e48e5268fb700800000000000000
+      internalID: 558312376186586241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 318
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6f76a0a6fbb8830800000000000000
+      internalID: 4074560750048769791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 311
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d2006edcd76a80800000000000000
+      internalID: -8473561326222649099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477c27eb061f90970800000000000000
+      internalID: 8721767551194023796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 289
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05cd9e50901729c0800000000000000
+      internalID: -3952171935745587954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 304
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45f5317006d1d00800000000000000
+      internalID: 945017080323724518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 310
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d689d258ccf3e3450800000000000000
+      internalID: 6070359495382243437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187
+        width: 9
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95712df5bb3dbc760800000000000000
+      internalID: 7479304407898789721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 311
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4075c7d08e68e4730800000000000000
+      internalID: 3985271051486254852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 303
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cb0ed084de84090800000000000000
+      internalID: -8049923440198501257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 184
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c7002173bb8ff0800000000000000
+      internalID: -32735273825089171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241205blessedWater-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d679d71b64df540800000000000000
+      internalID: 5043264885855055250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241205blessedWater-Sheet_0: -8482370140259082068
+      20241205blessedWater-Sheet_1: -7736558050717090892
+      20241205blessedWater-Sheet_10: -771705191652318984
+      20241205blessedWater-Sheet_100: -2776498367733959275
+      20241205blessedWater-Sheet_101: -2301550432934288401
+      20241205blessedWater-Sheet_102: 1780194987407261493
+      20241205blessedWater-Sheet_103: -7725435604289758263
+      20241205blessedWater-Sheet_104: -5028533959847551970
+      20241205blessedWater-Sheet_105: 5385749036965939110
+      20241205blessedWater-Sheet_106: -8491773401766171121
+      20241205blessedWater-Sheet_107: 1136554244330026167
+      20241205blessedWater-Sheet_108: 554153826607135844
+      20241205blessedWater-Sheet_109: -1449800664291655354
+      20241205blessedWater-Sheet_11: 6944081754522587670
+      20241205blessedWater-Sheet_110: 1590877252266751478
+      20241205blessedWater-Sheet_111: -297156984640046393
+      20241205blessedWater-Sheet_112: 2893228058180692658
+      20241205blessedWater-Sheet_113: -8702492116082520803
+      20241205blessedWater-Sheet_114: -3399359890383217493
+      20241205blessedWater-Sheet_115: -5849746768925392589
+      20241205blessedWater-Sheet_116: 855210350127774359
+      20241205blessedWater-Sheet_117: -3214471764599004983
+      20241205blessedWater-Sheet_118: -8449950207579169679
+      20241205blessedWater-Sheet_119: 7490266801647578432
+      20241205blessedWater-Sheet_12: 9170304432242569137
+      20241205blessedWater-Sheet_120: -1510060084361963074
+      20241205blessedWater-Sheet_121: -5605867798263562316
+      20241205blessedWater-Sheet_122: 437485631056531783
+      20241205blessedWater-Sheet_123: 4979189244479010956
+      20241205blessedWater-Sheet_124: 5994798251413117201
+      20241205blessedWater-Sheet_125: 3351583797524276383
+      20241205blessedWater-Sheet_126: 4842410565909114270
+      20241205blessedWater-Sheet_127: 4873718786387601507
+      20241205blessedWater-Sheet_128: -6680305679810764166
+      20241205blessedWater-Sheet_129: 5481463391831532787
+      20241205blessedWater-Sheet_13: -109052932577250606
+      20241205blessedWater-Sheet_130: -5800648837890908536
+      20241205blessedWater-Sheet_131: 2209014598249792689
+      20241205blessedWater-Sheet_132: -4174760712976229627
+      20241205blessedWater-Sheet_133: -4983422138264730032
+      20241205blessedWater-Sheet_134: -2049334785360049938
+      20241205blessedWater-Sheet_135: -4090006667865172264
+      20241205blessedWater-Sheet_136: 7533325190495394443
+      20241205blessedWater-Sheet_137: 3720617357508554306
+      20241205blessedWater-Sheet_138: -4338852134279485571
+      20241205blessedWater-Sheet_139: -3393437696160617222
+      20241205blessedWater-Sheet_14: -9077455651619892717
+      20241205blessedWater-Sheet_140: 1370703375542586906
+      20241205blessedWater-Sheet_141: 558312376186586241
+      20241205blessedWater-Sheet_142: 4074560750048769791
+      20241205blessedWater-Sheet_143: -8473561326222649099
+      20241205blessedWater-Sheet_144: 8721767551194023796
+      20241205blessedWater-Sheet_145: -3952171935745587954
+      20241205blessedWater-Sheet_146: 945017080323724518
+      20241205blessedWater-Sheet_147: 6070359495382243437
+      20241205blessedWater-Sheet_148: 7479304407898789721
+      20241205blessedWater-Sheet_149: 3985271051486254852
+      20241205blessedWater-Sheet_15: -3460367525445755509
+      20241205blessedWater-Sheet_150: -8049923440198501257
+      20241205blessedWater-Sheet_151: -32735273825089171
+      20241205blessedWater-Sheet_152: 5043264885855055250
+      20241205blessedWater-Sheet_16: 3450153450254354878
+      20241205blessedWater-Sheet_17: 4322284594929374019
+      20241205blessedWater-Sheet_18: -8479675676424114584
+      20241205blessedWater-Sheet_19: 906253130847323291
+      20241205blessedWater-Sheet_2: 4475092087892918648
+      20241205blessedWater-Sheet_20: -4225684074419335022
+      20241205blessedWater-Sheet_21: 762323682550806265
+      20241205blessedWater-Sheet_22: -52605041144851117
+      20241205blessedWater-Sheet_23: 7390324754348048523
+      20241205blessedWater-Sheet_24: -251366688234140633
+      20241205blessedWater-Sheet_25: 1042292925863467077
+      20241205blessedWater-Sheet_26: -4993636644998233964
+      20241205blessedWater-Sheet_27: 5960527893091496279
+      20241205blessedWater-Sheet_28: -5438223223412193589
+      20241205blessedWater-Sheet_29: -4238958802843795711
+      20241205blessedWater-Sheet_3: 1135765152966530776
+      20241205blessedWater-Sheet_30: 2243382204029408212
+      20241205blessedWater-Sheet_31: -8812201545498439499
+      20241205blessedWater-Sheet_32: -1868954499445486824
+      20241205blessedWater-Sheet_33: -1272291641374332420
+      20241205blessedWater-Sheet_34: 6144303392439760014
+      20241205blessedWater-Sheet_35: -7347960795838463413
+      20241205blessedWater-Sheet_36: 2050681660041760889
+      20241205blessedWater-Sheet_37: 5938871488708148112
+      20241205blessedWater-Sheet_38: 2362277222826047656
+      20241205blessedWater-Sheet_39: -3972350990362879739
+      20241205blessedWater-Sheet_4: -7000119121072259155
+      20241205blessedWater-Sheet_40: 6549787476715626742
+      20241205blessedWater-Sheet_41: 7285480205039640076
+      20241205blessedWater-Sheet_42: 1363322907249544291
+      20241205blessedWater-Sheet_43: -7707170637783737200
+      20241205blessedWater-Sheet_44: 7605433963485099531
+      20241205blessedWater-Sheet_45: -4613773994385209882
+      20241205blessedWater-Sheet_46: 3239374004792779033
+      20241205blessedWater-Sheet_47: 805154193493974927
+      20241205blessedWater-Sheet_48: 1433500366586692698
+      20241205blessedWater-Sheet_49: 578214259901202535
+      20241205blessedWater-Sheet_5: -5131248226431204019
+      20241205blessedWater-Sheet_50: -4208848670306468179
+      20241205blessedWater-Sheet_51: 7039420409410892025
+      20241205blessedWater-Sheet_52: 2432175345367419480
+      20241205blessedWater-Sheet_53: -9153116089897481526
+      20241205blessedWater-Sheet_54: 7536250295676953875
+      20241205blessedWater-Sheet_55: -5120298536900128853
+      20241205blessedWater-Sheet_56: -3165860794312507083
+      20241205blessedWater-Sheet_57: 4732825303617016319
+      20241205blessedWater-Sheet_58: -3597539343296692758
+      20241205blessedWater-Sheet_59: 2977257941381297000
+      20241205blessedWater-Sheet_6: 3950122294095269923
+      20241205blessedWater-Sheet_60: 8902714184565412569
+      20241205blessedWater-Sheet_61: 3907261079076731981
+      20241205blessedWater-Sheet_62: -7435156737140926629
+      20241205blessedWater-Sheet_63: 630712854578549387
+      20241205blessedWater-Sheet_64: 4825419001903764472
+      20241205blessedWater-Sheet_65: -4252145741997575948
+      20241205blessedWater-Sheet_66: 2872636663300676581
+      20241205blessedWater-Sheet_67: -429929770103825492
+      20241205blessedWater-Sheet_68: 6527029466552414032
+      20241205blessedWater-Sheet_69: 7585907780723548799
+      20241205blessedWater-Sheet_7: 7089067239793099734
+      20241205blessedWater-Sheet_70: 2986786071760026928
+      20241205blessedWater-Sheet_71: 9098620768783477407
+      20241205blessedWater-Sheet_72: 2751245455640130747
+      20241205blessedWater-Sheet_73: 1248846023886962306
+      20241205blessedWater-Sheet_74: 249477455507860000
+      20241205blessedWater-Sheet_75: -8293043694834701468
+      20241205blessedWater-Sheet_76: -3483230017258764955
+      20241205blessedWater-Sheet_77: -9188715822896805621
+      20241205blessedWater-Sheet_78: 2341545737145640562
+      20241205blessedWater-Sheet_79: 9193860833109276470
+      20241205blessedWater-Sheet_8: -7557166091200541471
+      20241205blessedWater-Sheet_80: 2909636832563037424
+      20241205blessedWater-Sheet_81: -3261242481710227494
+      20241205blessedWater-Sheet_82: 6903652200756795073
+      20241205blessedWater-Sheet_83: 1996413337460163472
+      20241205blessedWater-Sheet_84: -2762373092699176074
+      20241205blessedWater-Sheet_85: 1389398829938472507
+      20241205blessedWater-Sheet_86: -4466057633717803194
+      20241205blessedWater-Sheet_87: 6537123665675109910
+      20241205blessedWater-Sheet_88: 2561471153866598010
+      20241205blessedWater-Sheet_89: -1330116988579546189
+      20241205blessedWater-Sheet_9: -1848489591436041896
+      20241205blessedWater-Sheet_90: -8331132204065402482
+      20241205blessedWater-Sheet_91: 1591310355336866206
+      20241205blessedWater-Sheet_92: -4235442408327590243
+      20241205blessedWater-Sheet_93: -2998402678601379520
+      20241205blessedWater-Sheet_94: 8705448005956047344
+      20241205blessedWater-Sheet_95: -375532728044171303
+      20241205blessedWater-Sheet_96: 7798150556212666976
+      20241205blessedWater-Sheet_97: 3493530634015855356
+      20241205blessedWater-Sheet_98: 8215613501513040569
+      20241205blessedWater-Sheet_99: -5792277771490587164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: a757edb669f278b4191e4e72fe9e13dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7866128696557113029
+    second: 20251115restoredVampire3f_0
+  - first:
+      213: -8383760671817670591
+    second: 20251115restoredVampire3f_1
+  - first:
+      213: -4493975094512625314
+    second: 20251115restoredVampire3f_2
+  - first:
+      213: -5285502010833437725
+    second: 20251115restoredVampire3f_3
+  - first:
+      213: -6428244537182601950
+    second: 20251115restoredVampire3f_4
+  - first:
+      213: 5684395025775633942
+    second: 20251115restoredVampire3f_5
+  - first:
+      213: 8890513551709695381
+    second: 20251115restoredVampire3f_6
+  - first:
+      213: 8353751968649612730
+    second: 20251115restoredVampire3f_7
+  - first:
+      213: -6010395585176366114
+    second: 20251115restoredVampire3f_8
+  - first:
+      213: 6303745801140180156
+    second: 20251115restoredVampire3f_9
+  - first:
+      213: -71475182130246238
+    second: 20251115restoredVampire3f_10
+  - first:
+      213: -719685891551987573
+    second: 20251115restoredVampire3f_11
+  - first:
+      213: -4705460672446956803
+    second: 20251115restoredVampire3f_12
+  - first:
+      213: 3062844008142934988
+    second: 20251115restoredVampire3f_13
+  - first:
+      213: -1094547419912566666
+    second: 20251115restoredVampire3f_14
+  - first:
+      213: -1132842276049786572
+    second: 20251115restoredVampire3f_15
+  - first:
+      213: -1830082848921878480
+    second: 20251115restoredVampire3f_16
+  - first:
+      213: -5844003992528726789
+    second: 20251115restoredVampire3f_17
+  - first:
+      213: 2993241110429246781
+    second: 20251115restoredVampire3f_18
+  - first:
+      213: 8967202246205087984
+    second: 20251115restoredVampire3f_19
+  - first:
+      213: -4476251118679306121
+    second: 20251115restoredVampire3f_20
+  - first:
+      213: -3229179964773813469
+    second: 20251115restoredVampire3f_21
+  - first:
+      213: -7246263198851687749
+    second: 20251115restoredVampire3f_22
+  - first:
+      213: 5234048250370077950
+    second: 20251115restoredVampire3f_23
+  - first:
+      213: 5089782139898882279
+    second: 20251115restoredVampire3f_24
+  - first:
+      213: 2943794848573340513
+    second: 20251115restoredVampire3f_25
+  - first:
+      213: -8353927972984957859
+    second: 20251115restoredVampire3f_26
+  - first:
+      213: -4725610071047270862
+    second: 20251115restoredVampire3f_27
+  - first:
+      213: -6555323620011950389
+    second: 20251115restoredVampire3f_28
+  - first:
+      213: -4817882927406157644
+    second: 20251115restoredVampire3f_29
+  - first:
+      213: -6955945372279715378
+    second: 20251115restoredVampire3f_30
+  - first:
+      213: 320730143745683128
+    second: 20251115restoredVampire3f_31
+  - first:
+      213: 729236615210230260
+    second: 20251115restoredVampire3f_32
+  - first:
+      213: 3995571092323187878
+    second: 20251115restoredVampire3f_33
+  - first:
+      213: -3448382969181900644
+    second: 20251115restoredVampire3f_34
+  - first:
+      213: 2630080699481755472
+    second: 20251115restoredVampire3f_35
+  - first:
+      213: -1623435433319892666
+    second: 20251115restoredVampire3f_36
+  - first:
+      213: 4525589237657997883
+    second: 20251115restoredVampire3f_37
+  - first:
+      213: 165174081147555005
+    second: 20251115restoredVampire3f_38
+  - first:
+      213: -2980932945087982775
+    second: 20251115restoredVampire3f_39
+  - first:
+      213: 7609497494948283110
+    second: 20251115restoredVampire3f_40
+  - first:
+      213: 1121403133103249514
+    second: 20251115restoredVampire3f_41
+  - first:
+      213: -2032086279472367103
+    second: 20251115restoredVampire3f_42
+  - first:
+      213: -2246029034748464220
+    second: 20251115restoredVampire3f_43
+  - first:
+      213: -7682014946609124505
+    second: 20251115restoredVampire3f_44
+  - first:
+      213: 1640730369233338894
+    second: 20251115restoredVampire3f_45
+  - first:
+      213: -7850176997262210115
+    second: 20251115restoredVampire3f_46
+  - first:
+      213: 3897537578816098295
+    second: 20251115restoredVampire3f_47
+  - first:
+      213: 6854645716595443714
+    second: 20251115restoredVampire3f_48
+  - first:
+      213: 4482654830164221553
+    second: 20251115restoredVampire3f_49
+  - first:
+      213: -5939791047800158906
+    second: 20251115restoredVampire3f_50
+  - first:
+      213: -8615210525835403357
+    second: 20251115restoredVampire3f_51
+  - first:
+      213: 7809576159350252049
+    second: 20251115restoredVampire3f_52
+  - first:
+      213: 5761752926172345147
+    second: 20251115restoredVampire3f_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 365
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce0bcb7f5a1a2d60800000000000000
+      internalID: 7866128696557113029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 365
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ea6a8616e6ab80800000000000000
+      internalID: -8383760671817670591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 365
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e595f1e267132a1c0800000000000000
+      internalID: -4493975094512625314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 365
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebf8a8ccef16a6b0800000000000000
+      internalID: -5285502010833437725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 365
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22db2e7d6a94ac6a0800000000000000
+      internalID: -6428244537182601950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 365
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616aa52a82703ee40800000000000000
+      internalID: 5684395025775633942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 365
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de378a8f2716b70800000000000000
+      internalID: 8890513551709695381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 365
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd8419c72d7ee370800000000000000
+      internalID: 8353751968649612730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_8
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 365
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed39cf94f09c69ca0800000000000000
+      internalID: -6010395585176366114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 293
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4125f48676b7750800000000000000
+      internalID: 6303745801140180156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 293
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adced653b1120ff0800000000000000
+      internalID: -71475182130246238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 293
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88fe24ae792306f0800000000000000
+      internalID: -719685891551987573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 293
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa7a32f278d2beb0800000000000000
+      internalID: -4705460672446956803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 293
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc31bc3d568618a20800000000000000
+      internalID: 3062844008142934988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 293
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6788a46bbe26fc0f0800000000000000
+      internalID: -1094547419912566666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 293
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e185b3f55740f0800000000000000
+      internalID: -1132842276049786572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_16
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 293
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0300a78585d3a96e0800000000000000
+      internalID: -1830082848921878480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 293
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45c57e45de5eea0800000000000000
+      internalID: -5844003992528726789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 221
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d352b3a5ee02a8920800000000000000
+      internalID: 2993241110429246781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 221
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0a322cee6e17c70800000000000000
+      internalID: 8967202246205087984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_20
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 221
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770dca1e25921e1c0800000000000000
+      internalID: -4476251118679306121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 221
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32339d35ee5af23d0800000000000000
+      internalID: -3229179964773813469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 221
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba9573530a107b90800000000000000
+      internalID: -7246263198851687749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 221
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4309c072313a840800000000000000
+      internalID: 5234048250370077950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 221
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8ecc0b3e982a640800000000000000
+      internalID: 5089782139898882279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 221
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb6d061d57ad820800000000000000
+      internalID: 2943794848573340513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 221
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54580305c2e01c80800000000000000
+      internalID: -8353927972984957859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e08308da24b6eb0800000000000000
+      internalID: -4725610071047270862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 149
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb57136efc605a0800000000000000
+      internalID: -6555323620011950389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 149
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b07986f001732db0800000000000000
+      internalID: -4817882927406157644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ce30c984877f90800000000000000
+      internalID: -6955945372279715378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 149
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bea8becd56737400800000000000000
+      internalID: 320730143745683128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 149
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f160de76d4ce1a00800000000000000
+      internalID: 729236615210230260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_33
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 149
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac3eb03dbe137730800000000000000
+      internalID: 3995571092323187878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 149
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90f768b5f1e420d0800000000000000
+      internalID: -3448382969181900644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 149
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f883f167cef7420800000000000000
+      internalID: 2630080699481755472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 77
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6497f2123166879e0800000000000000
+      internalID: -1623435433319892666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 77
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329fed1f6f1ece30800000000000000
+      internalID: 4525589237657997883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 77
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc6e0a3f0da4200800000000000000
+      internalID: 165174081147555005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94395c4b74991a6d0800000000000000
+      internalID: -2980932945087982775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 77
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e20e91a7ad5a9960800000000000000
+      internalID: 7609497494948283110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 77
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6811a64536009f00800000000000000
+      internalID: 1121403133103249514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 77
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aba179b449cc3e0800000000000000
+      internalID: -2032086279472367103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_43
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 77
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ba9c2e7084d0e0800000000000000
+      internalID: -2246029034748464220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 77
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b2f1c6b10046590800000000000000
+      internalID: -7682014946609124505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02495ee39b05c610800000000000000
+      internalID: 1640730369233338894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4e3eec919e0390800000000000000
+      internalID: -7850176997262210115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 5
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffc11427c5d61630800000000000000
+      internalID: 3897537578816098295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20803d636f7902f50800000000000000
+      internalID: 6854645716595443714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_49
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e90a261d6953e30800000000000000
+      internalID: 4482654830164221553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_50
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 5
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64583db238f919da0800000000000000
+      internalID: -5939791047800158906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 5
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afdf5e0caf907880800000000000000
+      internalID: -8615210525835403357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126e68d320316c60800000000000000
+      internalID: 7809576159350252049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115restoredVampire3f_53
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 5
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33f11062cbd5ff40800000000000000
+      internalID: 5761752926172345147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115restoredVampire3f_0: 7866128696557113029
+      20251115restoredVampire3f_1: -8383760671817670591
+      20251115restoredVampire3f_10: -71475182130246238
+      20251115restoredVampire3f_11: -719685891551987573
+      20251115restoredVampire3f_12: -4705460672446956803
+      20251115restoredVampire3f_13: 3062844008142934988
+      20251115restoredVampire3f_14: -1094547419912566666
+      20251115restoredVampire3f_15: -1132842276049786572
+      20251115restoredVampire3f_16: -1830082848921878480
+      20251115restoredVampire3f_17: -5844003992528726789
+      20251115restoredVampire3f_18: 2993241110429246781
+      20251115restoredVampire3f_19: 8967202246205087984
+      20251115restoredVampire3f_2: -4493975094512625314
+      20251115restoredVampire3f_20: -4476251118679306121
+      20251115restoredVampire3f_21: -3229179964773813469
+      20251115restoredVampire3f_22: -7246263198851687749
+      20251115restoredVampire3f_23: 5234048250370077950
+      20251115restoredVampire3f_24: 5089782139898882279
+      20251115restoredVampire3f_25: 2943794848573340513
+      20251115restoredVampire3f_26: -8353927972984957859
+      20251115restoredVampire3f_27: -4725610071047270862
+      20251115restoredVampire3f_28: -6555323620011950389
+      20251115restoredVampire3f_29: -4817882927406157644
+      20251115restoredVampire3f_3: -5285502010833437725
+      20251115restoredVampire3f_30: -6955945372279715378
+      20251115restoredVampire3f_31: 320730143745683128
+      20251115restoredVampire3f_32: 729236615210230260
+      20251115restoredVampire3f_33: 3995571092323187878
+      20251115restoredVampire3f_34: -3448382969181900644
+      20251115restoredVampire3f_35: 2630080699481755472
+      20251115restoredVampire3f_36: -1623435433319892666
+      20251115restoredVampire3f_37: 4525589237657997883
+      20251115restoredVampire3f_38: 165174081147555005
+      20251115restoredVampire3f_39: -2980932945087982775
+      20251115restoredVampire3f_4: -6428244537182601950
+      20251115restoredVampire3f_40: 7609497494948283110
+      20251115restoredVampire3f_41: 1121403133103249514
+      20251115restoredVampire3f_42: -2032086279472367103
+      20251115restoredVampire3f_43: -2246029034748464220
+      20251115restoredVampire3f_44: -7682014946609124505
+      20251115restoredVampire3f_45: 1640730369233338894
+      20251115restoredVampire3f_46: -7850176997262210115
+      20251115restoredVampire3f_47: 3897537578816098295
+      20251115restoredVampire3f_48: 6854645716595443714
+      20251115restoredVampire3f_49: 4482654830164221553
+      20251115restoredVampire3f_5: 5684395025775633942
+      20251115restoredVampire3f_50: -5939791047800158906
+      20251115restoredVampire3f_51: -8615210525835403357
+      20251115restoredVampire3f_52: 7809576159350252049
+      20251115restoredVampire3f_53: 5761752926172345147
+      20251115restoredVampire3f_6: 8890513551709695381
+      20251115restoredVampire3f_7: 8353751968649612730
+      20251115restoredVampire3f_8: -6010395585176366114
+      20251115restoredVampire3f_9: 6303745801140180156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

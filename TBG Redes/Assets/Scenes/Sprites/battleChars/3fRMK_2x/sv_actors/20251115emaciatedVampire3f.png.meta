@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 486976c2c81eb2243a28e0253b087138
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5566023844819880231
+    second: 20251115emaciatedVampire3f_0
+  - first:
+      213: -6662529476641177006
+    second: 20251115emaciatedVampire3f_1
+  - first:
+      213: -6472546750495447991
+    second: 20251115emaciatedVampire3f_2
+  - first:
+      213: 6830677926241318894
+    second: 20251115emaciatedVampire3f_3
+  - first:
+      213: -1218465707425732729
+    second: 20251115emaciatedVampire3f_4
+  - first:
+      213: -3419618387140429989
+    second: 20251115emaciatedVampire3f_5
+  - first:
+      213: -4542523820556073928
+    second: 20251115emaciatedVampire3f_6
+  - first:
+      213: 8282026894657780250
+    second: 20251115emaciatedVampire3f_7
+  - first:
+      213: 5002064779680957846
+    second: 20251115emaciatedVampire3f_8
+  - first:
+      213: -1570905567016524087
+    second: 20251115emaciatedVampire3f_9
+  - first:
+      213: -5753684027228217997
+    second: 20251115emaciatedVampire3f_10
+  - first:
+      213: 4945168240586834277
+    second: 20251115emaciatedVampire3f_11
+  - first:
+      213: 3365156638852298515
+    second: 20251115emaciatedVampire3f_12
+  - first:
+      213: 6870839234920757965
+    second: 20251115emaciatedVampire3f_13
+  - first:
+      213: 8944103050892428140
+    second: 20251115emaciatedVampire3f_14
+  - first:
+      213: 5909165940139715713
+    second: 20251115emaciatedVampire3f_15
+  - first:
+      213: 9182355726615126204
+    second: 20251115emaciatedVampire3f_16
+  - first:
+      213: -427782134734642779
+    second: 20251115emaciatedVampire3f_17
+  - first:
+      213: -1183570361104099462
+    second: 20251115emaciatedVampire3f_18
+  - first:
+      213: -3450846015310775853
+    second: 20251115emaciatedVampire3f_19
+  - first:
+      213: 7476781802288952677
+    second: 20251115emaciatedVampire3f_20
+  - first:
+      213: 2524488839304473253
+    second: 20251115emaciatedVampire3f_21
+  - first:
+      213: 6796851090710866850
+    second: 20251115emaciatedVampire3f_22
+  - first:
+      213: -1124488277285411115
+    second: 20251115emaciatedVampire3f_23
+  - first:
+      213: 4119016966104034785
+    second: 20251115emaciatedVampire3f_24
+  - first:
+      213: 1925838201725165341
+    second: 20251115emaciatedVampire3f_25
+  - first:
+      213: 7770910634075109107
+    second: 20251115emaciatedVampire3f_26
+  - first:
+      213: 8902783326787297133
+    second: 20251115emaciatedVampire3f_27
+  - first:
+      213: 6506217481581926644
+    second: 20251115emaciatedVampire3f_28
+  - first:
+      213: 7174298456847423879
+    second: 20251115emaciatedVampire3f_29
+  - first:
+      213: 1726408962824961907
+    second: 20251115emaciatedVampire3f_30
+  - first:
+      213: 3802668937485462974
+    second: 20251115emaciatedVampire3f_31
+  - first:
+      213: -7785890508304790610
+    second: 20251115emaciatedVampire3f_32
+  - first:
+      213: -8770947884575536853
+    second: 20251115emaciatedVampire3f_33
+  - first:
+      213: -6675856984663260597
+    second: 20251115emaciatedVampire3f_34
+  - first:
+      213: 1272687665177281361
+    second: 20251115emaciatedVampire3f_35
+  - first:
+      213: -572414809346015609
+    second: 20251115emaciatedVampire3f_36
+  - first:
+      213: -5089647716771775488
+    second: 20251115emaciatedVampire3f_37
+  - first:
+      213: -5297149781932624480
+    second: 20251115emaciatedVampire3f_38
+  - first:
+      213: 8891380897855928499
+    second: 20251115emaciatedVampire3f_39
+  - first:
+      213: -5624309531344515861
+    second: 20251115emaciatedVampire3f_40
+  - first:
+      213: -8305483844742599865
+    second: 20251115emaciatedVampire3f_41
+  - first:
+      213: -2217881856221391661
+    second: 20251115emaciatedVampire3f_42
+  - first:
+      213: -7797754819364058954
+    second: 20251115emaciatedVampire3f_43
+  - first:
+      213: -5196632301434402274
+    second: 20251115emaciatedVampire3f_44
+  - first:
+      213: 4606532564901916237
+    second: 20251115emaciatedVampire3f_45
+  - first:
+      213: 1885956442624005781
+    second: 20251115emaciatedVampire3f_46
+  - first:
+      213: 7853446121062922093
+    second: 20251115emaciatedVampire3f_47
+  - first:
+      213: -4004640887557197651
+    second: 20251115emaciatedVampire3f_48
+  - first:
+      213: -1158591548415600941
+    second: 20251115emaciatedVampire3f_49
+  - first:
+      213: -7471597043146223356
+    second: 20251115emaciatedVampire3f_50
+  - first:
+      213: -4139455224107026261
+    second: 20251115emaciatedVampire3f_51
+  - first:
+      213: -3786546686489846822
+    second: 20251115emaciatedVampire3f_52
+  - first:
+      213: 1990066754433525333
+    second: 20251115emaciatedVampire3f_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 735
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c7d1623d7e3d40800000000000000
+      internalID: 5566023844819880231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 733
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252cb379db0f983a0800000000000000
+      internalID: -6662529476641177006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 735
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9442c900605ec26a0800000000000000
+      internalID: -6472546750495447991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 735
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee737b822617bce50800000000000000
+      internalID: 6830677926241318894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 735
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e4e115e3271fe0800000000000000
+      internalID: -1218465707425732729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_5
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 735
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b91fd1331b80d0800000000000000
+      internalID: -3419618387140429989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_6
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 735
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834410c07a6b5f0c0800000000000000
+      internalID: -4542523820556073928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_7
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 733
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1afe44a49bafe270800000000000000
+      internalID: 8282026894657780250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_8
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 735
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69540604a67ea6540800000000000000
+      internalID: 5002064779680957846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 591
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6eb46b5b5033ae0800000000000000
+      internalID: -1570905567016524087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_10
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 589
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d193f8cdec620b0800000000000000
+      internalID: -5753684027228217997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_11
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 591
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561c8be6054c0a440800000000000000
+      internalID: 4945168240586834277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 591
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b658322073be20800000000000000
+      internalID: 3365156638852298515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_13
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 591
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab44281ef1a5f50800000000000000
+      internalID: 6870839234920757965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_14
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 591
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c634eee3656df1c70800000000000000
+      internalID: 8944103050892428140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_15
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 591
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c6ddc4d13910250800000000000000
+      internalID: 5909165940139715713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_16
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 591
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb02b2612e74e6f70800000000000000
+      internalID: 9182355726615126204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_17
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 591
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a122e93a66301af0800000000000000
+      internalID: -427782134734642779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 447
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7795b3070d139fe0800000000000000
+      internalID: -1183570361104099462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 447
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d934da15d12c10d0800000000000000
+      internalID: -3450846015310775853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_20
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 447
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565b98c7f6dd2c760800000000000000
+      internalID: 7476781802288952677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 447
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa6e2a5939c80320800000000000000
+      internalID: 2524488839304473253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_22
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 447
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab2c054e04435e50800000000000000
+      internalID: 6796851090710866850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 447
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ef4e9ed30560f0800000000000000
+      internalID: -1124488277285411115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_24
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 447
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed20707b10b92930800000000000000
+      internalID: 4119016966104034785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_25
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 447
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f94b414a3f9ba10800000000000000
+      internalID: 1925838201725165341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_26
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 447
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f63a55bc02d7db60800000000000000
+      internalID: 7770910634075109107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 303
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f5d69444a0d8b70800000000000000
+      internalID: 8902783326787297133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 303
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8902df35aba4a50800000000000000
+      internalID: 6506217481581926644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 303
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78916097f6a309360800000000000000
+      internalID: 7174298456847423879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_30
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 303
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7b360ecf65f710800000000000000
+      internalID: 1726408962824961907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 303
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdab31504bc5c430800000000000000
+      internalID: 3802668937485462974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_32
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 303
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab486885d5f2f390800000000000000
+      internalID: -7785890508304790610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_33
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 303
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2949649e55574680800000000000000
+      internalID: -8770947884575536853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_34
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 303
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4206d151779a53a0800000000000000
+      internalID: -6675856984663260597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_35
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 303
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c9e040be79a110800000000000000
+      internalID: 1272687665177281361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 159
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef1c083cf5e08f0800000000000000
+      internalID: -572414809346015609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cb0f12e50fd59b0800000000000000
+      internalID: -5089647716771775488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 159
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a53eddb65ebc76b0800000000000000
+      internalID: -5297149781932624480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 159
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8756b61d7846b70800000000000000
+      internalID: 8891380897855928499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_40
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 159
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beccd55b74072f1b0800000000000000
+      internalID: -5624309531344515861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_41
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 159
+        width: 88
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b2f52927efcbc80800000000000000
+      internalID: -8305483844742599865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_42
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 159
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d32ed3308831e0800000000000000
+      internalID: -2217881856221391661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 159
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8073a5e4fc8c390800000000000000
+      internalID: -7797754819364058954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_44
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 159
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a8eac647ad1e7b0800000000000000
+      internalID: -5196632301434402274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 15
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e6f3916f0bdef30800000000000000
+      internalID: 4606532564901916237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 15
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596967074634c2a10800000000000000
+      internalID: 1885956442624005781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_47
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 15
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67ff9443ab0dfc60800000000000000
+      internalID: 7853446121062922093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_48
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 15
+        width: 88
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f52c8458ac68c0800000000000000
+      internalID: -4004640887557197651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_49
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 15
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61bec002bdbefe0800000000000000
+      internalID: -1158591548415600941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_50
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 15
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4011962531e8f4890800000000000000
+      internalID: -7471597043146223356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_51
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 15
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8377bc763bd86c0800000000000000
+      internalID: -4139455224107026261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_52
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 15
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1752c9db737bc0800000000000000
+      internalID: -3786546686489846822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20251115emaciatedVampire3f_53
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 15
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55623595b232e9b10800000000000000
+      internalID: 1990066754433525333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20251115emaciatedVampire3f_0: 5566023844819880231
+      20251115emaciatedVampire3f_1: -6662529476641177006
+      20251115emaciatedVampire3f_10: -5753684027228217997
+      20251115emaciatedVampire3f_11: 4945168240586834277
+      20251115emaciatedVampire3f_12: 3365156638852298515
+      20251115emaciatedVampire3f_13: 6870839234920757965
+      20251115emaciatedVampire3f_14: 8944103050892428140
+      20251115emaciatedVampire3f_15: 5909165940139715713
+      20251115emaciatedVampire3f_16: 9182355726615126204
+      20251115emaciatedVampire3f_17: -427782134734642779
+      20251115emaciatedVampire3f_18: -1183570361104099462
+      20251115emaciatedVampire3f_19: -3450846015310775853
+      20251115emaciatedVampire3f_2: -6472546750495447991
+      20251115emaciatedVampire3f_20: 7476781802288952677
+      20251115emaciatedVampire3f_21: 2524488839304473253
+      20251115emaciatedVampire3f_22: 6796851090710866850
+      20251115emaciatedVampire3f_23: -1124488277285411115
+      20251115emaciatedVampire3f_24: 4119016966104034785
+      20251115emaciatedVampire3f_25: 1925838201725165341
+      20251115emaciatedVampire3f_26: 7770910634075109107
+      20251115emaciatedVampire3f_27: 8902783326787297133
+      20251115emaciatedVampire3f_28: 6506217481581926644
+      20251115emaciatedVampire3f_29: 7174298456847423879
+      20251115emaciatedVampire3f_3: 6830677926241318894
+      20251115emaciatedVampire3f_30: 1726408962824961907
+      20251115emaciatedVampire3f_31: 3802668937485462974
+      20251115emaciatedVampire3f_32: -7785890508304790610
+      20251115emaciatedVampire3f_33: -8770947884575536853
+      20251115emaciatedVampire3f_34: -6675856984663260597
+      20251115emaciatedVampire3f_35: 1272687665177281361
+      20251115emaciatedVampire3f_36: -572414809346015609
+      20251115emaciatedVampire3f_37: -5089647716771775488
+      20251115emaciatedVampire3f_38: -5297149781932624480
+      20251115emaciatedVampire3f_39: 8891380897855928499
+      20251115emaciatedVampire3f_4: -1218465707425732729
+      20251115emaciatedVampire3f_40: -5624309531344515861
+      20251115emaciatedVampire3f_41: -8305483844742599865
+      20251115emaciatedVampire3f_42: -2217881856221391661
+      20251115emaciatedVampire3f_43: -7797754819364058954
+      20251115emaciatedVampire3f_44: -5196632301434402274
+      20251115emaciatedVampire3f_45: 4606532564901916237
+      20251115emaciatedVampire3f_46: 1885956442624005781
+      20251115emaciatedVampire3f_47: 7853446121062922093
+      20251115emaciatedVampire3f_48: -4004640887557197651
+      20251115emaciatedVampire3f_49: -1158591548415600941
+      20251115emaciatedVampire3f_5: -3419618387140429989
+      20251115emaciatedVampire3f_50: -7471597043146223356
+      20251115emaciatedVampire3f_51: -4139455224107026261
+      20251115emaciatedVampire3f_52: -3786546686489846822
+      20251115emaciatedVampire3f_53: 1990066754433525333
+      20251115emaciatedVampire3f_6: -4542523820556073928
+      20251115emaciatedVampire3f_7: 8282026894657780250
+      20251115emaciatedVampire3f_8: 5002064779680957846
+      20251115emaciatedVampire3f_9: -1570905567016524087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

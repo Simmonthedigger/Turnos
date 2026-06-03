@@ -1,0 +1,7280 @@
+fileFormatVersion: 2
+guid: 5a3ded334f487054e9211d3d27b72591
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9196105358368720751
+    second: 20250309blachHoleFX-Sheet_0
+  - first:
+      213: -6876992162051406729
+    second: 20250309blachHoleFX-Sheet_1
+  - first:
+      213: 6269756483464351332
+    second: 20250309blachHoleFX-Sheet_2
+  - first:
+      213: -5516623612463750583
+    second: 20250309blachHoleFX-Sheet_3
+  - first:
+      213: 8826432214773832009
+    second: 20250309blachHoleFX-Sheet_4
+  - first:
+      213: -7250612199301225607
+    second: 20250309blachHoleFX-Sheet_5
+  - first:
+      213: -8875849549120452917
+    second: 20250309blachHoleFX-Sheet_6
+  - first:
+      213: 5596621701541576146
+    second: 20250309blachHoleFX-Sheet_7
+  - first:
+      213: 7460278120705142803
+    second: 20250309blachHoleFX-Sheet_8
+  - first:
+      213: 7770825485539479974
+    second: 20250309blachHoleFX-Sheet_9
+  - first:
+      213: 7287216748938481865
+    second: 20250309blachHoleFX-Sheet_10
+  - first:
+      213: 7715761312651118477
+    second: 20250309blachHoleFX-Sheet_11
+  - first:
+      213: 6220889230066949873
+    second: 20250309blachHoleFX-Sheet_12
+  - first:
+      213: 1801710914232421508
+    second: 20250309blachHoleFX-Sheet_13
+  - first:
+      213: 4810246469372468109
+    second: 20250309blachHoleFX-Sheet_14
+  - first:
+      213: -8932696128445492338
+    second: 20250309blachHoleFX-Sheet_15
+  - first:
+      213: 8871453898715509661
+    second: 20250309blachHoleFX-Sheet_16
+  - first:
+      213: -7796666911623148530
+    second: 20250309blachHoleFX-Sheet_17
+  - first:
+      213: -6084352401390738010
+    second: 20250309blachHoleFX-Sheet_18
+  - first:
+      213: -7578958160178860627
+    second: 20250309blachHoleFX-Sheet_19
+  - first:
+      213: -2713594755314831909
+    second: 20250309blachHoleFX-Sheet_20
+  - first:
+      213: 816092231610720208
+    second: 20250309blachHoleFX-Sheet_21
+  - first:
+      213: -3068129246399090563
+    second: 20250309blachHoleFX-Sheet_22
+  - first:
+      213: 1553036255715029077
+    second: 20250309blachHoleFX-Sheet_23
+  - first:
+      213: -7712515506584462482
+    second: 20250309blachHoleFX-Sheet_24
+  - first:
+      213: 3370544244385242137
+    second: 20250309blachHoleFX-Sheet_25
+  - first:
+      213: 8358010270225346609
+    second: 20250309blachHoleFX-Sheet_26
+  - first:
+      213: -1401280031689947958
+    second: 20250309blachHoleFX-Sheet_27
+  - first:
+      213: 653446641279751602
+    second: 20250309blachHoleFX-Sheet_28
+  - first:
+      213: 8131552344613039371
+    second: 20250309blachHoleFX-Sheet_29
+  - first:
+      213: 1379288750476638624
+    second: 20250309blachHoleFX-Sheet_30
+  - first:
+      213: 1836011946787194745
+    second: 20250309blachHoleFX-Sheet_31
+  - first:
+      213: -3289401294752000891
+    second: 20250309blachHoleFX-Sheet_32
+  - first:
+      213: -6592018268521163140
+    second: 20250309blachHoleFX-Sheet_33
+  - first:
+      213: 7438342698495338277
+    second: 20250309blachHoleFX-Sheet_34
+  - first:
+      213: 7232592311316662995
+    second: 20250309blachHoleFX-Sheet_35
+  - first:
+      213: 3920027272912111358
+    second: 20250309blachHoleFX-Sheet_36
+  - first:
+      213: -974494189072446412
+    second: 20250309blachHoleFX-Sheet_37
+  - first:
+      213: -3347602569159343843
+    second: 20250309blachHoleFX-Sheet_38
+  - first:
+      213: 6325422796771931763
+    second: 20250309blachHoleFX-Sheet_39
+  - first:
+      213: -2847086328005343138
+    second: 20250309blachHoleFX-Sheet_40
+  - first:
+      213: 4872839890218895549
+    second: 20250309blachHoleFX-Sheet_41
+  - first:
+      213: -987214573726173681
+    second: 20250309blachHoleFX-Sheet_42
+  - first:
+      213: 7518548206014372618
+    second: 20250309blachHoleFX-Sheet_43
+  - first:
+      213: 5981577461300698811
+    second: 20250309blachHoleFX-Sheet_44
+  - first:
+      213: 2012513374758122767
+    second: 20250309blachHoleFX-Sheet_45
+  - first:
+      213: -4366418321379070202
+    second: 20250309blachHoleFX-Sheet_46
+  - first:
+      213: 5832769736663817047
+    second: 20250309blachHoleFX-Sheet_47
+  - first:
+      213: 7314274565090224687
+    second: 20250309blachHoleFX-Sheet_48
+  - first:
+      213: 951998798035894513
+    second: 20250309blachHoleFX-Sheet_49
+  - first:
+      213: 3559397560865672055
+    second: 20250309blachHoleFX-Sheet_50
+  - first:
+      213: -5823435443088941766
+    second: 20250309blachHoleFX-Sheet_51
+  - first:
+      213: 3606570866602523245
+    second: 20250309blachHoleFX-Sheet_52
+  - first:
+      213: 6798185897775151863
+    second: 20250309blachHoleFX-Sheet_53
+  - first:
+      213: -6384845529888875208
+    second: 20250309blachHoleFX-Sheet_54
+  - first:
+      213: 5418107702600346203
+    second: 20250309blachHoleFX-Sheet_55
+  - first:
+      213: -7517519912460582409
+    second: 20250309blachHoleFX-Sheet_56
+  - first:
+      213: 5902973220932039087
+    second: 20250309blachHoleFX-Sheet_57
+  - first:
+      213: -6486486189209741410
+    second: 20250309blachHoleFX-Sheet_58
+  - first:
+      213: -5963890226728798041
+    second: 20250309blachHoleFX-Sheet_59
+  - first:
+      213: -4234126760431745717
+    second: 20250309blachHoleFX-Sheet_60
+  - first:
+      213: -421756769616067524
+    second: 20250309blachHoleFX-Sheet_61
+  - first:
+      213: 2588842709440869562
+    second: 20250309blachHoleFX-Sheet_62
+  - first:
+      213: -7108366275585777439
+    second: 20250309blachHoleFX-Sheet_63
+  - first:
+      213: 3888694750858203622
+    second: 20250309blachHoleFX-Sheet_64
+  - first:
+      213: -9029356727985912680
+    second: 20250309blachHoleFX-Sheet_65
+  - first:
+      213: -1036481893310067014
+    second: 20250309blachHoleFX-Sheet_66
+  - first:
+      213: -7349394174434093021
+    second: 20250309blachHoleFX-Sheet_67
+  - first:
+      213: -3873157344293784357
+    second: 20250309blachHoleFX-Sheet_68
+  - first:
+      213: -6181317185821483349
+    second: 20250309blachHoleFX-Sheet_69
+  - first:
+      213: -3086996007087300327
+    second: 20250309blachHoleFX-Sheet_70
+  - first:
+      213: -4465895969947585104
+    second: 20250309blachHoleFX-Sheet_71
+  - first:
+      213: -514502027014664030
+    second: 20250309blachHoleFX-Sheet_72
+  - first:
+      213: 4692440094324808922
+    second: 20250309blachHoleFX-Sheet_73
+  - first:
+      213: -4229837907283349525
+    second: 20250309blachHoleFX-Sheet_74
+  - first:
+      213: -6218456505297167395
+    second: 20250309blachHoleFX-Sheet_75
+  - first:
+      213: 494663660309213827
+    second: 20250309blachHoleFX-Sheet_76
+  - first:
+      213: -3734601847991282841
+    second: 20250309blachHoleFX-Sheet_77
+  - first:
+      213: 2069315749329774483
+    second: 20250309blachHoleFX-Sheet_78
+  - first:
+      213: 6940837774614671179
+    second: 20250309blachHoleFX-Sheet_79
+  - first:
+      213: -4091823679151116924
+    second: 20250309blachHoleFX-Sheet_80
+  - first:
+      213: -4432897503064373803
+    second: 20250309blachHoleFX-Sheet_81
+  - first:
+      213: 5758007365507095319
+    second: 20250309blachHoleFX-Sheet_82
+  - first:
+      213: 4568902122635513724
+    second: 20250309blachHoleFX-Sheet_83
+  - first:
+      213: 1351667275124820963
+    second: 20250309blachHoleFX-Sheet_84
+  - first:
+      213: 360759624643528093
+    second: 20250309blachHoleFX-Sheet_85
+  - first:
+      213: -5840389749608736416
+    second: 20250309blachHoleFX-Sheet_86
+  - first:
+      213: -4980456635265948496
+    second: 20250309blachHoleFX-Sheet_87
+  - first:
+      213: 5426188825595235333
+    second: 20250309blachHoleFX-Sheet_88
+  - first:
+      213: 4013707201734523048
+    second: 20250309blachHoleFX-Sheet_89
+  - first:
+      213: -4113253855971805566
+    second: 20250309blachHoleFX-Sheet_90
+  - first:
+      213: 638614535022227870
+    second: 20250309blachHoleFX-Sheet_91
+  - first:
+      213: -6513743397519312991
+    second: 20250309blachHoleFX-Sheet_92
+  - first:
+      213: 3873666369775048701
+    second: 20250309blachHoleFX-Sheet_93
+  - first:
+      213: -2344425571309172974
+    second: 20250309blachHoleFX-Sheet_94
+  - first:
+      213: -7052998716329749205
+    second: 20250309blachHoleFX-Sheet_95
+  - first:
+      213: 9008455949934905956
+    second: 20250309blachHoleFX-Sheet_96
+  - first:
+      213: -8431046108686112598
+    second: 20250309blachHoleFX-Sheet_97
+  - first:
+      213: 2097667011420911727
+    second: 20250309blachHoleFX-Sheet_98
+  - first:
+      213: -1417618011486790860
+    second: 20250309blachHoleFX-Sheet_99
+  - first:
+      213: 4859644921242114302
+    second: 20250309blachHoleFX-Sheet_100
+  - first:
+      213: 6128264894940709923
+    second: 20250309blachHoleFX-Sheet_101
+  - first:
+      213: 6111763546704656262
+    second: 20250309blachHoleFX-Sheet_102
+  - first:
+      213: 4532077762343253141
+    second: 20250309blachHoleFX-Sheet_103
+  - first:
+      213: -2395372855734608634
+    second: 20250309blachHoleFX-Sheet_104
+  - first:
+      213: 6249756880319872585
+    second: 20250309blachHoleFX-Sheet_105
+  - first:
+      213: 9140481660727851885
+    second: 20250309blachHoleFX-Sheet_106
+  - first:
+      213: -1408713599904802604
+    second: 20250309blachHoleFX-Sheet_107
+  - first:
+      213: 8457763882426380751
+    second: 20250309blachHoleFX-Sheet_108
+  - first:
+      213: -5863100383004409461
+    second: 20250309blachHoleFX-Sheet_109
+  - first:
+      213: 5485617452463391280
+    second: 20250309blachHoleFX-Sheet_110
+  - first:
+      213: 7938182214731084895
+    second: 20250309blachHoleFX-Sheet_111
+  - first:
+      213: 2336589470866119972
+    second: 20250309blachHoleFX-Sheet_112
+  - first:
+      213: 1194825271847725670
+    second: 20250309blachHoleFX-Sheet_113
+  - first:
+      213: -3542905616090140337
+    second: 20250309blachHoleFX-Sheet_114
+  - first:
+      213: 7089421491279931856
+    second: 20250309blachHoleFX-Sheet_115
+  - first:
+      213: 1465648871582984372
+    second: 20250309blachHoleFX-Sheet_116
+  - first:
+      213: -6135676740397286187
+    second: 20250309blachHoleFX-Sheet_117
+  - first:
+      213: 8312713006301811040
+    second: 20250309blachHoleFX-Sheet_118
+  - first:
+      213: 4845255941888046914
+    second: 20250309blachHoleFX-Sheet_119
+  - first:
+      213: 172089755315912165
+    second: 20250309blachHoleFX-Sheet_120
+  - first:
+      213: 9006412895741085105
+    second: 20250309blachHoleFX-Sheet_121
+  - first:
+      213: 1528580010592864945
+    second: 20250309blachHoleFX-Sheet_122
+  - first:
+      213: 5998285359236410744
+    second: 20250309blachHoleFX-Sheet_123
+  - first:
+      213: 8614322485770879914
+    second: 20250309blachHoleFX-Sheet_124
+  - first:
+      213: 8630808910236390660
+    second: 20250309blachHoleFX-Sheet_125
+  - first:
+      213: -7731865175640673247
+    second: 20250309blachHoleFX-Sheet_126
+  - first:
+      213: 6639378842112889817
+    second: 20250309blachHoleFX-Sheet_127
+  - first:
+      213: -8220220419645957224
+    second: 20250309blachHoleFX-Sheet_128
+  - first:
+      213: 7533815602888766614
+    second: 20250309blachHoleFX-Sheet_129
+  - first:
+      213: -5370761484852670647
+    second: 20250309blachHoleFX-Sheet_130
+  - first:
+      213: 7837317151050949063
+    second: 20250309blachHoleFX-Sheet_131
+  - first:
+      213: 5321940193990155671
+    second: 20250309blachHoleFX-Sheet_132
+  - first:
+      213: -2964787074000816895
+    second: 20250309blachHoleFX-Sheet_133
+  - first:
+      213: -5750076464273880503
+    second: 20250309blachHoleFX-Sheet_134
+  - first:
+      213: -6896835025671468079
+    second: 20250309blachHoleFX-Sheet_135
+  - first:
+      213: 4178459959070113545
+    second: 20250309blachHoleFX-Sheet_136
+  - first:
+      213: 2190961057269918143
+    second: 20250309blachHoleFX-Sheet_137
+  - first:
+      213: -3708973970352502353
+    second: 20250309blachHoleFX-Sheet_138
+  - first:
+      213: 4450243490275033435
+    second: 20250309blachHoleFX-Sheet_139
+  - first:
+      213: -2905076597350520388
+    second: 20250309blachHoleFX-Sheet_140
+  - first:
+      213: 2898377743145282740
+    second: 20250309blachHoleFX-Sheet_141
+  - first:
+      213: 7291888190760907212
+    second: 20250309blachHoleFX-Sheet_142
+  - first:
+      213: -1363066423471287402
+    second: 20250309blachHoleFX-Sheet_143
+  - first:
+      213: -8938293649355383403
+    second: 20250309blachHoleFX-Sheet_144
+  - first:
+      213: 6746390105625561578
+    second: 20250309blachHoleFX-Sheet_145
+  - first:
+      213: -6901321468871339582
+    second: 20250309blachHoleFX-Sheet_146
+  - first:
+      213: -1829204691822313119
+    second: 20250309blachHoleFX-Sheet_147
+  - first:
+      213: -27701579527367014
+    second: 20250309blachHoleFX-Sheet_148
+  - first:
+      213: 9119384170043700143
+    second: 20250309blachHoleFX-Sheet_149
+  - first:
+      213: -1738721543587580673
+    second: 20250309blachHoleFX-Sheet_150
+  - first:
+      213: -9144967092182037293
+    second: 20250309blachHoleFX-Sheet_151
+  - first:
+      213: -6401151755454523873
+    second: 20250309blachHoleFX-Sheet_152
+  - first:
+      213: 6052479718156243713
+    second: 20250309blachHoleFX-Sheet_153
+  - first:
+      213: -3051352359086412057
+    second: 20250309blachHoleFX-Sheet_154
+  - first:
+      213: 3615093577158004733
+    second: 20250309blachHoleFX-Sheet_155
+  - first:
+      213: 4194397204960554487
+    second: 20250309blachHoleFX-Sheet_156
+  - first:
+      213: -7884437871473132485
+    second: 20250309blachHoleFX-Sheet_157
+  - first:
+      213: 6693907545529535719
+    second: 20250309blachHoleFX-Sheet_158
+  - first:
+      213: -3553930236888280015
+    second: 20250309blachHoleFX-Sheet_159
+  - first:
+      213: 5740692109969530772
+    second: 20250309blachHoleFX-Sheet_160
+  - first:
+      213: -7388278908416107652
+    second: 20250309blachHoleFX-Sheet_161
+  - first:
+      213: -6281218217341420918
+    second: 20250309blachHoleFX-Sheet_162
+  - first:
+      213: 6409893074352279430
+    second: 20250309blachHoleFX-Sheet_163
+  - first:
+      213: 3498903475851308788
+    second: 20250309blachHoleFX-Sheet_164
+  - first:
+      213: 4608334111151820561
+    second: 20250309blachHoleFX-Sheet_165
+  - first:
+      213: -4219006704803926444
+    second: 20250309blachHoleFX-Sheet_166
+  - first:
+      213: -596703198566906429
+    second: 20250309blachHoleFX-Sheet_167
+  - first:
+      213: 5222031472165885433
+    second: 20250309blachHoleFX-Sheet_168
+  - first:
+      213: 4555693923474534964
+    second: 20250309blachHoleFX-Sheet_169
+  - first:
+      213: -8585869583435824785
+    second: 20250309blachHoleFX-Sheet_170
+  - first:
+      213: -2074030039934802599
+    second: 20250309blachHoleFX-Sheet_171
+  - first:
+      213: 3894951838437743808
+    second: 20250309blachHoleFX-Sheet_172
+  - first:
+      213: 1817635580373422556
+    second: 20250309blachHoleFX-Sheet_173
+  - first:
+      213: 8323523310174727198
+    second: 20250309blachHoleFX-Sheet_174
+  - first:
+      213: 1493904249311731030
+    second: 20250309blachHoleFX-Sheet_175
+  - first:
+      213: 2905935541890051347
+    second: 20250309blachHoleFX-Sheet_176
+  - first:
+      213: 483535695199372075
+    second: 20250309blachHoleFX-Sheet_177
+  - first:
+      213: 2645168976773292616
+    second: 20250309blachHoleFX-Sheet_178
+  - first:
+      213: -4705119715574929995
+    second: 20250309blachHoleFX-Sheet_179
+  - first:
+      213: -1826048989399034732
+    second: 20250309blachHoleFX-Sheet_180
+  - first:
+      213: -4579127020231921495
+    second: 20250309blachHoleFX-Sheet_181
+  - first:
+      213: -3201584697613203321
+    second: 20250309blachHoleFX-Sheet_182
+  - first:
+      213: -1165769060906972019
+    second: 20250309blachHoleFX-Sheet_183
+  - first:
+      213: -7421040981516400396
+    second: 20250309blachHoleFX-Sheet_184
+  - first:
+      213: 2506840960417747391
+    second: 20250309blachHoleFX-Sheet_185
+  - first:
+      213: 7163302794550268742
+    second: 20250309blachHoleFX-Sheet_186
+  - first:
+      213: -1775313104375104619
+    second: 20250309blachHoleFX-Sheet_187
+  - first:
+      213: -4524793012096186183
+    second: 20250309blachHoleFX-Sheet_188
+  - first:
+      213: 6153800015232047257
+    second: 20250309blachHoleFX-Sheet_189
+  - first:
+      213: -5709201841851874790
+    second: 20250309blachHoleFX-Sheet_190
+  - first:
+      213: 7195352798649158041
+    second: 20250309blachHoleFX-Sheet_191
+  - first:
+      213: 2357252349571710637
+    second: 20250309blachHoleFX-Sheet_192
+  - first:
+      213: 464877458237015891
+    second: 20250309blachHoleFX-Sheet_193
+  - first:
+      213: 6340474116809823508
+    second: 20250309blachHoleFX-Sheet_194
+  - first:
+      213: 6687191512366358601
+    second: 20250309blachHoleFX-Sheet_195
+  - first:
+      213: 5585891770587807032
+    second: 20250309blachHoleFX-Sheet_196
+  - first:
+      213: 2045111496139098137
+    second: 20250309blachHoleFX-Sheet_197
+  - first:
+      213: -3693426260772380724
+    second: 20250309blachHoleFX-Sheet_198
+  - first:
+      213: 9152749124894116743
+    second: 20250309blachHoleFX-Sheet_199
+  - first:
+      213: -8476577379137107651
+    second: 20250309blachHoleFX-Sheet_200
+  - first:
+      213: -1175564520825000678
+    second: 20250309blachHoleFX-Sheet_201
+  - first:
+      213: -821162142647462200
+    second: 20250309blachHoleFX-Sheet_202
+  - first:
+      213: 6316874023657448919
+    second: 20250309blachHoleFX-Sheet_203
+  - first:
+      213: -1372253812195789994
+    second: 20250309blachHoleFX-Sheet_204
+  - first:
+      213: -4837669832002697860
+    second: 20250309blachHoleFX-Sheet_205
+  - first:
+      213: -4557385053497833450
+    second: 20250309blachHoleFX-Sheet_206
+  - first:
+      213: 6102660201168460396
+    second: 20250309blachHoleFX-Sheet_207
+  - first:
+      213: 8664180353379567113
+    second: 20250309blachHoleFX-Sheet_208
+  - first:
+      213: -3242022244926517629
+    second: 20250309blachHoleFX-Sheet_209
+  - first:
+      213: 7544822546911655424
+    second: 20250309blachHoleFX-Sheet_210
+  - first:
+      213: -3236490746191549910
+    second: 20250309blachHoleFX-Sheet_211
+  - first:
+      213: 3077832898828976696
+    second: 20250309blachHoleFX-Sheet_212
+  - first:
+      213: 3902356442809644439
+    second: 20250309blachHoleFX-Sheet_213
+  - first:
+      213: -5828001955827898151
+    second: 20250309blachHoleFX-Sheet_214
+  - first:
+      213: 7039754403377740914
+    second: 20250309blachHoleFX-Sheet_215
+  - first:
+      213: 7161843333324892700
+    second: 20250309blachHoleFX-Sheet_216
+  - first:
+      213: 640900755475592584
+    second: 20250309blachHoleFX-Sheet_217
+  - first:
+      213: 311952139422533349
+    second: 20250309blachHoleFX-Sheet_218
+  - first:
+      213: -2433649429695956974
+    second: 20250309blachHoleFX-Sheet_219
+  - first:
+      213: -4837971678810658767
+    second: 20250309blachHoleFX-Sheet_220
+  - first:
+      213: 8498399644262672514
+    second: 20250309blachHoleFX-Sheet_221
+  - first:
+      213: -8545409869582011802
+    second: 20250309blachHoleFX-Sheet_222
+  - first:
+      213: -3290047086975246721
+    second: 20250309blachHoleFX-Sheet_223
+  - first:
+      213: -6865869321986444172
+    second: 20250309blachHoleFX-Sheet_224
+  - first:
+      213: 4034758312796084348
+    second: 20250309blachHoleFX-Sheet_225
+  - first:
+      213: -7188781613441774273
+    second: 20250309blachHoleFX-Sheet_226
+  - first:
+      213: -8966974445975757882
+    second: 20250309blachHoleFX-Sheet_227
+  - first:
+      213: -5467739155766741627
+    second: 20250309blachHoleFX-Sheet_228
+  - first:
+      213: -2789118033261520973
+    second: 20250309blachHoleFX-Sheet_229
+  - first:
+      213: 8182964737058021326
+    second: 20250309blachHoleFX-Sheet_230
+  - first:
+      213: -2302705654292263990
+    second: 20250309blachHoleFX-Sheet_231
+  - first:
+      213: 4825481873705157937
+    second: 20250309blachHoleFX-Sheet_232
+  - first:
+      213: -3989478611188070167
+    second: 20250309blachHoleFX-Sheet_233
+  - first:
+      213: 3375552121483706374
+    second: 20250309blachHoleFX-Sheet_234
+  - first:
+      213: -8160187579502425136
+    second: 20250309blachHoleFX-Sheet_235
+  - first:
+      213: -1590229074688271505
+    second: 20250309blachHoleFX-Sheet_236
+  - first:
+      213: -2304240739302855267
+    second: 20250309blachHoleFX-Sheet_237
+  - first:
+      213: -3075130157019582260
+    second: 20250309blachHoleFX-Sheet_238
+  - first:
+      213: -5616543203439999765
+    second: 20250309blachHoleFX-Sheet_239
+  - first:
+      213: -7694439913586322994
+    second: 20250309blachHoleFX-Sheet_240
+  - first:
+      213: 1789687622420553994
+    second: 20250309blachHoleFX-Sheet_241
+  - first:
+      213: 3210905874375115389
+    second: 20250309blachHoleFX-Sheet_242
+  - first:
+      213: 5398734158564496290
+    second: 20250309blachHoleFX-Sheet_243
+  - first:
+      213: 8711960770286593112
+    second: 20250309blachHoleFX-Sheet_244
+  - first:
+      213: 6349297396734931557
+    second: 20250309blachHoleFX-Sheet_245
+  - first:
+      213: 680247241978620160
+    second: 20250309blachHoleFX-Sheet_246
+  - first:
+      213: -3361746832778953944
+    second: 20250309blachHoleFX-Sheet_247
+  - first:
+      213: 44535996682118686
+    second: 20250309blachHoleFX-Sheet_248
+  - first:
+      213: -3181896112843024925
+    second: 20250309blachHoleFX-Sheet_249
+  - first:
+      213: -1472726612507096741
+    second: 20250309blachHoleFX-Sheet_250
+  - first:
+      213: 7761063274168643790
+    second: 20250309blachHoleFX-Sheet_251
+  - first:
+      213: -5705436073798108660
+    second: 20250309blachHoleFX-Sheet_252
+  - first:
+      213: 6063132819111783926
+    second: 20250309blachHoleFX-Sheet_253
+  - first:
+      213: 5223110550838233367
+    second: 20250309blachHoleFX-Sheet_254
+  - first:
+      213: 6319909017865412182
+    second: 20250309blachHoleFX-Sheet_255
+  - first:
+      213: 5133244892270386767
+    second: 20250309blachHoleFX-Sheet_256
+  - first:
+      213: 201945731688308676
+    second: 20250309blachHoleFX-Sheet_257
+  - first:
+      213: 2925627271797033727
+    second: 20250309blachHoleFX-Sheet_258
+  - first:
+      213: 8684264260827174623
+    second: 20250309blachHoleFX-Sheet_259
+  - first:
+      213: -7021990343487758084
+    second: 20250309blachHoleFX-Sheet_260
+  - first:
+      213: -6396542612135481211
+    second: 20250309blachHoleFX-Sheet_261
+  - first:
+      213: -3935415412547180648
+    second: 20250309blachHoleFX-Sheet_262
+  - first:
+      213: 4693519989538169094
+    second: 20250309blachHoleFX-Sheet_263
+  - first:
+      213: 6251141516250447049
+    second: 20250309blachHoleFX-Sheet_264
+  - first:
+      213: -7760982267672204863
+    second: 20250309blachHoleFX-Sheet_265
+  - first:
+      213: -6375170148147659788
+    second: 20250309blachHoleFX-Sheet_266
+  - first:
+      213: -5804425120198605768
+    second: 20250309blachHoleFX-Sheet_267
+  - first:
+      213: 8124429582314616937
+    second: 20250309blachHoleFX-Sheet_268
+  - first:
+      213: -2812464385958366380
+    second: 20250309blachHoleFX-Sheet_269
+  - first:
+      213: -1060810031541340156
+    second: 20250309blachHoleFX-Sheet_270
+  - first:
+      213: -141238895172986080
+    second: 20250309blachHoleFX-Sheet_271
+  - first:
+      213: -5713932380385163785
+    second: 20250309blachHoleFX-Sheet_272
+  - first:
+      213: 6289744754849047173
+    second: 20250309blachHoleFX-Sheet_273
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6742a2b9112f9f70800000000000000
+      internalID: 9196105358368720751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1849
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c7c180140090a0800000000000000
+      internalID: -6876992162051406729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1845
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e48199d46a20750800000000000000
+      internalID: 6269756483464351332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1729
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942e0938d040173b0800000000000000
+      internalID: -5516623612463750583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1764
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94998abb559cd7a70800000000000000
+      internalID: 8826432214773832009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1733
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9736980ce96a06b90800000000000000
+      internalID: -7250612199301225607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1726
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc64dd08cd5a2d480800000000000000
+      internalID: -8875849549120452917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1733
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddb0ae09c13bad40800000000000000
+      internalID: 5596621701541576146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1760
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310bf3eac6b388760800000000000000
+      internalID: 7460278120705142803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1696
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a112258b9487db60800000000000000
+      internalID: 7770825485539479974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1734
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c051c91605612560800000000000000
+      internalID: 7287216748938481865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1754
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d878544b804e31b60800000000000000
+      internalID: 7715761312651118477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1753
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe91398bc9055650800000000000000
+      internalID: 6220889230066949873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1712
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c84c6d786f00910800000000000000
+      internalID: 1801710914232421508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1708
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd5099dad61c240800000000000000
+      internalID: 4810246469372468109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1704
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83df79d230b80480800000000000000
+      internalID: -8932696128445492338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1708
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933132615cbd1b70800000000000000
+      internalID: 8871453898715509661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1702
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c09ac90ccacc390800000000000000
+      internalID: -7796666911623148530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1709
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a56fca2ab9009ba0800000000000000
+      internalID: -6084352401390738010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1680
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadadf655b122d690800000000000000
+      internalID: -7578958160178860627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1672
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda81182ff575ad0800000000000000
+      internalID: -2713594755314831909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1685
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfdc119f87535b00800000000000000
+      internalID: 816092231610720208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1675
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70356fb4b0db65d0800000000000000
+      internalID: -3068129246399090563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1675
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55072390f3e7d8510800000000000000
+      internalID: 1553036255715029077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1568
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b57596204a7f490800000000000000
+      internalID: -7712515506584462482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1565
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cd152e12496ce20800000000000000
+      internalID: 3370544244385242137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1654
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13039d1ee0e9df370800000000000000
+      internalID: 8358010270225346609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1651
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4c5484c37ad8ce0800000000000000
+      internalID: -1401280031689947958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5d6251242811900800000000000000
+      internalID: 653446641279751602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1641
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0da72d46c319d070800000000000000
+      internalID: 8131552344613039371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1626
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a93ade8fc7342310800000000000000
+      internalID: 1379288750476638624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1622
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977cf935323da7910800000000000000
+      internalID: 1836011946787194745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1622
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d89e43f2b952d0800000000000000
+      internalID: -3289401294752000891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7619ef8f427484a0800000000000000
+      internalID: -6592018268521163140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1622
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5276f65364d4a3760800000000000000
+      internalID: 7438342698495338277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1621
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da404123645f5460800000000000000
+      internalID: 7232592311316662995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1566
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef605c7190cb66630800000000000000
+      internalID: 3920027272912111358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1625
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c87a8b2b6e972f0800000000000000
+      internalID: -974494189072446412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1571
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d118210233dea81d0800000000000000
+      internalID: -3347602569159343843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1621
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376bfb7258a68c750800000000000000
+      internalID: 6325422796771931763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1621
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58ce56b11e1d78d0800000000000000
+      internalID: -2847086328005343138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1603
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8c9df001ecf9340800000000000000
+      internalID: 4872839890218895549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1554
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0676ff5395bc42f0800000000000000
+      internalID: -987214573726173681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1603
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b132622cf375860800000000000000
+      internalID: 7518548206014372618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1558
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9f416205d20350800000000000000
+      internalID: 5981577461300698811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f053e286042edeb10800000000000000
+      internalID: 2012513374758122767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f6175cbad5763c0800000000000000
+      internalID: -4366418321379070202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1591
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bde721c2922f050800000000000000
+      internalID: 5832769736663817047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1568
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aa0e9d6f5818560800000000000000
+      internalID: 7314274565090224687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1514
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f04787ecdd263d00800000000000000
+      internalID: 951998798035894513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1503
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b4acd1935856130800000000000000
+      internalID: 3559397560865672055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1495
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d934281500f2fa0800000000000000
+      internalID: -5823435443088941766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1463
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6abd11481d1d0230800000000000000
+      internalID: 3606570866602523245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1446
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa35f14e02085e50800000000000000
+      internalID: 6798185897775151863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1497
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d9b35a1d87467a0800000000000000
+      internalID: -6384845529888875208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1447
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a2d48cf3cf03b40800000000000000
+      internalID: 5418107702600346203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1484
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18cd918776ca790800000000000000
+      internalID: -7517519912460582409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa13c408ed29be150800000000000000
+      internalID: 5902973220932039087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e971da38d2f5bf5a0800000000000000
+      internalID: -6486486189209741410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1473
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f764df610c3da0800000000000000
+      internalID: -5963890226728798041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1452
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458d7e052c5d35c0800000000000000
+      internalID: -4234126760431745717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1414
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c340b6dd37e952af0800000000000000
+      internalID: -421756769616067524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1401
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4359b5aba6de320800000000000000
+      internalID: 2588842709440869562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1398
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0e75ab8820a5d90800000000000000
+      internalID: -7108366275585777439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1391
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e154d0d54b67f530800000000000000
+      internalID: 3888694750858203622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1388
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894cd1e35e741b280800000000000000
+      internalID: -9029356727985912680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1382
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe0125a53dad91f0800000000000000
+      internalID: -1036481893310067014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1380
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328d786efe4b10a90800000000000000
+      internalID: -7349394174434093021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1390
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd47c2e8ae7cf3ac0800000000000000
+      internalID: -3873157344293784357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1368
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed71ff4cc873aa0800000000000000
+      internalID: -6181317185821483349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1303
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9112386bc79c825d0800000000000000
+      internalID: -3086996007087300327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1366
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5fc63d643f502c0800000000000000
+      internalID: -4465895969947585104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1306
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a09293e12f1cd8f0800000000000000
+      internalID: -514502027014664030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1370
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcd7087765ee1140800000000000000
+      internalID: 4692440094324808922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1362
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe4ee75d89c45c0800000000000000
+      internalID: -4229837907283349525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1312
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb9b8651ca93b9a0800000000000000
+      internalID: -6218456505297167395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1364
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382760c6af56dd600800000000000000
+      internalID: 494663660309213827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1360
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76356f0f7670c2cc0800000000000000
+      internalID: -3734601847991282841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1314
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3972ce6d5bfa7bc10800000000000000
+      internalID: 2069315749329774483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1367
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f258f8e2fc25060800000000000000
+      internalID: 6940837774614671179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1322
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d6aa01b0ce637c0800000000000000
+      internalID: -4091823679151116924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1351
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5c12c153f2b72c0800000000000000
+      internalID: -4432897503064373803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1362
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b1223113d88ef40800000000000000
+      internalID: 5758007365507095319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1361
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc7310640086f30800000000000000
+      internalID: 4568902122635513724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1353
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc55ca93612c210800000000000000
+      internalID: 1351667275124820963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1332
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d954e2c97fca10500800000000000000
+      internalID: 360759624643528093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1333
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0691db86774c2fea0800000000000000
+      internalID: -5840389749608736416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1333
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b46cbbe31dd1eab0800000000000000
+      internalID: -4980456635265948496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1298
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c4cc9dcf1bd4b40800000000000000
+      internalID: 5426188825595235333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1307
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a830d73f6d83b730800000000000000
+      internalID: 4013707201734523048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1301
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2867bc33969cae6c0800000000000000
+      internalID: -4113253855971805566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1290
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91b66c3980dcd800800000000000000
+      internalID: 638614535022227870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1288
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b0d824e88a95a0800000000000000
+      internalID: -6513743397519312991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1292
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df791dc2a0702c530800000000000000
+      internalID: 3873666369775048701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1289
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21746cb3d5de67fd0800000000000000
+      internalID: -2344425571309172974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1292
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2511ef2907be1e90800000000000000
+      internalID: -7052998716329749205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1294
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acf9625f6740d70800000000000000
+      internalID: 9008455949934905956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1270
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa823d6db38eefa80800000000000000
+      internalID: -8431046108686112598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1267
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687cc078096c1d10800000000000000
+      internalID: 2097667011420911727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1248
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b522eedeb935ce0800000000000000
+      internalID: -1417618011486790860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1245
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8da21fe4de07340800000000000000
+      internalID: 4859644921242114302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3240078f378fb0550800000000000000
+      internalID: 6128264894940709923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1258
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873380709851d450800000000000000
+      internalID: 6111763546704656262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1231
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594baee76bc25ee30800000000000000
+      internalID: 4532077762343253141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1236
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5355341de1ced0800000000000000
+      internalID: -2395372855734608634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1231
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ef40025c89bb650800000000000000
+      internalID: 6249756880319872585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1196
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bf7af54a389de70800000000000000
+      internalID: 9140481660727851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1247
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8996fc17e337ce0800000000000000
+      internalID: -1408713599904802604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1372e9073006570800000000000000
+      internalID: 8457763882426380751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1242
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81c094044512aea0800000000000000
+      internalID: -5863100383004409461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1242
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03283cb4204d02c40800000000000000
+      internalID: 5485617452463391280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54be5f7aa61a2e60800000000000000
+      internalID: 7938182214731084895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1241
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d94e47ebb3d6020800000000000000
+      internalID: 2336589470866119972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1186
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa429114fd49010800000000000000
+      internalID: 1194825271847725670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1230
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f5300d1215dec0800000000000000
+      internalID: -3542905616090140337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1231
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9a2c2f84fa26260800000000000000
+      internalID: 7089421491279931856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1181
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8e72422e7075410800000000000000
+      internalID: 1465648871582984372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1226
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3ef74382b9daa0800000000000000
+      internalID: -6135676740397286187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1231
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0619364cf60bc5370800000000000000
+      internalID: 8312713006301811040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1180
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247761e9b9ecd3340800000000000000
+      internalID: 4845255941888046914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1227
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edb61f78b2636200800000000000000
+      internalID: 172089755315912165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1206
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b505278fc43dfc70800000000000000
+      internalID: 9006412895741085105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1208
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba862ebb6b963510800000000000000
+      internalID: 1528580010592864945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1198
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d66b201c03e3350800000000000000
+      internalID: 5998285359236410744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3880109a83c8770800000000000000
+      internalID: 8614322485770879914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1182
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4059ae2d9fac6c770800000000000000
+      internalID: 8630808910236390660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1177
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12479b28695e2b490800000000000000
+      internalID: -7731865175640673247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3126541efc32c50800000000000000
+      internalID: 6639378842112889817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b1797b419ebed80800000000000000
+      internalID: -8220220419645957224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1063
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694fa7dff5d7d8860800000000000000
+      internalID: 7533815602888766614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1126
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fc10292e83775b0800000000000000
+      internalID: -5370761484852670647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1120
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e77ccc6eb3cc60800000000000000
+      internalID: 7837317151050949063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1065
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d18aad8645bd940800000000000000
+      internalID: 5321940193990155671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1100
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f2834dd5fad6d0800000000000000
+      internalID: -2964787074000816895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1102
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a0f93cbef9330b0800000000000000
+      internalID: -5750076464273880503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1065
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db416cc5158940a0800000000000000
+      internalID: -6896835025671468079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1101
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f3190c13fdcf930800000000000000
+      internalID: 4178459959070113545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1031
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a94f297bd76e10800000000000000
+      internalID: 2190961057269918143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1060
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa908ff23d3178cc0800000000000000
+      internalID: -3708973970352502353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1054
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5186d140e072cd30800000000000000
+      internalID: 4450243490275033435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1050
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb92f99f9381fa7d0800000000000000
+      internalID: -2905076597350520388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1056
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bca21d733b193820800000000000000
+      internalID: 2898377743145282740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1029
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc17b28ecadf13560800000000000000
+      internalID: 7291888190760907212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1035
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935bb74f4a651de0800000000000000
+      internalID: -1363066423471287402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1057
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dda04784dc4f380800000000000000
+      internalID: -8938293649355383403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1055
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98502ae0eff9d50800000000000000
+      internalID: 6746390105625561578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1031
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1952750b49930a0800000000000000
+      internalID: -6901321468871339582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1035
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161047a360c5d96e0800000000000000
+      internalID: -1829204691822313119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1036
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96dd886f859d9ff0800000000000000
+      internalID: -27701579527367014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 906
+        width: 71
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa376c9069f8e8e70800000000000000
+      internalID: 9119384170043700143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 929
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4b42fd7f1ded7e0800000000000000
+      internalID: -1738721543587580673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 983
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc4adbb1ec861180800000000000000
+      internalID: -9144967092182037293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 977
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16d3c6a46a8a27a0800000000000000
+      internalID: -6401151755454523873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 909
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10395fa7c3abef350800000000000000
+      internalID: 6052479718156243713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 937
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeaa18323b67a5d0800000000000000
+      internalID: -3051352359086412057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 918
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8c4074746b2230800000000000000
+      internalID: 3615093577158004733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 920
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda098f80e753a30800000000000000
+      internalID: 4194397204960554487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 951
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cf4398789d49290800000000000000
+      internalID: -7884437871473132485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 951
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec4892627985ec50800000000000000
+      internalID: 6693907545529535719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 952
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13411c17747edaec0800000000000000
+      internalID: -3553930236888280015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 945
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f1f9bfe090baf40800000000000000
+      internalID: 5740692109969530772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 952
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bd8524a7f877990800000000000000
+      internalID: -7388278908416107652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 932
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8af6a68f41a4d8a0800000000000000
+      internalID: -6281218217341420918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 933
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f01014ac384f850800000000000000
+      internalID: 6409893074352279430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 931
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe2f7d5c2a9e8030800000000000000
+      internalID: 3498903475851308788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 917
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0585457714ff30800000000000000
+      internalID: 4608334111151820561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 932
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eab2751c31375c0800000000000000
+      internalID: -4219006704803926444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 928
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c584153a9518b7f0800000000000000
+      internalID: -596703198566906429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 915
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f59b58d4f1687840800000000000000
+      internalID: 5222031472165885433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 921
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432fa1e7c73193f30800000000000000
+      internalID: 4555693923474534964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 933
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f610a7f8a1dd8d880800000000000000
+      internalID: -8585869583435824785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 918
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9556238daa09733e0800000000000000
+      internalID: -2074030039934802599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc165b8f06ad0630800000000000000
+      internalID: 3894951838437743808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 911
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d44b1ee9893910800000000000000
+      internalID: 1817635580373422556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 913
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce5a6c958138370800000000000000
+      internalID: 8323523310174727198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 886
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d1caceff96bb410800000000000000
+      internalID: 1493904249311731030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 883
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31de982aaf4f35820800000000000000
+      internalID: 2905935541890051347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 857
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b238494272dd5b600800000000000000
+      internalID: 483535695199372075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 874
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a47f6b2785b420800000000000000
+      internalID: 2645168976773292616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 822
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b528772c8e04beb0800000000000000
+      internalID: -4705119715574929995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 796
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494d8647e1298a6e0800000000000000
+      internalID: -1826048989399034732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 822
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0fea18c3ca370c0800000000000000
+      internalID: -4579127020231921495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 823
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78840742eafa193d0800000000000000
+      internalID: -3201584697613203321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 805
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ccf72373b52dfe0800000000000000
+      internalID: -1165769060906972019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 825
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f84911bb8a230990800000000000000
+      internalID: -7421040981516400396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 820
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1591a52961ac220800000000000000
+      internalID: 2506840960417747391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 810
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6435bb750f9296360800000000000000
+      internalID: 7163302794550268742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 790
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b30a83322dc57e0800000000000000
+      internalID: -1775313104375104619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 775
+        width: 81
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b846d79ab4b431c0800000000000000
+      internalID: -4524793012096186183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 794
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99813b67280b66550800000000000000
+      internalID: 6153800015232047257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 786
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c9696c27d4c0b0800000000000000
+      internalID: -5709201841851874790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 761
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999881d6f370bd360800000000000000
+      internalID: 7195352798649158041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3d2ec584a6b020800000000000000
+      internalID: 2357252349571710637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 747
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357cd42d593937600800000000000000
+      internalID: 464877458237015891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 749
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151200bd93edf750800000000000000
+      internalID: 6340474116809823508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 744
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940aa9f004dadcc50800000000000000
+      internalID: 6687191512366358601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 745
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83df9a358f2158d40800000000000000
+      internalID: 5585891770587807032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 743
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918407df112b16c10800000000000000
+      internalID: 2045111496139098137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 668
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf109a62605ebcc0800000000000000
+      internalID: -3693426260772380724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 676
+        width: 111
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bc493f5d8150f70800000000000000
+      internalID: 9152749124894116743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 737
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39cb65d8c52d5a80800000000000000
+      internalID: -8476577379137107651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 734
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d6ca5fb4e8fafe0800000000000000
+      internalID: -1175564520825000678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 680
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6df78c165aa94f0800000000000000
+      internalID: -821162142647462200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 709
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5aefec47b0aa750800000000000000
+      internalID: 6316874023657448919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 680
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653f466ad66c4fce0800000000000000
+      internalID: -1372253812195789994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 708
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c750bda3be42ddcb0800000000000000
+      internalID: -4837669832002697860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 678
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618469d907ae0c0c0800000000000000
+      internalID: -4557385053497833450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 707
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5f83ae1101b450800000000000000
+      internalID: 6102660201168460396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 689
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9068b19602a5d3870800000000000000
+      internalID: 8664180353379567113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 689
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e8d39f1f50203d0800000000000000
+      internalID: -3242022244926517629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 669
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006f60ad12894b860800000000000000
+      internalID: 7544822546911655424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 680
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ae96260dca513d0800000000000000
+      internalID: -3236490746191549910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 673
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83246b4e6b8a6ba20800000000000000
+      internalID: 3077832898828976696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 672
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79530a85284f72630800000000000000
+      internalID: 3902356442809644439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 681
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a8986917ce1fa0800000000000000
+      internalID: -5828001955827898151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 671
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c7257e45b32b160800000000000000
+      internalID: 7039754403377740914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 673
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a64db019af36360800000000000000
+      internalID: 7161843333324892700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 668
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885f66a67dfe4e800800000000000000
+      internalID: 640900755475592584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 670
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6043961d6445400800000000000000
+      internalID: 311952139422533349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 649
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f32bdcb0f93ed0800000000000000
+      internalID: -2433649429695956974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 650
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138271b04621cdcb0800000000000000
+      internalID: -4837971678810658767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 651
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2882593337160f570800000000000000
+      internalID: 8498399644262672514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 656
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627277cffa986980800000000000000
+      internalID: -8545409869582011802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 646
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e18861b976752d0800000000000000
+      internalID: -3290047086975246721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474feb48a3887b0a0800000000000000
+      internalID: -6865869321986444172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 622
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d3c4fe475ef730800000000000000
+      internalID: 4034758312796084348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 630
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d81fad5315c3c90800000000000000
+      internalID: -7188781613441774273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_227
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb1c9d1048ee8380800000000000000
+      internalID: -8966974445975757882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_228
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 612
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58577080530be14b0800000000000000
+      internalID: -5467739155766741627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_229
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 601
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b79fc61def0b49d0800000000000000
+      internalID: -2789118033261520973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_230
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 611
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf14e9b21bbf8170800000000000000
+      internalID: 8182964737058021326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_231
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 607
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb40ad58652b00e0800000000000000
+      internalID: -2302705654292263990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_232
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 604
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1354848923e87f240800000000000000
+      internalID: 4825481873705157937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_233
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 557
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8cd1d175682a8c0800000000000000
+      internalID: -3989478611188070167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_234
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 555
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004ad125ce58de20800000000000000
+      internalID: 3375552121483706374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_235
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 600
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db043781a031ce80800000000000000
+      internalID: -8160187579502425136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_236
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 592
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b15bbf41f5ee9e0800000000000000
+      internalID: -1590229074688271505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_237
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 557
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9daed88141b500e0800000000000000
+      internalID: -2304240739302855267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_238
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 587
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0b1c83a61f255d0800000000000000
+      internalID: -3075130157019582260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_239
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 556
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be40355d6b70e02b0800000000000000
+      internalID: -5616543203439999765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_240
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 579
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1991d5aabd73590800000000000000
+      internalID: -7694439913586322994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_241
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 578
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a016a41196f36d810800000000000000
+      internalID: 1789687622420553994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_242
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 554
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72085171ed6f8c20800000000000000
+      internalID: 3210905874375115389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_243
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 532
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3110e0d182cea40800000000000000
+      internalID: 5398734158564496290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_244
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 549
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542212a92a17e870800000000000000
+      internalID: 8711960770286593112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_245
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 557
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562b2b1a75c3d1850800000000000000
+      internalID: 6349297396734931557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_246
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 559
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00923913349b07900800000000000000
+      internalID: 680247241978620160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_247
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 553
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b7a6f111da851d0800000000000000
+      internalID: -3361746832778953944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_248
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 557
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a4f5c0493e9000800000000000000
+      internalID: 44535996682118686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_249
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 555
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e59bc10852a7d3d0800000000000000
+      internalID: -3181896112843024925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_250
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 549
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b590042e2f2df8be0800000000000000
+      internalID: -1472726612507096741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f6209de5d4bb60800000000000000
+      internalID: 7761063274168643790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_252
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 535
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a709c9e1832d0b0800000000000000
+      internalID: -5705436073798108660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_253
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 539
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdab25dc23942450800000000000000
+      internalID: 6063132819111783926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_254
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 537
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ce4d6f573c7840800000000000000
+      internalID: 5223110550838233367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_255
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 542
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed7a674c3d4b750800000000000000
+      internalID: 6319909017865412182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_256
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 538
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e5ddc4803fc3740800000000000000
+      internalID: 5133244892270386767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_257
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 536
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1031b2947dc200800000000000000
+      internalID: 201945731688308676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_258
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 534
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa48a8c08ae99820800000000000000
+      internalID: 2925627271797033727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_259
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 490
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd659328554b48870800000000000000
+      internalID: 8684264260827174623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_260
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 473
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf060389cf0ec8e90800000000000000
+      internalID: -7021990343487758084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_261
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 429
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580f305726aea37a0800000000000000
+      internalID: -6396542612135481211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_262
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 460
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897278378889269c0800000000000000
+      internalID: -3935415412547180648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_263
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 429
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6012e9a209bb22140800000000000000
+      internalID: 4693519989538169094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_264
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 421
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccfdccc61480c650800000000000000
+      internalID: 6251141516250447049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_265
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 423
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ea4b3fb37b4490800000000000000
+      internalID: -7760982267672204863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_266
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 311
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbfbf00788d687a0800000000000000
+      internalID: -6375170148147659788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_267
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 306
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83445393b1a827fa0800000000000000
+      internalID: -5804425120198605768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_268
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 302
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968b988f8a5cfb070800000000000000
+      internalID: 8124429582314616937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_269
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 300
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453b383ca8e18f8d0800000000000000
+      internalID: -2812464385958366380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_270
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 78
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408becf85ee3741f0800000000000000
+      internalID: -1060810031541340156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_271
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 65
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdeb029f73a0ef0800000000000000
+      internalID: -141238895172986080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_272
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 190
+        width: 52
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f54a8416c804b0b0800000000000000
+      internalID: -5713932380385163785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250309blachHoleFX-Sheet_273
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 191
+        width: 86
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58267a0b789a94750800000000000000
+      internalID: 6289744754849047173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250309blachHoleFX-Sheet_0: 9196105358368720751
+      20250309blachHoleFX-Sheet_1: -6876992162051406729
+      20250309blachHoleFX-Sheet_10: 7287216748938481865
+      20250309blachHoleFX-Sheet_100: 4859644921242114302
+      20250309blachHoleFX-Sheet_101: 6128264894940709923
+      20250309blachHoleFX-Sheet_102: 6111763546704656262
+      20250309blachHoleFX-Sheet_103: 4532077762343253141
+      20250309blachHoleFX-Sheet_104: -2395372855734608634
+      20250309blachHoleFX-Sheet_105: 6249756880319872585
+      20250309blachHoleFX-Sheet_106: 9140481660727851885
+      20250309blachHoleFX-Sheet_107: -1408713599904802604
+      20250309blachHoleFX-Sheet_108: 8457763882426380751
+      20250309blachHoleFX-Sheet_109: -5863100383004409461
+      20250309blachHoleFX-Sheet_11: 7715761312651118477
+      20250309blachHoleFX-Sheet_110: 5485617452463391280
+      20250309blachHoleFX-Sheet_111: 7938182214731084895
+      20250309blachHoleFX-Sheet_112: 2336589470866119972
+      20250309blachHoleFX-Sheet_113: 1194825271847725670
+      20250309blachHoleFX-Sheet_114: -3542905616090140337
+      20250309blachHoleFX-Sheet_115: 7089421491279931856
+      20250309blachHoleFX-Sheet_116: 1465648871582984372
+      20250309blachHoleFX-Sheet_117: -6135676740397286187
+      20250309blachHoleFX-Sheet_118: 8312713006301811040
+      20250309blachHoleFX-Sheet_119: 4845255941888046914
+      20250309blachHoleFX-Sheet_12: 6220889230066949873
+      20250309blachHoleFX-Sheet_120: 172089755315912165
+      20250309blachHoleFX-Sheet_121: 9006412895741085105
+      20250309blachHoleFX-Sheet_122: 1528580010592864945
+      20250309blachHoleFX-Sheet_123: 5998285359236410744
+      20250309blachHoleFX-Sheet_124: 8614322485770879914
+      20250309blachHoleFX-Sheet_125: 8630808910236390660
+      20250309blachHoleFX-Sheet_126: -7731865175640673247
+      20250309blachHoleFX-Sheet_127: 6639378842112889817
+      20250309blachHoleFX-Sheet_128: -8220220419645957224
+      20250309blachHoleFX-Sheet_129: 7533815602888766614
+      20250309blachHoleFX-Sheet_13: 1801710914232421508
+      20250309blachHoleFX-Sheet_130: -5370761484852670647
+      20250309blachHoleFX-Sheet_131: 7837317151050949063
+      20250309blachHoleFX-Sheet_132: 5321940193990155671
+      20250309blachHoleFX-Sheet_133: -2964787074000816895
+      20250309blachHoleFX-Sheet_134: -5750076464273880503
+      20250309blachHoleFX-Sheet_135: -6896835025671468079
+      20250309blachHoleFX-Sheet_136: 4178459959070113545
+      20250309blachHoleFX-Sheet_137: 2190961057269918143
+      20250309blachHoleFX-Sheet_138: -3708973970352502353
+      20250309blachHoleFX-Sheet_139: 4450243490275033435
+      20250309blachHoleFX-Sheet_14: 4810246469372468109
+      20250309blachHoleFX-Sheet_140: -2905076597350520388
+      20250309blachHoleFX-Sheet_141: 2898377743145282740
+      20250309blachHoleFX-Sheet_142: 7291888190760907212
+      20250309blachHoleFX-Sheet_143: -1363066423471287402
+      20250309blachHoleFX-Sheet_144: -8938293649355383403
+      20250309blachHoleFX-Sheet_145: 6746390105625561578
+      20250309blachHoleFX-Sheet_146: -6901321468871339582
+      20250309blachHoleFX-Sheet_147: -1829204691822313119
+      20250309blachHoleFX-Sheet_148: -27701579527367014
+      20250309blachHoleFX-Sheet_149: 9119384170043700143
+      20250309blachHoleFX-Sheet_15: -8932696128445492338
+      20250309blachHoleFX-Sheet_150: -1738721543587580673
+      20250309blachHoleFX-Sheet_151: -9144967092182037293
+      20250309blachHoleFX-Sheet_152: -6401151755454523873
+      20250309blachHoleFX-Sheet_153: 6052479718156243713
+      20250309blachHoleFX-Sheet_154: -3051352359086412057
+      20250309blachHoleFX-Sheet_155: 3615093577158004733
+      20250309blachHoleFX-Sheet_156: 4194397204960554487
+      20250309blachHoleFX-Sheet_157: -7884437871473132485
+      20250309blachHoleFX-Sheet_158: 6693907545529535719
+      20250309blachHoleFX-Sheet_159: -3553930236888280015
+      20250309blachHoleFX-Sheet_16: 8871453898715509661
+      20250309blachHoleFX-Sheet_160: 5740692109969530772
+      20250309blachHoleFX-Sheet_161: -7388278908416107652
+      20250309blachHoleFX-Sheet_162: -6281218217341420918
+      20250309blachHoleFX-Sheet_163: 6409893074352279430
+      20250309blachHoleFX-Sheet_164: 3498903475851308788
+      20250309blachHoleFX-Sheet_165: 4608334111151820561
+      20250309blachHoleFX-Sheet_166: -4219006704803926444
+      20250309blachHoleFX-Sheet_167: -596703198566906429
+      20250309blachHoleFX-Sheet_168: 5222031472165885433
+      20250309blachHoleFX-Sheet_169: 4555693923474534964
+      20250309blachHoleFX-Sheet_17: -7796666911623148530
+      20250309blachHoleFX-Sheet_170: -8585869583435824785
+      20250309blachHoleFX-Sheet_171: -2074030039934802599
+      20250309blachHoleFX-Sheet_172: 3894951838437743808
+      20250309blachHoleFX-Sheet_173: 1817635580373422556
+      20250309blachHoleFX-Sheet_174: 8323523310174727198
+      20250309blachHoleFX-Sheet_175: 1493904249311731030
+      20250309blachHoleFX-Sheet_176: 2905935541890051347
+      20250309blachHoleFX-Sheet_177: 483535695199372075
+      20250309blachHoleFX-Sheet_178: 2645168976773292616
+      20250309blachHoleFX-Sheet_179: -4705119715574929995
+      20250309blachHoleFX-Sheet_18: -6084352401390738010
+      20250309blachHoleFX-Sheet_180: -1826048989399034732
+      20250309blachHoleFX-Sheet_181: -4579127020231921495
+      20250309blachHoleFX-Sheet_182: -3201584697613203321
+      20250309blachHoleFX-Sheet_183: -1165769060906972019
+      20250309blachHoleFX-Sheet_184: -7421040981516400396
+      20250309blachHoleFX-Sheet_185: 2506840960417747391
+      20250309blachHoleFX-Sheet_186: 7163302794550268742
+      20250309blachHoleFX-Sheet_187: -1775313104375104619
+      20250309blachHoleFX-Sheet_188: -4524793012096186183
+      20250309blachHoleFX-Sheet_189: 6153800015232047257
+      20250309blachHoleFX-Sheet_19: -7578958160178860627
+      20250309blachHoleFX-Sheet_190: -5709201841851874790
+      20250309blachHoleFX-Sheet_191: 7195352798649158041
+      20250309blachHoleFX-Sheet_192: 2357252349571710637
+      20250309blachHoleFX-Sheet_193: 464877458237015891
+      20250309blachHoleFX-Sheet_194: 6340474116809823508
+      20250309blachHoleFX-Sheet_195: 6687191512366358601
+      20250309blachHoleFX-Sheet_196: 5585891770587807032
+      20250309blachHoleFX-Sheet_197: 2045111496139098137
+      20250309blachHoleFX-Sheet_198: -3693426260772380724
+      20250309blachHoleFX-Sheet_199: 9152749124894116743
+      20250309blachHoleFX-Sheet_2: 6269756483464351332
+      20250309blachHoleFX-Sheet_20: -2713594755314831909
+      20250309blachHoleFX-Sheet_200: -8476577379137107651
+      20250309blachHoleFX-Sheet_201: -1175564520825000678
+      20250309blachHoleFX-Sheet_202: -821162142647462200
+      20250309blachHoleFX-Sheet_203: 6316874023657448919
+      20250309blachHoleFX-Sheet_204: -1372253812195789994
+      20250309blachHoleFX-Sheet_205: -4837669832002697860
+      20250309blachHoleFX-Sheet_206: -4557385053497833450
+      20250309blachHoleFX-Sheet_207: 6102660201168460396
+      20250309blachHoleFX-Sheet_208: 8664180353379567113
+      20250309blachHoleFX-Sheet_209: -3242022244926517629
+      20250309blachHoleFX-Sheet_21: 816092231610720208
+      20250309blachHoleFX-Sheet_210: 7544822546911655424
+      20250309blachHoleFX-Sheet_211: -3236490746191549910
+      20250309blachHoleFX-Sheet_212: 3077832898828976696
+      20250309blachHoleFX-Sheet_213: 3902356442809644439
+      20250309blachHoleFX-Sheet_214: -5828001955827898151
+      20250309blachHoleFX-Sheet_215: 7039754403377740914
+      20250309blachHoleFX-Sheet_216: 7161843333324892700
+      20250309blachHoleFX-Sheet_217: 640900755475592584
+      20250309blachHoleFX-Sheet_218: 311952139422533349
+      20250309blachHoleFX-Sheet_219: -2433649429695956974
+      20250309blachHoleFX-Sheet_22: -3068129246399090563
+      20250309blachHoleFX-Sheet_220: -4837971678810658767
+      20250309blachHoleFX-Sheet_221: 8498399644262672514
+      20250309blachHoleFX-Sheet_222: -8545409869582011802
+      20250309blachHoleFX-Sheet_223: -3290047086975246721
+      20250309blachHoleFX-Sheet_224: -6865869321986444172
+      20250309blachHoleFX-Sheet_225: 4034758312796084348
+      20250309blachHoleFX-Sheet_226: -7188781613441774273
+      20250309blachHoleFX-Sheet_227: -8966974445975757882
+      20250309blachHoleFX-Sheet_228: -5467739155766741627
+      20250309blachHoleFX-Sheet_229: -2789118033261520973
+      20250309blachHoleFX-Sheet_23: 1553036255715029077
+      20250309blachHoleFX-Sheet_230: 8182964737058021326
+      20250309blachHoleFX-Sheet_231: -2302705654292263990
+      20250309blachHoleFX-Sheet_232: 4825481873705157937
+      20250309blachHoleFX-Sheet_233: -3989478611188070167
+      20250309blachHoleFX-Sheet_234: 3375552121483706374
+      20250309blachHoleFX-Sheet_235: -8160187579502425136
+      20250309blachHoleFX-Sheet_236: -1590229074688271505
+      20250309blachHoleFX-Sheet_237: -2304240739302855267
+      20250309blachHoleFX-Sheet_238: -3075130157019582260
+      20250309blachHoleFX-Sheet_239: -5616543203439999765
+      20250309blachHoleFX-Sheet_24: -7712515506584462482
+      20250309blachHoleFX-Sheet_240: -7694439913586322994
+      20250309blachHoleFX-Sheet_241: 1789687622420553994
+      20250309blachHoleFX-Sheet_242: 3210905874375115389
+      20250309blachHoleFX-Sheet_243: 5398734158564496290
+      20250309blachHoleFX-Sheet_244: 8711960770286593112
+      20250309blachHoleFX-Sheet_245: 6349297396734931557
+      20250309blachHoleFX-Sheet_246: 680247241978620160
+      20250309blachHoleFX-Sheet_247: -3361746832778953944
+      20250309blachHoleFX-Sheet_248: 44535996682118686
+      20250309blachHoleFX-Sheet_249: -3181896112843024925
+      20250309blachHoleFX-Sheet_25: 3370544244385242137
+      20250309blachHoleFX-Sheet_250: -1472726612507096741
+      20250309blachHoleFX-Sheet_251: 7761063274168643790
+      20250309blachHoleFX-Sheet_252: -5705436073798108660
+      20250309blachHoleFX-Sheet_253: 6063132819111783926
+      20250309blachHoleFX-Sheet_254: 5223110550838233367
+      20250309blachHoleFX-Sheet_255: 6319909017865412182
+      20250309blachHoleFX-Sheet_256: 5133244892270386767
+      20250309blachHoleFX-Sheet_257: 201945731688308676
+      20250309blachHoleFX-Sheet_258: 2925627271797033727
+      20250309blachHoleFX-Sheet_259: 8684264260827174623
+      20250309blachHoleFX-Sheet_26: 8358010270225346609
+      20250309blachHoleFX-Sheet_260: -7021990343487758084
+      20250309blachHoleFX-Sheet_261: -6396542612135481211
+      20250309blachHoleFX-Sheet_262: -3935415412547180648
+      20250309blachHoleFX-Sheet_263: 4693519989538169094
+      20250309blachHoleFX-Sheet_264: 6251141516250447049
+      20250309blachHoleFX-Sheet_265: -7760982267672204863
+      20250309blachHoleFX-Sheet_266: -6375170148147659788
+      20250309blachHoleFX-Sheet_267: -5804425120198605768
+      20250309blachHoleFX-Sheet_268: 8124429582314616937
+      20250309blachHoleFX-Sheet_269: -2812464385958366380
+      20250309blachHoleFX-Sheet_27: -1401280031689947958
+      20250309blachHoleFX-Sheet_270: -1060810031541340156
+      20250309blachHoleFX-Sheet_271: -141238895172986080
+      20250309blachHoleFX-Sheet_272: -5713932380385163785
+      20250309blachHoleFX-Sheet_273: 6289744754849047173
+      20250309blachHoleFX-Sheet_28: 653446641279751602
+      20250309blachHoleFX-Sheet_29: 8131552344613039371
+      20250309blachHoleFX-Sheet_3: -5516623612463750583
+      20250309blachHoleFX-Sheet_30: 1379288750476638624
+      20250309blachHoleFX-Sheet_31: 1836011946787194745
+      20250309blachHoleFX-Sheet_32: -3289401294752000891
+      20250309blachHoleFX-Sheet_33: -6592018268521163140
+      20250309blachHoleFX-Sheet_34: 7438342698495338277
+      20250309blachHoleFX-Sheet_35: 7232592311316662995
+      20250309blachHoleFX-Sheet_36: 3920027272912111358
+      20250309blachHoleFX-Sheet_37: -974494189072446412
+      20250309blachHoleFX-Sheet_38: -3347602569159343843
+      20250309blachHoleFX-Sheet_39: 6325422796771931763
+      20250309blachHoleFX-Sheet_4: 8826432214773832009
+      20250309blachHoleFX-Sheet_40: -2847086328005343138
+      20250309blachHoleFX-Sheet_41: 4872839890218895549
+      20250309blachHoleFX-Sheet_42: -987214573726173681
+      20250309blachHoleFX-Sheet_43: 7518548206014372618
+      20250309blachHoleFX-Sheet_44: 5981577461300698811
+      20250309blachHoleFX-Sheet_45: 2012513374758122767
+      20250309blachHoleFX-Sheet_46: -4366418321379070202
+      20250309blachHoleFX-Sheet_47: 5832769736663817047
+      20250309blachHoleFX-Sheet_48: 7314274565090224687
+      20250309blachHoleFX-Sheet_49: 951998798035894513
+      20250309blachHoleFX-Sheet_5: -7250612199301225607
+      20250309blachHoleFX-Sheet_50: 3559397560865672055
+      20250309blachHoleFX-Sheet_51: -5823435443088941766
+      20250309blachHoleFX-Sheet_52: 3606570866602523245
+      20250309blachHoleFX-Sheet_53: 6798185897775151863
+      20250309blachHoleFX-Sheet_54: -6384845529888875208
+      20250309blachHoleFX-Sheet_55: 5418107702600346203
+      20250309blachHoleFX-Sheet_56: -7517519912460582409
+      20250309blachHoleFX-Sheet_57: 5902973220932039087
+      20250309blachHoleFX-Sheet_58: -6486486189209741410
+      20250309blachHoleFX-Sheet_59: -5963890226728798041
+      20250309blachHoleFX-Sheet_6: -8875849549120452917
+      20250309blachHoleFX-Sheet_60: -4234126760431745717
+      20250309blachHoleFX-Sheet_61: -421756769616067524
+      20250309blachHoleFX-Sheet_62: 2588842709440869562
+      20250309blachHoleFX-Sheet_63: -7108366275585777439
+      20250309blachHoleFX-Sheet_64: 3888694750858203622
+      20250309blachHoleFX-Sheet_65: -9029356727985912680
+      20250309blachHoleFX-Sheet_66: -1036481893310067014
+      20250309blachHoleFX-Sheet_67: -7349394174434093021
+      20250309blachHoleFX-Sheet_68: -3873157344293784357
+      20250309blachHoleFX-Sheet_69: -6181317185821483349
+      20250309blachHoleFX-Sheet_7: 5596621701541576146
+      20250309blachHoleFX-Sheet_70: -3086996007087300327
+      20250309blachHoleFX-Sheet_71: -4465895969947585104
+      20250309blachHoleFX-Sheet_72: -514502027014664030
+      20250309blachHoleFX-Sheet_73: 4692440094324808922
+      20250309blachHoleFX-Sheet_74: -4229837907283349525
+      20250309blachHoleFX-Sheet_75: -6218456505297167395
+      20250309blachHoleFX-Sheet_76: 494663660309213827
+      20250309blachHoleFX-Sheet_77: -3734601847991282841
+      20250309blachHoleFX-Sheet_78: 2069315749329774483
+      20250309blachHoleFX-Sheet_79: 6940837774614671179
+      20250309blachHoleFX-Sheet_8: 7460278120705142803
+      20250309blachHoleFX-Sheet_80: -4091823679151116924
+      20250309blachHoleFX-Sheet_81: -4432897503064373803
+      20250309blachHoleFX-Sheet_82: 5758007365507095319
+      20250309blachHoleFX-Sheet_83: 4568902122635513724
+      20250309blachHoleFX-Sheet_84: 1351667275124820963
+      20250309blachHoleFX-Sheet_85: 360759624643528093
+      20250309blachHoleFX-Sheet_86: -5840389749608736416
+      20250309blachHoleFX-Sheet_87: -4980456635265948496
+      20250309blachHoleFX-Sheet_88: 5426188825595235333
+      20250309blachHoleFX-Sheet_89: 4013707201734523048
+      20250309blachHoleFX-Sheet_9: 7770825485539479974
+      20250309blachHoleFX-Sheet_90: -4113253855971805566
+      20250309blachHoleFX-Sheet_91: 638614535022227870
+      20250309blachHoleFX-Sheet_92: -6513743397519312991
+      20250309blachHoleFX-Sheet_93: 3873666369775048701
+      20250309blachHoleFX-Sheet_94: -2344425571309172974
+      20250309blachHoleFX-Sheet_95: -7052998716329749205
+      20250309blachHoleFX-Sheet_96: 9008455949934905956
+      20250309blachHoleFX-Sheet_97: -8431046108686112598
+      20250309blachHoleFX-Sheet_98: 2097667011420911727
+      20250309blachHoleFX-Sheet_99: -1417618011486790860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

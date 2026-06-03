@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: c3694d756ff564e4b836f1b701ab64a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3744989887602945802
+    second: 20250314darkWaveFX-Sheet_0
+  - first:
+      213: -3775220515731767542
+    second: 20250314darkWaveFX-Sheet_1
+  - first:
+      213: 8955342549125878802
+    second: 20250314darkWaveFX-Sheet_2
+  - first:
+      213: 3253943018512745371
+    second: 20250314darkWaveFX-Sheet_3
+  - first:
+      213: -8007496991256482030
+    second: 20250314darkWaveFX-Sheet_4
+  - first:
+      213: 8236894209054129928
+    second: 20250314darkWaveFX-Sheet_5
+  - first:
+      213: -492143882039474480
+    second: 20250314darkWaveFX-Sheet_6
+  - first:
+      213: 5477102960588274967
+    second: 20250314darkWaveFX-Sheet_7
+  - first:
+      213: -7744615888804299178
+    second: 20250314darkWaveFX-Sheet_8
+  - first:
+      213: -8596804643147972264
+    second: 20250314darkWaveFX-Sheet_9
+  - first:
+      213: 1049922803576221769
+    second: 20250314darkWaveFX-Sheet_10
+  - first:
+      213: 3862445587891978474
+    second: 20250314darkWaveFX-Sheet_11
+  - first:
+      213: -923521525530785742
+    second: 20250314darkWaveFX-Sheet_12
+  - first:
+      213: -7318487060991409694
+    second: 20250314darkWaveFX-Sheet_13
+  - first:
+      213: 2656348637761555494
+    second: 20250314darkWaveFX-Sheet_14
+  - first:
+      213: -9194538255681335591
+    second: 20250314darkWaveFX-Sheet_15
+  - first:
+      213: -1558169824404790963
+    second: 20250314darkWaveFX-Sheet_16
+  - first:
+      213: -3933376648730156495
+    second: 20250314darkWaveFX-Sheet_17
+  - first:
+      213: -2932503886962319988
+    second: 20250314darkWaveFX-Sheet_18
+  - first:
+      213: -2206857316502545206
+    second: 20250314darkWaveFX-Sheet_19
+  - first:
+      213: -4101748521814676877
+    second: 20250314darkWaveFX-Sheet_20
+  - first:
+      213: -8028525968472763733
+    second: 20250314darkWaveFX-Sheet_21
+  - first:
+      213: 8992088634766309904
+    second: 20250314darkWaveFX-Sheet_22
+  - first:
+      213: -5818387370818679850
+    second: 20250314darkWaveFX-Sheet_23
+  - first:
+      213: -7606782839063413542
+    second: 20250314darkWaveFX-Sheet_24
+  - first:
+      213: 2576166616114524175
+    second: 20250314darkWaveFX-Sheet_25
+  - first:
+      213: 7951238499989162520
+    second: 20250314darkWaveFX-Sheet_26
+  - first:
+      213: -5335163651873211227
+    second: 20250314darkWaveFX-Sheet_27
+  - first:
+      213: 4554458786532268146
+    second: 20250314darkWaveFX-Sheet_28
+  - first:
+      213: 2780123652560031643
+    second: 20250314darkWaveFX-Sheet_29
+  - first:
+      213: 2354515994912917863
+    second: 20250314darkWaveFX-Sheet_30
+  - first:
+      213: 3017920592147357884
+    second: 20250314darkWaveFX-Sheet_31
+  - first:
+      213: 9169630697327182048
+    second: 20250314darkWaveFX-Sheet_32
+  - first:
+      213: 7367148533826113866
+    second: 20250314darkWaveFX-Sheet_33
+  - first:
+      213: 8776198577516114320
+    second: 20250314darkWaveFX-Sheet_34
+  - first:
+      213: 2194716238180137070
+    second: 20250314darkWaveFX-Sheet_35
+  - first:
+      213: -6895375485344820923
+    second: 20250314darkWaveFX-Sheet_36
+  - first:
+      213: -3197104507951704760
+    second: 20250314darkWaveFX-Sheet_37
+  - first:
+      213: 2064723562163658811
+    second: 20250314darkWaveFX-Sheet_38
+  - first:
+      213: -5788501699247883374
+    second: 20250314darkWaveFX-Sheet_39
+  - first:
+      213: 8565973553520777723
+    second: 20250314darkWaveFX-Sheet_40
+  - first:
+      213: 6354298950773613875
+    second: 20250314darkWaveFX-Sheet_41
+  - first:
+      213: -3434287481257747119
+    second: 20250314darkWaveFX-Sheet_42
+  - first:
+      213: -5689912938236807395
+    second: 20250314darkWaveFX-Sheet_43
+  - first:
+      213: -5054814789904781528
+    second: 20250314darkWaveFX-Sheet_44
+  - first:
+      213: -5815810942000991317
+    second: 20250314darkWaveFX-Sheet_45
+  - first:
+      213: 1509863674459102180
+    second: 20250314darkWaveFX-Sheet_46
+  - first:
+      213: 627562334382670873
+    second: 20250314darkWaveFX-Sheet_47
+  - first:
+      213: 5307867117258398659
+    second: 20250314darkWaveFX-Sheet_48
+  - first:
+      213: -8697042920343202512
+    second: 20250314darkWaveFX-Sheet_49
+  - first:
+      213: 4245076264084003202
+    second: 20250314darkWaveFX-Sheet_50
+  - first:
+      213: -1684885153911043776
+    second: 20250314darkWaveFX-Sheet_51
+  - first:
+      213: -3667002735240870244
+    second: 20250314darkWaveFX-Sheet_52
+  - first:
+      213: -4361644789145576257
+    second: 20250314darkWaveFX-Sheet_53
+  - first:
+      213: -9107657850111206916
+    second: 20250314darkWaveFX-Sheet_54
+  - first:
+      213: -186785091885756666
+    second: 20250314darkWaveFX-Sheet_55
+  - first:
+      213: -3610707382571627970
+    second: 20250314darkWaveFX-Sheet_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 441
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f01ffdf98f170cc0800000000000000
+      internalID: -3744989887602945802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f7a0361f8bb9bc0800000000000000
+      internalID: -3775220515731767542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 437
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d69ad994c74c70800000000000000
+      internalID: 8955342549125878802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 432
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9380d96fe3582d20800000000000000
+      internalID: 3253943018512745371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 425
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fe52879e7afd090800000000000000
+      internalID: -8007496991256482030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 290
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb42764a35f4270800000000000000
+      internalID: 8236894209054129928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 278
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c7ac2fbd8b29f0800000000000000
+      internalID: -492143882039474480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 272
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dba1caf14920c40800000000000000
+      internalID: 5477102960588274967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 273
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e39f1c1e8958490800000000000000
+      internalID: -7744615888804299178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 156
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8518cb199b302b880800000000000000
+      internalID: -8596804643147972264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 211
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9403eb42a33129e00800000000000000
+      internalID: 1049922803576221769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 148
+        width: 73
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0839e4cc92a9530800000000000000
+      internalID: 3862445587891978474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 217
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388f48c01efe23f0800000000000000
+      internalID: -923521525530785742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 137
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e180540bc28f6a90800000000000000
+      internalID: -7318487060991409694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cce59130f3dd420800000000000000
+      internalID: 2656348637761555494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 217
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9decf54db20766080800000000000000
+      internalID: -9194538255681335591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 224
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ae9cdcc4406ae0800000000000000
+      internalID: -1558169824404790963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 224
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326f9427c6d969c0800000000000000
+      internalID: -3933376648730156495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 203
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d982b7047ad47d0800000000000000
+      internalID: -2932503886962319988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 195
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accd4eb86faaf51e0800000000000000
+      internalID: -2206857316502545206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 195
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aa04f8379a317c0800000000000000
+      internalID: -4101748521814676877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 194
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba29e2b2b22f49090800000000000000
+      internalID: -8028525968472763733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 203
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab210a8f05acc70800000000000000
+      internalID: 8992088634766309904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 206
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbcbbc638fe04fa0800000000000000
+      internalID: -5818387370818679850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 194
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc76127f474f6690800000000000000
+      internalID: -7606782839063413542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 195
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f9b363e160c320800000000000000
+      internalID: 2576166616114524175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 168
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a834cc949785e60800000000000000
+      internalID: 7951238499989162520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 146
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac758fece0b5f5b0800000000000000
+      internalID: -5335163651873211227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 185
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2789963c220b43f30800000000000000
+      internalID: 4554458786532268146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 168
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f80867bbbf49620800000000000000
+      internalID: 2780123652560031643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 165
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76982c692dbeca020800000000000000
+      internalID: 2354515994912917863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 166
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0a747f9cec1e920800000000000000
+      internalID: 3017920592147357884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 143
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e044b35982114f70800000000000000
+      internalID: 9169630697327182048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41de360f8e5d3660800000000000000
+      internalID: 7367148533826113866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 165
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f223ab125bc970800000000000000
+      internalID: 8776198577516114320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68328f5ac2357e10800000000000000
+      internalID: 2194716238180137070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 166
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d5138784be40a0800000000000000
+      internalID: -6895375485344820923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 67
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8451db5936a91a3d0800000000000000
+      internalID: -3197104507951704760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 149
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e422f32f57ac10800000000000000
+      internalID: 2064723562163658811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 145
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bb5929f5c1bafa0800000000000000
+      internalID: -5788501699247883374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 13
+        width: 94
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf91ffcff8370e670800000000000000
+      internalID: 8565973553520777723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 151
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335af7daa310f2850800000000000000
+      internalID: 6354298950773613875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 152
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d9f0f3bb5f650d0800000000000000
+      internalID: -3434287481257747119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 146
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fe71445e5901b0800000000000000
+      internalID: -5689912938236807395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 147
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fa55aeab0b9d9b0800000000000000
+      internalID: -5054814789904781528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 141
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3733103c61a4fa0800000000000000
+      internalID: -5815810942000991317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 143
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb9667230d14f410800000000000000
+      internalID: 1509863674459102180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144b4f3e9c85b800800000000000000
+      internalID: 627562334382670873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 140
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbd927550559a940800000000000000
+      internalID: 5307867117258398659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0351e98fa85ed4780800000000000000
+      internalID: -8697042920343202512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 67
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2895b2dee5a89ea30800000000000000
+      internalID: 4245076264084003202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 58
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0498dc121e51e98e0800000000000000
+      internalID: -1684885153911043776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96059fd0703c1dc0800000000000000
+      internalID: -3667002735240870244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc5b8a5c235873c0800000000000000
+      internalID: -4361644789145576257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9d25490791b9180800000000000000
+      internalID: -9107657850111206916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 35
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f8fc4d2f7686df0800000000000000
+      internalID: -186785091885756666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250314darkWaveFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a00f114c034edc0800000000000000
+      internalID: -3610707382571627970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250314darkWaveFX-Sheet_0: -3744989887602945802
+      20250314darkWaveFX-Sheet_1: -3775220515731767542
+      20250314darkWaveFX-Sheet_10: 1049922803576221769
+      20250314darkWaveFX-Sheet_11: 3862445587891978474
+      20250314darkWaveFX-Sheet_12: -923521525530785742
+      20250314darkWaveFX-Sheet_13: -7318487060991409694
+      20250314darkWaveFX-Sheet_14: 2656348637761555494
+      20250314darkWaveFX-Sheet_15: -9194538255681335591
+      20250314darkWaveFX-Sheet_16: -1558169824404790963
+      20250314darkWaveFX-Sheet_17: -3933376648730156495
+      20250314darkWaveFX-Sheet_18: -2932503886962319988
+      20250314darkWaveFX-Sheet_19: -2206857316502545206
+      20250314darkWaveFX-Sheet_2: 8955342549125878802
+      20250314darkWaveFX-Sheet_20: -4101748521814676877
+      20250314darkWaveFX-Sheet_21: -8028525968472763733
+      20250314darkWaveFX-Sheet_22: 8992088634766309904
+      20250314darkWaveFX-Sheet_23: -5818387370818679850
+      20250314darkWaveFX-Sheet_24: -7606782839063413542
+      20250314darkWaveFX-Sheet_25: 2576166616114524175
+      20250314darkWaveFX-Sheet_26: 7951238499989162520
+      20250314darkWaveFX-Sheet_27: -5335163651873211227
+      20250314darkWaveFX-Sheet_28: 4554458786532268146
+      20250314darkWaveFX-Sheet_29: 2780123652560031643
+      20250314darkWaveFX-Sheet_3: 3253943018512745371
+      20250314darkWaveFX-Sheet_30: 2354515994912917863
+      20250314darkWaveFX-Sheet_31: 3017920592147357884
+      20250314darkWaveFX-Sheet_32: 9169630697327182048
+      20250314darkWaveFX-Sheet_33: 7367148533826113866
+      20250314darkWaveFX-Sheet_34: 8776198577516114320
+      20250314darkWaveFX-Sheet_35: 2194716238180137070
+      20250314darkWaveFX-Sheet_36: -6895375485344820923
+      20250314darkWaveFX-Sheet_37: -3197104507951704760
+      20250314darkWaveFX-Sheet_38: 2064723562163658811
+      20250314darkWaveFX-Sheet_39: -5788501699247883374
+      20250314darkWaveFX-Sheet_4: -8007496991256482030
+      20250314darkWaveFX-Sheet_40: 8565973553520777723
+      20250314darkWaveFX-Sheet_41: 6354298950773613875
+      20250314darkWaveFX-Sheet_42: -3434287481257747119
+      20250314darkWaveFX-Sheet_43: -5689912938236807395
+      20250314darkWaveFX-Sheet_44: -5054814789904781528
+      20250314darkWaveFX-Sheet_45: -5815810942000991317
+      20250314darkWaveFX-Sheet_46: 1509863674459102180
+      20250314darkWaveFX-Sheet_47: 627562334382670873
+      20250314darkWaveFX-Sheet_48: 5307867117258398659
+      20250314darkWaveFX-Sheet_49: -8697042920343202512
+      20250314darkWaveFX-Sheet_5: 8236894209054129928
+      20250314darkWaveFX-Sheet_50: 4245076264084003202
+      20250314darkWaveFX-Sheet_51: -1684885153911043776
+      20250314darkWaveFX-Sheet_52: -3667002735240870244
+      20250314darkWaveFX-Sheet_53: -4361644789145576257
+      20250314darkWaveFX-Sheet_54: -9107657850111206916
+      20250314darkWaveFX-Sheet_55: -186785091885756666
+      20250314darkWaveFX-Sheet_56: -3610707382571627970
+      20250314darkWaveFX-Sheet_6: -492143882039474480
+      20250314darkWaveFX-Sheet_7: 5477102960588274967
+      20250314darkWaveFX-Sheet_8: -7744615888804299178
+      20250314darkWaveFX-Sheet_9: -8596804643147972264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

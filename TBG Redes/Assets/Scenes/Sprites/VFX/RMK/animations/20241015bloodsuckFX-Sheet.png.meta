@@ -1,0 +1,4030 @@
+fileFormatVersion: 2
+guid: 3d1b27fb069ccb74488e6f46a35ab0cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2543689738781426444
+    second: 20241015bloodsuckFX-Sheet_0
+  - first:
+      213: 2224543439554009805
+    second: 20241015bloodsuckFX-Sheet_1
+  - first:
+      213: 522054088459525973
+    second: 20241015bloodsuckFX-Sheet_2
+  - first:
+      213: 82954084831104690
+    second: 20241015bloodsuckFX-Sheet_3
+  - first:
+      213: -2735633025693931815
+    second: 20241015bloodsuckFX-Sheet_4
+  - first:
+      213: 6644234156299232882
+    second: 20241015bloodsuckFX-Sheet_5
+  - first:
+      213: -8689941982782900252
+    second: 20241015bloodsuckFX-Sheet_6
+  - first:
+      213: -6764441829488514314
+    second: 20241015bloodsuckFX-Sheet_7
+  - first:
+      213: -7970636049111615141
+    second: 20241015bloodsuckFX-Sheet_8
+  - first:
+      213: -312101024531679955
+    second: 20241015bloodsuckFX-Sheet_9
+  - first:
+      213: -2661032056194644791
+    second: 20241015bloodsuckFX-Sheet_10
+  - first:
+      213: -973867626402775813
+    second: 20241015bloodsuckFX-Sheet_11
+  - first:
+      213: 7029927635635435875
+    second: 20241015bloodsuckFX-Sheet_12
+  - first:
+      213: -6272698131762845069
+    second: 20241015bloodsuckFX-Sheet_13
+  - first:
+      213: -3726527775616035740
+    second: 20241015bloodsuckFX-Sheet_14
+  - first:
+      213: -7632053017857799181
+    second: 20241015bloodsuckFX-Sheet_15
+  - first:
+      213: 5663165284117834834
+    second: 20241015bloodsuckFX-Sheet_16
+  - first:
+      213: -7954998177030559397
+    second: 20241015bloodsuckFX-Sheet_17
+  - first:
+      213: -1093023636256184879
+    second: 20241015bloodsuckFX-Sheet_18
+  - first:
+      213: -1358828767848276743
+    second: 20241015bloodsuckFX-Sheet_19
+  - first:
+      213: 2407982451664513964
+    second: 20241015bloodsuckFX-Sheet_20
+  - first:
+      213: 3565988610900083547
+    second: 20241015bloodsuckFX-Sheet_21
+  - first:
+      213: -5453750039403279017
+    second: 20241015bloodsuckFX-Sheet_22
+  - first:
+      213: -2664502274829628866
+    second: 20241015bloodsuckFX-Sheet_23
+  - first:
+      213: -1669745320070603713
+    second: 20241015bloodsuckFX-Sheet_24
+  - first:
+      213: 5398372627567372201
+    second: 20241015bloodsuckFX-Sheet_25
+  - first:
+      213: -6898631039595235864
+    second: 20241015bloodsuckFX-Sheet_26
+  - first:
+      213: -973019819039813946
+    second: 20241015bloodsuckFX-Sheet_27
+  - first:
+      213: -7150295060801525933
+    second: 20241015bloodsuckFX-Sheet_28
+  - first:
+      213: -3857082716336960649
+    second: 20241015bloodsuckFX-Sheet_29
+  - first:
+      213: 5208973813958064397
+    second: 20241015bloodsuckFX-Sheet_30
+  - first:
+      213: 9084792932003766122
+    second: 20241015bloodsuckFX-Sheet_31
+  - first:
+      213: -4083503365981437361
+    second: 20241015bloodsuckFX-Sheet_32
+  - first:
+      213: -1270033692962200004
+    second: 20241015bloodsuckFX-Sheet_33
+  - first:
+      213: 4833636578716765107
+    second: 20241015bloodsuckFX-Sheet_34
+  - first:
+      213: -2513368459566822846
+    second: 20241015bloodsuckFX-Sheet_35
+  - first:
+      213: 7222157695234056124
+    second: 20241015bloodsuckFX-Sheet_36
+  - first:
+      213: -7333961883765090695
+    second: 20241015bloodsuckFX-Sheet_37
+  - first:
+      213: -4921071664113174017
+    second: 20241015bloodsuckFX-Sheet_38
+  - first:
+      213: 7764563248168482301
+    second: 20241015bloodsuckFX-Sheet_39
+  - first:
+      213: 8875348436832873186
+    second: 20241015bloodsuckFX-Sheet_40
+  - first:
+      213: 3882926021278974644
+    second: 20241015bloodsuckFX-Sheet_41
+  - first:
+      213: -5289190267418918984
+    second: 20241015bloodsuckFX-Sheet_42
+  - first:
+      213: 4056425319153700812
+    second: 20241015bloodsuckFX-Sheet_43
+  - first:
+      213: -3297620982472740822
+    second: 20241015bloodsuckFX-Sheet_44
+  - first:
+      213: -5185392718356686035
+    second: 20241015bloodsuckFX-Sheet_45
+  - first:
+      213: -911669757713939896
+    second: 20241015bloodsuckFX-Sheet_46
+  - first:
+      213: -2381867090504804836
+    second: 20241015bloodsuckFX-Sheet_47
+  - first:
+      213: 3761463118715246177
+    second: 20241015bloodsuckFX-Sheet_48
+  - first:
+      213: 42065855439414937
+    second: 20241015bloodsuckFX-Sheet_49
+  - first:
+      213: 5990913837681746481
+    second: 20241015bloodsuckFX-Sheet_50
+  - first:
+      213: 4678297022912709189
+    second: 20241015bloodsuckFX-Sheet_51
+  - first:
+      213: 7725372936775567220
+    second: 20241015bloodsuckFX-Sheet_52
+  - first:
+      213: 7923824839654934040
+    second: 20241015bloodsuckFX-Sheet_53
+  - first:
+      213: 9148675807909994710
+    second: 20241015bloodsuckFX-Sheet_54
+  - first:
+      213: 868705759260754135
+    second: 20241015bloodsuckFX-Sheet_55
+  - first:
+      213: -4834884446784019406
+    second: 20241015bloodsuckFX-Sheet_56
+  - first:
+      213: -1183440340257446799
+    second: 20241015bloodsuckFX-Sheet_57
+  - first:
+      213: 1277398757511307552
+    second: 20241015bloodsuckFX-Sheet_58
+  - first:
+      213: -4553531902608136604
+    second: 20241015bloodsuckFX-Sheet_59
+  - first:
+      213: 4101415031347100620
+    second: 20241015bloodsuckFX-Sheet_60
+  - first:
+      213: 6242422469293128116
+    second: 20241015bloodsuckFX-Sheet_61
+  - first:
+      213: 1876384012231033992
+    second: 20241015bloodsuckFX-Sheet_62
+  - first:
+      213: 7513668603846259576
+    second: 20241015bloodsuckFX-Sheet_63
+  - first:
+      213: 5981057160320986120
+    second: 20241015bloodsuckFX-Sheet_64
+  - first:
+      213: 8655838425313843150
+    second: 20241015bloodsuckFX-Sheet_65
+  - first:
+      213: -8941267724438748414
+    second: 20241015bloodsuckFX-Sheet_66
+  - first:
+      213: 461954309468264776
+    second: 20241015bloodsuckFX-Sheet_67
+  - first:
+      213: 143884349561900894
+    second: 20241015bloodsuckFX-Sheet_68
+  - first:
+      213: 3951296332220602772
+    second: 20241015bloodsuckFX-Sheet_69
+  - first:
+      213: -3817555485963998346
+    second: 20241015bloodsuckFX-Sheet_70
+  - first:
+      213: -8428790456000607199
+    second: 20241015bloodsuckFX-Sheet_71
+  - first:
+      213: -2311130088158289122
+    second: 20241015bloodsuckFX-Sheet_72
+  - first:
+      213: 3527191600264865699
+    second: 20241015bloodsuckFX-Sheet_73
+  - first:
+      213: -1304201987575706604
+    second: 20241015bloodsuckFX-Sheet_74
+  - first:
+      213: -6700083568743325064
+    second: 20241015bloodsuckFX-Sheet_75
+  - first:
+      213: -6753974102095061171
+    second: 20241015bloodsuckFX-Sheet_76
+  - first:
+      213: 7952439817566955811
+    second: 20241015bloodsuckFX-Sheet_77
+  - first:
+      213: -917659044295290210
+    second: 20241015bloodsuckFX-Sheet_78
+  - first:
+      213: 2277621790472857292
+    second: 20241015bloodsuckFX-Sheet_79
+  - first:
+      213: 6291591724757024619
+    second: 20241015bloodsuckFX-Sheet_80
+  - first:
+      213: -5538458452028863261
+    second: 20241015bloodsuckFX-Sheet_81
+  - first:
+      213: -2552456981164375329
+    second: 20241015bloodsuckFX-Sheet_82
+  - first:
+      213: -945334287923110455
+    second: 20241015bloodsuckFX-Sheet_83
+  - first:
+      213: 4464849560792696372
+    second: 20241015bloodsuckFX-Sheet_84
+  - first:
+      213: 3366158838248615787
+    second: 20241015bloodsuckFX-Sheet_85
+  - first:
+      213: 6446525221751300264
+    second: 20241015bloodsuckFX-Sheet_86
+  - first:
+      213: -6223575813389174783
+    second: 20241015bloodsuckFX-Sheet_87
+  - first:
+      213: 5740304169362304303
+    second: 20241015bloodsuckFX-Sheet_88
+  - first:
+      213: 8499269633769176168
+    second: 20241015bloodsuckFX-Sheet_89
+  - first:
+      213: 5383981591569630840
+    second: 20241015bloodsuckFX-Sheet_90
+  - first:
+      213: -1572876439283823987
+    second: 20241015bloodsuckFX-Sheet_91
+  - first:
+      213: 807331195954238161
+    second: 20241015bloodsuckFX-Sheet_92
+  - first:
+      213: -3379628515667614986
+    second: 20241015bloodsuckFX-Sheet_93
+  - first:
+      213: 1382953211268755289
+    second: 20241015bloodsuckFX-Sheet_94
+  - first:
+      213: 3902476815036244722
+    second: 20241015bloodsuckFX-Sheet_95
+  - first:
+      213: 7830708535446819290
+    second: 20241015bloodsuckFX-Sheet_96
+  - first:
+      213: 8200868248214827043
+    second: 20241015bloodsuckFX-Sheet_97
+  - first:
+      213: -3011157227385238381
+    second: 20241015bloodsuckFX-Sheet_98
+  - first:
+      213: 2147466687848344683
+    second: 20241015bloodsuckFX-Sheet_99
+  - first:
+      213: 996175350258556428
+    second: 20241015bloodsuckFX-Sheet_100
+  - first:
+      213: -1198147649175150811
+    second: 20241015bloodsuckFX-Sheet_101
+  - first:
+      213: 1940349204799485696
+    second: 20241015bloodsuckFX-Sheet_102
+  - first:
+      213: 2367286842320458994
+    second: 20241015bloodsuckFX-Sheet_103
+  - first:
+      213: -3849579042462810482
+    second: 20241015bloodsuckFX-Sheet_104
+  - first:
+      213: -8946521272660071742
+    second: 20241015bloodsuckFX-Sheet_105
+  - first:
+      213: -7544295644419348128
+    second: 20241015bloodsuckFX-Sheet_106
+  - first:
+      213: -7667660459501645841
+    second: 20241015bloodsuckFX-Sheet_107
+  - first:
+      213: 5839958920231493865
+    second: 20241015bloodsuckFX-Sheet_108
+  - first:
+      213: 773122934015581307
+    second: 20241015bloodsuckFX-Sheet_109
+  - first:
+      213: 3486958997831198585
+    second: 20241015bloodsuckFX-Sheet_110
+  - first:
+      213: -8773116706439752344
+    second: 20241015bloodsuckFX-Sheet_111
+  - first:
+      213: 5413117086507513861
+    second: 20241015bloodsuckFX-Sheet_112
+  - first:
+      213: -3266793552648266808
+    second: 20241015bloodsuckFX-Sheet_113
+  - first:
+      213: -6945317658027908879
+    second: 20241015bloodsuckFX-Sheet_114
+  - first:
+      213: 1752518396068391373
+    second: 20241015bloodsuckFX-Sheet_115
+  - first:
+      213: 7784238930119500499
+    second: 20241015bloodsuckFX-Sheet_116
+  - first:
+      213: 8515161239097570532
+    second: 20241015bloodsuckFX-Sheet_117
+  - first:
+      213: -4400520689894233663
+    second: 20241015bloodsuckFX-Sheet_118
+  - first:
+      213: 4824741884691266701
+    second: 20241015bloodsuckFX-Sheet_119
+  - first:
+      213: -976057655765980993
+    second: 20241015bloodsuckFX-Sheet_120
+  - first:
+      213: -3235739431893455618
+    second: 20241015bloodsuckFX-Sheet_121
+  - first:
+      213: -8967916469163402688
+    second: 20241015bloodsuckFX-Sheet_122
+  - first:
+      213: -1291231551633101494
+    second: 20241015bloodsuckFX-Sheet_123
+  - first:
+      213: -2417301987766707813
+    second: 20241015bloodsuckFX-Sheet_124
+  - first:
+      213: -1798385581781188285
+    second: 20241015bloodsuckFX-Sheet_125
+  - first:
+      213: -3123545190727279800
+    second: 20241015bloodsuckFX-Sheet_126
+  - first:
+      213: -3750835055952113518
+    second: 20241015bloodsuckFX-Sheet_127
+  - first:
+      213: 8046699047364843045
+    second: 20241015bloodsuckFX-Sheet_128
+  - first:
+      213: -2150055550783916055
+    second: 20241015bloodsuckFX-Sheet_129
+  - first:
+      213: -5633879513115470482
+    second: 20241015bloodsuckFX-Sheet_130
+  - first:
+      213: 2193059195507208972
+    second: 20241015bloodsuckFX-Sheet_131
+  - first:
+      213: 8903511738026151825
+    second: 20241015bloodsuckFX-Sheet_132
+  - first:
+      213: 3415821513284160818
+    second: 20241015bloodsuckFX-Sheet_133
+  - first:
+      213: 6866854073985807820
+    second: 20241015bloodsuckFX-Sheet_134
+  - first:
+      213: 4914554694364328690
+    second: 20241015bloodsuckFX-Sheet_135
+  - first:
+      213: -5541031562325121566
+    second: 20241015bloodsuckFX-Sheet_136
+  - first:
+      213: 3253979150095195251
+    second: 20241015bloodsuckFX-Sheet_137
+  - first:
+      213: 4053769160573949913
+    second: 20241015bloodsuckFX-Sheet_138
+  - first:
+      213: -7389363638017019517
+    second: 20241015bloodsuckFX-Sheet_139
+  - first:
+      213: -9050004495193277847
+    second: 20241015bloodsuckFX-Sheet_140
+  - first:
+      213: 6936967065508993229
+    second: 20241015bloodsuckFX-Sheet_141
+  - first:
+      213: 3982339376021094642
+    second: 20241015bloodsuckFX-Sheet_142
+  - first:
+      213: -5567863739128304152
+    second: 20241015bloodsuckFX-Sheet_143
+  - first:
+      213: 8191551209663716870
+    second: 20241015bloodsuckFX-Sheet_144
+  - first:
+      213: -6474864770592924485
+    second: 20241015bloodsuckFX-Sheet_145
+  - first:
+      213: 4857916782455889344
+    second: 20241015bloodsuckFX-Sheet_146
+  - first:
+      213: -6538734679146761656
+    second: 20241015bloodsuckFX-Sheet_147
+  - first:
+      213: 4618316464871184678
+    second: 20241015bloodsuckFX-Sheet_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1617
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038fd227500d4320800000000000000
+      internalID: 2543689738781426444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1633
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcada0ed87a2fde10800000000000000
+      internalID: 2224543439554009805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1649
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9b207d65be3700800000000000000
+      internalID: 522054088459525973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1579
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be8607fc46b62100800000000000000
+      internalID: 82954084831104690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1587
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6afa3d144190ad0800000000000000
+      internalID: -2735633025693931815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1613
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276abb233cf053c50800000000000000
+      internalID: 6644234156299232882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1573
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7b875decf176780800000000000000
+      internalID: -8689941982782900252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1577
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2b81eeffdf12a0800000000000000
+      internalID: -6764441829488514314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1589
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5977ca5ebc926190800000000000000
+      internalID: -7970636049111615141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1573
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25f0c295c13babf0800000000000000
+      internalID: -312101024531679955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1573
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44792917d121bd0800000000000000
+      internalID: -2661032056194644791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1575
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc7206bd802c72f0800000000000000
+      internalID: -973867626402775813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1571
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36970ce30f15f8160800000000000000
+      internalID: 7029927635635435875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1571
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ae4098846e2f8a0800000000000000
+      internalID: -6272698131762845069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1573
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46497c86bb6b84cc0800000000000000
+      internalID: -3726527775616035740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1507
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb43a37730851690800000000000000
+      internalID: -7632053017857799181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1477
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cea2832da979e40800000000000000
+      internalID: 5663165284117834834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1503
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a63d2e4b2a9190800000000000000
+      internalID: -7954998177030559397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1453
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d528dd3bccc4d0f0800000000000000
+      internalID: -1093023636256184879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1515
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc52dd5f68742de0800000000000000
+      internalID: -1358828767848276743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1477
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab66d0284fda6120800000000000000
+      internalID: 2407982451664513964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1427
+        width: 16
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53c9c98fbfec7130800000000000000
+      internalID: 3565988610900083547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1495
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d489ffb336054b0800000000000000
+      internalID: -5453750039403279017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1485
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a4f855c49c50bd0800000000000000
+      internalID: -2664502274829628866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1455
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c12d36a7fd3d8e0800000000000000
+      internalID: -1669745320070603713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1501
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7685f8d4fdaea40800000000000000
+      internalID: 5398372627567372201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1453
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e53178be932340a0800000000000000
+      internalID: -6898631039595235864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1467
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce87be31a32f72f0800000000000000
+      internalID: -973019819039813946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1483
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357e1bda68c05cc90800000000000000
+      internalID: -7150295060801525933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1469
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bcf6784b3e87ac0800000000000000
+      internalID: -3857082716336960649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1449
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d093841e51ef94840800000000000000
+      internalID: 5208973813958064397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1403
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f5012d90ba31e70800000000000000
+      internalID: 9084792932003766122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1467
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42809fe25b7457c0800000000000000
+      internalID: -4083503365981437361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1399
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36e53ec51fef5ee0800000000000000
+      internalID: -1270033692962200004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1421
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb4fbfcbd6841340800000000000000
+      internalID: 4833636578716765107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1449
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a49d1d3b8be1dd0800000000000000
+      internalID: -2513368459566822846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1423
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf9740c8224a3460800000000000000
+      internalID: 7222157695234056124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1385
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9765de11688883a90800000000000000
+      internalID: -7333961883765090695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1409
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff93b4af467d4bbb0800000000000000
+      internalID: -4921071664113174017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1409
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5b223c22541cb60800000000000000
+      internalID: 7764563248168482301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1419
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaed3331629b2b70800000000000000
+      internalID: 8875348436832873186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1403
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2447bc4ace2e530800000000000000
+      internalID: 3882926021278974644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1385
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfba01a9750996b0800000000000000
+      internalID: -5289190267418918984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1381
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf8e0ef5515b4830800000000000000
+      internalID: 4056425319153700812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1381
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2076df103f7c32d0800000000000000
+      internalID: -3297620982472740822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1379
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bd379cbc8c908b0800000000000000
+      internalID: -5185392718356686035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1389
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8428ef28f291953f0800000000000000
+      internalID: -911669757713939896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1383
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1694483088e1fed0800000000000000
+      internalID: -2381867090504804836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1385
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16651c207c6633430800000000000000
+      internalID: 3761463118715246177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1385
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a3a23ca2759000800000000000000
+      internalID: 42065855439414937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1383
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1322ef6e460042350800000000000000
+      internalID: 5990913837681746481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1383
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542ca7c0b56ace040800000000000000
+      internalID: 4678297022912709189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4778ce551c9063b60800000000000000
+      internalID: 7725372936775567220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8168c0e95b417fd60800000000000000
+      internalID: 7923824839654934040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1375
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d06fafec20a6fe70800000000000000
+      internalID: 9148675807909994710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1217
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0c21319434e0c00800000000000000
+      internalID: 868705759260754135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1291
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a063463a07ecb0800000000000000
+      internalID: -4834884446784019406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174661ad743939fe0800000000000000
+      internalID: -1183440340257446799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1319
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021acf9e66b3ab110800000000000000
+      internalID: 1277398757511307552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1289
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46622a73cda9ec0c0800000000000000
+      internalID: -4553531902608136604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1289
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb34e3ad372be830800000000000000
+      internalID: 4101415031347100620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1329
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9322c792a81a650800000000000000
+      internalID: 6242422469293128116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1309
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884c04f41514a0a10800000000000000
+      internalID: 1876384012231033992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1259
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873f24c39c9e54860800000000000000
+      internalID: 7513668603846259576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1305
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c2d3e5ccbf00350800000000000000
+      internalID: 5981057160320986120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1259
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7120eef27bf1870800000000000000
+      internalID: 8655838425313843150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1305
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c923a06c3ae380800000000000000
+      internalID: -8941267724438748414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1309
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84911563ff0396600800000000000000
+      internalID: 461954309468264776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1277
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f0068bd0e2ff100800000000000000
+      internalID: 143884349561900894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1295
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499105c4413d5d630800000000000000
+      internalID: 3951296332220602772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1267
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ba5c40381550bc0800000000000000
+      internalID: -3817555485963998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1299
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c81e7ecbbe60b80800000000000000
+      internalID: -8428790456000607199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ab910e673defd0800000000000000
+      internalID: -2311130088158289122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1259
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76784921a13f030800000000000000
+      internalID: 3527191600264865699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1215
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c0137c33b86ede0800000000000000
+      internalID: -1304201987575706604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1229
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8726f972e758403a0800000000000000
+      internalID: -6700083568743325064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1257
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f9f6696501542a0800000000000000
+      internalID: -6753974102095061171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1289
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32920c751edbc5e60800000000000000
+      internalID: 7952439817566955811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1261
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92dadf06f1d343f0800000000000000
+      internalID: -917659044295290210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1275
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e2d973fcbb9f10800000000000000
+      internalID: 2277621790472857292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1265
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ffde1e659305750800000000000000
+      internalID: 6291591724757024619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1253
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec4f83c1617323b0800000000000000
+      internalID: -5538458452028863261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1265
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd24b3d26e9d39cd0800000000000000
+      internalID: -2552456981164375329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1193
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9856497f71e2f0800000000000000
+      internalID: -945334287923110455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1209
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4368b9e050556fd30800000000000000
+      internalID: 4464849560792696372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1227
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa953f0aff6be20800000000000000
+      internalID: 3366158838248615787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1195
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a02516b888a67950800000000000000
+      internalID: 6446525221751300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1201
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108b93a85ca61a9a0800000000000000
+      internalID: -6223575813389174783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1195
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2da8858a38a9af40800000000000000
+      internalID: 5740304169362304303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1235
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c731b63b873f570800000000000000
+      internalID: 8499269633769176168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87600c26bbeb7ba40800000000000000
+      internalID: 5383981591569630840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1209
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a08e046350c2ae0800000000000000
+      internalID: -1572876439283823987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1189
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d291fef177343b00800000000000000
+      internalID: 807331195954238161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1187
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e9d265c52911d0800000000000000
+      internalID: -3379628515667614986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fe8a25e9c313310800000000000000
+      internalID: 1382953211268755289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1043
+        width: 36
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2ee60bcf1682630800000000000000
+      internalID: 3902476815036244722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1141
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad15de29ce34cac60800000000000000
+      internalID: 7830708535446819290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1127
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ff90c8365fc170800000000000000
+      internalID: 8200868248214827043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1137
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c4ada94783636d0800000000000000
+      internalID: -3011157227385238381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1065
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c6f2823955dcd10800000000000000
+      internalID: 2147466687848344683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e592ef33023dd00800000000000000
+      internalID: 996175350258556428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1067
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1276af035f5fe0800000000000000
+      internalID: -1198147649175150811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1071
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f84442518dea10800000000000000
+      internalID: 1940349204799485696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1085
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f497f537da4ad020800000000000000
+      internalID: 2367286842320458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1083
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e373fb14c839ac0800000000000000
+      internalID: -3849579042462810482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caee9f9d4297d380800000000000000
+      internalID: -8946521272660071742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1073
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069abd135174d4790800000000000000
+      internalID: -7544295644419348128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 893
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8815ef6ff69590800000000000000
+      internalID: -7667660459501645841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 893
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0a54f42b3bb0150800000000000000
+      internalID: 5839958920231493865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 891
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd4b9563faaba00800000000000000
+      internalID: 773122934015581307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 899
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a41cdbba246030800000000000000
+      internalID: 3486958997831198585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 889
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8651d9366d0af3680800000000000000
+      internalID: -8773116706439752344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 707
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b0ec6f414f1b40800000000000000
+      internalID: 5413117086507513861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 723
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1dd372940aa2d0800000000000000
+      internalID: -3266793552648266808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 727
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0affc43664d9f90800000000000000
+      internalID: -6945317658027908879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 731
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc96efb2232325810800000000000000
+      internalID: 1752518396068391373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 691
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d22a84701c270c60800000000000000
+      internalID: 7784238930119500499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 703
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4f59d180eeb2670800000000000000
+      internalID: 8515161239097570532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 547
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9e81c5fb53ee2c0800000000000000
+      internalID: -4400520689894233663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 553
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb8f97e2de4f240800000000000000
+      internalID: 4824741884691266701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 559
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a4c3cbb85472f0800000000000000
+      internalID: -976057655765980993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 561
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc244061285813d0800000000000000
+      internalID: -3235739431893455618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 543
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad3204c7f8b8380800000000000000
+      internalID: -8967916469163402688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 527
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4de12abebf941ee0800000000000000
+      internalID: -1291231551633101494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 533
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d15846a4047ed0800000000000000
+      internalID: -2417301987766707813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 539
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3418fb477d9da07e0800000000000000
+      internalID: -1798385581781188285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 515
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b12d2c230f6a4d0800000000000000
+      internalID: -3123545190727279800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 521
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29054eea36b52fbc0800000000000000
+      internalID: -3750835055952113518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d7ac762e9baf60800000000000000
+      internalID: 8046699047364843045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 525
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7fa283ed77922e0800000000000000
+      internalID: -2150055550783916055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 495
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d661be6070d1b0800000000000000
+      internalID: -5633879513115470482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 503
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037c9f08bf4f6e10800000000000000
+      internalID: 2193059195507208972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 501
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc19eb0c0af8b70800000000000000
+      internalID: 8903511738026151825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 503
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d807b819f676f20800000000000000
+      internalID: 3415821513284160818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 491
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc53e5ce567fb4f50800000000000000
+      internalID: 6866854073985807820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 371
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f270d2c471043440800000000000000
+      internalID: 4914554694364328690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 375
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52266d62d4a13b0800000000000000
+      internalID: -5541031562325121566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 351
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c93f3fbc4782d20800000000000000
+      internalID: 3253979150095195251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 353
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79171e291e14830800000000000000
+      internalID: 4053769160573949913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 357
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381bec7fbe4b37990800000000000000
+      internalID: -7389363638017019517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 343
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af0505cdce76280800000000000000
+      internalID: -9050004495193277847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc85f3edace054060800000000000000
+      internalID: 6936967065508993229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 339
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0c9ca209c144730800000000000000
+      internalID: 3982339376021094642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 335
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edaa77dd69fab2b0800000000000000
+      internalID: -5567863739128304152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e5d6bac6c3ea170800000000000000
+      internalID: 8191551209663716870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc1e14ebc8a426a0800000000000000
+      internalID: -6474864770592924485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 323
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd11b64399ca6340800000000000000
+      internalID: 4857916782455889344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 329
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842fde8f37fb145a0800000000000000
+      internalID: -6538734679146761656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20241015bloodsuckFX-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6291cfc1b5e871040800000000000000
+      internalID: 4618316464871184678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20241015bloodsuckFX-Sheet_0: 2543689738781426444
+      20241015bloodsuckFX-Sheet_1: 2224543439554009805
+      20241015bloodsuckFX-Sheet_10: -2661032056194644791
+      20241015bloodsuckFX-Sheet_100: 996175350258556428
+      20241015bloodsuckFX-Sheet_101: -1198147649175150811
+      20241015bloodsuckFX-Sheet_102: 1940349204799485696
+      20241015bloodsuckFX-Sheet_103: 2367286842320458994
+      20241015bloodsuckFX-Sheet_104: -3849579042462810482
+      20241015bloodsuckFX-Sheet_105: -8946521272660071742
+      20241015bloodsuckFX-Sheet_106: -7544295644419348128
+      20241015bloodsuckFX-Sheet_107: -7667660459501645841
+      20241015bloodsuckFX-Sheet_108: 5839958920231493865
+      20241015bloodsuckFX-Sheet_109: 773122934015581307
+      20241015bloodsuckFX-Sheet_11: -973867626402775813
+      20241015bloodsuckFX-Sheet_110: 3486958997831198585
+      20241015bloodsuckFX-Sheet_111: -8773116706439752344
+      20241015bloodsuckFX-Sheet_112: 5413117086507513861
+      20241015bloodsuckFX-Sheet_113: -3266793552648266808
+      20241015bloodsuckFX-Sheet_114: -6945317658027908879
+      20241015bloodsuckFX-Sheet_115: 1752518396068391373
+      20241015bloodsuckFX-Sheet_116: 7784238930119500499
+      20241015bloodsuckFX-Sheet_117: 8515161239097570532
+      20241015bloodsuckFX-Sheet_118: -4400520689894233663
+      20241015bloodsuckFX-Sheet_119: 4824741884691266701
+      20241015bloodsuckFX-Sheet_12: 7029927635635435875
+      20241015bloodsuckFX-Sheet_120: -976057655765980993
+      20241015bloodsuckFX-Sheet_121: -3235739431893455618
+      20241015bloodsuckFX-Sheet_122: -8967916469163402688
+      20241015bloodsuckFX-Sheet_123: -1291231551633101494
+      20241015bloodsuckFX-Sheet_124: -2417301987766707813
+      20241015bloodsuckFX-Sheet_125: -1798385581781188285
+      20241015bloodsuckFX-Sheet_126: -3123545190727279800
+      20241015bloodsuckFX-Sheet_127: -3750835055952113518
+      20241015bloodsuckFX-Sheet_128: 8046699047364843045
+      20241015bloodsuckFX-Sheet_129: -2150055550783916055
+      20241015bloodsuckFX-Sheet_13: -6272698131762845069
+      20241015bloodsuckFX-Sheet_130: -5633879513115470482
+      20241015bloodsuckFX-Sheet_131: 2193059195507208972
+      20241015bloodsuckFX-Sheet_132: 8903511738026151825
+      20241015bloodsuckFX-Sheet_133: 3415821513284160818
+      20241015bloodsuckFX-Sheet_134: 6866854073985807820
+      20241015bloodsuckFX-Sheet_135: 4914554694364328690
+      20241015bloodsuckFX-Sheet_136: -5541031562325121566
+      20241015bloodsuckFX-Sheet_137: 3253979150095195251
+      20241015bloodsuckFX-Sheet_138: 4053769160573949913
+      20241015bloodsuckFX-Sheet_139: -7389363638017019517
+      20241015bloodsuckFX-Sheet_14: -3726527775616035740
+      20241015bloodsuckFX-Sheet_140: -9050004495193277847
+      20241015bloodsuckFX-Sheet_141: 6936967065508993229
+      20241015bloodsuckFX-Sheet_142: 3982339376021094642
+      20241015bloodsuckFX-Sheet_143: -5567863739128304152
+      20241015bloodsuckFX-Sheet_144: 8191551209663716870
+      20241015bloodsuckFX-Sheet_145: -6474864770592924485
+      20241015bloodsuckFX-Sheet_146: 4857916782455889344
+      20241015bloodsuckFX-Sheet_147: -6538734679146761656
+      20241015bloodsuckFX-Sheet_148: 4618316464871184678
+      20241015bloodsuckFX-Sheet_15: -7632053017857799181
+      20241015bloodsuckFX-Sheet_16: 5663165284117834834
+      20241015bloodsuckFX-Sheet_17: -7954998177030559397
+      20241015bloodsuckFX-Sheet_18: -1093023636256184879
+      20241015bloodsuckFX-Sheet_19: -1358828767848276743
+      20241015bloodsuckFX-Sheet_2: 522054088459525973
+      20241015bloodsuckFX-Sheet_20: 2407982451664513964
+      20241015bloodsuckFX-Sheet_21: 3565988610900083547
+      20241015bloodsuckFX-Sheet_22: -5453750039403279017
+      20241015bloodsuckFX-Sheet_23: -2664502274829628866
+      20241015bloodsuckFX-Sheet_24: -1669745320070603713
+      20241015bloodsuckFX-Sheet_25: 5398372627567372201
+      20241015bloodsuckFX-Sheet_26: -6898631039595235864
+      20241015bloodsuckFX-Sheet_27: -973019819039813946
+      20241015bloodsuckFX-Sheet_28: -7150295060801525933
+      20241015bloodsuckFX-Sheet_29: -3857082716336960649
+      20241015bloodsuckFX-Sheet_3: 82954084831104690
+      20241015bloodsuckFX-Sheet_30: 5208973813958064397
+      20241015bloodsuckFX-Sheet_31: 9084792932003766122
+      20241015bloodsuckFX-Sheet_32: -4083503365981437361
+      20241015bloodsuckFX-Sheet_33: -1270033692962200004
+      20241015bloodsuckFX-Sheet_34: 4833636578716765107
+      20241015bloodsuckFX-Sheet_35: -2513368459566822846
+      20241015bloodsuckFX-Sheet_36: 7222157695234056124
+      20241015bloodsuckFX-Sheet_37: -7333961883765090695
+      20241015bloodsuckFX-Sheet_38: -4921071664113174017
+      20241015bloodsuckFX-Sheet_39: 7764563248168482301
+      20241015bloodsuckFX-Sheet_4: -2735633025693931815
+      20241015bloodsuckFX-Sheet_40: 8875348436832873186
+      20241015bloodsuckFX-Sheet_41: 3882926021278974644
+      20241015bloodsuckFX-Sheet_42: -5289190267418918984
+      20241015bloodsuckFX-Sheet_43: 4056425319153700812
+      20241015bloodsuckFX-Sheet_44: -3297620982472740822
+      20241015bloodsuckFX-Sheet_45: -5185392718356686035
+      20241015bloodsuckFX-Sheet_46: -911669757713939896
+      20241015bloodsuckFX-Sheet_47: -2381867090504804836
+      20241015bloodsuckFX-Sheet_48: 3761463118715246177
+      20241015bloodsuckFX-Sheet_49: 42065855439414937
+      20241015bloodsuckFX-Sheet_5: 6644234156299232882
+      20241015bloodsuckFX-Sheet_50: 5990913837681746481
+      20241015bloodsuckFX-Sheet_51: 4678297022912709189
+      20241015bloodsuckFX-Sheet_52: 7725372936775567220
+      20241015bloodsuckFX-Sheet_53: 7923824839654934040
+      20241015bloodsuckFX-Sheet_54: 9148675807909994710
+      20241015bloodsuckFX-Sheet_55: 868705759260754135
+      20241015bloodsuckFX-Sheet_56: -4834884446784019406
+      20241015bloodsuckFX-Sheet_57: -1183440340257446799
+      20241015bloodsuckFX-Sheet_58: 1277398757511307552
+      20241015bloodsuckFX-Sheet_59: -4553531902608136604
+      20241015bloodsuckFX-Sheet_6: -8689941982782900252
+      20241015bloodsuckFX-Sheet_60: 4101415031347100620
+      20241015bloodsuckFX-Sheet_61: 6242422469293128116
+      20241015bloodsuckFX-Sheet_62: 1876384012231033992
+      20241015bloodsuckFX-Sheet_63: 7513668603846259576
+      20241015bloodsuckFX-Sheet_64: 5981057160320986120
+      20241015bloodsuckFX-Sheet_65: 8655838425313843150
+      20241015bloodsuckFX-Sheet_66: -8941267724438748414
+      20241015bloodsuckFX-Sheet_67: 461954309468264776
+      20241015bloodsuckFX-Sheet_68: 143884349561900894
+      20241015bloodsuckFX-Sheet_69: 3951296332220602772
+      20241015bloodsuckFX-Sheet_7: -6764441829488514314
+      20241015bloodsuckFX-Sheet_70: -3817555485963998346
+      20241015bloodsuckFX-Sheet_71: -8428790456000607199
+      20241015bloodsuckFX-Sheet_72: -2311130088158289122
+      20241015bloodsuckFX-Sheet_73: 3527191600264865699
+      20241015bloodsuckFX-Sheet_74: -1304201987575706604
+      20241015bloodsuckFX-Sheet_75: -6700083568743325064
+      20241015bloodsuckFX-Sheet_76: -6753974102095061171
+      20241015bloodsuckFX-Sheet_77: 7952439817566955811
+      20241015bloodsuckFX-Sheet_78: -917659044295290210
+      20241015bloodsuckFX-Sheet_79: 2277621790472857292
+      20241015bloodsuckFX-Sheet_8: -7970636049111615141
+      20241015bloodsuckFX-Sheet_80: 6291591724757024619
+      20241015bloodsuckFX-Sheet_81: -5538458452028863261
+      20241015bloodsuckFX-Sheet_82: -2552456981164375329
+      20241015bloodsuckFX-Sheet_83: -945334287923110455
+      20241015bloodsuckFX-Sheet_84: 4464849560792696372
+      20241015bloodsuckFX-Sheet_85: 3366158838248615787
+      20241015bloodsuckFX-Sheet_86: 6446525221751300264
+      20241015bloodsuckFX-Sheet_87: -6223575813389174783
+      20241015bloodsuckFX-Sheet_88: 5740304169362304303
+      20241015bloodsuckFX-Sheet_89: 8499269633769176168
+      20241015bloodsuckFX-Sheet_9: -312101024531679955
+      20241015bloodsuckFX-Sheet_90: 5383981591569630840
+      20241015bloodsuckFX-Sheet_91: -1572876439283823987
+      20241015bloodsuckFX-Sheet_92: 807331195954238161
+      20241015bloodsuckFX-Sheet_93: -3379628515667614986
+      20241015bloodsuckFX-Sheet_94: 1382953211268755289
+      20241015bloodsuckFX-Sheet_95: 3902476815036244722
+      20241015bloodsuckFX-Sheet_96: 7830708535446819290
+      20241015bloodsuckFX-Sheet_97: 8200868248214827043
+      20241015bloodsuckFX-Sheet_98: -3011157227385238381
+      20241015bloodsuckFX-Sheet_99: 2147466687848344683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

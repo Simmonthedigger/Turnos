@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 278c94e809d2be44386de1e18302e358
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2823243998823881613
+    second: 20250316boneArmourFX-Sheet_0
+  - first:
+      213: 4688208751142042673
+    second: 20250316boneArmourFX-Sheet_1
+  - first:
+      213: -3493770480528278839
+    second: 20250316boneArmourFX-Sheet_2
+  - first:
+      213: 786978287878397124
+    second: 20250316boneArmourFX-Sheet_3
+  - first:
+      213: -693280569348150796
+    second: 20250316boneArmourFX-Sheet_4
+  - first:
+      213: -1679108681061676194
+    second: 20250316boneArmourFX-Sheet_5
+  - first:
+      213: 6559475993750143257
+    second: 20250316boneArmourFX-Sheet_6
+  - first:
+      213: 827144808691526616
+    second: 20250316boneArmourFX-Sheet_7
+  - first:
+      213: -156698262136998418
+    second: 20250316boneArmourFX-Sheet_8
+  - first:
+      213: -1946038517696315856
+    second: 20250316boneArmourFX-Sheet_9
+  - first:
+      213: -1279487785968180256
+    second: 20250316boneArmourFX-Sheet_10
+  - first:
+      213: 1668956832102411446
+    second: 20250316boneArmourFX-Sheet_11
+  - first:
+      213: -7356864609808008046
+    second: 20250316boneArmourFX-Sheet_12
+  - first:
+      213: 5452201169146156683
+    second: 20250316boneArmourFX-Sheet_13
+  - first:
+      213: 8463869539430383264
+    second: 20250316boneArmourFX-Sheet_14
+  - first:
+      213: 6336890943878195518
+    second: 20250316boneArmourFX-Sheet_15
+  - first:
+      213: 2682072064405091898
+    second: 20250316boneArmourFX-Sheet_16
+  - first:
+      213: 1592875296047757842
+    second: 20250316boneArmourFX-Sheet_17
+  - first:
+      213: 759106904187637582
+    second: 20250316boneArmourFX-Sheet_18
+  - first:
+      213: 7957191661921490170
+    second: 20250316boneArmourFX-Sheet_19
+  - first:
+      213: -8625415195677734952
+    second: 20250316boneArmourFX-Sheet_20
+  - first:
+      213: -4842071010044304346
+    second: 20250316boneArmourFX-Sheet_21
+  - first:
+      213: -6002359047716549605
+    second: 20250316boneArmourFX-Sheet_22
+  - first:
+      213: 4524211621928232007
+    second: 20250316boneArmourFX-Sheet_23
+  - first:
+      213: -902518320335993492
+    second: 20250316boneArmourFX-Sheet_24
+  - first:
+      213: -1757102098946362641
+    second: 20250316boneArmourFX-Sheet_25
+  - first:
+      213: 5286807456786461065
+    second: 20250316boneArmourFX-Sheet_26
+  - first:
+      213: -8481314215520282376
+    second: 20250316boneArmourFX-Sheet_27
+  - first:
+      213: 6229759595715357520
+    second: 20250316boneArmourFX-Sheet_28
+  - first:
+      213: -6634903876504805833
+    second: 20250316boneArmourFX-Sheet_29
+  - first:
+      213: -2431732580864133486
+    second: 20250316boneArmourFX-Sheet_30
+  - first:
+      213: 9086459054922498851
+    second: 20250316boneArmourFX-Sheet_31
+  - first:
+      213: -2520437571683408748
+    second: 20250316boneArmourFX-Sheet_32
+  - first:
+      213: 1702515989447581816
+    second: 20250316boneArmourFX-Sheet_33
+  - first:
+      213: -8077992891704059620
+    second: 20250316boneArmourFX-Sheet_34
+  - first:
+      213: -55281749428638186
+    second: 20250316boneArmourFX-Sheet_35
+  - first:
+      213: -3007466805536451793
+    second: 20250316boneArmourFX-Sheet_36
+  - first:
+      213: 1571006098506479451
+    second: 20250316boneArmourFX-Sheet_37
+  - first:
+      213: 5494482142518131415
+    second: 20250316boneArmourFX-Sheet_38
+  - first:
+      213: 6383131693462293713
+    second: 20250316boneArmourFX-Sheet_39
+  - first:
+      213: 7170674173491027803
+    second: 20250316boneArmourFX-Sheet_40
+  - first:
+      213: 5369347765455254543
+    second: 20250316boneArmourFX-Sheet_41
+  - first:
+      213: -2001866720565094835
+    second: 20250316boneArmourFX-Sheet_42
+  - first:
+      213: 4400565256447500120
+    second: 20250316boneArmourFX-Sheet_43
+  - first:
+      213: 6841636999769993422
+    second: 20250316boneArmourFX-Sheet_44
+  - first:
+      213: 7832551584821362228
+    second: 20250316boneArmourFX-Sheet_45
+  - first:
+      213: -4013927052103038804
+    second: 20250316boneArmourFX-Sheet_46
+  - first:
+      213: -5130879732301152508
+    second: 20250316boneArmourFX-Sheet_47
+  - first:
+      213: -4432114352199327563
+    second: 20250316boneArmourFX-Sheet_48
+  - first:
+      213: 3130357960498107223
+    second: 20250316boneArmourFX-Sheet_49
+  - first:
+      213: -2482092230918027125
+    second: 20250316boneArmourFX-Sheet_50
+  - first:
+      213: 8304811885323092843
+    second: 20250316boneArmourFX-Sheet_51
+  - first:
+      213: 6723809517188431323
+    second: 20250316boneArmourFX-Sheet_52
+  - first:
+      213: 6421803638423189951
+    second: 20250316boneArmourFX-Sheet_53
+  - first:
+      213: 3716217134113912627
+    second: 20250316boneArmourFX-Sheet_54
+  - first:
+      213: -3752438391459525134
+    second: 20250316boneArmourFX-Sheet_55
+  - first:
+      213: 7725863186597467370
+    second: 20250316boneArmourFX-Sheet_56
+  - first:
+      213: 1898157218452732194
+    second: 20250316boneArmourFX-Sheet_57
+  - first:
+      213: -1204021988226629046
+    second: 20250316boneArmourFX-Sheet_58
+  - first:
+      213: -1278397402558396641
+    second: 20250316boneArmourFX-Sheet_59
+  - first:
+      213: 1611642903880873787
+    second: 20250316boneArmourFX-Sheet_60
+  - first:
+      213: 2085445397594258395
+    second: 20250316boneArmourFX-Sheet_61
+  - first:
+      213: -5762744981586808832
+    second: 20250316boneArmourFX-Sheet_62
+  - first:
+      213: 8782705357399211668
+    second: 20250316boneArmourFX-Sheet_63
+  - first:
+      213: -1218821000828298212
+    second: 20250316boneArmourFX-Sheet_64
+  - first:
+      213: 557011673393656845
+    second: 20250316boneArmourFX-Sheet_65
+  - first:
+      213: 1900977078120978819
+    second: 20250316boneArmourFX-Sheet_66
+  - first:
+      213: -6977358100056043643
+    second: 20250316boneArmourFX-Sheet_67
+  - first:
+      213: -2450146381925345965
+    second: 20250316boneArmourFX-Sheet_68
+  - first:
+      213: 8635110358838256443
+    second: 20250316boneArmourFX-Sheet_69
+  - first:
+      213: 1341681452877936846
+    second: 20250316boneArmourFX-Sheet_70
+  - first:
+      213: -7324227430793214929
+    second: 20250316boneArmourFX-Sheet_71
+  - first:
+      213: 877828526840651847
+    second: 20250316boneArmourFX-Sheet_72
+  - first:
+      213: 4503181699226470737
+    second: 20250316boneArmourFX-Sheet_73
+  - first:
+      213: 2581050489051811914
+    second: 20250316boneArmourFX-Sheet_74
+  - first:
+      213: 1142350201591320395
+    second: 20250316boneArmourFX-Sheet_75
+  - first:
+      213: -8839999185034549877
+    second: 20250316boneArmourFX-Sheet_76
+  - first:
+      213: -4171338202737645163
+    second: 20250316boneArmourFX-Sheet_77
+  - first:
+      213: -7957357820234231354
+    second: 20250316boneArmourFX-Sheet_78
+  - first:
+      213: -2426344267422382604
+    second: 20250316boneArmourFX-Sheet_79
+  - first:
+      213: 5249437617808153634
+    second: 20250316boneArmourFX-Sheet_80
+  - first:
+      213: 4438060743847750332
+    second: 20250316boneArmourFX-Sheet_81
+  - first:
+      213: 4868383352062416586
+    second: 20250316boneArmourFX-Sheet_82
+  - first:
+      213: -5299589914054058206
+    second: 20250316boneArmourFX-Sheet_83
+  - first:
+      213: 7317742663232486135
+    second: 20250316boneArmourFX-Sheet_84
+  - first:
+      213: -639902073584757970
+    second: 20250316boneArmourFX-Sheet_85
+  - first:
+      213: 1548915322120889862
+    second: 20250316boneArmourFX-Sheet_86
+  - first:
+      213: 1859368114383308959
+    second: 20250316boneArmourFX-Sheet_87
+  - first:
+      213: 1913601518252895733
+    second: 20250316boneArmourFX-Sheet_88
+  - first:
+      213: 827341507808820405
+    second: 20250316boneArmourFX-Sheet_89
+  - first:
+      213: -3395919770729239369
+    second: 20250316boneArmourFX-Sheet_90
+  - first:
+      213: 5564372425208358332
+    second: 20250316boneArmourFX-Sheet_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1039
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b9620757d2e2720800000000000000
+      internalID: 2823243998823881613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1035
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf2bc150ddf0140800000000000000
+      internalID: 4688208751142042673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1039
+        width: 44
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabd5d3242a38fc0800000000000000
+      internalID: -3493770480528278839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1047
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccdfee4598ebea00800000000000000
+      internalID: 786978287878397124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1047
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9a25ecef8f066f0800000000000000
+      internalID: -693280569348150796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1047
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b4b060d8b92b8e0800000000000000
+      internalID: -1679108681061676194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1037
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9110e28a9a0f70b50800000000000000
+      internalID: 6559475993750143257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1033
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbedd332db9a7b00800000000000000
+      internalID: 827144808691526616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1001
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee53764c2cb43ddf0800000000000000
+      internalID: -156698262136998418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1031
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ebb7957484ef4e0800000000000000
+      internalID: -1946038517696315856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1031
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e36aee33a85e3ee0800000000000000
+      internalID: -1279487785968180256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1025
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcece27563592710800000000000000
+      internalID: 1668956832102411446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1035
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c30cf9d9a27e990800000000000000
+      internalID: -7356864609808008046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1029
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b861dea831c1aab40800000000000000
+      internalID: 5452201169146156683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1011
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae3ffaa084b57570800000000000000
+      internalID: 8463869539430383264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1007
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ef3a3db821f750800000000000000
+      internalID: 6336890943878195518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1023
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363dd41552a83520800000000000000
+      internalID: 2682072064405091898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1025
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21afb6074a70b1610800000000000000
+      internalID: 1592875296047757842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1019
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f86aa15b3e88a00800000000000000
+      internalID: 759106904187637582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1013
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d78258af9d6e60800000000000000
+      internalID: 7957191661921490170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1009
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d74f55349e5c4880800000000000000
+      internalID: -8625415195677734952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 881
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624a71d12128dccb0800000000000000
+      internalID: -4842071010044304346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 909
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cc08a7f3653bca0800000000000000
+      internalID: -6002359047716549605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 909
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744e9b5ff7a39ce30800000000000000
+      internalID: 4524211621928232007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 881
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6547119e5c9973f0800000000000000
+      internalID: -902518320335993492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 799
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2753653f48d97e0800000000000000
+      internalID: -1757102098946362641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 887
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b4a90f538e5940800000000000000
+      internalID: 5286807456786461065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 821
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8517b28a15c4a80800000000000000
+      internalID: -8481314215520282376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 865
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be1ba785d847650800000000000000
+      internalID: 6229759595715357520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 845
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e911ad3161ce3a0800000000000000
+      internalID: -6634903876504805833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 805
+        width: 156
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29679d00a10c04ed0800000000000000
+      internalID: -2431732580864133486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 835
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32389ca4e56991e70800000000000000
+      internalID: 9086459054922498851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 867
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4942345e16b950dd0800000000000000
+      internalID: -2520437571683408748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 855
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8702277a54d80a710800000000000000
+      internalID: 1702515989447581816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 867
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1959d7934435ef80800000000000000
+      internalID: -8077992891704059620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 855
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e6eb2ba899b3ff0800000000000000
+      internalID: -55281749428638186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 815
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239836efd45346d0800000000000000
+      internalID: -3007466805536451793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 819
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57737919b55dc510800000000000000
+      internalID: 1571006098506479451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 827
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da3589c562504c40800000000000000
+      internalID: 5494482142518131415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 815
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8b57b470759850800000000000000
+      internalID: 6383131693462293713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 609
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f100f3b2a538360800000000000000
+      internalID: 7170674173491027803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 615
+        width: 144
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f047f7b3851c38a40800000000000000
+      internalID: 5369347765455254543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 689
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469a01f2d0f734e0800000000000000
+      internalID: -2001866720565094835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 719
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9a7919c2f11d30800000000000000
+      internalID: 4400565256447500120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 613
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0b57d4a9062fe50800000000000000
+      internalID: 6841636999769993422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 621
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3332fa20d2bc60800000000000000
+      internalID: 7832551584821362228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 621
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca84111ec9aab48c0800000000000000
+      internalID: -4013927052103038804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 615
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f30fa61147bc8b0800000000000000
+      internalID: -5130879732301152508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 631
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0af31aa77fd72c0800000000000000
+      internalID: -4432114352199327563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 613
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7535e4fcaf3417b20800000000000000
+      internalID: 3130357960498107223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 427
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88cf544446dd8dd0800000000000000
+      internalID: -2482092230918027125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 425
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63002fa86e904370800000000000000
+      internalID: 8304811885323092843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 431
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd3861b125cf4d50800000000000000
+      internalID: 6723809517188431323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 451
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9768d8264de1950800000000000000
+      internalID: 6421803638423189951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 465
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337741b4bc7a29330800000000000000
+      internalID: 3716217134113912627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 459
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd448b0a29acebc0800000000000000
+      internalID: -3752438391459525134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 457
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d86482a7c73b60800000000000000
+      internalID: 7725863186597467370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 447
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229f7bdeeeb975a10800000000000000
+      internalID: 1898157218452732194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 461
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420ef181647a4fe0800000000000000
+      internalID: -1204021988226629046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 457
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1789bae558324ee0800000000000000
+      internalID: -1278397402558396641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 453
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b373996aea4bd5610800000000000000
+      internalID: 1611642903880873787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 439
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb341a3a8df0fc10800000000000000
+      internalID: 2085445397594258395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 453
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0007a59b8fd9600b0800000000000000
+      internalID: -5762744981586808832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 443
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e33b26dff62e970800000000000000
+      internalID: 8782705357399211668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 443
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cd7d0e1c0e51fe0800000000000000
+      internalID: -1218821000828298212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 435
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ff507a27eab700800000000000000
+      internalID: 557011673393656845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 321
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3899f8ba490a16a10800000000000000
+      internalID: 1900977078120978819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 267
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f077f86c17b2f90800000000000000
+      internalID: -6977358100056043643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 271
+        width: 6
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35591a9d8d45ffdd0800000000000000
+      internalID: -2450146381925345965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 281
+        width: 8
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a9dede1316d770800000000000000
+      internalID: 8635110358838256443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 269
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f4804c2c9e9210800000000000000
+      internalID: 1341681452877936846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 269
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24066505fd1b5a90800000000000000
+      internalID: -7324227430793214929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 329
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740aa0ce46cae2c00800000000000000
+      internalID: 877828526840651847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 281
+        width: 16
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1590f6585e38e7e30800000000000000
+      internalID: 4503181699226470737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 299
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40184baebbb1d320800000000000000
+      internalID: 2581050489051811914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 287
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f42f6b4717adf00800000000000000
+      internalID: 1142350201591320395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 281
+        width: 10
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85e549d393025580800000000000000
+      internalID: -8839999185034549877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 329
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5996ecb510e6c16c0800000000000000
+      internalID: -4171338202737645163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 265
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1134ee839c19190800000000000000
+      internalID: -7957357820234231354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 265
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5cb7d7eb4e35ed0800000000000000
+      internalID: -2426344267422382604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 265
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c170063bfb9d840800000000000000
+      internalID: 5249437617808153634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 273
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaa6a09bb8279d30800000000000000
+      internalID: 4438060743847750332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 277
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac61b1a6dd8ff8340800000000000000
+      internalID: 4868383352062416586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 285
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f90953d031476b0800000000000000
+      internalID: -5299589914054058206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 285
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa71bf5e28dd8560800000000000000
+      internalID: 7317742663232486135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 249
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d1f4547c9e17f0800000000000000
+      internalID: -639902073584757970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 243
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606ec2a674ade7510800000000000000
+      internalID: 1548915322120889862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98418cd27dcdc910800000000000000
+      internalID: 1859368114383308959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 119
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdac11317a7e8a10800000000000000
+      internalID: 1913601518252895733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 105
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc71e8c7be4b7b00800000000000000
+      internalID: 827341507808820405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc25fbf5f44fd0d0800000000000000
+      internalID: -3395919770729239369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250316boneArmourFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 109
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e58a4d3f983d40800000000000000
+      internalID: 5564372425208358332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250316boneArmourFX-Sheet_0: 2823243998823881613
+      20250316boneArmourFX-Sheet_1: 4688208751142042673
+      20250316boneArmourFX-Sheet_10: -1279487785968180256
+      20250316boneArmourFX-Sheet_11: 1668956832102411446
+      20250316boneArmourFX-Sheet_12: -7356864609808008046
+      20250316boneArmourFX-Sheet_13: 5452201169146156683
+      20250316boneArmourFX-Sheet_14: 8463869539430383264
+      20250316boneArmourFX-Sheet_15: 6336890943878195518
+      20250316boneArmourFX-Sheet_16: 2682072064405091898
+      20250316boneArmourFX-Sheet_17: 1592875296047757842
+      20250316boneArmourFX-Sheet_18: 759106904187637582
+      20250316boneArmourFX-Sheet_19: 7957191661921490170
+      20250316boneArmourFX-Sheet_2: -3493770480528278839
+      20250316boneArmourFX-Sheet_20: -8625415195677734952
+      20250316boneArmourFX-Sheet_21: -4842071010044304346
+      20250316boneArmourFX-Sheet_22: -6002359047716549605
+      20250316boneArmourFX-Sheet_23: 4524211621928232007
+      20250316boneArmourFX-Sheet_24: -902518320335993492
+      20250316boneArmourFX-Sheet_25: -1757102098946362641
+      20250316boneArmourFX-Sheet_26: 5286807456786461065
+      20250316boneArmourFX-Sheet_27: -8481314215520282376
+      20250316boneArmourFX-Sheet_28: 6229759595715357520
+      20250316boneArmourFX-Sheet_29: -6634903876504805833
+      20250316boneArmourFX-Sheet_3: 786978287878397124
+      20250316boneArmourFX-Sheet_30: -2431732580864133486
+      20250316boneArmourFX-Sheet_31: 9086459054922498851
+      20250316boneArmourFX-Sheet_32: -2520437571683408748
+      20250316boneArmourFX-Sheet_33: 1702515989447581816
+      20250316boneArmourFX-Sheet_34: -8077992891704059620
+      20250316boneArmourFX-Sheet_35: -55281749428638186
+      20250316boneArmourFX-Sheet_36: -3007466805536451793
+      20250316boneArmourFX-Sheet_37: 1571006098506479451
+      20250316boneArmourFX-Sheet_38: 5494482142518131415
+      20250316boneArmourFX-Sheet_39: 6383131693462293713
+      20250316boneArmourFX-Sheet_4: -693280569348150796
+      20250316boneArmourFX-Sheet_40: 7170674173491027803
+      20250316boneArmourFX-Sheet_41: 5369347765455254543
+      20250316boneArmourFX-Sheet_42: -2001866720565094835
+      20250316boneArmourFX-Sheet_43: 4400565256447500120
+      20250316boneArmourFX-Sheet_44: 6841636999769993422
+      20250316boneArmourFX-Sheet_45: 7832551584821362228
+      20250316boneArmourFX-Sheet_46: -4013927052103038804
+      20250316boneArmourFX-Sheet_47: -5130879732301152508
+      20250316boneArmourFX-Sheet_48: -4432114352199327563
+      20250316boneArmourFX-Sheet_49: 3130357960498107223
+      20250316boneArmourFX-Sheet_5: -1679108681061676194
+      20250316boneArmourFX-Sheet_50: -2482092230918027125
+      20250316boneArmourFX-Sheet_51: 8304811885323092843
+      20250316boneArmourFX-Sheet_52: 6723809517188431323
+      20250316boneArmourFX-Sheet_53: 6421803638423189951
+      20250316boneArmourFX-Sheet_54: 3716217134113912627
+      20250316boneArmourFX-Sheet_55: -3752438391459525134
+      20250316boneArmourFX-Sheet_56: 7725863186597467370
+      20250316boneArmourFX-Sheet_57: 1898157218452732194
+      20250316boneArmourFX-Sheet_58: -1204021988226629046
+      20250316boneArmourFX-Sheet_59: -1278397402558396641
+      20250316boneArmourFX-Sheet_6: 6559475993750143257
+      20250316boneArmourFX-Sheet_60: 1611642903880873787
+      20250316boneArmourFX-Sheet_61: 2085445397594258395
+      20250316boneArmourFX-Sheet_62: -5762744981586808832
+      20250316boneArmourFX-Sheet_63: 8782705357399211668
+      20250316boneArmourFX-Sheet_64: -1218821000828298212
+      20250316boneArmourFX-Sheet_65: 557011673393656845
+      20250316boneArmourFX-Sheet_66: 1900977078120978819
+      20250316boneArmourFX-Sheet_67: -6977358100056043643
+      20250316boneArmourFX-Sheet_68: -2450146381925345965
+      20250316boneArmourFX-Sheet_69: 8635110358838256443
+      20250316boneArmourFX-Sheet_7: 827144808691526616
+      20250316boneArmourFX-Sheet_70: 1341681452877936846
+      20250316boneArmourFX-Sheet_71: -7324227430793214929
+      20250316boneArmourFX-Sheet_72: 877828526840651847
+      20250316boneArmourFX-Sheet_73: 4503181699226470737
+      20250316boneArmourFX-Sheet_74: 2581050489051811914
+      20250316boneArmourFX-Sheet_75: 1142350201591320395
+      20250316boneArmourFX-Sheet_76: -8839999185034549877
+      20250316boneArmourFX-Sheet_77: -4171338202737645163
+      20250316boneArmourFX-Sheet_78: -7957357820234231354
+      20250316boneArmourFX-Sheet_79: -2426344267422382604
+      20250316boneArmourFX-Sheet_8: -156698262136998418
+      20250316boneArmourFX-Sheet_80: 5249437617808153634
+      20250316boneArmourFX-Sheet_81: 4438060743847750332
+      20250316boneArmourFX-Sheet_82: 4868383352062416586
+      20250316boneArmourFX-Sheet_83: -5299589914054058206
+      20250316boneArmourFX-Sheet_84: 7317742663232486135
+      20250316boneArmourFX-Sheet_85: -639902073584757970
+      20250316boneArmourFX-Sheet_86: 1548915322120889862
+      20250316boneArmourFX-Sheet_87: 1859368114383308959
+      20250316boneArmourFX-Sheet_88: 1913601518252895733
+      20250316boneArmourFX-Sheet_89: 827341507808820405
+      20250316boneArmourFX-Sheet_9: -1946038517696315856
+      20250316boneArmourFX-Sheet_90: -3395919770729239369
+      20250316boneArmourFX-Sheet_91: 5564372425208358332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 9b139902d69eaa44a81e858f19654249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3167978665143666947
+    second: vfx-xFlame_0
+  - first:
+      213: 3642060256518124483
+    second: vfx-xFlame_1
+  - first:
+      213: -7183263492161172413
+    second: vfx-xFlame_2
+  - first:
+      213: -1292211358098222291
+    second: vfx-xFlame_3
+  - first:
+      213: -2081969453611235263
+    second: vfx-xFlame_4
+  - first:
+      213: -5379070502050336210
+    second: vfx-xFlame_5
+  - first:
+      213: 1185246872780484066
+    second: vfx-xFlame_6
+  - first:
+      213: -5042663016490543256
+    second: vfx-xFlame_7
+  - first:
+      213: -214154140580675726
+    second: vfx-xFlame_8
+  - first:
+      213: -6776921075782800332
+    second: vfx-xFlame_9
+  - first:
+      213: -5266148555519128064
+    second: vfx-xFlame_10
+  - first:
+      213: 2610321690979241312
+    second: vfx-xFlame_11
+  - first:
+      213: -5842998602754127455
+    second: vfx-xFlame_12
+  - first:
+      213: 1140252329117442534
+    second: vfx-xFlame_13
+  - first:
+      213: -4184456002818022447
+    second: vfx-xFlame_14
+  - first:
+      213: 5008422571698589804
+    second: vfx-xFlame_15
+  - first:
+      213: 7584146859278744898
+    second: vfx-xFlame_16
+  - first:
+      213: -7358859817840112908
+    second: vfx-xFlame_17
+  - first:
+      213: 8650648406934946696
+    second: vfx-xFlame_18
+  - first:
+      213: 912731372092034448
+    second: vfx-xFlame_19
+  - first:
+      213: -2912367721371763914
+    second: vfx-xFlame_20
+  - first:
+      213: -6557483321882780211
+    second: vfx-xFlame_21
+  - first:
+      213: 1969653817482590898
+    second: vfx-xFlame_22
+  - first:
+      213: 6887331250365024898
+    second: vfx-xFlame_23
+  - first:
+      213: 6447495379535529212
+    second: vfx-xFlame_24
+  - first:
+      213: -7998641517660344589
+    second: vfx-xFlame_25
+  - first:
+      213: 1214593107349762520
+    second: vfx-xFlame_26
+  - first:
+      213: -283168461549655301
+    second: vfx-xFlame_27
+  - first:
+      213: 6446366900004921007
+    second: vfx-xFlame_28
+  - first:
+      213: -480856194574768709
+    second: vfx-xFlame_29
+  - first:
+      213: 2765191176004717182
+    second: vfx-xFlame_30
+  - first:
+      213: 3746616487836162282
+    second: vfx-xFlame_31
+  - first:
+      213: 7121042797540187945
+    second: vfx-xFlame_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vfx-xFlame_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 547
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30987efafcbe6fb20800000000000000
+      internalID: 3167978665143666947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 567
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b450c1823b8230800000000000000
+      internalID: 3642060256518124483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c83b599ebef4c90800000000000000
+      internalID: -7183263492161172413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 544
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2394d1cd94211ee0800000000000000
+      internalID: -1292211358098222291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148c94c00db5b13e0800000000000000
+      internalID: -2081969453611235263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 416
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22f18fb0e3b955b0800000000000000
+      internalID: -5379070502050336210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_6
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 416
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed293740c7d27010800000000000000
+      internalID: 1185246872780484066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 416
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867d41424bcd40ab0800000000000000
+      internalID: -5042663016490543256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f728b91fb270df0800000000000000
+      internalID: -214154140580675726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cab1fef2a83f1a0800000000000000
+      internalID: -6776921075782800332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 419
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e88dd3ac1eae6b0800000000000000
+      internalID: -5266148555519128064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d80547fb9b93420800000000000000
+      internalID: 2610321690979241312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 288
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a98cb37abf79eea0800000000000000
+      internalID: -5842998602754127455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 288
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e16b57b37df2df00800000000000000
+      internalID: 1140252329117442534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 291
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3e7c58f63dde5c0800000000000000
+      internalID: -4184456002818022447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 349
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60942f0bcd718540800000000000000
+      internalID: 5008422571698589804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 165
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d34bfc26d404960800000000000000
+      internalID: 7584146859278744898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 188
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa8ebd0cf310e990800000000000000
+      internalID: -7358859817840112908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 166
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883082c94e64d0870800000000000000
+      internalID: 8650648406934946696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 197
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d86e8d85caaac00800000000000000
+      internalID: 912731372092034448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_20
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 182
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b7250ecf03597d0800000000000000
+      internalID: -2912367721371763914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 183
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd0aa69a32ff4a0800000000000000
+      internalID: -6557483321882780211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 185
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baba8916bd955b10800000000000000
+      internalID: 1969653817482590898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 172
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a44741847b49f50800000000000000
+      internalID: 6887331250365024898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4003c23ea1a7950800000000000000
+      internalID: 6447495379535529212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 168
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee9261bed1ff090800000000000000
+      internalID: -7998641517660344589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 183
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d17836fef91bd010800000000000000
+      internalID: 1214593107349762520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 169
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa2db5d8cbf11cf0800000000000000
+      internalID: -283168461549655301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 176
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae11ae8a88167950800000000000000
+      internalID: 6446366900004921007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 184
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb52356b6d7a359f0800000000000000
+      internalID: -480856194574768709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_30
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a4ec559beef5620800000000000000
+      internalID: 2765191176004717182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 42
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8981368d7aef330800000000000000
+      internalID: 3746616487836162282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vfx-xFlame_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f9cb902b603d260800000000000000
+      internalID: 7121042797540187945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vfx-xFlame_0: 3167978665143666947
+      vfx-xFlame_1: 3642060256518124483
+      vfx-xFlame_10: -5266148555519128064
+      vfx-xFlame_11: 2610321690979241312
+      vfx-xFlame_12: -5842998602754127455
+      vfx-xFlame_13: 1140252329117442534
+      vfx-xFlame_14: -4184456002818022447
+      vfx-xFlame_15: 5008422571698589804
+      vfx-xFlame_16: 7584146859278744898
+      vfx-xFlame_17: -7358859817840112908
+      vfx-xFlame_18: 8650648406934946696
+      vfx-xFlame_19: 912731372092034448
+      vfx-xFlame_2: -7183263492161172413
+      vfx-xFlame_20: -2912367721371763914
+      vfx-xFlame_21: -6557483321882780211
+      vfx-xFlame_22: 1969653817482590898
+      vfx-xFlame_23: 6887331250365024898
+      vfx-xFlame_24: 6447495379535529212
+      vfx-xFlame_25: -7998641517660344589
+      vfx-xFlame_26: 1214593107349762520
+      vfx-xFlame_27: -283168461549655301
+      vfx-xFlame_28: 6446366900004921007
+      vfx-xFlame_29: -480856194574768709
+      vfx-xFlame_3: -1292211358098222291
+      vfx-xFlame_30: 2765191176004717182
+      vfx-xFlame_31: 3746616487836162282
+      vfx-xFlame_32: 7121042797540187945
+      vfx-xFlame_4: -2081969453611235263
+      vfx-xFlame_5: -5379070502050336210
+      vfx-xFlame_6: 1185246872780484066
+      vfx-xFlame_7: -5042663016490543256
+      vfx-xFlame_8: -214154140580675726
+      vfx-xFlame_9: -6776921075782800332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

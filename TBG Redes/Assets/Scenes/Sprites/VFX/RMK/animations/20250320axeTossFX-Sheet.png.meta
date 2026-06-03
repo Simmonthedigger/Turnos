@@ -1,0 +1,2652 @@
+fileFormatVersion: 2
+guid: d28d35cd1442d7247af1b2a18824b2c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8288541067527528959
+    second: 20250320axeTossFX-Sheet_0
+  - first:
+      213: -8258954473133442809
+    second: 20250320axeTossFX-Sheet_1
+  - first:
+      213: 3527204669071483757
+    second: 20250320axeTossFX-Sheet_2
+  - first:
+      213: -3203496722678672527
+    second: 20250320axeTossFX-Sheet_3
+  - first:
+      213: 2808584933742846589
+    second: 20250320axeTossFX-Sheet_4
+  - first:
+      213: 5352911639941789588
+    second: 20250320axeTossFX-Sheet_5
+  - first:
+      213: 6094307289066021836
+    second: 20250320axeTossFX-Sheet_6
+  - first:
+      213: 4125970687436745719
+    second: 20250320axeTossFX-Sheet_7
+  - first:
+      213: -6394472467233824214
+    second: 20250320axeTossFX-Sheet_8
+  - first:
+      213: 5611176699602454347
+    second: 20250320axeTossFX-Sheet_9
+  - first:
+      213: 416704412454481968
+    second: 20250320axeTossFX-Sheet_10
+  - first:
+      213: -5608045194207873201
+    second: 20250320axeTossFX-Sheet_11
+  - first:
+      213: 6413165318961295350
+    second: 20250320axeTossFX-Sheet_12
+  - first:
+      213: 3691037593102354921
+    second: 20250320axeTossFX-Sheet_13
+  - first:
+      213: -9073417856154877337
+    second: 20250320axeTossFX-Sheet_14
+  - first:
+      213: 112012369384572127
+    second: 20250320axeTossFX-Sheet_15
+  - first:
+      213: -6757922917648640681
+    second: 20250320axeTossFX-Sheet_16
+  - first:
+      213: 4335965308232794232
+    second: 20250320axeTossFX-Sheet_17
+  - first:
+      213: 3952475186985976350
+    second: 20250320axeTossFX-Sheet_18
+  - first:
+      213: 783636176714882242
+    second: 20250320axeTossFX-Sheet_19
+  - first:
+      213: 2232150300333086335
+    second: 20250320axeTossFX-Sheet_20
+  - first:
+      213: 7462526341112788437
+    second: 20250320axeTossFX-Sheet_21
+  - first:
+      213: 5265632736919894711
+    second: 20250320axeTossFX-Sheet_22
+  - first:
+      213: -8351300239955365392
+    second: 20250320axeTossFX-Sheet_23
+  - first:
+      213: 3726989566731891941
+    second: 20250320axeTossFX-Sheet_24
+  - first:
+      213: 2811666736857593202
+    second: 20250320axeTossFX-Sheet_25
+  - first:
+      213: -9017444496527023076
+    second: 20250320axeTossFX-Sheet_26
+  - first:
+      213: 7689881485609736863
+    second: 20250320axeTossFX-Sheet_27
+  - first:
+      213: 8057537114513264458
+    second: 20250320axeTossFX-Sheet_28
+  - first:
+      213: -3569696386820491508
+    second: 20250320axeTossFX-Sheet_29
+  - first:
+      213: -4442399953534586020
+    second: 20250320axeTossFX-Sheet_30
+  - first:
+      213: 3595742818577640642
+    second: 20250320axeTossFX-Sheet_31
+  - first:
+      213: -6732557361476254338
+    second: 20250320axeTossFX-Sheet_32
+  - first:
+      213: 4037868000816265751
+    second: 20250320axeTossFX-Sheet_33
+  - first:
+      213: -2410360089229425836
+    second: 20250320axeTossFX-Sheet_34
+  - first:
+      213: 6505409325319523628
+    second: 20250320axeTossFX-Sheet_35
+  - first:
+      213: 7460847772942805046
+    second: 20250320axeTossFX-Sheet_36
+  - first:
+      213: -2593402369146358199
+    second: 20250320axeTossFX-Sheet_37
+  - first:
+      213: -1531269627652289562
+    second: 20250320axeTossFX-Sheet_38
+  - first:
+      213: -585332541577009178
+    second: 20250320axeTossFX-Sheet_39
+  - first:
+      213: -7582738603041621658
+    second: 20250320axeTossFX-Sheet_40
+  - first:
+      213: 5878799662987108098
+    second: 20250320axeTossFX-Sheet_41
+  - first:
+      213: -4566533025462558764
+    second: 20250320axeTossFX-Sheet_42
+  - first:
+      213: 2873600240005772
+    second: 20250320axeTossFX-Sheet_43
+  - first:
+      213: 6124844192759882812
+    second: 20250320axeTossFX-Sheet_44
+  - first:
+      213: -7721941078154246466
+    second: 20250320axeTossFX-Sheet_45
+  - first:
+      213: 2719291559241279615
+    second: 20250320axeTossFX-Sheet_46
+  - first:
+      213: 2243249778037810743
+    second: 20250320axeTossFX-Sheet_47
+  - first:
+      213: 3193458190654617976
+    second: 20250320axeTossFX-Sheet_48
+  - first:
+      213: -6841997966366627090
+    second: 20250320axeTossFX-Sheet_49
+  - first:
+      213: -6137976285486483149
+    second: 20250320axeTossFX-Sheet_50
+  - first:
+      213: -8902783685163564363
+    second: 20250320axeTossFX-Sheet_51
+  - first:
+      213: -8058307844576622118
+    second: 20250320axeTossFX-Sheet_52
+  - first:
+      213: -7516274826935596288
+    second: 20250320axeTossFX-Sheet_53
+  - first:
+      213: -3032835803749356528
+    second: 20250320axeTossFX-Sheet_54
+  - first:
+      213: -3044675505558960259
+    second: 20250320axeTossFX-Sheet_55
+  - first:
+      213: -7151059820010910957
+    second: 20250320axeTossFX-Sheet_56
+  - first:
+      213: 8251950960308951077
+    second: 20250320axeTossFX-Sheet_57
+  - first:
+      213: -2802413726058651403
+    second: 20250320axeTossFX-Sheet_58
+  - first:
+      213: 1169854699412529195
+    second: 20250320axeTossFX-Sheet_59
+  - first:
+      213: 2894323944463707202
+    second: 20250320axeTossFX-Sheet_60
+  - first:
+      213: 5069839860915241686
+    second: 20250320axeTossFX-Sheet_61
+  - first:
+      213: 1948409375290027131
+    second: 20250320axeTossFX-Sheet_62
+  - first:
+      213: 5567294352073418241
+    second: 20250320axeTossFX-Sheet_63
+  - first:
+      213: 8605344649977069120
+    second: 20250320axeTossFX-Sheet_64
+  - first:
+      213: -1565018444503542368
+    second: 20250320axeTossFX-Sheet_65
+  - first:
+      213: 1623931700934684950
+    second: 20250320axeTossFX-Sheet_66
+  - first:
+      213: 1418703065753447713
+    second: 20250320axeTossFX-Sheet_67
+  - first:
+      213: -5938224626533237506
+    second: 20250320axeTossFX-Sheet_68
+  - first:
+      213: 5883974012706023085
+    second: 20250320axeTossFX-Sheet_69
+  - first:
+      213: 1262649660578661155
+    second: 20250320axeTossFX-Sheet_70
+  - first:
+      213: -6334249095079822628
+    second: 20250320axeTossFX-Sheet_71
+  - first:
+      213: 3418861172439260607
+    second: 20250320axeTossFX-Sheet_72
+  - first:
+      213: -4402007704159105946
+    second: 20250320axeTossFX-Sheet_73
+  - first:
+      213: -8835481987737192994
+    second: 20250320axeTossFX-Sheet_74
+  - first:
+      213: 1102667426446327479
+    second: 20250320axeTossFX-Sheet_75
+  - first:
+      213: -6577419365525052453
+    second: 20250320axeTossFX-Sheet_76
+  - first:
+      213: 3593539480963088518
+    second: 20250320axeTossFX-Sheet_77
+  - first:
+      213: -7072709317464737704
+    second: 20250320axeTossFX-Sheet_78
+  - first:
+      213: -4414083668310347778
+    second: 20250320axeTossFX-Sheet_79
+  - first:
+      213: -4221485140830741483
+    second: 20250320axeTossFX-Sheet_80
+  - first:
+      213: 739365144526111116
+    second: 20250320axeTossFX-Sheet_81
+  - first:
+      213: -7624452506127563370
+    second: 20250320axeTossFX-Sheet_82
+  - first:
+      213: -7141268265922880131
+    second: 20250320axeTossFX-Sheet_83
+  - first:
+      213: -1830522582859295251
+    second: 20250320axeTossFX-Sheet_84
+  - first:
+      213: -2292323373814379809
+    second: 20250320axeTossFX-Sheet_85
+  - first:
+      213: -113875585699180913
+    second: 20250320axeTossFX-Sheet_86
+  - first:
+      213: 5520646245585387681
+    second: 20250320axeTossFX-Sheet_87
+  - first:
+      213: -7630016911303900315
+    second: 20250320axeTossFX-Sheet_88
+  - first:
+      213: -7101127954479241002
+    second: 20250320axeTossFX-Sheet_89
+  - first:
+      213: 5515334003625661880
+    second: 20250320axeTossFX-Sheet_90
+  - first:
+      213: -7661390828240096524
+    second: 20250320axeTossFX-Sheet_91
+  - first:
+      213: 2821613863711442349
+    second: 20250320axeTossFX-Sheet_92
+  - first:
+      213: 8795276485274433347
+    second: 20250320axeTossFX-Sheet_93
+  - first:
+      213: -2450653578210461644
+    second: 20250320axeTossFX-Sheet_94
+  - first:
+      213: -2940782514595008702
+    second: 20250320axeTossFX-Sheet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 827
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff12734bf20d60370800000000000000
+      internalID: 8288541067527528959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 877
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709f1cc1aac426d80800000000000000
+      internalID: -8258954473133442809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 903
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63ea1665f523f030800000000000000
+      internalID: 3527204669071483757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 863
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731c9d14b4ea83d0800000000000000
+      internalID: -3203496722678672527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 801
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72a141ed191af620800000000000000
+      internalID: 2808584933742846589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 841
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497b8cc86cc594a40800000000000000
+      internalID: 5352911639941789588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3aadcb034539450800000000000000
+      internalID: 6094307289066021836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 697
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb675ada74624930800000000000000
+      internalID: 4125970687436745719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 709
+        width: 86
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a222380ab254247a0800000000000000
+      internalID: -6394472467233824214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 719
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47c0cf9a77eedd40800000000000000
+      internalID: 5611176699602454347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 703
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ffa0947e68c500800000000000000
+      internalID: 416704412454481968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 693
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4737eacb983c22b0800000000000000
+      internalID: -5608045194207873201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 451
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffea8211e3200950800000000000000
+      internalID: 6413165318961295350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 431
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e98a7d8223393330800000000000000
+      internalID: 3691037593102354921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 399
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c339688eb41280800000000000000
+      internalID: -9073417856154877337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 521
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd40e9f08a2fd8100800000000000000
+      internalID: 112012369384572127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 507
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d41259e80732a0800000000000000
+      internalID: -6757922917648640681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87002a399717c2c30800000000000000
+      internalID: 4335965308232794232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 521
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1248dfcd330ad630800000000000000
+      internalID: 3952475186985976350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 525
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5c3a63f800ea00800000000000000
+      internalID: 783636176714882242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 499
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7692a82fd03afe10800000000000000
+      internalID: 2232150300333086335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 489
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5f5094b28309760800000000000000
+      internalID: 7462526341112788437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 511
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba37c16319431940800000000000000
+      internalID: 5265632736919894711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 511
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f173d8cda83a1c80800000000000000
+      internalID: -8351300239955365392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 439
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e434a6b34de8b330800000000000000
+      internalID: 3726989566731891941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 493
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275bd25100c050720800000000000000
+      internalID: 2811666736857593202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 489
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14a4b2c10a9bd280800000000000000
+      internalID: -9017444496527023076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 435
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a1f9ae772f7ba60800000000000000
+      internalID: 7689881485609736863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 473
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc613a05f12df60800000000000000
+      internalID: 8057537114513264458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 475
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07b19b9c04e57ec0800000000000000
+      internalID: -3569696386820491508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 463
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53fb5377cc6952c0800000000000000
+      internalID: -4442399953534586020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 449
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc6bfcda05a6e130800000000000000
+      internalID: 3595742818577640642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 443
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75444710c62192a0800000000000000
+      internalID: -6732557361476254338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af19e9d83690830800000000000000
+      internalID: 4037868000816265751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 413
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45383bcf44eac8ed0800000000000000
+      internalID: -2410360089229425836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 429
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0f22705bd74a50800000000000000
+      internalID: 6505409325319523628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 421
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638258d25814a8760800000000000000
+      internalID: 7460847772942805046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 423
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ff532942620cd0800000000000000
+      internalID: -2593402369146358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 403
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebc07cf266dfbae0800000000000000
+      internalID: -1531269627652289562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 383
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e763d7972b70e7f0800000000000000
+      internalID: -585332541577009178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 385
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669ff056a63b4c690800000000000000
+      internalID: -7582738603041621658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 387
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f58027521b59150800000000000000
+      internalID: 5878799662987108098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 397
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd63a686a60a0c0800000000000000
+      internalID: -4566533025462558764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 403
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82388136853a0000800000000000000
+      internalID: 2873600240005772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 395
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34211ea751dff450800000000000000
+      internalID: 6124844192759882812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 385
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb68e14808726d490800000000000000
+      internalID: -7721941078154246466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 405
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786b45044ddcb520800000000000000
+      internalID: 2719291559241279615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 395
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736ea62b9cf912f10800000000000000
+      internalID: 2243249778037810743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879b7030e41715c20800000000000000
+      internalID: 3193458190654617976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 231
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa5cc99175c01a0800000000000000
+      internalID: -6841997966366627090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 121
+        width: 118
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3397ec7b61781daa0800000000000000
+      internalID: -6137976285486483149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 233
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2cea54865f27480800000000000000
+      internalID: -8902783685163564363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 279
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad94449c5b32b2090800000000000000
+      internalID: -8058307844576622118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 291
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0b4a2ed3d0b790800000000000000
+      internalID: -7516274826935596288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 297
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cee67b7e339e5d0800000000000000
+      internalID: -3032835803749356528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 299
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7743d252c32fb5d0800000000000000
+      internalID: -3044675505558960259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 323
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b4eac4bf452cc90800000000000000
+      internalID: -7151059820010910957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 309
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528982d7da1d48270800000000000000
+      internalID: 8251950960308951077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 273
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f068906093db19d0800000000000000
+      internalID: -2802413726058651403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 265
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b202e45a6a82c3010800000000000000
+      internalID: 1169854699412529195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 271
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24caaaeea44ba2820800000000000000
+      internalID: 2894323944463707202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 279
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d208f90e70bb5640800000000000000
+      internalID: 5069839860915241686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 265
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce333f0042a0b10800000000000000
+      internalID: 1948409375290027131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 255
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ef5767b0034d40800000000000000
+      internalID: 5567294352073418241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 257
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef0b7bd535c6770800000000000000
+      internalID: 8605344649977069120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 191
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a59e6c3400f74ae0800000000000000
+      internalID: -1565018444503542368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 247
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61135bd274d598610800000000000000
+      internalID: 1623931700934684950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 259
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dedf3fbee30b310800000000000000
+      internalID: 1418703065753447713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 219
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc720b0a20379da0800000000000000
+      internalID: -5938224626533237506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 241
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e8fe903318a150800000000000000
+      internalID: 5883974012706023085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3230f8e2d25d58110800000000000000
+      internalID: 1262649660578661155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 201
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda7de0220a3818a0800000000000000
+      internalID: -6334249095079822628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 225
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd1e975f1c327f20800000000000000
+      internalID: 3418861172439260607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 229
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c401fd05de8e2c0800000000000000
+      internalID: -4402007704159105946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 219
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5ff8dc1ff026580800000000000000
+      internalID: -8835481987737192994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 215
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be3ab2ae267d4f00800000000000000
+      internalID: 1102667426446327479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 191
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3aa1b8fef48b4a0800000000000000
+      internalID: -6577419365525052453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68085295e11ded130800000000000000
+      internalID: 3593539480963088518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583bec3950b8dd90800000000000000
+      internalID: -7072709317464737704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff228d5a460eb2c0800000000000000
+      internalID: -4414083668310347778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 131
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c913c71a54a65c0800000000000000
+      internalID: -4221485140830741483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 137
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c8ce7ea0c24a00800000000000000
+      internalID: 739365144526111116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6950e6d77d0803690800000000000000
+      internalID: -7624452506127563370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d95e3295e15ec90800000000000000
+      internalID: -7141268265922880131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5575fc86da896e0800000000000000
+      internalID: -1830522582859295251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 123
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda087969080030e0800000000000000
+      internalID: -2292323373814379809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e8fc512ce6b6ef0800000000000000
+      internalID: -113875585699180913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a006beb2864d9c40800000000000000
+      internalID: 5520646245585387681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56302837b0cbc1690800000000000000
+      internalID: -7630016911303900315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 21
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82ba0bfb9b37d90800000000000000
+      internalID: -7101127954479241002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b59db70e076a8c40800000000000000
+      internalID: 5515334003625661880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2305d22a54da590800000000000000
+      internalID: -7661390828240096524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da586d70cd2682720800000000000000
+      internalID: 2821613863711442349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 47
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347f02e2d591f0a70800000000000000
+      internalID: 8795276485274433347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b9330e878dfdd0800000000000000
+      internalID: -2450653578210461644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20250320axeTossFX-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 23
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f62e742ed3037d0800000000000000
+      internalID: -2940782514595008702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20250320axeTossFX-Sheet_0: 8288541067527528959
+      20250320axeTossFX-Sheet_1: -8258954473133442809
+      20250320axeTossFX-Sheet_10: 416704412454481968
+      20250320axeTossFX-Sheet_11: -5608045194207873201
+      20250320axeTossFX-Sheet_12: 6413165318961295350
+      20250320axeTossFX-Sheet_13: 3691037593102354921
+      20250320axeTossFX-Sheet_14: -9073417856154877337
+      20250320axeTossFX-Sheet_15: 112012369384572127
+      20250320axeTossFX-Sheet_16: -6757922917648640681
+      20250320axeTossFX-Sheet_17: 4335965308232794232
+      20250320axeTossFX-Sheet_18: 3952475186985976350
+      20250320axeTossFX-Sheet_19: 783636176714882242
+      20250320axeTossFX-Sheet_2: 3527204669071483757
+      20250320axeTossFX-Sheet_20: 2232150300333086335
+      20250320axeTossFX-Sheet_21: 7462526341112788437
+      20250320axeTossFX-Sheet_22: 5265632736919894711
+      20250320axeTossFX-Sheet_23: -8351300239955365392
+      20250320axeTossFX-Sheet_24: 3726989566731891941
+      20250320axeTossFX-Sheet_25: 2811666736857593202
+      20250320axeTossFX-Sheet_26: -9017444496527023076
+      20250320axeTossFX-Sheet_27: 7689881485609736863
+      20250320axeTossFX-Sheet_28: 8057537114513264458
+      20250320axeTossFX-Sheet_29: -3569696386820491508
+      20250320axeTossFX-Sheet_3: -3203496722678672527
+      20250320axeTossFX-Sheet_30: -4442399953534586020
+      20250320axeTossFX-Sheet_31: 3595742818577640642
+      20250320axeTossFX-Sheet_32: -6732557361476254338
+      20250320axeTossFX-Sheet_33: 4037868000816265751
+      20250320axeTossFX-Sheet_34: -2410360089229425836
+      20250320axeTossFX-Sheet_35: 6505409325319523628
+      20250320axeTossFX-Sheet_36: 7460847772942805046
+      20250320axeTossFX-Sheet_37: -2593402369146358199
+      20250320axeTossFX-Sheet_38: -1531269627652289562
+      20250320axeTossFX-Sheet_39: -585332541577009178
+      20250320axeTossFX-Sheet_4: 2808584933742846589
+      20250320axeTossFX-Sheet_40: -7582738603041621658
+      20250320axeTossFX-Sheet_41: 5878799662987108098
+      20250320axeTossFX-Sheet_42: -4566533025462558764
+      20250320axeTossFX-Sheet_43: 2873600240005772
+      20250320axeTossFX-Sheet_44: 6124844192759882812
+      20250320axeTossFX-Sheet_45: -7721941078154246466
+      20250320axeTossFX-Sheet_46: 2719291559241279615
+      20250320axeTossFX-Sheet_47: 2243249778037810743
+      20250320axeTossFX-Sheet_48: 3193458190654617976
+      20250320axeTossFX-Sheet_49: -6841997966366627090
+      20250320axeTossFX-Sheet_5: 5352911639941789588
+      20250320axeTossFX-Sheet_50: -6137976285486483149
+      20250320axeTossFX-Sheet_51: -8902783685163564363
+      20250320axeTossFX-Sheet_52: -8058307844576622118
+      20250320axeTossFX-Sheet_53: -7516274826935596288
+      20250320axeTossFX-Sheet_54: -3032835803749356528
+      20250320axeTossFX-Sheet_55: -3044675505558960259
+      20250320axeTossFX-Sheet_56: -7151059820010910957
+      20250320axeTossFX-Sheet_57: 8251950960308951077
+      20250320axeTossFX-Sheet_58: -2802413726058651403
+      20250320axeTossFX-Sheet_59: 1169854699412529195
+      20250320axeTossFX-Sheet_6: 6094307289066021836
+      20250320axeTossFX-Sheet_60: 2894323944463707202
+      20250320axeTossFX-Sheet_61: 5069839860915241686
+      20250320axeTossFX-Sheet_62: 1948409375290027131
+      20250320axeTossFX-Sheet_63: 5567294352073418241
+      20250320axeTossFX-Sheet_64: 8605344649977069120
+      20250320axeTossFX-Sheet_65: -1565018444503542368
+      20250320axeTossFX-Sheet_66: 1623931700934684950
+      20250320axeTossFX-Sheet_67: 1418703065753447713
+      20250320axeTossFX-Sheet_68: -5938224626533237506
+      20250320axeTossFX-Sheet_69: 5883974012706023085
+      20250320axeTossFX-Sheet_7: 4125970687436745719
+      20250320axeTossFX-Sheet_70: 1262649660578661155
+      20250320axeTossFX-Sheet_71: -6334249095079822628
+      20250320axeTossFX-Sheet_72: 3418861172439260607
+      20250320axeTossFX-Sheet_73: -4402007704159105946
+      20250320axeTossFX-Sheet_74: -8835481987737192994
+      20250320axeTossFX-Sheet_75: 1102667426446327479
+      20250320axeTossFX-Sheet_76: -6577419365525052453
+      20250320axeTossFX-Sheet_77: 3593539480963088518
+      20250320axeTossFX-Sheet_78: -7072709317464737704
+      20250320axeTossFX-Sheet_79: -4414083668310347778
+      20250320axeTossFX-Sheet_8: -6394472467233824214
+      20250320axeTossFX-Sheet_80: -4221485140830741483
+      20250320axeTossFX-Sheet_81: 739365144526111116
+      20250320axeTossFX-Sheet_82: -7624452506127563370
+      20250320axeTossFX-Sheet_83: -7141268265922880131
+      20250320axeTossFX-Sheet_84: -1830522582859295251
+      20250320axeTossFX-Sheet_85: -2292323373814379809
+      20250320axeTossFX-Sheet_86: -113875585699180913
+      20250320axeTossFX-Sheet_87: 5520646245585387681
+      20250320axeTossFX-Sheet_88: -7630016911303900315
+      20250320axeTossFX-Sheet_89: -7101127954479241002
+      20250320axeTossFX-Sheet_9: 5611176699602454347
+      20250320axeTossFX-Sheet_90: 5515334003625661880
+      20250320axeTossFX-Sheet_91: -7661390828240096524
+      20250320axeTossFX-Sheet_92: 2821613863711442349
+      20250320axeTossFX-Sheet_93: 8795276485274433347
+      20250320axeTossFX-Sheet_94: -2450653578210461644
+      20250320axeTossFX-Sheet_95: -2940782514595008702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
