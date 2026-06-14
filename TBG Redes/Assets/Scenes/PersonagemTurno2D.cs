@@ -1,6 +1,6 @@
 using System.Collections;
 using UnityEngine;
-using static UnityEngine.Rendering.DebugUI.Table;
+using UnityEngine.InputSystem; // Adicionado para suportar o novo Input System
 
 public enum TimeEquipe { Vermelho, Azul }
 
@@ -8,7 +8,7 @@ public enum TimeEquipe { Vermelho, Azul }
 [RequireComponent(typeof(Collider2D))]
 public class PersonagemTurno2D : MonoBehaviour
 {
-    [Header("ConfiguraÁıes de Time")]
+    [Header("Configura√ß√µes de Time")]
     public TimeEquipe timeAtual;
 
     [Header("Atributos do Personagem")]
@@ -18,7 +18,11 @@ public class PersonagemTurno2D : MonoBehaviour
     public float dano = 20f;
     public float tempoDeRecarga = 1f; // Para uso futuro de habilidades
 
-    [Header("ReferÍncias de Tiro")]
+    [Header("Atributos de Vida")]
+    public float vidaMaxima = 100f;
+    private float vidaAtual;
+
+    [Header("Refer√™ncias de Tiro")]
     public GameObject prefabProjetil;
     public Transform pontoDisparo;
 
@@ -26,9 +30,9 @@ public class PersonagemTurno2D : MonoBehaviour
     private Vector2 posicaoInicialClique;
     private Vector2 vetorLancamento;
     private bool estaArrastando = false;
-    private int modoAcao = 0; // 1 = Movimento (Bot„o Direito), 2 = Tiro (Bot„o Esquerdo)
+    private int modoAcao = 0; // 1 = Movimento (Bot√£o Direito), 2 = Tiro (Bot√£o Esquerdo)
 
-    // Propriedade para o LineRenderer que o Gerenciador vai usar
+    // Propriedades que o Gerenciador de Turnos usa para desenhar a linha de mira
     public bool EstaArrastando => estaArrastando;
     public Vector2 VetorLancamento => vetorLancamento;
 
@@ -36,13 +40,19 @@ public class PersonagemTurno2D : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
 
-        // Garante que o ponto de disparo n„o seja nulo
+        // Garante que o ponto de disparo n√£o seja nulo
         if (pontoDisparo == null) pontoDisparo = transform;
+
+        // Inicializa a vida do personagem
+        vidaAtual = vidaMaxima;
     }
 
     void Update()
     {
-        // Se este personagem n„o for o ativo do turno atual, ignora os comandos
+        // SEGURAN√áA: Evita NullReferenceException caso o Gerenciador de Turnos ainda n√£o tenha sido carregado
+        if (GerenciadorTurnos.Instancia == null) return;
+
+        // Se este personagem n√£o for o ativo do turno atual, ignora os comandos
         if (GerenciadorTurnos.Instancia.PersonagemAtivo != this) return;
 
         ProcessarInput();
@@ -50,54 +60,63 @@ public class PersonagemTurno2D : MonoBehaviour
 
     private void ProcessarInput()
     {
-        // --- BOT√O DIREITO: MOVIMENTA«√O ---
-        if (Input.GetMouseButtonDown(1)) // Clique Inicial
+        // Se o mouse n√£o estiver conectado ou ativo por algum motivo, aborta
+        if (Mouse.current == null) return;
+
+        // --- BOT√ÉO DIREITO: MOVIMENTA√á√ÉO ---
+        if (Mouse.current.rightButton.wasPressedThisFrame) // Clique Inicial
         {
-            ComeÁarArrasto(1);
+            Come√ßarArrasto(1);
         }
-        // --- BOT√O ESQUERDO: TIRO (SÛ se j· estiver selecionado e n„o clicando duas vezes) ---
-        else if (Input.GetMouseButtonDown(0) && !GerenciadorTurnos.Instancia.DetectandoCliqueDuplo)
+        // --- BOT√ÉO ESQUERDO: TIRO (S√≥ se j√° estiver selecionado e n√£o executando o clique duplo de sele√ß√£o) ---
+        else if (Mouse.current.leftButton.wasPressedThisFrame && !GerenciadorTurnos.Instancia.DetectandoCliqueDuplo)
         {
-            ComeÁarArrasto(2);
+            Come√ßarArrasto(2);
         }
 
         // --- DURANTE O ARRASTO ---
         if (estaArrastando)
         {
-            Vector2 posicaoMouseAtual = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            // CORRIGIDO: Juntei o "direcaoRaw" para o C# reconhecer como uma ˙nica vari·vel
+            // Pega a posi√ß√£o do mouse na tela usando o Novo Input System
+            Vector2 posicaoMouseTela = Mouse.current.position.ReadValue();
+            Vector2 posicaoMouseAtual = Camera.main.ScreenToWorldPoint(posicaoMouseTela);
+            
+            // Calcula a dire√ß√£o oposta (estilo estilingue/Angry Birds)
             Vector2 direcaoRaw = posicaoInicialClique - posicaoMouseAtual;
 
-            // Limita o alcance m·ximo da mira
+            // Limita o alcance m√°ximo da mira
             vetorLancamento = Vector2.ClampMagnitude(direcaoRaw, alcanceMaximoMira);
 
-            // Finaliza a aÁ„o ao soltar o bot„o correspondente
-            if (modoAcao == 1 && Input.GetMouseButtonUp(1))
+            // Finaliza a a√ß√£o ao soltar o bot√£o correspondente
+            if (modoAcao == 1 && Mouse.current.rightButton.wasReleasedThisFrame)
             {
                 ExecutarMovimento();
             }
-            else if (modoAcao == 2 && Input.GetMouseButtonUp(0))
+            else if (modoAcao == 2 && Mouse.current.leftButton.wasReleasedThisFrame)
             {
                 ExecutarTiro();
             }
         }
     }
 
-    private void ComeÁarArrasto(int modo)
+    private void Come√ßarArrasto(int modo)
     {
         estaArrastando = true;
         modoAcao = modo;
-        posicaoInicialClique = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+
+        Vector2 posicaoMouseTela = Mouse.current.position.ReadValue();
+        posicaoInicialClique = Camera.main.ScreenToWorldPoint(posicaoMouseTela);
     }
 
     private void ExecutarMovimento()
     {
         estaArrastando = false;
-        // Aplica a forÁa baseada no arrasto multiplicada pela velocidade e pelo modificador de pulo
+        
+        // Aplica a for√ßa baseada no arrasto multiplicada pela velocidade e pelo modificador de pulo
         Vector2 forcaFinal = vetorLancamento * velocidadeLancamento * forcaPuloModificador;
         rb.AddForce(forcaFinal, ForceMode2D.Impulse);
 
-        // Finaliza o turno da equipe apÛs a aÁ„o fÌsica
+        // Finaliza o turno da equipe ap√≥s a a√ß√£o f√≠sica
         GerenciadorTurnos.Instancia.FinalizarTurno();
     }
 
@@ -107,26 +126,59 @@ public class PersonagemTurno2D : MonoBehaviour
 
         if (prefabProjetil != null)
         {
+            // Cria o proj√©til na posi√ß√£o correta
             GameObject proj = Instantiate(prefabProjetil, pontoDisparo.position, Quaternion.identity);
-            Rigidbody2D rbProj = proj.GetComponent<Rigidbody2D>();
 
+            // CONFIGURA√á√ÉO DO TIRO: Passa o time do atirador e o dano dele para o proj√©til
+            Projetil2D scriptProjetil = proj.GetComponent<Projetil2D>();
+            if (scriptProjetil != null)
+            {
+                scriptProjetil.ConfigurarProjetil(timeAtual, dano);
+            }
+
+            // Aplica a f√≠sica do lan√ßamento
+            Rigidbody2D rbProj = proj.GetComponent<Rigidbody2D>();
             if (rbProj != null)
             {
-                // LanÁa o projÈtil usando a forÁa do arrasto e o alcance/dano como base
                 Vector2 forcaTiro = vetorLancamento * velocidadeLancamento;
                 rbProj.AddForce(forcaTiro, ForceMode2D.Impulse);
             }
         }
         else
         {
-            Debug.LogWarning("Nenhum prefab de projÈtil atribuÌdo ao personagem!");
+            Debug.LogWarning("Nenhum prefab de proj√©til atribu√≠do ao personagem!");
         }
 
-        // Finaliza o turno da equipe apÛs o tiro
+        // Finaliza o turno da equipe ap√≥s o tiro
         GerenciadorTurnos.Instancia.FinalizarTurno();
     }
 
-    // Desenha o alcance m·ximo no editor da Unity para ajudar no balanceamento
+    // M√©todo p√∫blico para ser chamado pelo script do proj√©til inimigo
+    public void ReceberDano(float quantidadeDano)
+    {
+        vidaAtual -= quantidadeDano;
+        Debug.Log($"{gameObject.name} (Time {timeAtual}) recebeu {quantidadeDano} de dano. Vida restante: {vidaAtual}");
+
+        if (vidaAtual <= 0)
+        {
+            Morrer();
+        }
+    }
+
+    private void Morrer()
+    {
+        Debug.Log($"{gameObject.name} morreu!");
+
+        // Se o personagem que morreu era o ativo do turno, limpa a refer√™ncia antes de destruir
+        if (GerenciadorTurnos.Instancia.PersonagemAtivo == this)
+        {
+            GerenciadorTurnos.Instancia.FinalizarTurno();
+        }
+
+        Destroy(gameObject);
+    }
+
+    // Desenha o alcance m√°ximo no editor da Unity para ajudar no balanceamento
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.yellow;

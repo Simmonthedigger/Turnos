@@ -214,8 +214,9 @@ MonoBehaviour:
   timeAtual: 0
   velocidadeLancamento: 5
   forcaPuloModificador: 1.2
-  alcanceMaximoMira: 3
+  alcanceMaximoMira: 2
   dano: 20
   tempoDeRecarga: 1
+  vidaMaxima: 100
   prefabProjetil: {fileID: 4562814591954173977, guid: b3d9769fef0b653488aa9bd33aa83961, type: 3}
   pontoDisparo: {fileID: 8181070572271322362}
